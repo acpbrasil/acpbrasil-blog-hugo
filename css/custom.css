@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'GothamRoundedBook'; 
+  src: url("/static/fonts/Gotham-Rounded-Book.otf") format("opentype");
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamRoundedMedium'; 
+  src: url("/static/fonts/Gotham-Rounded-Medium.otf") format("opentype");
+  font-style: normal;
+}
+
+body {
+  font-family: 'GothamRoundedBook', sans-serif;
+  /* font-family: 'GothamRoundedMedium', sans-serif; */
+}
+
+#fh5co-home .text-inner h1 {
+  /* font-family: AyitaPro,Helvetica,Arial,sans-serif */
+  /* font-family: 'Open Sans', sans-serif; */
+  /* font-family: 'Yantramanav', sans-serif; */
+  /* font-family: 'GothamRoundedBook', sans-serif; */
+  /* font-family: 'GothamRoundedMedium', sans-serif; */
+}
+
+#fh5co-home .text-inner h2 {
+  font-size: 32px;
+  /* line-height: 38px; */
+  /* margin: 0; */
+  margin-bottom: 20px;
+}
