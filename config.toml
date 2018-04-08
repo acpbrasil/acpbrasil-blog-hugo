@@ -17,11 +17,11 @@ theme = "elate"
   [params.navigation]
     brand = "ACP Brasil"
     home = "Home"
-    work = "Processo"
-    testimonials = "Testemunhos"
+    work = "Por que a ACP?"
     services = "Serviços"
-    contact = "Contato"
+    testimonials = "Testemunhos"
     about = "Sobre"
+    contact = "Contato"
 
     # You can add custom links before or after the default links
     # Assign a weight to define the order
@@ -40,10 +40,9 @@ theme = "elate"
   
   # Hero section
   [params.hero]
-    # title = "ACP Recrutamento &amp; Consultoria"
-    title = "ACP Recrutamento &amp; Consultoria:"
+    title = "ACP: Recrutando, orientando e empregando"
     subtitle = "A enfermagem como passaporte para os EUA."
-    description = "Trabalhar como enfermeiro nos EUA com a ACP é a sua oportunidade de encarar novos desafios, expandir seus conhecimentos e alavancar a sua carreira como enfermeiro imerso na cultura americana."
+    description = "Trabalhar como enfermeiro na Advanced Care Pediatrics é a sua oportunidade de expandir seus conhecimentos e alavancar a sua carreira como enfermeiro nos Estados Unidos."
  
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -51,7 +50,7 @@ theme = "elate"
 
   [[params.intro.item]]
     title = "Quem somos nós?"
-    description = "Conheça a ACP Brasil e sua parceira ACP Home Care USA."
+    description = "Conheça um pouco mais sobre a ACP."
     url = "#"
     button = "Saiba mais"
     icon = "icon-people"
@@ -60,16 +59,17 @@ theme = "elate"
     img = "img_10.jpg"
 
   [[params.intro.item]]
-    title = "Requisitos"
-    description = "Veja se você se qualifica preenchendo um formulário."
+    title = "Está interessado?"
+    description = "Nos conte um pouco sobre você."
     url = "#"
     button = "Saiba mais"
     icon = "icon-note"
     img = "img_8.jpg"
 
   [[params.intro.item]]
+    # title = "Salários e benefícios nos EUA"
     title = "Salários e benefícios"
-    description = "Saiba quanto você ganhará trabalhando nos EUA."
+    description = "Conheça as nossas vantagens nos EUA."
     url = "#"
     button = "Saiba mais"
     icon = "icon-wallet"
@@ -85,8 +85,8 @@ theme = "elate"
   # Work section
   [params.work]
     enable = true
-    title = "Processo"
-    description = "Recrutamento de Enfermeiras: A ACP irá junto com você percorrer e transpor todas as etapas necessárias que chamamos de “STEP 1- HOW TO GET CERTIFIED?” para que seu sonho de trabalhar como enfermeiro nos Estados Unidos se torne realidade."
+    title = "Por que a ACP?"
+    description = "ACP atua ativamente na busca enfermeiros qualificados para integrar a equipe da ACP na área de enfermagem domiciliar e hospitalar. O nosso time de profissionais irá junto com você percorrer e transpor todas as etapas necessárias para VOCÊ EXERCER A ENFERMAGEM NOS ESTADOS UNIDOS COMO PROFISSIONAL HABILITADO. (4)."
     footertext = '** xxx Algum texto de rodapé se preciso'
 
     [[params.work.row]]
