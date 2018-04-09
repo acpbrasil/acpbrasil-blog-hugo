@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "https://acpbrasil.github.io/acpbrasil-blog-hugo/"
-title = "ACP Brasil"
+title = "ACP Recrutamento"
 languageCode = "pt-br"
 theme = "elate"
 
@@ -15,7 +15,7 @@ theme = "elate"
   
   # Navigation
   [params.navigation]
-    brand = "ACP Brasil"
+    brand = "ACP Recrutamento"
     home = "Home"
     work = "Por que a ACP?"
     services = "Serviços"
@@ -86,8 +86,8 @@ theme = "elate"
   [params.work]
     enable = true
     title = "Por que a ACP?"
-    description = "ACP atua ativamente na busca enfermeiros qualificados para integrar a equipe da ACP na área de enfermagem domiciliar e hospitalar. O nosso time de profissionais irá junto com você percorrer e transpor todas as etapas necessárias para VOCÊ EXERCER A ENFERMAGEM NOS ESTADOS UNIDOS COMO PROFISSIONAL HABILITADO. (4)."
-    footertext = '** xxx Algum texto de rodapé se preciso'
+    description = "ACP atua ativamente na busca enfermeiros qualificados para integrar a equipe da ACP na área de enfermagem domiciliar e hospitalar. O nosso time de profissionais irá junto com você percorrer e transpor todas as etapas necessárias para <strong>você exercer a enfermagem nos Estados Unidos como profissional habilitado</strong>."
+    footertext = "Nós ajudaremos você em todas essas etapas."
 
     [[params.work.row]]
       img = "work_1.jpg"
@@ -129,11 +129,11 @@ theme = "elate"
   [params.testimonials]
     enable = true
     title = "Testemunhos"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Conheça a história de enfermeiros que já passaram por esse processo e também de nossos colaboradores."
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Em 2007 consegui minha licença pela <em>Board of Nursing Colorado</em>. Contei com uma americana da área da saúde para entender todas as etapas: isso foi fundamental! Passei na 1ª tentativa na prova do Nclex! Não consegui sponsor devido a recessão nos EUA na época. Quando conheci a Greice, fiquei extremamente interessada em participar da ACP Brasil e ajudar colegas com minha experiência a concretizar este sonho!&rdquo;"
-      person = 'Flaviane Morales <span class="subtext">Fundadora <a href="http://www.acpbrasil.com/" target="_blank">ACP Brasil</a></span>'
+      quote = "&ldquo;Em 2007 consegui minha licença pela <em>Board of Nursing Colorado</em>. Contei com uma americana da área da saúde para entender todas as etapas: isso foi fundamental! Passei na 1ª tentativa na prova do Nclex! Não consegui sponsor devido a recessão nos EUA na época. Quando conheci a Greice, fiquei extremamente interessada em participar da ACP Recrutamento e ajudar colegas com minha experiência a concretizar este sonho!&rdquo;"
+      person = 'Flaviane Morales <span class="subtext">Fundadora <a href="http://www.acpbrasil.com/" target="_blank">ACP Recrutamento</a></span>'
       img = "person1.jpg"
       alt = "Flaviane Morales"
 
@@ -155,16 +155,19 @@ theme = "elate"
   [params.services]
     enable = true
     title = "Serviços"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Conheça os nossos serviços e formas de atuação."
 
     [[params.services.item]]
-      title = "Enfermeiras"
-      description = "Cuidaremos do seu processo individualmente e caminharemos de mãos dadas por esse processo."
+      title = "Enfermeiros"
+      description = "Cuidaremos do seu processo de forma personalizada, traçando uma meta realista de acordo com as suas e necessidades e experiência profissional."
       icon = "icon-people"
 
     [[params.services.item]]
-      title = "Universidades &amp; Instituições de ensino"
-      description = "Através de workshops gratuitos levaremos esta oportunidade até vocês. Saiba como."
+      title = "Universidades &amp; Instituições de Ensino"
+      # TODO arrumar o link para Contato
+      # TODO Arrumar a cor do link
+      # description = 'Oferecemos workshops gratuitos para apresentar essa oportunidade aos alunos e professores. <a href="#" data-nav-section="contact">Entre em contato</a> para saber como.'
+      description = 'Oferecemos workshops gratuitos para apresentar essa oportunidade aos alunos e professores. <a href="#contact">Entre em contato</a> para saber como.'
       icon = "icon-graduation"
 
   # About section
@@ -224,11 +227,11 @@ theme = "elate"
   # Counters section
   [params.counters]
     enable = true
-    title = "ACP Brasil em números"
+    title = "ACP em números"
     background = "full_image_1.jpg"
 
     [[params.counters.item]]
-      description = "Finished projects"
+      description = "Pacientes/famílias atendidas"
       icon = "icon-briefcase"
       from = 0
       to = 89
@@ -236,7 +239,7 @@ theme = "elate"
       speed = 5000
 
     [[params.counters.item]]
-      description = "Lines of code"
+      description = "Enfermeiros contratados"
       icon = "icon-code"
       from = 0
       to = 2343409
@@ -244,20 +247,14 @@ theme = "elate"
       speed = 5000
 
     [[params.counters.item]]
-      description = "Xícaras de café"
+      description = "A ACP está entre as 5.000 empresas que mais crescem nos EUA"
       icon = "icon-cup"
-      from = 0
-      to = 1302
+      # TODO Fazer o número fixo
+      from = 5000
+      to = 5000
       interval = 50
       speed = 5000
 
-    [[params.counters.item]]
-      description = "Clientes felizes"
-      icon = "icon-people"
-      from = 0
-      to = 2
-      interval = 1
-      speed = 500
 
   # Contact section
   [params.contact]
@@ -265,13 +262,13 @@ theme = "elate"
     map = true
     form = true
     title = "Contato"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Quer fazer parte do nosso time?<br>Tem dúvidas?<br>Entre em contato com a nossa equipe no Brasil."
     
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "Florianópolis / SC"],
         ["icon-phone", "+55 (48) 99176-0676 / +55 (48) 99176-3535"],
-        ["icon-envelope", "info@freehtml5.co"],
+        ["icon-envelope", "advancedcarebr@gmail.com"],
         ["icon-globe", '<a href="https://www.advancedcarepediatrics.com/" target="_blank">ACP Home care</a>']
       ]
 
@@ -286,7 +283,7 @@ theme = "elate"
   # Footer section
   [params.footer]
     enable = true
-    copyright = "&copy; ACP Brasil. Todos os direitos reservados."
+    copyright = "&copy; ACP Recrutamento. Todos os direitos reservados."
     links = [
         ["icon-instagram", "#instagram"],
         ["icon-facebook", "#facebook"],
