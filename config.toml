@@ -6,7 +6,8 @@ theme = "elate"
 
 [params]
   
-  custom_css = ["css/custom.css"]
+  custom_css = ["css/custom.css"] # Custom CSS files for Home page
+  custom_pages_css = ["css/custom-pages.css"] # Custom CSS files for all other pages
 
   # Meta
   author = ""
@@ -36,6 +37,10 @@ theme = "elate"
     [[menu.postpend]]
       url = "/blog/"
       name = "Blog"
+      weight = 10
+    [[menu.postpend]]
+      url = "/form/"
+      name = "Form"
       weight = 10
   
   # Hero section

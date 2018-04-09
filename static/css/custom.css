@@ -34,3 +34,27 @@ body {
   /* margin: 0; */
   margin-bottom: 20px;
 }
+
+/* Fix Elate's theme navbar issue */
+.fh5co-nav-toggle {
+  /* margin: 0 auto; */
+  /* margin-right: 15px; */
+}
+
+#fh5co-header .navbar-brand {
+  /* padding-left: 0; */
+  /* padding: 15px 15px; */
+}
+
+/* body {
+  padding-top: 70px;
+} */
+
+/* Responsive */
+@media (max-width: 1199px) { /* medium devices */
+  #footer .gotop {
+    width: 60px;
+    height: 60px;
+    margin-left: -30px;
+  }
+}
