@@ -38,6 +38,10 @@ body {
 .font-smaller {
   font-size: smaller;
 }
+code.TODO {
+  background-color: yellow;
+}
+/* // end Utilities */
 
 /* Page content */
 .page-content p {
@@ -46,6 +50,7 @@ body {
   /* font-size: 16px; */
 }
 /* TODO Usar uma fonte menor para xs devices */
+
 
 /* Blockquote */
 .page-content blockquote {
@@ -98,9 +103,7 @@ body {
     left: -.05em;
   }
 }
-
-
-
+/* // end Blockquote */
 
 
 #fh5co-home .text-inner h2 {
@@ -121,28 +124,22 @@ body {
   /* padding: 15px 15px; */
 }
 
-/* body {
-  padding-top: 70px;
-} */
-
 /* Breadcrumbs */
 #heading-breadcrumbs {
+  padding: 20px 0;
+  margin-bottom: 40px;
   background-color: #157CBA;
+
   /* background: url('../img/penguin-bg.png') center center repeat; */
   background-image: url( /img/penguin-bg.png );
-
   /* background-size: 30%; */
   /* background-size: contain; */
   background-size: cover;
-
-  padding: 20px 0;
-  margin-bottom: 40px;
 }
 #heading-breadcrumbs.no-mb {
   margin-bottom: 0;
 }
 #heading-breadcrumbs h1 {
-  /* color: rgba(255, 255, 255, 0.9); */
   color: #fff;
   text-transform: uppercase;
   font-size: 30px;
@@ -158,8 +155,10 @@ body {
   margin-top: 5px;
   margin-bottom: 0;
 }
+/* // end Breadcrumbs */
 
-/* Responsive */
+
+/* Responsive fixes */
 @media (max-width: 1199px) { /* medium devices */
   #footer .gotop {
     width: 60px;

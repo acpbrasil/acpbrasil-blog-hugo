@@ -23,6 +23,7 @@
 				<div class="col-md-6 to-animate">
 					<form method="post" action="//formspree.io/{{ with .Site.Params.email }}{{.}}{{ end }}">
 						<input type="hidden" name="_subject" value="{{ .Site.Params.contact.subject }}" />
+						<!-- TODO Mostrar uma página de confirmação? -->
 						<!-- <input type="hidden" name="_next" value="/thanks.html" /> -->
 					<div class="form-group ">
 						{{ with .Site.Params.contact.name }}
