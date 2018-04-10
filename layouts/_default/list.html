@@ -11,8 +11,6 @@
   <body>
     {{ partial "nav-pages.html" . }}
     
-    <!-- {{ partial "xxx.html" }} -->
-
     <hr>
     <h1>{{.Title}}</h1>
     <p>{{.Content}}</p>
@@ -27,6 +25,7 @@
 
 <!-- ###################### -->
 
+<!-- FIXME  -->
 {{ define "main" }}
 <main>
   <article>
@@ -50,12 +49,7 @@
   {{ partial "js.html" . }}
 
   <!-- TODO Delete -->
-  <pre>
-    .Parent: {{ .Parent }} / .CurrentSection: {{ .CurrentSection }}
-    .Section: {{ .Section }} / .Sections: {{ .Sections }}
-    .Type: {{ .Type }} / .IsPage: {{ .IsPage }}
-  </pre>
-  <code style="font-size: small;">Type: {{.Type}} / Kind: {{.Kind}} / Section: {{.Section}}</code>
+  {{ partial "_debug.html" . }}
 
   {{ if .Site.Params.footer.enable }}
     {{ partial "footer.html" .}}

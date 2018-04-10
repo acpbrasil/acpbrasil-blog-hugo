@@ -11,27 +11,39 @@
   <body>
     {{ partial "nav-pages.html" . }}
     
-    <!-- {{ partial "xxx.html" }} -->
-
-    <pre>
-      .Parent: {{ .Parent }} / .CurrentSection: {{ .CurrentSection }}
-      .Section: {{ .Section }} / .Sections: {{ .Sections }}
-      .Type: {{ .Type }} / .IsPage: {{ .IsPage }}
-    </pre>
+    <!-- TODO Delete -->
+    {{ partial "_debug.html" . }}
+    
+    {{ partial "breadcrumbs" . }}
     
     <!-- TODO Usar este IF ou criar um blog/single.html ??? -->
     {{ if eq .Section "blog" }}
-      <a class="btn btn-danger btn-sm" href="/blog/">Voltar</a>
+      <a class="btn btn-default btn-sm" href="/blog/">Voltar</a>
     {{ end }}
 
-    <h1>Single page do <code>_default</code>: {{.Title}}</h1>
+    <div id="content">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-9">
+            {{ if not .Date.IsZero }}
+              <p class="font-smaller text-muted text-uppercase mb-small text-right">
+                {{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}
+              </p>
+            {{ end }}
+            <div class="page-content">
+              {{.Content}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-    {{.Content}}
-
+    <!-- TODO Usar este IF ou criar um blog/single.html ??? -->
+    {{ if eq .Section "blog" }}
+      <a class="btn btn-default btn-sm" href="/blog/">Voltar</a>
+    {{ end }}
+  
     {{ partial "js.html" . }}
-
-    <!-- TODO Delete -->
-    <code style="font-size: small;">Type: {{.Type}} / Kind: {{.Kind}} / Section: {{.Section}}</code>
 
     {{ if .Site.Params.footer.enable }}
       {{ partial "footer.html" .}}

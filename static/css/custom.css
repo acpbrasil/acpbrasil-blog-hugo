@@ -28,6 +28,81 @@ body {
   /* font-family: 'GothamRoundedMedium', sans-serif; */
 }
 
+/* Utilities */
+.bold {
+  font-weight: bold !important;
+}
+.center {
+  text-align: center !important;
+}
+.font-smaller {
+  font-size: smaller;
+}
+
+/* Page content */
+.page-content p {
+  text-rendering: optimizeLegibility;
+  text-align: justify;
+  /* font-size: 16px; */
+}
+/* TODO Usar uma fonte menor para xs devices */
+
+/* Blockquote */
+.page-content blockquote {
+  border: 0;
+  margin: 0;
+  padding: 0 5px 25px;
+
+  background: none;
+  color: gray;
+  font-family: Georgia, serif;
+  /* font-size: 1.5em; */
+  font-size: 1.3em;
+  font-style: italic;
+  line-height: 1.4 !important;
+  position: relative;
+  text-shadow: 0 1px white;
+  z-index: 60;
+}
+.page-content blockquote * {
+  box-sizing: border-box;
+}
+.page-content blockquote p {
+  color: #75808a;
+  line-height: 1.4 !important;
+}
+.page-content blockquote p:first-child:before {
+  content: '\201C';
+  color: #81bedb;
+  font-size: 5.5em;
+  font-weight: 700;
+  opacity: .3;
+  position: absolute;
+  top: -.4em;
+  /* left: -.2em; */
+  left: -.15em;
+  text-shadow: none;
+  z-index: -300;
+}
+/* .page-content {
+  position: relative;
+} */
+@media (min-width: 758px) { /* small devices */
+  .page-content blockquote {
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 0px 30px 30px;
+    font-size: 1.5em;
+  }
+  .page-content blockquote p:first-child:before {
+    left: -.05em;
+  }
+}
+
+
+
+
+
 #fh5co-home .text-inner h2 {
   font-size: 32px;
   /* line-height: 38px; */
@@ -49,6 +124,40 @@ body {
 /* body {
   padding-top: 70px;
 } */
+
+/* Breadcrumbs */
+#heading-breadcrumbs {
+  background-color: #157CBA;
+  /* background: url('../img/penguin-bg.png') center center repeat; */
+  background-image: url( /img/penguin-bg.png );
+
+  /* background-size: 30%; */
+  /* background-size: contain; */
+  background-size: cover;
+
+  padding: 20px 0;
+  margin-bottom: 40px;
+}
+#heading-breadcrumbs.no-mb {
+  margin-bottom: 0;
+}
+#heading-breadcrumbs h1 {
+  /* color: rgba(255, 255, 255, 0.9); */
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+@media (max-width: 991px) {
+  #heading-breadcrumbs h1 {
+    text-align: center;
+  }
+}
+#heading-breadcrumbs ul.breadcrumb {
+  margin-top: 5px;
+  margin-bottom: 0;
+}
 
 /* Responsive */
 @media (max-width: 1199px) { /* medium devices */

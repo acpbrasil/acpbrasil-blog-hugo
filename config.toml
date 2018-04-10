@@ -5,6 +5,9 @@ languageCode = "pt-br"
 theme = "elate"
 
 [params]
+
+  # Format dates with Go's time formatting
+  date_format = "2 January, 2006"
   
   custom_css = ["css/custom.css"] # Custom CSS files for Home page
   custom_pages_css = ["css/custom-pages.css"] # Custom CSS files for all other pages
