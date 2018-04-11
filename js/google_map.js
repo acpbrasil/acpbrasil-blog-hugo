@@ -24,7 +24,8 @@ function init() {
 
     // Create the Google Map using out element and options defined above
     var map = new google.maps.Map(mapElement, mapOptions);
-    
+
+    // TODO Marcar Georgia e Florida
     var addresses = ['Lagoa+Pequena,+Florianópolis'];
     // var addresses = ['Lagoa+Pequena,+Florianópolis', 'Georgia'];
 

@@ -3,8 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/3-post/</loc>
+    <lastmod>2018-04-08T17:32:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/2-post/</loc>
+    <lastmod>2018-04-08T17:15:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/1-post/</loc>
+    <lastmod>2018-04-08T16:59:48-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://acpbrasil.github.io/acpbrasil-blog-hugo/</loc>
+    <lastmod>2018-04-08T17:32:08-03:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/</loc>
+    <lastmod>2018-04-08T17:32:08-03:00</lastmod>
   </url>
   
   <url>
@@ -13,8 +34,36 @@
   </url>
   
   <url>
+    <loc>https://acpbrasil.github.io/acpbrasil-blog-hugo/form/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acpbrasil.github.io/acpbrasil-blog-hugo/sobre/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acpbrasil.github.io/acpbrasil-blog-hugo/salarios-e-beneficios/</loc>
+  </url>
+  
+  <url>
     <loc>https://acpbrasil.github.io/acpbrasil-blog-hugo/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acpbrasil.github.io/acpbrasil-blog-hugo/pages/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acpbrasil.github.io/acpbrasil-blog-hugo/pages/xxx/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acpbrasil.github.io/acpbrasil-blog-hugo/zzz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acpbrasil.github.io/acpbrasil-blog-hugo/pages/zzz/</loc>
   </url>
   
 </urlset>

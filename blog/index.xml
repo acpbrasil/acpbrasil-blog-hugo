@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on ACP Recrutamento</title>
+    <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/</link>
+    <description>Recent content in Blog on ACP Recrutamento</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 08 Apr 2018 17:32:08 -0300</lastBuildDate>
+    
+	<atom:link href="https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Último post</title>
+      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/3-post/</link>
+      <pubDate>Sun, 08 Apr 2018 17:32:08 -0300</pubDate>
+      
+      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/3-post/</guid>
+      <description>Este é o último post.
+Já viram nosso vídeo?
+  </description>
+    </item>
+    
+    <item>
+      <title>Outro post</title>
+      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/2-post/</link>
+      <pubDate>Sun, 08 Apr 2018 17:15:08 -0300</pubDate>
+      
+      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/2-post/</guid>
+      <description>Este é outro post.
+Veja nossa apresentação:
+ </description>
+    </item>
+    
+    <item>
+      <title>Nosso primeiro post</title>
+      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/1-post/</link>
+      <pubDate>Sun, 08 Apr 2018 16:59:48 -0300</pubDate>
+      
+      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/1-post/</guid>
+      <description>Este é o nosso primeiro post.
+Veja nossa foto no Instagram:
+A post shared by Bjørn Erik Pedersen (@bepsays) on Jul 6, 2017 at 9:27am PDT
+  </description>
+    </item>
+    
+  </channel>
+</rss>
