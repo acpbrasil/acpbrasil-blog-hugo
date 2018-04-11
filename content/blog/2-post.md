@@ -5,3 +5,7 @@ draft: false
 ---
 
 Este é outro post.
+
+Veja nossa apresentação:
+
+{{< speakerdeck 4e8126e72d853c0060001f97 >}}

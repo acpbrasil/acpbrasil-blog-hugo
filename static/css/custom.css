@@ -134,6 +134,14 @@ code.TODO {
 .about-you-form input:invalid {
   border-left-color: salmon;
 }
+/* .about-you-form input:required:focus:valid {
+  background: url("/images/check.svg") no-repeat 95% 50%;
+  background-size: 25px;
+}
+.about-you-form input:focus:invalid {
+  background: url("/images/tnt.svg") no-repeat 95% 50%;
+  background-size: 45px;
+} */
 /*
 section.check-requirements-form > div {
   background-color: lightgray;
