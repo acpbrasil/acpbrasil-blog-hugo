@@ -1,11 +1,11 @@
 ---
-title: "Outro post"
+title: "ACP publica sua apresentação"
 date: 2018-04-08T17:15:08-03:00
 draft: false
 ---
 
-Este é outro post.
+Esta é a apresentação da ACP Recrutamento no XVI Congresso dos Enfermeiros de Acapulco.
 
-Veja nossa apresentação:
+Veja:
 
-{{< speakerdeck 4e8126e72d853c0060001f97 >}}
+{{< speakerdeck 49046d00fdcb01319b0612528e555330 >}}

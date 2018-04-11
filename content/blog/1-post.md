@@ -1,11 +1,13 @@
 ---
-title: "Nosso primeiro post"
+title: "ACP Recrutamento inaugura seu Instagram"
 date: 2018-04-08T16:59:48-03:00
 draft: false
 ---
 
 Este é o nosso primeiro post.
 
-Veja nossa foto no Instagram:
+Vejam nossas últimas fotos publicadas no Instagram:
 
-{{< instagram BWNjjyYFxVx hidecaption >}}
+{{< instagram BQV6PnZgbPN hidecaption >}}
+
+{{< instagram BeToqr8hXUm hidecaption >}}

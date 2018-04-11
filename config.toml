@@ -43,11 +43,11 @@ theme = "elate"
     # postpended links
     [[menu.postpend]]
       url = "/blog/"
-      name = "Blog"
+      name = "[Blog]"
       weight = 10
     [[menu.postpend]]
       url = "/form/"
-      name = "Form"
+      name = "[Form]"
       weight = 10
   
   # Hero section
