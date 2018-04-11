@@ -64,19 +64,15 @@
     
     <!-- Animate.css -->
     <!-- <link rel="stylesheet" href="css/animate.css"> -->
-    <link rel="stylesheet" href="/css/animate.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/animate.css">
     <!-- Icomoon Icon Fonts-->
-    <!-- <link rel="stylesheet" href="css/icomoon.css"> -->
-    <link rel="stylesheet" href="/css/icomoon.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/icomoon.css">
     <!-- Simple Line Icons -->
-    <!-- <link rel="stylesheet" href="css/simple-line-icons.css"> -->
-    <link rel="stylesheet" href="/css/simple-line-icons.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/simple-line-icons.css">
     <!-- Magnific Popup -->
-    <!-- <link rel="stylesheet" href="css/magnific-popup.css"> -->
-    <link rel="stylesheet" href="/css/magnific-popup.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/magnific-popup.css">
     <!-- Bootstrap  -->
-    <!-- <link rel="stylesheet" href="css/bootstrap.css"> -->
-    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.css">
 
     <!-- 
     Default Theme Style 
@@ -91,9 +87,8 @@
     7. green.css
 
     -->
-    <!-- <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css"> -->
-    <link rel="stylesheet" href="/css/style.css">
+    <!-- <link rel="stylesheet" href="css/style.css"> -->
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
 
     <!--
        custom css files can be configured in config.toml:
@@ -102,18 +97,17 @@
      -->
     {{ range .Site.Params.custom_css }}
       <!-- <link rel="stylesheet" href="{{ . }}"> -->
-      <link rel="stylesheet" href="/{{ . }}">
+      <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
     {{ end }}
     {{ if not .IsHome }} <!-- Do not include custom CSS files for custom pages (!= Home) -->
       {{ range .Site.Params.custom_pages_css }}
-        <link rel="stylesheet" href="/{{ . }}">
+      <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
       {{ end }}
     {{ end }}
 
     <!-- Modernizr JS -->
     <!-- <script src="js/modernizr-2.6.2.min.js"></script> -->
-    <!-- <script src="{{ .Site.BaseURL }}js/modernizr-2.6.2.min.js"></script> -->
-    <script src="/js/modernizr-2.6.2.min.js"></script>
+    <script src="{{ .Site.BaseURL }}js/modernizr-2.6.2.min.js"></script>
     <!-- FOR IE9 below -->
     <!--[if lt IE 9]>
     <script src="{{ .Site.BaseURL }}js/respond.min.js"></script>
