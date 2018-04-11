@@ -17,6 +17,10 @@ theme = "elate"
   description = ""
   email = "denisazevedo@gmail.com"
   
+  # Forms configuration
+  emailsSubjectPrefix = "[ACP]"
+  # TODO Add other emails here (_cc)
+  
   # Navigation
   [params.navigation]
     brand = "ACP Recrutamento"

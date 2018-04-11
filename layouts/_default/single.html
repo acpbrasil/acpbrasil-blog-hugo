@@ -1,59 +1,27 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
-<html lang="{{ .Site.LanguageCode }}">
-  <head>
-    {{ partial "head.html" . }}
-  </head>
-  
-  <body>
-    {{ partial "nav-pages.html" . }}
-    
-    <!-- TODO Delete -->
-    {{ partial "_debug.html" . }}
-    
-    {{ partial "breadcrumbs" . }}
+{{ define "main" }}
 
-    <!-- TODO Usar este IF ou criar um blog/single.html ??? -->
-    {{ if eq .Section "blog" }}
-      <a class="btn btn-default btn-sm" href="/blog/">Voltar</a>
-    {{ end }}
+  <!-- TODO Usar este IF ou criar um blog/single.html ??? -->
+  {{ if eq .Section "blog" }}
+    <a class="btn btn-default btn-sm" href="/blog/">Voltar</a>
+  {{ end }}
 
-    <div id="content">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-9">
+  <!-- Description -->
+  <!-- <h2>{{ .Description | safeHTML }}</h2> -->
+  <!-- Author / Date -->
+  {{ if not .Date.IsZero }}
+    <p class="font-smaller text-muted text-uppercase mb-small text-right">
+      {{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}
+    </p>
+  {{ end }}
+  <!-- Page Content -->
+  <div class="page-content">
+    {{.Content}}
+  </div>
 
-            <!-- Description -->
-            <!-- <h2>{{ .Description | safeHTML }}</h2> -->
-            <!-- Author / Date -->
-            {{ if not .Date.IsZero }}
-              <p class="font-smaller text-muted text-uppercase mb-small text-right">
-                {{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}
-              </p>
-            {{ end }}
-            <!-- Page Content -->
-            <div class="page-content">
-              {{.Content}}
-            </div>
 
-          </div>
-        </div>
-      </div>
-    </div>
+  <!-- TODO Usar este IF ou criar um blog/single.html ??? -->
+  {{ if eq .Section "blog" }}
+    <a class="btn btn-default btn-sm" href="/blog/">Voltar</a>
+  {{ end }}
 
-    <!-- TODO Usar este IF ou criar um blog/single.html ??? -->
-    {{ if eq .Section "blog" }}
-      <a class="btn btn-default btn-sm" href="/blog/">Voltar</a>
-    {{ end }}
-  
-    {{ partial "js.html" . }}
-
-    {{ if .Site.Params.footer.enable }}
-      {{ partial "footer.html" .}}
-    {{ end }}
-
-  </body>
-</html>
+{{ end }}

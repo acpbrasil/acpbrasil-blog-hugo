@@ -1,14 +1,12 @@
 ---
 title: "Quem somos nós"
-# description: "Por que <em>home care</em>?"
+description: TODO Alguma descrição
+header: "Por que <em>home care</em>?"
 # date: 2018-04-09T23:34:06-03:00
 ---
 
-<!-- TODO Usar about.md ou quem-somos.md -->
-<!-- /about/   /quemsomos/   /quem-somos/   /quem-somos-nos/ -->
-
 <!-- TODO Usar Description ou aqui? -->
-## Por que <em>home care</em>?
+<!-- ## Por que <em>home care</em>? -->
 
 A Advanced Care Pediatrics (ACP) foi fundada em 2010 com objetivo mudar a vida de enfermeiros e de famílias com entes enfermos fornecendo atendimento diferenciado em assistência de enfermagem domiciliar a pacientes pediátricos e adultos.
 
@@ -16,6 +14,7 @@ Nos EUA, famílias de pacientes com condições médicas frágeis, que necessita
 
 Em oito anos a ACP se tornou referência nacional, integrando desde 2015 a conceituada lista da INC 5000 que avalia anualmente as empresas que mais crescem nos EUA. Tudo isso devido à seriedade e comprometimento da ACP com seus enfermeiros, pacientes e familiares.
 
+<!-- TODO Criar um shortcode pro blockquote? -->
 <blockquote><p>Em oito anos a ACP se tornou referência nacional, integrando desde 2015 lista das 5000 empresas que mais crescem nos EUA.”</p></blockquote>
 
 Parte do sucesso da ACP fundamenta-se em sua cultura única de ir além do trabalho em equipe para alcançar excelência no serviço oferecido. Na ACP, cuidamos uns dos outros como em uma família, alinhados pelo respeito mútuo e compartilhando os mesmos valores. A maior prova do nosso sucesso é demonstrada quando 90% dos enfermeiros contratados são provenientes de indicações dos membros da ACP.

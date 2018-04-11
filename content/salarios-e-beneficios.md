@@ -1,10 +1,9 @@
 ---
 title: "Salários e Benefícios na ACP"
+description: TODO Alguma descrição
+header: TODO Algum subtítulo
 # date: 2018-04-09T23:34:06-03:00
 ---
-
-<!-- TODO Usar benefits.md ou beneficios.md -->
-<!-- /benefits/   /beneficios/   /salarios-e-beneficios/   /salarios-beneficios/ -->
 
 Salários e benefícios serão firmados entre a ACP e o enfermeiro por meio contratual.
 

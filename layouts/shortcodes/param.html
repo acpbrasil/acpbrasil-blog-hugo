@@ -1,0 +1,5 @@
+{{/*
+  Load a page param.
+  https://discourse.gohugo.io/t/solved-how-to-access-front-matter-within-markdown/11197/3
+*/}}
+<code>{{ with .Get 0 }}{{ $.Page.Param . }}{{ end }}</code>

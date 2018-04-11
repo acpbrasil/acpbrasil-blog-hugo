@@ -1,0 +1,138 @@
+<form method="post" class="about-you-form" action="//formspree.io/{{ $.Page.Site.Params.email }}">
+  <input type="hidden" name="_subject" value="{{ $.Page.Site.Params.EmailsSubjectPrefix}} Novo formulário enviado!" />
+  <input type="hidden" name="_language" value="{{ $.Page.Site.LanguageCode }}" />
+
+  <!-- TODO Mostrar uma página de confirmação? -->
+  <!-- <input type="hidden" name="_next" value="/thanks.html" /> -->
+
+  <code class="TODO">Separar em seções como "Dados pessoais", "Educação" e "Experiência profissional"</code>
+  
+  <!-- TODO Usar um Horizontal Form?
+  https://getbootstrap.com/docs/3.3/css/#forms-horizontal  -->
+
+  <!-- TODO Separar o label por ":"? -->
+  <div class="form-group">
+    <label for="name">Nome</label>
+    <input id="name" name="Nome" required type="text" placeholder="Informe o nome completo" class="form-control" autocomplete="name">
+  </div>
+
+  <div class="form-group">
+    <label for="email">Email</label>
+    <input id="email" name="Email" required type="email" placeholder="Informe um email válido" class="form-control" autocomplete="email">
+  </div>
+
+  <div class="form-group">
+    <label for="phone">Telefone</label>
+    <input id="phone" name="Telefone" type="text" placeholder="Informe o telefone no formato (99) 99999-9999" class="form-control" autocomplete="phone">
+  </div>
+
+  <div class="form-group">
+    <label for="gender">Sexo</label>
+    <code class="TODO">Perguntar o "Sexo" ou o "Gênero"?</code>
+    <input id="gender" name="Sexo" type="gender" placeholder="Sexo" class="form-control">
+    <code class="TODO">Usar um campo do tipo dropdown para sexo?</code>
+    <select class="form-control" name="Gênero" id="gender">
+      <option>Selecione o gênero</option>
+      <option>Feminino</option>
+      <option>Masculino</option>
+      <option>Outro</option>
+    </select>
+  </div>
+  
+  <div class="form-group">
+    <label for="age">Idade</label>
+    <input id="age" name="Idade" type="number" placeholder="Informe a idade" class="form-control">
+  </div>
+  
+  <div class="form-group">
+    <label for="maritalStatus">Estado civil</label>
+    <input id="maritalStatus" name="Estado civil" type="text" placeholder="Informe o estado civil" class="form-control">
+  </div>
+
+  <div class="form-group">
+    <label for="city">Cidade</label>
+    <input id="city" name="Cidade" type="text" placeholder="Informe a cidade onde mora" class="form-control" autocomplete="city">
+  </div>
+
+  <div class="form-group">
+    <label for="college">Universidade</label>
+    <input id="college" name="Universidade" type="text" placeholder="Informe a universidade da graduação" class="form-control">
+  </div>
+
+  <div class="form-group">
+    <label>Experiência profissional em enfermagem</label>
+    <div class="radio">
+      <label><input type="radio" id="experience#1" name="Experiência profissional" value="Aluno de graduação"> Aluno de graduação</label>
+    </div>
+    <div class="radio">
+      <label><input type="radio" id="experience#2" name="Experiência profissional" value="Aluno de pós-graduação"> Aluno de pós-graduação</label>
+    </div>
+    <div class="radio">
+      <label><input type="radio" id="experience#3" name="Experiência profissional" value="0 – 12 meses"> 0 – 12 meses</label>
+    </div>
+    <div class="radio">
+      <label><input type="radio" id="experience#4" name="Experiência profissional" value="13 – 17 meses"> 13 – 17 meses</label>
+    </div>
+    <div class="radio">
+      <label><input type="radio" id="experience#5" name="Experiência profissional" value="18 – 24 meses"> 18 – 24 meses</label>
+    </div>
+    <div class="radio">
+      <label><input type="radio" id="experience#6" name="Experiência profissional" value="Acima de 24 meses"> Acima de 24 meses</label>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label>Já fez especialização? Se sim, em qual área?</label>
+    <div class="radio">
+      <label class="radio-inline"><input type="radio" id="specialization#1" name="Especialização" value="Sim"> Sim</label>
+      <code class="TODO">Habilitar esse campo apenas quando selecionar "Sim"</code>
+      <input id="specialization" name="Qual especialização" type="text" placeholder="Informe a área de sua especialização" class="form-control">
+    </div>
+    <div class="radio">
+      <label><input type="radio" id="specialization#2" name="Especialização" value="Não"> Não</label>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label>Já realizou teste de proficiência em inglês (TOEFL ou IELTS)?</label>
+    <code class="TODO">Cambridge?</code><br>
+    <code class="TODO">Não interessa saber qual teste foi feito e se passou?</code><br>
+    <!-- TODO Usar radio-inline aqui? -->
+    <label class="radio-inline">
+      <input type="radio" id="englishTest#1" name="Teste de proficiência" value="Sim"> Sim
+    </label>
+    <label class="radio-inline">
+      <input type="radio" id="englishTest#2" name="Teste de proficiência" value="Não"> Não
+    </label>
+  </div>
+  
+  <div class="form-group">
+    <label>Nível de inglês</label>
+    <div class="radio">
+      <label><input type="radio" id="englishLevel#1" name="Nível de inglês" value="Iniciante"> Iniciante</label>
+    </div>
+    <div class="radio">
+      <label><input type="radio" id="englishLevel#2" name="Nível de inglês" value="Intermediário"> Intermediário</label>
+    </div>
+    <div class="radio">
+      <label><input type="radio" id="englishLevel#3" name="Nível de inglês" value="Avançado"> Avançado</label>
+    </div>
+    <div class="radio">
+      <label><input type="radio" id="englishLevel#4" name="Nível de inglês" value="Fluente"> Fluente</label>
+      <code class="TODO">Oferecer a opção "Fluente"?</code>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <code class="TODO">Deixar um campo para que o enfermeiro possa deixar uma mensagem?</code>
+    <label for="message">Mensagem</label>
+    <textarea id="message" name="Message" cols="30" rows="5" placeholder="Você quer deixar alguma mensagem?" class="form-control"></textarea>
+  </div>
+
+  <!-- Submit button -->
+  <code class="TODO">Qual vai ser o label do botão? Enviar?</code>
+  <div class="form-group">
+    <input class="btn btn-primary btn-lg" value="Enviar as respostas" type="submit">
+  </div>
+  
+</form>
