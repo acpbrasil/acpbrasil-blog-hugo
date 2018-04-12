@@ -2,7 +2,7 @@
 
   <!-- TODO Usar este IF ou criar um blog/single.html ??? -->
   {{ if eq .Section "blog" }}
-    <a class="btn btn-default btn-sm" href="/blog/">Voltar</a>
+    <a class="btn btn-default btn-sm" href="{{ .Site.BaseURL }}blog/">Voltar</a>
   {{ end }}
 
   <!-- Description -->
@@ -21,7 +21,7 @@
 
   <!-- TODO Usar este IF ou criar um blog/single.html ??? -->
   {{ if eq .Section "blog" }}
-    <a class="btn btn-default btn-sm" href="/blog/">Voltar</a>
+    <a class="btn btn-default btn-sm" href="{{ .Site.BaseURL }}blog/">Voltar</a>
   {{ end }}
 
 {{ end }}

@@ -43,11 +43,11 @@ theme = "elate"
     # postpended links
     [[menu.postpend]]
       url = "/blog/"
-      name = "[Blog]"
+      name = "<code>[Blog]</code>"
       weight = 10
     [[menu.postpend]]
       url = "/form/"
-      name = "[Form]"
+      name = "<code>[Form]</code>"
       weight = 10
   
   # Hero section
@@ -63,29 +63,25 @@ theme = "elate"
   [[params.intro.item]]
     title = "Quem somos nós?"
     description = "Conheça um pouco mais sobre a ACP."
-    url = "#"
+    # TODO Testar o link no github.io
+    url = "/sobre/"
     button = "Saiba mais"
     icon = "icon-people"
-    # icon = "icon-question"
-    # icon = "icon-info"
-    img = "img_10.jpg"
 
   [[params.intro.item]]
     title = "Está interessado?"
     description = "Nos conte um pouco sobre você."
-    url = "#"
+    url = "form/"
     button = "Saiba mais"
     icon = "icon-note"
-    img = "img_8.jpg"
 
   [[params.intro.item]]
     # title = "Salários e benefícios nos EUA"
     title = "Salários e benefícios"
     description = "Conheça as nossas vantagens nos EUA."
-    url = "#"
+    url = "/salarios-e-beneficios/"
     button = "Saiba mais"
     icon = "icon-wallet"
-    img = "img_7.jpg"
 
   [params.intro.video]
     enable = true
@@ -100,42 +96,8 @@ theme = "elate"
     title = "Por que a ACP?"
     description = "ACP atua ativamente na busca enfermeiros qualificados para integrar a equipe da ACP na área de enfermagem domiciliar e hospitalar. O nosso time de profissionais irá junto com você percorrer e transpor todas as etapas necessárias para <strong>você exercer a enfermagem nos Estados Unidos como profissional habilitado</strong>."
     footertext = "Nós ajudaremos você em todas essas etapas."
+    dataContent = "porqueacp" # Arquivo dentro de data/ com o conteúdo dessa seção
 
-    [[params.work.row]]
-      img = "work_1.jpg"
-      alt = "Image2"
-      title = "Requisitos mínimos"
-      subtitle = "Branding"
-
-    [[params.work.row]]
-      img = "work_2.jpg"
-      alt = "Image2"
-      title = "Teste de proficiência em inglês"
-      subtitle = "Qual teste de inglês devo fazer?"
-
-    [[params.work.row]]
-      img = "work_3.jpg"
-      alt = "Image3"
-      title = "O que é CGFNS"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_4.jpg"
-      alt = "Image4"
-      title = "Licença"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_5.jpg"
-      alt = "Image5"
-      title = "NCLEX"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_6.jpg"
-      alt = "Image6"
-      title = "Imigração"
-      subtitle = "Design"
 
   # Testimonials section
   [params.testimonials]
@@ -150,13 +112,13 @@ theme = "elate"
       alt = "Flaviane Morales"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
+      quote = "&ldquo;<code class='TODO'>Citação</code>&rdquo;"
       person = 'Nurse Greice #1 <span class="subtext">Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a></span>'
       img = "person2.jpg"
       alt = "Person2"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
+      quote = "&ldquo;<code class='TODO'>Citação</code>&rdquo;"
       person = 'Nurse Greice #1 <span class="subtext">Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a></span>'
       img = "person3.jpg"
       alt = "Person3"
@@ -191,7 +153,7 @@ theme = "elate"
     [[params.about.item]]
       name = "Flaviane Morales"
       position = "Fundadora"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      description = "<code class='TODO'>Descrição</code>"
       img = "person1.jpg"
       alt = "Flaviane Morales"
       social = [
@@ -202,7 +164,7 @@ theme = "elate"
     [[params.about.item]]
       name = "Izabelle Gindri"
       position = "Fundadora"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      description = "<code class='TODO'>Descrição</code>"
       img = "person2.jpg"
       alt = "Izabelle Gindri"
       social = [
@@ -214,7 +176,7 @@ theme = "elate"
     [[params.about.item]]
       name = "Greice xxx"
       position = "Position"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      description = "<code class='TODO'>Descrição</code>"
       img = "person3.jpg"
       alt = "Person3"
       social = [

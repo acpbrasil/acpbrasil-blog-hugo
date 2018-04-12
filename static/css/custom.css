@@ -233,6 +233,16 @@ section hr.variation-3::after {
   /* padding: 15px 15px; */
 }
 
+/* Popup dialogs (magnific-popup) */
+.popup-small-dialog {
+  background: #fff;
+  padding: 20px 30px;
+  text-align: left;
+  max-width: 400px;
+  margin: 40px auto;
+  position: relative;
+}
+
 /* Breadcrumbs */
 #heading-breadcrumbs {
   padding: 20px 0;
