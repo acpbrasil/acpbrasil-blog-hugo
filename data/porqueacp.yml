@@ -2,31 +2,26 @@
 # Conteúdo para a seção "Por que a ACP"
 # 
 
-# Requisitos mínimos
+# 01 - Requisitos mínimos
 - id: "requisitos-minimos"
   title: "Requisitos mínimos"
   # subtitle: ""
-  img: "work_1.jpg"
-  alt: "Image2"
+  # Tamanho da imagem: 470 x 330 px
+  img: "work/requisitos-minimos.jpg"
+  alt: "Requisitos mínimos"
   # TODO usar icone de check
   content: |
     - Ter inglês intermediário / avançado;
     - Ser graduado em Enfermagem em uma universidade reconhecida pelo MEC;
     - Ter o registro ativo no COREN do seu estado;
-    - <code class='todo'>Ter exercido a profissão por 500 horas nos últimos 4 anos.</code>
-    
-    <!--
-     <span class="font-smaller text-muted">OBS&colon; para esses requisitos consideramos o conselho de enfermagem da Georgia, onde a empresa está sediada e você irá inicialmente ser licenciada.</span>
-     -->
-    <code class="TODO">OBS&colon; para esses requisitos consideramos o conselho de enfermagem da Georgia, onde a empresa está sediada e você irá inicialmente ser licenciada.</code>
 
 
-# Teste de proficiência em inglês
+# 02 - Teste de proficiência em inglês
 - id: "teste-proficiencia"
   title: "Teste de proficiência em inglês"
   # subtitle: "Qual teste de inglês devo fazer?"
-  img: "work_2.jpg"
-  alt: "Image2"
+  img: "work/teste-proficiencia.jpg"
+  alt: "Teste de proficiência em inglês"
   content: |
     O conselho de enfermagem de cada estado exige, na sua grande maioria, a proficiência do inglês. Esta proficiência pode ser avaliada através de dois exames&colon;
     
@@ -34,41 +29,41 @@
     - IELTS (International English Language Testing System).
 
 
-# O que é CGFNS
-- id:
+# 03 - O que é CGFNS
+- id: "cgfns"
   title: "O que é CGFNS"
   # subtitle: ""
-  img: "work_3.jpg"
-  alt: "Image3"
+  img: "work/cgfns.jpg"
+  alt: "O que é CGFNS"
   content: |
     O CGFNS (_Commission on Graduates of Foreign Nursing Schools_) é uma instituição que ajuda profissionais de saúde na validação das credenciais acadêmicas e profissionais.
 
 
-# Licença Profissional
-- id:
+# 04 - Licença Profissional
+- id: "licenca-profissional"
   title: "Licença Profissional"
   # subtitle: ""
-  img: "work_4.jpg"
-  alt: "Image4"
+  img: "work/licenca-profissional.jpg"
+  alt: "Licença Profissional"
   content: |
     Após validação dos documentos pelo CGFNS, inicia-se o processo de retirada da licença junto ao conselho de interesse.
 
 
-# NCLEX
-- id:
+# 05 - NCLEX
+- id: "nclex"
   title: "NCLEX"
   # subtitle: ""
-  img: "work_5.jpg"
-  alt: "Image5"
+  img: "work/nclex.jpg"
+  alt: "NCLEX"
   content: |
     NCLEX é um exame que enfermeiros americanos e estrangeiros devem realizar para obter a sua licença e assim poder exercer a profissão.
 
 
-# Imigração
-- id:
+# 06 - Imigração
+- id: "imigracao"
   title: "Imigração"
   # subtitle: ""
-  img: "work_6.jpg"
-  alt: "Image6"
+  img: "work/imigracao.jpg"
+  alt: "Imigração"
   content: |
     Nessa etapa a ACP atuará como seu empregador (_sponsor_). A etapa de imigração será desenvolvida por um escritório parceiro.

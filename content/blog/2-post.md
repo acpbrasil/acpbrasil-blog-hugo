@@ -4,7 +4,7 @@ date: 2018-04-08T17:15:08-03:00
 draft: false
 ---
 
-Esta é a apresentação da ACP Recrutamento no XVI Congresso dos Enfermeiros de Acapulco.
+Esta é a apresentação da ACP Brasil no XVI Congresso dos Enfermeiros de Acapulco.
 
 Veja:
 

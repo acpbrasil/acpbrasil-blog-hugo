@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "https://acpbrasil.github.io/acpbrasil-blog-hugo/"
-title = "ACP Recrutamento"
+title = "ACP Brasil"
 languageCode = "pt-br"
 theme = "elate"
 
@@ -23,7 +23,7 @@ theme = "elate"
   
   # Navigation
   [params.navigation]
-    brand = "ACP Recrutamento"
+    brand = "ACP Brasil"
     home = "Home"
     work = "Por que a ACP?"
     services = "Serviços"
@@ -64,14 +64,14 @@ theme = "elate"
     title = "Quem somos nós?"
     description = "Conheça um pouco mais sobre a ACP."
     # TODO Testar o link no github.io
-    url = "/sobre/"
+    url = "sobre/"
     button = "Saiba mais"
     icon = "icon-people"
 
   [[params.intro.item]]
     title = "Está interessado?"
     description = "Nos conte um pouco sobre você."
-    url = "form/"
+    url = "formulario/"
     button = "Saiba mais"
     icon = "icon-note"
 
@@ -79,12 +79,13 @@ theme = "elate"
     # title = "Salários e benefícios nos EUA"
     title = "Salários e benefícios"
     description = "Conheça as nossas vantagens nos EUA."
-    url = "/salarios-e-beneficios/"
+    url = "salarios-e-beneficios/"
     button = "Saiba mais"
     icon = "icon-wallet"
 
   [params.intro.video]
-    enable = true
+    # TODO Habilitar o vídeo assim que estiver pronto
+    enable = false
     title = "Assista ao vídeo"
     icon = "icon-play2"
     url = "https://www.youtube.com/watch?v=FSGWhw_RA8Y"
@@ -107,22 +108,19 @@ theme = "elate"
 
     [[params.testimonials.item]]
       quote = "&ldquo;Desde o primeiro dia que conversei com a ACP, senti imediatamente a sinceridade e acolhimento da ACP em seus objetivos de fornecer o melhor cuidado possível aos nossos pacientes e familiares, mantendo sempre uma relação profissional e de cuidado com toda a equipe.&rdquo;"
-      # TODO Mostrar a empresa?
-      person = 'T. O’Brain <span class="subtext">Técnica em Enfermagem <a href="http://freehtml5.co/" target="_blank"><code class="todo">Não vamos informar a empresa da pessoa?</code></a></span>'
+      person = 'T. O’Brein <span class="subtext">Técnica em Enfermagem</span>'
       img = "person1.jpg"
-      alt = "T. O’Brain"
+      alt = "T. O’Brein"
 
     [[params.testimonials.item]]
       quote = "&ldquo;Eu tenho trabalhado em assistência domiciliar durante 19 anos e para diferentes empresas. A ACP é a única empresa que reconhece o enfermeiro, mensalmente e anualmente, pelo esforço e dedicação. Eu amo trabalhar para a ACP, eles cuidam de mim. Sempre que tenho uma preocupação sou ouvida pela ACP. A ACP oferece salários e benefícios competitivos. ACP você é a melhor e sou muito grata por tudo o que faz!&rdquo;"
-      # TODO Mostrar a empresa?
       person = 'D. Hurt <span class="subtext">Enfermeira</span>'
       img = "person2.jpg"
       alt = "D. Hurt"
     
     [[params.testimonials.item]]
-      quote = "&ldquo;Em 2007 consegui minha licença pela <em>Board of Nursing Colorado</em>. Contei com uma americana da área da saúde para entender todas as etapas: isso foi fundamental! Passei na 1ª tentativa na prova do Nclex! Não consegui _sponsor_ devido à recessão nos EUA na época. Quando conheci a Greice, fiquei extremamente interessada em participar da ACP Recrutamento e ajudar colegas com minha experiência a concretizar este sonho!&rdquo;"
-      # TODO Mostrar a empresa?
-      person = 'F. Morales <span class="subtext">Consultora <a href="http://www.acpbrasil.com/" target="_blank">ACP Recrutamento</a></span>'
+      quote = "&ldquo;Em 2007 consegui minha licença pela <em>Board of Nursing Colorado</em>. Contei com uma americana da área da saúde para entender todas as etapas: isso foi fundamental! Passei na 1ª tentativa na prova do Nclex! Não consegui _sponsor_ devido à recessão nos EUA na época. Quando conheci a Greice, fiquei extremamente interessada em participar da ACP Brasil e ajudar colegas com minha experiência a concretizar este sonho!&rdquo;"
+      person = 'F. Morales <span class="subtext">Consultora</span>'
       img = "person3.jpg"
       alt = "F. Morales"
 
@@ -151,40 +149,40 @@ theme = "elate"
     title = "Sobre"
     description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA."
 
-    [[params.about.item]]
-      name = "Greice"
-      position = "Fundadora"
-      description = "<code class='TODO'>Descrição</code>"
-      img = "person1.jpg"
-      alt = "Greice"
-      # social = [
-      #   ["icon-twitter", "#"],
-      #   ["icon-facebook", "#"],
-      #   ["icon-linkedin", "#"]
-      # ]      
+    # [[params.about.item]]
+    #   name = "Greice"
+    #   position = "Fundadora"
+    #   description = "<code class='TODO'>Descrição</code>"
+    #   img = "person1.jpg"
+    #   alt = "Greice"
+    #   # social = [
+    #   #   ["icon-twitter", "#"],
+    #   #   ["icon-facebook", "#"],
+    #   #   ["icon-linkedin", "#"]
+    #   # ]      
 
-    [[params.about.item]]
-      name = "Flaviane"
-      position = "Consultora"
-      description = "<code class='TODO'>Descrição</code>"
-      img = "person2.jpg"
-      alt = "Flaviane"
-      # social = [
-      #   ["icon-facebook", "#"],
-      #   ["icon-linkedin", "#"]
-      # ]
+    # [[params.about.item]]
+    #   name = "Flaviane"
+    #   position = "Consultora"
+    #   description = "<code class='TODO'>Descrição</code>"
+    #   img = "person2.jpg"
+    #   alt = "Flaviane"
+    #   # social = [
+    #   #   ["icon-facebook", "#"],
+    #   #   ["icon-linkedin", "#"]
+    #   # ]
 
-    [[params.about.item]]
-      name = "Izabelle"
-      position = "Consultora"
-      description = "<code class='TODO'>Descrição</code>"
-      img = "person3.jpg"
-      alt = "Person3"
-      # social = [
-      #   ["icon-twitter", "#"],
-      #   ["icon-facebook", "#"],
-      #   ["icon-linkedin", "#"]
-      # ]
+    # [[params.about.item]]
+    #   name = "Izabelle"
+    #   position = "Consultora"
+    #   description = "<code class='TODO'>Descrição</code>"
+    #   img = "person3.jpg"
+    #   alt = "Person3"
+    #   # social = [
+    #   #   ["icon-twitter", "#"],
+    #   #   ["icon-facebook", "#"],
+    #   #   ["icon-linkedin", "#"]
+    #   # ]
     
 
   # Counters section
@@ -220,8 +218,8 @@ theme = "elate"
 
     [[params.counters.item]]
       description = "Vagas de emprego disponíveis"
-      # TODO pin? feed? bubbles? bubble? like? bulb? info? magnifier?
-      icon = "icon-magic-wand"
+      # TODO pin? feed? info? magnifier?
+      icon = "icon-pin"
       from = 0
       to = 237
       interval = 100
@@ -234,15 +232,18 @@ theme = "elate"
     map = true
     form = true
     title = "Contato"
-    description = "Quer fazer parte do nosso time?<br>Tem dúvidas?<br>Entre em contato com a nossa equipe no Brasil."
+    description = "Quer fazer parte do nosso time?<br>Quer iniciar o processo?<br>Tem dúvidas?<br>Entre em contato com a nossa equipe no Brasil."
     
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "Florianópolis / SC"],
         ["icon-phone", "+55 (48) 99176-0676<br>+55 (48) 99176-3535"],
-        ["icon-envelope", "advancedcarebr@gmail.com<br>fmorales@acpediatrics.com<br>igindri@acpediatrics.com"],
-        # TODO Colocar a url da ACP Recrutamento também?
-        ["icon-globe", '<a href="https://www.advancedcarepediatrics.com/" target="_blank">ACP Home care</a><br><a href="http://www.acpbrasil.com/" target="_blank">ACP Recrutamento</a>']
+        # TODO Decidir sobre o email
+        # TODO Colocar o link para email
+        ["icon-envelope", "fmorales@acpediatrics.com<br>igindri@acpediatrics.com"],
+        # ["icon-envelope", "<a href='mailto:contato@acpediatrics.com?subject=Contato'>contato@acpediatrics.com</a>"],
+        # TODO Colocar a url da ACP Brasil também?
+        ["icon-globe", '<a href="https://www.advancedcarepediatrics.com/" target="_blank">ACP Home care</a><br><a href="http://www.acpbrasil.com/" target="_blank">ACP Brasil</a>']
       ]
 
     subject = "Nova mensagem do site!"
@@ -256,10 +257,11 @@ theme = "elate"
   # Footer section
   [params.footer]
     enable = true
-    copyright = "&copy; ACP Recrutamento. Todos os direitos reservados."
+    copyright = "&copy; ACP Brasil. Todos os direitos reservados."
     links = [
-        ["icon-instagram", "#instagram"],
-        ["icon-facebook", "#facebook"],
-        ["icon-youtube", "#youtube"],
-        ["icon-twitter", "#twitter"]
+        ["icon-instagram", "https://www.instagram.com/acpbrasil/"],
+        # TODO Mudar o link do Facebook pra acpbrasil
+        ["icon-facebook", "https://www.facebook.com/recrutamentoenfermeiroseua"],
+        ["icon-youtube", "https://www.youtube.com/channel/UCTMLh7W0ZyYm_NopZKVVNDg"],
+        # ["icon-twitter", "#twitter"]
       ]
