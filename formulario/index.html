@@ -20,16 +20,16 @@
     
     <meta name="og:site_name" content="ACP Recrutamento">
     <meta name="og:title" content="Está interessado?">
-    <meta name="og:url" content="https://acpbrasil.github.io/acpbrasil-blog-hugo/form/">
+    <meta name="og:url" content="https://acpbrasil.github.io/acpbrasil-blog-hugo/formulario/">
     <meta name="og:image" content="https://acpbrasil.github.io/acpbrasil-blog-hugo/images/">
     <meta name="twitter:title" content="ACP Recrutamento" />
-    <meta name="twitter:url" content="https://acpbrasil.github.io/acpbrasil-blog-hugo/form/" />
+    <meta name="twitter:url" content="https://acpbrasil.github.io/acpbrasil-blog-hugo/formulario/" />
     <meta name="twitter:image" content="https://acpbrasil.github.io/acpbrasil-blog-hugo/images/" />
     <meta name="twitter:card" content="" />
     
     
     
-    <link rel="canonical" href="https://acpbrasil.github.io/acpbrasil-blog-hugo/form/"/>
+    <link rel="canonical" href="https://acpbrasil.github.io/acpbrasil-blog-hugo/formulario/"/>
 
     
     
@@ -81,7 +81,7 @@
     <div class="navbar-header">
         
         <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
-        <a class="navbar-brand" href="/">ACP Recrutamento</a>
+        <a class="navbar-brand" href="https://acpbrasil.github.io/acpbrasil-blog-hugo/">ACP Recrutamento</a>
     </div>
     
 
@@ -92,15 +92,15 @@
         
         
         
-        <li><a href="/" class="external"><span>Home</span></a></li>
+        <li><a href="https://acpbrasil.github.io/acpbrasil-blog-hugo/" class="external"><span>Home</span></a></li>
         
         
           
           
           
+          <li><a class="external" href="/acpbrasil-blog-hugo/formulario/"><span><code class='todo'>[Formulário]</code></span></a></li>
+        
           <li><a class="external" href="/acpbrasil-blog-hugo/blog/"><span><code>[Blog]</code></span></a></li>
-        
-          <li><a class="external" href="/acpbrasil-blog-hugo/form/"><span><code>[Form]</code></span></a></li>
         
       </ul>
     </div>
@@ -176,7 +176,8 @@
   
   
 
-  <code class="TODO">Separar em seções como "Dados pessoais", "Educação" e "Experiência profissional"</code>
+  <code class="TODO">Separar em seções como "Dados pessoais", "Educação" e "Experiência profissional"</code><br>
+  <code class="TODO">Aumentar o espaçamento entre os campos do form</code>
   
   
 
@@ -196,19 +197,6 @@
     <input id="phone" name="Telefone" type="text" placeholder="Informe o telefone no formato (99) 99999-9999" class="form-control" autocomplete="phone">
   </div>
 
-  <div class="form-group">
-    <label for="gender">Sexo</label>
-    <code class="TODO">Perguntar o "Sexo" ou o "Gênero"?</code>
-    <input id="gender" name="Sexo" type="gender" placeholder="Sexo" class="form-control">
-    <code class="TODO">Usar um campo do tipo dropdown para sexo?</code>
-    <select class="form-control" name="Gênero" id="gender">
-      <option>Selecione o gênero</option>
-      <option>Feminino</option>
-      <option>Masculino</option>
-      <option>Outro</option>
-    </select>
-  </div>
-  
   <div class="form-group">
     <label for="age">Idade</label>
     <input id="age" name="Idade" type="number" placeholder="Informe a idade" class="form-control">
@@ -230,15 +218,15 @@
   </div>
 
   <div class="form-group">
-    <label>Experiência profissional em enfermagem</label>
+    <label>Experiência como enfermeiro</label>
     <div class="radio">
-      <label><input type="radio" id="experience#1" name="Experiência profissional" value="Aluno de graduação"> Aluno de graduação</label>
+      <label><input type="radio" id="experience#1" name="Experiência profissional" value="Sem experiência"> Sem experiência</label>
     </div>
     <div class="radio">
-      <label><input type="radio" id="experience#2" name="Experiência profissional" value="Aluno de pós-graduação"> Aluno de pós-graduação</label>
+      <label><input type="radio" id="experience#2" name="Experiência profissional" value="Aluno de graduação"> Aluno de graduação</label>
     </div>
     <div class="radio">
-      <label><input type="radio" id="experience#3" name="Experiência profissional" value="0 – 12 meses"> 0 – 12 meses</label>
+      <label><input type="radio" id="experience#3" name="Experiência profissional" value="1 – 12 meses"> 1 – 12 meses</label>
     </div>
     <div class="radio">
       <label><input type="radio" id="experience#4" name="Experiência profissional" value="13 – 17 meses"> 13 – 17 meses</label>
@@ -265,8 +253,6 @@
 
   <div class="form-group">
     <label>Já realizou teste de proficiência em inglês (TOEFL ou IELTS)?</label>
-    <code class="TODO">Cambridge?</code><br>
-    <code class="TODO">Não interessa saber qual teste foi feito e se passou?</code><br>
     
     <label class="radio-inline">
       <input type="radio" id="englishTest#1" name="Teste de proficiência" value="Sim"> Sim
@@ -289,18 +275,15 @@
     </div>
     <div class="radio">
       <label><input type="radio" id="englishLevel#4" name="Nível de inglês" value="Fluente"> Fluente</label>
-      <code class="TODO">Oferecer a opção "Fluente"?</code>
     </div>
   </div>
 
   <div class="form-group">
-    <code class="TODO">Deixar um campo para que o enfermeiro possa deixar uma mensagem?</code>
     <label for="message">Mensagem</label>
     <textarea id="message" name="Message" cols="30" rows="5" placeholder="Você quer deixar alguma mensagem?" class="form-control"></textarea>
   </div>
 
   
-  <code class="TODO">Qual vai ser o label do botão? Enviar?</code>
   <div class="form-group">
     <input class="btn btn-primary btn-lg" value="Enviar as respostas" type="submit">
   </div>
@@ -381,8 +364,8 @@
 	
 	
 	<script src="https://acpbrasil.github.io/acpbrasil-blog-hugo/js/main.js"></script>
+	<script src="https://acpbrasil.github.io/acpbrasil-blog-hugo/js/custom.js"></script>
 	
-		<script src="https://acpbrasil.github.io/acpbrasil-blog-hugo/js/main-pages.js"></script>
 		
 
 	
