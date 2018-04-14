@@ -2,7 +2,7 @@
 # type: "list"
 # type: "blog"
 title: "Blog"
-description: TODO Alguma descrição
+description: "TODO Alguma descrição"
 # header: "Últimos posts"
 ---
 

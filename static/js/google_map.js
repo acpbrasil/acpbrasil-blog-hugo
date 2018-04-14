@@ -3,12 +3,11 @@ var google;
 function init() {
     // Basic options for a simple Google Map
     // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
-    // var myLatlng = new google.maps.LatLng(51.0825523,3.574402,11);
-    var myLatlng = new google.maps.LatLng(-27.6600721,-48.4870414);
+    var myLatlng = new google.maps.LatLng(29.6864011,-82.3899576); // Gainesville (half-way Georgia x Florida)
     
     var mapOptions = {
         // How zoomed in you want the map to start at (always required)
-        zoom: 7,
+        zoom: 6,
 
         // The latitude and longitude to center the map (always required)
         center: myLatlng,
@@ -25,9 +24,7 @@ function init() {
     // Create the Google Map using out element and options defined above
     var map = new google.maps.Map(mapElement, mapOptions);
 
-    // TODO Marcar Georgia e Florida
-    var addresses = ['Lagoa+Pequena,+Florianópolis'];
-    // var addresses = ['Lagoa+Pequena,+Florianópolis', 'Georgia'];
+    var addresses = ['Georgia, USA', 'Florida, USA'];
 
     for (var x = 0; x < addresses.length; x++) {
         $.getJSON('//maps.googleapis.com/maps/api/geocode/json?address='+addresses[x]+'&sensor=false', null, function (data) {

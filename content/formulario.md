@@ -1,7 +1,7 @@
 ---
 # type: "page"
 title: "Está interessado?"
-description: TODO Alguma descrição
+description: "TODO Alguma descrição"
 header: "Nos conte um pouco sobre você"
 # TODO Declarar as keywords nos outros arquivos? Como funciona?
 keywords: ["FAQ", "How do I", "questions", "what if", "como", "interessado", "contato"]

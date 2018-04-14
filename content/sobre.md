@@ -1,6 +1,6 @@
 ---
 title: "Quem somos nós"
-description: TODO Alguma descrição
+description: "TODO Alguma descrição"
 header: "Por que <em>home care</em>?"
 # date: 2018-04-09T23:34:06-03:00
 ---

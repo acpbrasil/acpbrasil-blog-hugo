@@ -46,8 +46,8 @@ theme = "elate"
       name = "<code>[Blog]</code>"
       weight = 10
     [[menu.postpend]]
-      url = "/form/"
-      name = "<code>[Form]</code>"
+      url = "/formulario/"
+      name = "<code class='todo'>[Formulário]</code>"
       weight = 10
   
   # Hero section
@@ -94,8 +94,8 @@ theme = "elate"
   [params.work]
     enable = true
     title = "Por que a ACP?"
-    description = "ACP atua ativamente na busca enfermeiros qualificados para integrar a equipe da ACP na área de enfermagem domiciliar e hospitalar. O nosso time de profissionais irá junto com você percorrer e transpor todas as etapas necessárias para <strong>você exercer a enfermagem nos Estados Unidos como profissional habilitado</strong>."
-    footertext = "Nós ajudaremos você em todas essas etapas."
+    description = "ACP atua ativamente na busca enfermeiros qualificados para integrar a equipe da ACP na área de enfermagem domiciliar. O nosso time de profissionais irá junto com você percorrer e transpor todas as etapas necessárias para <strong>você exercer a enfermagem nos Estados Unidos como profissional habilitado</strong>."
+    footertext = "Nós ajudaremos você em todas estas etapas."
     dataContent = "porqueacp" # Arquivo dentro de data/ com o conteúdo dessa seção
 
 
@@ -106,23 +106,26 @@ theme = "elate"
     description = "Conheça a história de enfermeiros que já passaram por esse processo e também de nossos colaboradores."
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Em 2007 consegui minha licença pela <em>Board of Nursing Colorado</em>. Contei com uma americana da área da saúde para entender todas as etapas: isso foi fundamental! Passei na 1ª tentativa na prova do Nclex! Não consegui sponsor devido a recessão nos EUA na época. Quando conheci a Greice, fiquei extremamente interessada em participar da ACP Recrutamento e ajudar colegas com minha experiência a concretizar este sonho!&rdquo;"
-      person = 'Flaviane Morales <span class="subtext">Fundadora <a href="http://www.acpbrasil.com/" target="_blank">ACP Recrutamento</a></span>'
+      quote = "&ldquo;Desde o primeiro dia que conversei com a ACP, senti imediatamente a sinceridade e acolhimento da ACP em seus objetivos de fornecer o melhor cuidado possível aos nossos pacientes e familiares, mantendo sempre uma relação profissional e de cuidado com toda a equipe.&rdquo;"
+      # TODO Mostrar a empresa?
+      person = 'T. O’Brain <span class="subtext">Técnica em Enfermagem <a href="http://freehtml5.co/" target="_blank"><code class="todo">Não vamos informar a empresa da pessoa?</code></a></span>'
       img = "person1.jpg"
-      alt = "Flaviane Morales"
+      alt = "T. O’Brain"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;<code class='TODO'>Citação</code>&rdquo;"
-      person = 'Nurse Greice #1 <span class="subtext">Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a></span>'
+      quote = "&ldquo;Eu tenho trabalhado em assistência domiciliar durante 19 anos e para diferentes empresas. A ACP é a única empresa que reconhece o enfermeiro, mensalmente e anualmente, pelo esforço e dedicação. Eu amo trabalhar para a ACP, eles cuidam de mim. Sempre que tenho uma preocupação sou ouvida pela ACP. A ACP oferece salários e benefícios competitivos. ACP você é a melhor e sou muito grata por tudo o que faz!&rdquo;"
+      # TODO Mostrar a empresa?
+      person = 'D. Hurt <span class="subtext">Enfermeira</span>'
       img = "person2.jpg"
-      alt = "Person2"
-
-    [[params.testimonials.item]]
-      quote = "&ldquo;<code class='TODO'>Citação</code>&rdquo;"
-      person = 'Nurse Greice #1 <span class="subtext">Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a></span>'
-      img = "person3.jpg"
-      alt = "Person3"
+      alt = "D. Hurt"
     
+    [[params.testimonials.item]]
+      quote = "&ldquo;Em 2007 consegui minha licença pela <em>Board of Nursing Colorado</em>. Contei com uma americana da área da saúde para entender todas as etapas: isso foi fundamental! Passei na 1ª tentativa na prova do Nclex! Não consegui _sponsor_ devido à recessão nos EUA na época. Quando conheci a Greice, fiquei extremamente interessada em participar da ACP Recrutamento e ajudar colegas com minha experiência a concretizar este sonho!&rdquo;"
+      # TODO Mostrar a empresa?
+      person = 'F. Morales <span class="subtext">Consultora <a href="http://www.acpbrasil.com/" target="_blank">ACP Recrutamento</a></span>'
+      img = "person3.jpg"
+      alt = "F. Morales"
+
 
 
   # Services section
@@ -138,10 +141,8 @@ theme = "elate"
 
     [[params.services.item]]
       title = "Universidades &amp; Instituições de Ensino"
-      # TODO arrumar o link para Contato
       # TODO Arrumar a cor do link
-      # description = 'Oferecemos workshops gratuitos para apresentar essa oportunidade aos alunos e professores. <a href="#" data-nav-section="contact">Entre em contato</a> para saber como.'
-      description = 'Oferecemos workshops gratuitos para apresentar essa oportunidade aos alunos e professores. <a href="#contact">Entre em contato</a> para saber como.'
+      description = 'Oferecemos workshops gratuitos para apresentar essa oportunidade aos alunos e professores. <a class="inner-section-link" href="#" data-nav-section="contact">Entre em contato</a> para saber como.'
       icon = "icon-graduation"
 
   # About section
@@ -151,52 +152,40 @@ theme = "elate"
     description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA."
 
     [[params.about.item]]
-      name = "Flaviane Morales"
+      name = "Greice"
       position = "Fundadora"
       description = "<code class='TODO'>Descrição</code>"
       img = "person1.jpg"
-      alt = "Flaviane Morales"
-      social = [
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
-      ]
+      alt = "Greice"
+      # social = [
+      #   ["icon-twitter", "#"],
+      #   ["icon-facebook", "#"],
+      #   ["icon-linkedin", "#"]
+      # ]      
 
     [[params.about.item]]
-      name = "Izabelle Gindri"
-      position = "Fundadora"
+      name = "Flaviane"
+      position = "Consultora"
       description = "<code class='TODO'>Descrição</code>"
       img = "person2.jpg"
-      alt = "Izabelle Gindri"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
-      ]
+      alt = "Flaviane"
+      # social = [
+      #   ["icon-facebook", "#"],
+      #   ["icon-linkedin", "#"]
+      # ]
 
     [[params.about.item]]
-      name = "Greice xxx"
-      position = "Position"
+      name = "Izabelle"
+      position = "Consultora"
       description = "<code class='TODO'>Descrição</code>"
       img = "person3.jpg"
       alt = "Person3"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
-      ]      
-
-    # [[params.about.item]]
-    #   name = "Denis C de Azevedo"
-    #   position = "CTO"
-    #   description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-    #   img = "person3.jpg"
-    #   alt = "Denis C de Azevedo"
-    #   social = [
-    #     ["icon-twitter", "#"],
-    #     ["icon-facebook", "#"],
-    #     ["icon-linkedin", "#"],
-    #     ["icon-github", "#"]
-    #   ]      
+      # social = [
+      #   ["icon-twitter", "#"],
+      #   ["icon-facebook", "#"],
+      #   ["icon-linkedin", "#"]
+      # ]
+    
 
   # Counters section
   [params.counters]
@@ -205,29 +194,38 @@ theme = "elate"
     background = "full_image_1.jpg"
 
     [[params.counters.item]]
-      description = "Pacientes/famílias atendidas"
-      icon = "icon-briefcase"
+      description = "Funcionários"
+      icon = "icon-emotsmile"
       from = 0
-      to = 89
-      interval = 50
-      speed = 5000
+      to = 450
+      interval = 200
+      speed = 4000
 
     [[params.counters.item]]
-      description = "Enfermeiros contratados"
-      icon = "icon-code"
+      description = "Crescimento anual (em %)"
+      icon = "icon-graph"
       from = 0
-      to = 2343409
+      to = 40
       interval = 50
-      speed = 5000
+      speed = 3000
 
     [[params.counters.item]]
-      description = "A ACP está entre as 5.000 empresas que mais crescem nos EUA"
-      icon = "icon-cup"
-      # TODO Fazer o número fixo
+      # TODO Adicionar um link pra essa list INC 5000?
+      description = "Lista INC 5000 por dois anos consecutivos"
+      icon = "icon-trophy"
       from = 5000
       to = 5000
       interval = 50
       speed = 5000
+
+    [[params.counters.item]]
+      description = "Vagas de emprego disponíveis"
+      # TODO pin? feed? bubbles? bubble? like? bulb? info? magnifier?
+      icon = "icon-magic-wand"
+      from = 0
+      to = 237
+      interval = 100
+      speed = 4000
 
 
   # Contact section
@@ -241,9 +239,10 @@ theme = "elate"
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "Florianópolis / SC"],
-        ["icon-phone", "+55 (48) 99176-0676 / +55 (48) 99176-3535"],
-        ["icon-envelope", "advancedcarebr@gmail.com"],
-        ["icon-globe", '<a href="https://www.advancedcarepediatrics.com/" target="_blank">ACP Home care</a>']
+        ["icon-phone", "+55 (48) 99176-0676<br>+55 (48) 99176-3535"],
+        ["icon-envelope", "advancedcarebr@gmail.com<br>fmorales@acpediatrics.com<br>igindri@acpediatrics.com"],
+        # TODO Colocar a url da ACP Recrutamento também?
+        ["icon-globe", '<a href="https://www.advancedcarepediatrics.com/" target="_blank">ACP Home care</a><br><a href="http://www.acpbrasil.com/" target="_blank">ACP Recrutamento</a>']
       ]
 
     subject = "Nova mensagem do site!"

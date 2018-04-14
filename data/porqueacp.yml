@@ -5,27 +5,30 @@
 # Requisitos mínimos
 - id: "requisitos-minimos"
   title: "Requisitos mínimos"
-  subtitle: "<code class='TODO'>Subtitulo</code>"
+  # subtitle: ""
   img: "work_1.jpg"
   alt: "Image2"
   # TODO usar icone de check
   content: |
-    - Proficiência em inglês;
-    - Ser graduada em Enfermagem em uma universidade reconhecida pelo MEC;
+    - Ter inglês intermediário / avançado;
+    - Ser graduado em Enfermagem em uma universidade reconhecida pelo MEC;
     - Ter o registro ativo no COREN do seu estado;
-    - Ter exercido a profissão por 500 horas nos últimos 4 anos.  
+    - <code class='todo'>Ter exercido a profissão por 500 horas nos últimos 4 anos.</code>
     
-    <span class="font-smaller text-muted">OBS&colon; para esses requisitos consideramos o conselho de enfermagem da Georgia, onde a empresa está sediada e você irá inicialmente ser licenciada.</span>
+    <!--
+     <span class="font-smaller text-muted">OBS&colon; para esses requisitos consideramos o conselho de enfermagem da Georgia, onde a empresa está sediada e você irá inicialmente ser licenciada.</span>
+     -->
+    <code class="TODO">OBS&colon; para esses requisitos consideramos o conselho de enfermagem da Georgia, onde a empresa está sediada e você irá inicialmente ser licenciada.</code>
 
 
 # Teste de proficiência em inglês
 - id: "teste-proficiencia"
   title: "Teste de proficiência em inglês"
-  subtitle: "Qual teste de inglês devo fazer?"
+  # subtitle: "Qual teste de inglês devo fazer?"
   img: "work_2.jpg"
   alt: "Image2"
   content: |
-    Para enfermeiros formados em países onde o idioma oficial não é o inglês, as boards de enfermagem dos Estados Unidos exigem, na sua grande maioria, a proficiência do inglês. Esta proficiência pode ser avaliada através de dois exames&colon;
+    O conselho de enfermagem de cada estado exige, na sua grande maioria, a proficiência do inglês. Esta proficiência pode ser avaliada através de dois exames&colon;
     
     - TOEFL (Test of English as a Foreign Language);
     - IELTS (International English Language Testing System).
@@ -34,38 +37,38 @@
 # O que é CGFNS
 - id:
   title: "O que é CGFNS"
-  subtitle: "<code class='TODO'>Subtitulo</code>"
+  # subtitle: ""
   img: "work_3.jpg"
   alt: "Image3"
   content: |
-    O CGFNS (_Commission on Graduates of Foreign Nursing Schools_) é uma instituição que ajuda profissionais de saúde na validação das credenciais acadêmicas (diploma e históricos escolares) e profissionais (registro no conselho da sua categoria).
+    O CGFNS (_Commission on Graduates of Foreign Nursing Schools_) é uma instituição que ajuda profissionais de saúde na validação das credenciais acadêmicas e profissionais.
 
 
-# Licença
+# Licença Profissional
 - id:
-  title: "Licença"
-  subtitle: "<code class='TODO'>Subtitulo</code>"
+  title: "Licença Profissional"
+  # subtitle: ""
   img: "work_4.jpg"
   alt: "Image4"
   content: |
-    Após validação dos documentos pelo CGFNS, inicia-se o processo de retirada da licença junto ao _Board_ de interesse.
+    Após validação dos documentos pelo CGFNS, inicia-se o processo de retirada da licença junto ao conselho de interesse.
 
 
 # NCLEX
 - id:
   title: "NCLEX"
-  subtitle: "<code class='TODO'>Subtitulo</code>"
+  # subtitle: ""
   img: "work_5.jpg"
   alt: "Image5"
   content: |
-    NCLEX é um exame que enfermeiros americanos e estrangeiros devem realizar para obter para a sua licença assim poder exercer a profissão.
+    NCLEX é um exame que enfermeiros americanos e estrangeiros devem realizar para obter a sua licença e assim poder exercer a profissão.
 
 
 # Imigração
 - id:
   title: "Imigração"
-  subtitle: "<code class='TODO'>Subtitulo</code>"
+  # subtitle: ""
   img: "work_6.jpg"
   alt: "Image6"
   content: |
-    Nessa etapa a ACP atuará como seu empregador (_sponsor_). A etapa de imigração será desenvolvida por um escritório parceiro, sendo que a ida do profissional de enfermagem para os estados unidos ocorre via aplicação de _green card_.
+    Nessa etapa a ACP atuará como seu empregador (_sponsor_). A etapa de imigração será desenvolvida por um escritório parceiro.
