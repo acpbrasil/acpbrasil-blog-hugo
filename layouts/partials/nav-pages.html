@@ -5,7 +5,7 @@
     <div class="navbar-header">
         <!-- Mobile Toggle Menu Button -->
         <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
-        <a class="navbar-brand" href="/">{{ with .Site.Params.navigation.brand }}{{ . | markdownify }}{{ end }}</a>
+        <a class="navbar-brand" href="{{ .Site.BaseURL }}">{{ with .Site.Params.navigation.brand }}{{ . | markdownify }}{{ end }}</a>
     </div>
     <!--/.navbar-header -->
 
@@ -18,7 +18,7 @@
         {{ end }}
         
         <!-- Home -->
-        <li><a href="/" class="external"><span>{{ with .Site.Params.navigation.home }}{{ . | markdownify }}{{ end }}</span></a></li>
+        <li><a href="{{ .Site.BaseURL }}" class="external"><span>{{ with .Site.Params.navigation.home }}{{ . | markdownify }}{{ end }}</span></a></li>
         
         <!-- 
           {{ if .Site.Params.work.enable }}

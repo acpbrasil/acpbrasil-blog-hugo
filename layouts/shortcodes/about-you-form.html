@@ -5,7 +5,8 @@
   <!-- TODO Mostrar uma página de confirmação? -->
   <!-- <input type="hidden" name="_next" value="/thanks.html" /> -->
 
-  <code class="TODO">Separar em seções como "Dados pessoais", "Educação" e "Experiência profissional"</code>
+  <code class="TODO">Separar em seções como "Dados pessoais", "Educação" e "Experiência profissional"</code><br>
+  <code class="TODO">Aumentar o espaçamento entre os campos do form</code>
   
   <!-- TODO Usar um Horizontal Form?
   https://getbootstrap.com/docs/3.3/css/#forms-horizontal  -->
@@ -26,19 +27,6 @@
     <input id="phone" name="Telefone" type="text" placeholder="Informe o telefone no formato (99) 99999-9999" class="form-control" autocomplete="phone">
   </div>
 
-  <div class="form-group">
-    <label for="gender">Sexo</label>
-    <code class="TODO">Perguntar o "Sexo" ou o "Gênero"?</code>
-    <input id="gender" name="Sexo" type="gender" placeholder="Sexo" class="form-control">
-    <code class="TODO">Usar um campo do tipo dropdown para sexo?</code>
-    <select class="form-control" name="Gênero" id="gender">
-      <option>Selecione o gênero</option>
-      <option>Feminino</option>
-      <option>Masculino</option>
-      <option>Outro</option>
-    </select>
-  </div>
-  
   <div class="form-group">
     <label for="age">Idade</label>
     <input id="age" name="Idade" type="number" placeholder="Informe a idade" class="form-control">
@@ -95,8 +83,6 @@
 
   <div class="form-group">
     <label>Já realizou teste de proficiência em inglês (TOEFL ou IELTS)?</label>
-    <code class="TODO">Cambridge?</code><br>
-    <code class="TODO">Não interessa saber qual teste foi feito e se passou?</code><br>
     <!-- TODO Usar radio-inline aqui? -->
     <label class="radio-inline">
       <input type="radio" id="englishTest#1" name="Teste de proficiência" value="Sim"> Sim
@@ -119,18 +105,15 @@
     </div>
     <div class="radio">
       <label><input type="radio" id="englishLevel#4" name="Nível de inglês" value="Fluente"> Fluente</label>
-      <code class="TODO">Oferecer a opção "Fluente"?</code>
     </div>
   </div>
 
   <div class="form-group">
-    <code class="TODO">Deixar um campo para que o enfermeiro possa deixar uma mensagem?</code>
     <label for="message">Mensagem</label>
     <textarea id="message" name="Message" cols="30" rows="5" placeholder="Você quer deixar alguma mensagem?" class="form-control"></textarea>
   </div>
 
   <!-- Submit button -->
-  <code class="TODO">Qual vai ser o label do botão? Enviar?</code>
   <div class="form-group">
     <input class="btn btn-primary btn-lg" value="Enviar as respostas" type="submit">
   </div>
