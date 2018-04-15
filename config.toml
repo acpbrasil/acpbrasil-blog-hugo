@@ -28,6 +28,7 @@ theme = "elate"
     home = "Home"
     work = "Por que a ACP?"
     services = "Serviços"
+    # TODO Habilitar Testemunhos?
     testimonials = "Testemunhos"
     about = "Sobre"
     contact = "Contato"
@@ -43,13 +44,13 @@ theme = "elate"
 
     # postpended links
     [[menu.postpend]]
-      url = "/blog/"
-      name = "<code>[Blog]</code>"
+      url = "formulario/"
+      name = "Faça parte"
       weight = 10
     [[menu.postpend]]
-      url = "/formulario/"
-      name = "<code class='todo'>[Formulário]</code>"
-      weight = 10
+      url = "blog/"
+      name = "Blog"
+      weight = 11
   
   # Hero section
   [params.hero]
