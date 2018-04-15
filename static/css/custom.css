@@ -120,13 +120,27 @@ code.TODO {
 }
 /* // end Blockquote */
 
+/* Borda como o site da ACP */
+/* form input.form-control,
+form textarea.form-control {
+  border-right: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+} */
 
+.about-you-form .form-group {
+  margin-top: 20px;
+}
+.about-you-form > div.between-form-sections {
+  padding: 5px 0;
+}
 
 .about-you-form input,
 .about-you-form textarea {
-  border: 1px solid #eee;
+  /* border: 1px solid #eee; */
+  border: 2px solid rgba(0, 0, 0, 0.1);
   border-left: 3px solid;
-  border-radius: 5px;
+  /* border-radius: 5px; */
   transition: border-color .5s ease-out;
 }
 .about-you-form input:not([type=checkbox]):not([type=radio]) {
@@ -245,7 +259,7 @@ section hr.variation-3::after {
   background: #fff;
   padding: 20px 30px;
   text-align: left;
-  max-width: 400px;
+  max-width: 500px;
   margin: 40px auto;
   position: relative;
 }

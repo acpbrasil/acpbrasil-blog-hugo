@@ -15,6 +15,7 @@ theme = "elate"
   # Meta
   author = ""
   description = ""
+  # TODO Trocar o email
   email = "denisazevedo@gmail.com"
   
   # Forms configuration
