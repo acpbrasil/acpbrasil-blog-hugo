@@ -1,8 +1,14 @@
 /* Custom pages contain a fixed navbar header */
 body {
-  padding-top: 70px;
+  /* padding-top: 75px; */
+  padding-top: 73px;
 }
 
 footer {
   margin-top: 30px;
+}
+
+#fh5co-header.navbar-fixed-top {
+  /* Overrides style.css to hide the navbar during scroll */
+  position: absolute !important;
 }

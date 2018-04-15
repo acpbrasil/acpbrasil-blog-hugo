@@ -310,6 +310,8 @@ section hr.variation-3::after {
     margin-left: -30px;
   }
 }
+
+
 /* ########################################################################### */
 
 /* Changes to adjust the header to a bigger logo (in height) */
@@ -323,7 +325,8 @@ section hr.variation-3::after {
 .navbar-nav > li > a {
   line-height: 62px;
   /* padding: 10px 15px; */
-  padding: 0 15px;
+  /* padding: 0 15px; */
+  padding: 5px 15px;
 }
 #fh5co-header #navbar li a span {
   display: initial;

@@ -441,12 +441,11 @@
 
     /* Disable the window.scroll event handler - the navbar must stay fixed at the top. */
     // $(window).off('scroll');
-    // windowScroll();
   
     parallax();
 		burgerMenu();
 		clickMenu();
-		// windowScroll();
+		// windowScroll(); // Disable the window.scroll event handler - the navbar must stay fixed at the top.
 		navigationSection();
 		goToTop();
 
