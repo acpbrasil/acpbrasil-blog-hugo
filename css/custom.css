@@ -57,6 +57,26 @@ code.TODO {
 }
 /* // end Utilities */
 
+a.inner-section-link {
+  text-decoration: underline;
+  font-weight: bold;
+  color: unset;
+}
+a.inner-section-link:hover,
+a.inner-section-link:active,
+a.inner-section-link:focus {
+  color: lightgray;
+}
+
+#fh5co-header #navbar li a.external {
+  font-weight: bold;
+  color: #157CBA;
+}
+#fh5co-header #navbar li a.external:hover {
+  font-weight: bold;
+  color: #F39B3B;
+}
+
 
 /* Page content */
 .page-content p {
@@ -104,6 +124,15 @@ code.TODO {
   text-shadow: none;
   z-index: -300;
 }
+/* TODO Pode remover estes dois assim que colocar as fotos dos testemunhos */
+#fh5co-testimonials .box-testimony .author i {
+  float: left;
+  font-size: 40px;
+  padding: 0 12px;
+}
+#fh5co-testimonials .box-testimony .author p {
+  margin-top: 0;
+}
 /* .page-content {
   position: relative;
 } */
@@ -120,13 +149,27 @@ code.TODO {
 }
 /* // end Blockquote */
 
+/* Borda como o site da ACP */
+/* form input.form-control,
+form textarea.form-control {
+  border-right: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+} */
 
+.about-you-form .form-group {
+  margin-top: 20px;
+}
+.about-you-form > div.between-form-sections {
+  padding: 5px 0;
+}
 
 .about-you-form input,
 .about-you-form textarea {
-  border: 1px solid #eee;
+  /* border: 1px solid #eee; */
+  border: 2px solid rgba(0, 0, 0, 0.1);
   border-left: 3px solid;
-  border-radius: 5px;
+  /* border-radius: 5px; */
   transition: border-color .5s ease-out;
 }
 .about-you-form input:not([type=checkbox]):not([type=radio]) {
@@ -229,23 +272,18 @@ section hr.variation-3::after {
   margin-bottom: 20px;
 }
 
-/* Fix Elate's theme navbar issue */
+/* TODO Fix Elate's theme navbar issue
 .fh5co-nav-toggle {
-  /* margin: 0 auto; */
-  /* margin-right: 15px; */
+  margin-right: 15px;
 }
-
-#fh5co-header .navbar-brand {
-  /* padding-left: 0; */
-  /* padding: 15px 15px; */
-}
+*/
 
 /* Popup dialogs (magnific-popup) */
 .popup-small-dialog {
   background: #fff;
   padding: 20px 30px;
   text-align: left;
-  max-width: 400px;
+  max-width: 500px;
   margin: 40px auto;
   position: relative;
 }
@@ -257,7 +295,7 @@ section hr.variation-3::after {
   background-color: #157CBA;
 
   /* background: url('../images/penguin-bg.png') center center repeat; */
-  background-image: url( /images/penguin-bg.png );
+  background-image: url( ../images/penguin-bg.png );
   /* background-size: 30%; */
   /* background-size: contain; */
   background-size: cover;
@@ -294,5 +332,71 @@ section hr.variation-3::after {
     width: 60px;
     height: 60px;
     margin-left: -30px;
+  }
+}
+
+
+/* ########################################################################### */
+
+/* Changes to adjust the header to a bigger logo (in height) */
+/* #fh5co-header .navbar-brand { */
+#fh5co-header .navbar-brand {
+  height: 72px; /* SVG + padding */
+  /* padding: 15px; */
+  padding: 5px;
+  padding-left: 10px;
+}
+@media (min-width: 1030px) { /* TODO Quando remover os testemunhos, pode reduzir esta largura */
+  #fh5co-header .navbar-brand {
+    padding-left: 40px;
+  }
+}
+
+.navbar-nav > li > a {
+  line-height: 62px;
+  /* padding: 10px 15px; */
+  /* padding: 0 15px; */
+  padding: 5px 15px;
+}
+#fh5co-header #navbar li a span {
+  display: initial;
+}
+.navbar-collapse.collapse.in > .navbar-nav > li > a,
+.navbar-collapse.collapsing > .navbar-nav > li > a {
+  /* line-height: initial; */
+  line-height: 22px;
+  padding: 10px 15px;
+}
+.fh5co-nav-toggle {
+  margin-right: 15px;
+  height: 72px;
+  top: 0;
+}
+.fh5co-nav-toggle > i {
+  /* top: 28px; */
+  top: 12px;
+}
+
+/* 
+@media screen and (max-width: 768px) {
+  #fh5co-header {
+    margin-top: 0;
+    background: #fff;
+  }
+}
+*/
+
+/* ########################################################################### */
+
+.navbar-header .navbar-brand > figure svg {
+  display: block;
+}
+.navbar-header .navbar-brand svg {
+  max-width: 50vw;
+  width: 180px;
+}
+@media (min-width: 480px) {
+  .navbar-header .navbar-brand svg {
+    max-width: 40vw;
   }
 }
