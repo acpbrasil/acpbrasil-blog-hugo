@@ -26,11 +26,10 @@
 		<script src="{{ .Site.BaseURL }}js/google_map.js"></script>
 	{{ end }}
 	<!-- Main JavaScript -->
-	<!-- <script src="{{ .Site.BaseURL }}js/main.js"></script> -->
+	<!-- <script src="{{ .Site.BaseURL }}js/main.js"></script> Overrided by elate-main.js -->
+	<script src="{{ .Site.BaseURL }}js/elate-main.js"></script>
 	<script src="{{ .Site.BaseURL }}js/custom.js"></script>
-	{{ if  not .IsHome }}
-	{{ end }}	
-
+	
 	<!-- 
 	<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>

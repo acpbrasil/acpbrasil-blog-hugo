@@ -26,12 +26,11 @@
         {{ end }}
         
         <!-- Home -->
-        <!-- TODO Testar o Home sem a classe "external" -->
-        <li><a href="{{ .Site.BaseURL }}" class=""><span>{{ with .Site.Params.navigation.home }}{{ . | markdownify }}{{ end }}</span></a></li>
+        <li><a href="{{ .Site.BaseURL }}" class="external"><span>{{ with .Site.Params.navigation.home }}{{ . | markdownify }}{{ end }}</span></a></li>
         
         <!-- Postpend menus -->
         {{ range .Site.Menus.postpend }}
-          <li><a class="external" href="{{ .URL }}"><span>{{ .Name | markdownify }}</span></a></li>
+          <li><a class="external" href="{{ $.Site.BaseURL }}{{ .URL }}"><span>{{ .Name | markdownify }}</span></a></li>
         {{ end }}
       </ul>
     </div>
