@@ -21,10 +21,17 @@
 			</div>
 			{{ if .Site.Params.contact.form }}
 			<div class="col-md-6 to-animate">
-				<form method="post" action="//formspree.io/{{ with .Site.Params.email }}{{.}}{{ end }}">
+
+				{{/*
+					<form method="post" action="//formspree.io/{{ with .Site.Params.email }}{{.}}{{ end }}">
+				*/}}
+				<form method="post" action="//formspree.io/{{ .Site.Params.contact.emailTo }}">
 					<input type="hidden" name="_subject" value="{{ .Site.Params.EmailsSubjectPrefix}} {{ .Site.Params.contact.subject }}" />
+					<input type="hidden" name="_cc" value='{{ delimit .Site.Params.contact.emailCc "," }}' />
+		
 					<!-- TODO Mostrar uma página de confirmação? -->
 					<!-- <input type="hidden" name="_next" value="/thanks.html" /> -->
+				
 					<div class="form-group ">
 						{{ with .Site.Params.contact.name }}
 						<label for="name" class="sr-only">{{ . | markdownify }}</label>
