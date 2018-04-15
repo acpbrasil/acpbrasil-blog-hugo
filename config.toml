@@ -236,7 +236,7 @@ theme = "elate"
     emailTo = "denisazevedo@gmail.com"
     emailCc = [
       "fmorales@acpediatrics.com",
-      # "igindri@acpediatrics.com"
+      "igindri@acpediatrics.com"
     ]
     title = "Contato"
     description = "Quer fazer parte do nosso time?<br>Quer iniciar o processo?<br>Tem dúvidas?<br>Entre em contato com a nossa equipe no Brasil."

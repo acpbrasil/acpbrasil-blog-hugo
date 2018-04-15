@@ -66,6 +66,7 @@
           </li>
           {{ end }} {{ range .Site.Menus.postpend }}
           <li>
+            <!-- <a class="external btn btn-sm btn-default" href="{{ .URL }}"> -->
             <a class="external" href="{{ .URL }}">
               <span>{{ .Name | markdownify }}</span>
             </a>
