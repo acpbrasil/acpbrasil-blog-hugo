@@ -26,6 +26,9 @@ rm -rf public/*
 echo "Generating site"
 hugo
 
+echo "Creating CNAME file for gh-pages"
+echo "www.acpbrasil.com" >> public/CNAME
+
 # TODO add the date to the commit msg
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
