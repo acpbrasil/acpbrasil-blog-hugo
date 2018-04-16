@@ -1,12 +1,9 @@
 ---
 title: "Quem somos nós"
-description: "TODO Alguma descrição"
+description: "Conheça um pouco mais sobre a ACP"
 header: "Por que <em>home care</em>?"
 # date: 2018-04-09T23:34:06-03:00
 ---
-
-<!-- TODO Usar Description ou aqui? -->
-<!-- ## Por que <em>home care</em>? -->
 
 A Advanced Care Pediatrics (ACP) foi fundada em 2010 com objetivo mudar a vida de enfermeiros e de famílias com entes enfermos fornecendo atendimento diferenciado em assistência de enfermagem domiciliar a pacientes pediátricos e adultos.
 

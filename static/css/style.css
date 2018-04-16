@@ -1081,7 +1081,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 0px;
   bottom: 0;
 }
-.section-heading h2:after {
+/* Replace theme's line for ACP hr (variation-x) */
+/* .section-heading h2:after {
   content: "";
   position: absolute;
   display: block;
@@ -1091,7 +1092,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 50%;
   margin-left: -40px;
   bottom: 0;
-}
+} */
 @media screen and (max-width: 768px) {
   .section-heading h2 {
     font-size: 30px;

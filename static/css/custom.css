@@ -208,6 +208,13 @@ section.check-requirements-form form > div {
 }
 */
 
+section#fh5co-services .section-heading {
+  margin-bottom: 10px;
+}
+
+.section-heading > hr.acp-hr {
+  margin-top: -20px;
+}
 
 section.content-header {
   padding-bottom: 16px;
@@ -258,6 +265,15 @@ section hr.variation-3::before {
 }
 section hr.variation-3::after {
   background-color: #8cd0ce;
+}
+section hr.variation-4 {
+  background-color: #ffffff;
+}
+section hr.variation-4::before {
+  background-color: #1f7cb7;
+}
+section hr.variation-4::after {
+  background-color: #f19a45;
 }
 
 

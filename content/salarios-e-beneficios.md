@@ -1,7 +1,7 @@
 ---
 title: "Salários e Benefícios na ACP"
-description: "TODO Alguma descrição"
-header: "TODO Algum subtítulo"
+description: "Conheça as vantagens de fazer parte da nossa equipe"
+header: "Venha trabalhar com a ACP"
 # date: 2018-04-09T23:34:06-03:00
 ---
 
@@ -9,8 +9,10 @@ Salários e benefícios serão firmados entre a ACP e o enfermeiro por meio cont
 
 ## Salários ACP
 
-- A ACP oferece planos de carreira baseado na experiência de cada do profissional;
-- O salario é pago semanalmente para o enfermeiro.
+- Oferecemos planos de carreira baseado na experiência de cada profissional;
+- O salário é pago semanalmente ao enfermeiro.
+
+<p></p>
 
 ## Benefícios ACP
 

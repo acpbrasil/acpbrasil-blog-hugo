@@ -3,6 +3,7 @@
 			<div class="row">
 				<div class="col-md-12 section-heading text-center">
 					<h2 class="to-animate">{{ with .Site.Params.work.title }}{{ . }}{{ end }}</h2>
+					<hr class="acp-hr variation-4 to-animate">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 subtext to-animate">
 							<h3>{{ with .Site.Params.work.description }}{{ . | markdownify }}{{ end }}</h3>
@@ -17,7 +18,7 @@
 				<div class="col-md-4 col-sm-6 col-xxs-12">
 					<!-- Box -->
 					<a href="#work-small-dialog-{{$index}}" class="fh5co-project-item dialog-popup to-animate">
-						<img src="images/{{ .img }}" alt="{{ .alt }}" class="img-responsive">
+						<img src="images/{{ .img }}" alt="{{ .alt }}" class="img-responsive" style="width: 100%;">
 						<div class="fh5co-text">
 							<h2>{{ .title }}</h2>
 							{{/* <span>{{ .subtitle | markdownify }}</span> */}}
@@ -32,7 +33,8 @@
 					</div>
 					<!-- // Content dialog -->
 				</div>				
-				<div class="clearfix visible-sm-block"></div>
+				<!-- <div class="clearfix visible-sm-block"></div> -->
+				<div class="clearfix visible-xs-block"></div>
 			{{ end }}
 		
 			</div>
