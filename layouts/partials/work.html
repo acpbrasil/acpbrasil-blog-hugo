@@ -26,7 +26,7 @@
 					</a>
 					<!-- // Box -->
 					<!-- Content dialog -->
-					<div id="work-small-dialog-{{$index}}" class="zoom-anim-dialog mfp-hide popup-small-dialog">
+					<div id="work-small-dialog-{{$index}}" class="zoom-anim-dialog mfp-hide popup-small-dialog work-small-dialog">
 						<h1>{{ .title }}</h1>
 						<hr class="variation-3">
 						<p>{{ .content | markdownify }}</p>
@@ -40,7 +40,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-12 text-center to-animate work__footer-text">
-					<h2>{{ .Site.Params.work.footertext | markdownify }}</h2>
+					<h3>{{ .Site.Params.work.footertext | markdownify }}</h3>
 				</div>
 			</div>
 		</div>

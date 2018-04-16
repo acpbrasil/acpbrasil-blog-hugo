@@ -4,7 +4,6 @@
 }
 /* // TODO #temp: Deletar quando adicionar o Sobre com as gurias */
 
-
 /*
 xs   (< 768px)
 sm   (>= 768px)  ~  (< 991px)
@@ -12,34 +11,20 @@ md   (>= 992px)  ~  (< 1199px)
 lg   (>= 1200px)
 */
 
-@font-face {
-  font-family: 'GothamRoundedBook'; 
-  src: url("/static/fonts/Gotham-Rounded-Book.otf") format("opentype");
-  font-style: normal;
-}
-@font-face {
-  font-family: 'GothamRoundedMedium'; 
-  src: url("/static/fonts/Gotham-Rounded-Medium.otf") format("opentype");
-  font-style: normal;
-}
-
 body {
-  font-family: 'GothamRoundedBook', sans-serif;
-  /* font-family: 'GothamRoundedMedium', sans-serif; */
-}
+  font-family: 'Varela Round', Arial, sans-serif;
+  /* font-family: 'Open Sans', Arial, sans-serif; */
 
-#fh5co-work .work__footer-text h2 {
-  color: rgba(255, 255, 255, 0.8);
-  /* font-size: 28px; */
-  /* font-size: larger; */
+  /* font-size: 3vw; */
+  /* font-size: 3vh; */
+  /* font-size: 1.5vw; */
+  /* font-size: 1.5vh; */
 }
-
-#fh5co-home .text-inner h1 {
-  /* font-family: AyitaPro,Helvetica,Arial,sans-serif */
-  /* font-family: 'Open Sans', sans-serif; */
-  /* font-family: 'Yantramanav', sans-serif; */
-  /* font-family: 'GothamRoundedBook', sans-serif; */
-  /* font-family: 'GothamRoundedMedium', sans-serif; */
+h1, h2 {
+  font-family: 'Ruluko', sans-serif;
+}
+h3, h4, h5, h6 {
+  font-family: 'Varela Round', Arial, sans-serif;
 }
 
 /* Utilities */
@@ -280,13 +265,30 @@ section hr.variation-4::after {
 
 
 
-
-#fh5co-home .text-inner h2 {
-  font-size: 32px;
-  /* line-height: 38px; */
-  /* margin: 0; */
-  margin-bottom: 20px;
+#fh5co-work .work__footer-text h3 {
+  color: rgba(255, 255, 255, 0.8);
+  /* font-size: 28px; */
+  /* font-size: larger; */
 }
+
+#fh5co-home .text-inner h1,
+#fh5co-home .text-inner h2 {
+  margin-bottom: 30px;
+}
+#fh5co-home .text-inner h2 {
+  font-family: 'Varela Round', Arial, sans-serif;
+  font-size: 1.4em; 
+}
+
+section#fh5co-intro .fh5co-text > p {
+  /* Set the same height even when there's only one line */
+  min-height: 48px;
+}
+
+#fh5co-intro .blocks-container {
+  width: 100%;
+}
+
 
 /* TODO Fix Elate's theme navbar issue
 .fh5co-nav-toggle {
@@ -302,6 +304,13 @@ section hr.variation-4::after {
   max-width: 500px;
   margin: 40px auto;
   position: relative;
+}
+.popup-small-dialog > h1 {
+  color: #157CBA;
+  font-weight: bold;
+}
+.popup-small-dialog.work-small-dialog > ul {
+  padding-left: 20px;
 }
 
 /* Breadcrumbs */
@@ -328,6 +337,7 @@ section hr.variation-4::after {
 }
 #heading-breadcrumbs h4 {
   color: rgba(255, 255, 255, 0.8);
+  font-family: 'Varela Round', Arial, sans-serif;
 }
 @media (max-width: 991px) { /* small devices (sm) */
   #heading-breadcrumbs h1,
