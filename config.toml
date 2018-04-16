@@ -1,5 +1,6 @@
 # Page settings
-baseurl = "https://acpbrasil.github.io/acpbrasil-blog-hugo/"
+# baseurl = "https://acpbrasil.github.io/acpbrasil-blog-hugo/"
+baseurl = "http://www.acpbrasil.com/"
 title = "ACP Brasil"
 languageCode = "pt-br"
 theme = "elate"
