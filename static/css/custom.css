@@ -420,6 +420,91 @@ section#fh5co-intro .fh5co-text > p {
 
 /* ########################################################################### */
 
+section#fh5co-home > * {
+  z-index: 2;
+}
+section#fh5co-home .hero-video-container {
+  background-image:url( ../images/bg/masthead_Mobile_Homepage.jpg);
+  background-position: 50%;
+  background-size: cover;
+  height: 100%;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+section#fh5co-home .hero-video-container video {
+  background-size: cover;
+  height: auto;
+  left: 50%;
+  max-width: 1440px;
+  min-height: 100%;
+  min-width: 100%;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+  width: auto;
+  z-index: -100;
+}
+audio, canvas, progress, video {
+  display: inline-block;
+  vertical-align: baseline;
+}
+@media (min-width: 480px) {
+  section#fh5co-home .hero-video-container:after {
+    background-color: rgba(0,0,0,.4);
+    content: " ";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%
+  }
+}
+/* TODO Alterar fonte para outras media-queries */
+section#fh5co-home .text-inner h1 {
+  /* font-size: 4.5rem; */
+  font-size: 4rem;
+  letter-spacing: normal;
+}
+@media (min-width: 768px) {
+  section#fh5co-home .text-inner h1 {
+    /* font-size: 4rem; */
+    font-size: 4.5rem;
+  }
+}
+@media (min-width: 960px) {
+  section#fh5co-home .text-inner h1 {
+    font-size: 6rem;
+    letter-spacing: 0.025em;
+  }
+}
+
+
+@media screen and (max-device-width: 800px) {
+  /* section#fh5co-home .hero-video-container video { */
+  section#fh5co-home .hero-video-container {
+    display: none;
+  }
+}
+@media screen and (min-device-width: 801px) {
+  section#fh5co-home > .gradient {
+    opacity: 0.4;  
+  }
+  section#fh5co-home > .slant {
+    z-index: 3;
+    height: 90px;
+    margin-bottom: -20px;
+  }
+}
+
+
+/* ########################################################################### */
+
 .navbar-header .navbar-brand > figure svg {
   display: block;
 }

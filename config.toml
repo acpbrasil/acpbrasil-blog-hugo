@@ -58,6 +58,9 @@ theme = "elate"
     title = "ACP: Recrutando, orientando e empregando"
     subtitle = "A enfermagem como passaporte para os EUA."
     description = "Trabalhar como enfermeiro na Advanced Care Pediatrics é a sua oportunidade de expandir seus conhecimentos e alavancar a sua carreira como enfermeiro nos Estados Unidos."
+    # video settings
+    videoUrl = "https://www.advancedcarepediatrics.com/wp-content/uploads/2017/03/homepage-header.mp4"
+    videoImage = "bg/homepage-header-still.jpg"
  
   # Intro section
   # Available icons: http://simplelineicons.com/
