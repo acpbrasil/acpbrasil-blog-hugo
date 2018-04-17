@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Título do pages/_index.md on ACP Brasil</title>
-    <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/pages/</link>
+    <link>http://www.acpbrasil.com/pages/</link>
     <description>Recent content in Título do pages/_index.md on ACP Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     
-	<atom:link href="https://acpbrasil.github.io/acpbrasil-blog-hugo/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.acpbrasil.com/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Xxx</title>
-      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/pages/xxx/</link>
+      <link>http://www.acpbrasil.com/pages/xxx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/pages/xxx/</guid>
+      <guid>http://www.acpbrasil.com/pages/xxx/</guid>
       <description>Conteúdo do XXX</description>
     </item>
     
     <item>
       <title>Zzz (pages)</title>
-      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/pages/zzz/</link>
+      <link>http://www.acpbrasil.com/pages/zzz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/pages/zzz/</guid>
+      <guid>http://www.acpbrasil.com/pages/zzz/</guid>
       <description>ZZZ do pages</description>
     </item>
     

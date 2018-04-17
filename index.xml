@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ACP Brasil</title>
-    <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/</link>
+    <link>http://www.acpbrasil.com/</link>
     <description>Recent content on ACP Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 08 Apr 2018 17:32:08 -0300</lastBuildDate>
     
-	<atom:link href="https://acpbrasil.github.io/acpbrasil-blog-hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.acpbrasil.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Novo vídeo no canal da ACP</title>
-      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/3-post/</link>
+      <link>http://www.acpbrasil.com/blog/3-post/</link>
       <pubDate>Sun, 08 Apr 2018 17:32:08 -0300</pubDate>
       
-      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/3-post/</guid>
+      <guid>http://www.acpbrasil.com/blog/3-post/</guid>
       <description>Este é post mais recente.
 Já viram nosso novo vídeo?
   </description>
@@ -24,10 +24,10 @@ Já viram nosso novo vídeo?
     
     <item>
       <title>ACP publica sua apresentação</title>
-      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/2-post/</link>
+      <link>http://www.acpbrasil.com/blog/2-post/</link>
       <pubDate>Sun, 08 Apr 2018 17:15:08 -0300</pubDate>
       
-      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/2-post/</guid>
+      <guid>http://www.acpbrasil.com/blog/2-post/</guid>
       <description>Esta é a apresentação da ACP Brasil no XVI Congresso dos Enfermeiros de Acapulco.
 Veja:
  </description>
@@ -35,10 +35,10 @@ Veja:
     
     <item>
       <title>ACP Brasil inaugura seu Instagram</title>
-      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/1-post/</link>
+      <link>http://www.acpbrasil.com/blog/1-post/</link>
       <pubDate>Sun, 08 Apr 2018 16:59:48 -0300</pubDate>
       
-      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/1-post/</guid>
+      <guid>http://www.acpbrasil.com/blog/1-post/</guid>
       <description>Este é o nosso primeiro post.
 Vejam nossas últimas fotos publicadas no Instagram:
 A post shared by I&amp;#39;m Proud To Be A Nurse! (@iamproudtobeanurse) on Feb 10, 2017 at 11:11am PST
@@ -47,29 +47,29 @@ A post shared by I&amp;#39;m Proud To Be A Nurse! (@iamproudtobeanurse) on Feb 1
     
     <item>
       <title>Está interessado?</title>
-      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/formulario/</link>
+      <link>http://www.acpbrasil.com/formulario/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/formulario/</guid>
+      <guid>http://www.acpbrasil.com/formulario/</guid>
       <description>Nome  Email  Telefone  Idade  Estado civil  Cidade   Universidade  Experiência como enfermeiro Sem experiência  Aluno de graduação  1 – 12 meses  13 – 17 meses  18 – 24 meses  Acima de 24 meses   Já fez especialização? Se sim, em qual área? Sim  Não    Já realizou teste de proficiência em inglês (TOEFL ou IELTS)?</description>
     </item>
     
     <item>
       <title>Quem somos nós</title>
-      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/sobre/</link>
+      <link>http://www.acpbrasil.com/sobre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/sobre/</guid>
+      <guid>http://www.acpbrasil.com/sobre/</guid>
       <description>A Advanced Care Pediatrics (ACP) foi fundada em 2010 com objetivo mudar a vida de enfermeiros e de famílias com entes enfermos fornecendo atendimento diferenciado em assistência de enfermagem domiciliar a pacientes pediátricos e adultos.
 Nos EUA, famílias de pacientes com condições médicas frágeis, que necessitam o mesmo nível de cuidado como se estivessem hospitalizadas, recebem apoio governamental para ter assistência de enfermagem domiciliar sem custo algum. O governo americano contrata empresas como a ACP para oferecer atendimento de enfermagem a estes pacientes no conforto de suas casas.</description>
     </item>
     
     <item>
       <title>Salários e Benefícios na ACP</title>
-      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/salarios-e-beneficios/</link>
+      <link>http://www.acpbrasil.com/salarios-e-beneficios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/salarios-e-beneficios/</guid>
+      <guid>http://www.acpbrasil.com/salarios-e-beneficios/</guid>
       <description>Salários e benefícios serão firmados entre a ACP e o enfermeiro por meio contratual.
 Salários ACP  Oferecemos planos de carreira baseado na experiência de cada profissional; O salário é pago semanalmente ao enfermeiro.  
 Benefícios ACP Os enfermeiros serão recebidos pela equipe da ACP nos EUA e além de ajuda de custo terão suporte de estadia e transporte pelos primeiros 30 dias, além de disponibilidade de contato 24h/7 dias por semana durante todo o tempo de contrato.</description>
@@ -77,28 +77,28 @@ Benefícios ACP Os enfermeiros serão recebidos pela equipe da ACP nos EUA e al�
     
     <item>
       <title>Xxx</title>
-      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/pages/xxx/</link>
+      <link>http://www.acpbrasil.com/pages/xxx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/pages/xxx/</guid>
+      <guid>http://www.acpbrasil.com/pages/xxx/</guid>
       <description>Conteúdo do XXX</description>
     </item>
     
     <item>
       <title>Zzz</title>
-      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/zzz/</link>
+      <link>http://www.acpbrasil.com/zzz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/zzz/</guid>
+      <guid>http://www.acpbrasil.com/zzz/</guid>
       <description>ZZZ do content</description>
     </item>
     
     <item>
       <title>Zzz (pages)</title>
-      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/pages/zzz/</link>
+      <link>http://www.acpbrasil.com/pages/zzz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/pages/zzz/</guid>
+      <guid>http://www.acpbrasil.com/pages/zzz/</guid>
       <description>ZZZ do pages</description>
     </item>
     

@@ -193,7 +193,8 @@ section.check-requirements-form form > div {
 }
 */
 
-section#fh5co-services .section-heading {
+section#fh5co-services .section-heading,
+section#fh5co-testimonials .section-heading {
   margin-bottom: 10px;
 }
 

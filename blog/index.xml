@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on ACP Brasil</title>
-    <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/</link>
+    <link>http://www.acpbrasil.com/blog/</link>
     <description>Recent content in Blog on ACP Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 08 Apr 2018 17:32:08 -0300</lastBuildDate>
     
-	<atom:link href="https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.acpbrasil.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Novo vídeo no canal da ACP</title>
-      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/3-post/</link>
+      <link>http://www.acpbrasil.com/blog/3-post/</link>
       <pubDate>Sun, 08 Apr 2018 17:32:08 -0300</pubDate>
       
-      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/3-post/</guid>
+      <guid>http://www.acpbrasil.com/blog/3-post/</guid>
       <description>Este é post mais recente.
 Já viram nosso novo vídeo?
   </description>
@@ -24,10 +24,10 @@ Já viram nosso novo vídeo?
     
     <item>
       <title>ACP publica sua apresentação</title>
-      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/2-post/</link>
+      <link>http://www.acpbrasil.com/blog/2-post/</link>
       <pubDate>Sun, 08 Apr 2018 17:15:08 -0300</pubDate>
       
-      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/2-post/</guid>
+      <guid>http://www.acpbrasil.com/blog/2-post/</guid>
       <description>Esta é a apresentação da ACP Brasil no XVI Congresso dos Enfermeiros de Acapulco.
 Veja:
  </description>
@@ -35,10 +35,10 @@ Veja:
     
     <item>
       <title>ACP Brasil inaugura seu Instagram</title>
-      <link>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/1-post/</link>
+      <link>http://www.acpbrasil.com/blog/1-post/</link>
       <pubDate>Sun, 08 Apr 2018 16:59:48 -0300</pubDate>
       
-      <guid>https://acpbrasil.github.io/acpbrasil-blog-hugo/blog/1-post/</guid>
+      <guid>http://www.acpbrasil.com/blog/1-post/</guid>
       <description>Este é o nosso primeiro post.
 Vejam nossas últimas fotos publicadas no Instagram:
 A post shared by I&amp;#39;m Proud To Be A Nurse! (@iamproudtobeanurse) on Feb 10, 2017 at 11:11am PST
