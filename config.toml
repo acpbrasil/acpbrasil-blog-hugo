@@ -17,7 +17,7 @@ theme = "elate"
   author = ""
   description = ""
   # TODO Trocar o email
-  email = "denisazevedo@gmail.com"
+  email = "contato@acpediatrics.com"
   
   # Forms configuration
   emailsSubjectPrefix = "[ACP]"
@@ -137,7 +137,7 @@ theme = "elate"
 
     [[params.services.item]]
       title = "Enfermeiros"
-      description = "Cuidaremos do seu processo de forma personalizada, traçando uma meta realista de acordo com as suas e necessidades e experiência profissional."
+      description = "Cuidaremos do seu processo de forma personalizada, traçando uma meta realista de acordo com as suas necessidades e experiência profissional."
       icon = "icon-people"
 
     [[params.services.item]]
@@ -234,10 +234,11 @@ theme = "elate"
     enable = true
     map = true
     form = true
-    emailTo = "denisazevedo@gmail.com"
+    emailTo = "contato@acpediatrics.com"
     emailCc = [
       "fmorales@acpediatrics.com",
-      "igindri@acpediatrics.com"
+      "igindri@acpediatrics.com",
+      "denisazevedo@gmail.com"
     ]
     title = "Contato"
     description = "Quer fazer parte do nosso time?<br>Quer iniciar o processo?<br>Tem dúvidas?<br>Entre em contato com a nossa equipe no Brasil."
@@ -246,10 +247,7 @@ theme = "elate"
     details = [
         ["icon-home", "Florianópolis / SC"],
         ["icon-phone", "+55 (48) 99176-0676<br>+55 (48) 99176-3535"],
-        # TODO Decidir sobre o email
-        # TODO Colocar o link para email
-        ["icon-envelope", "fmorales@acpediatrics.com<br>igindri@acpediatrics.com"],
-        # ["icon-envelope", "<a href='mailto:contato@acpediatrics.com?subject=Contato'>contato@acpediatrics.com</a>"],
+        ["icon-envelope", "<a href='mailto:contato@acpediatrics.com?subject=Contato'>contato@acpediatrics.com</a>"],
         # TODO Colocar a url da ACP Brasil também?
         ["icon-globe", '<a href="https://www.advancedcarepediatrics.com/" target="_blank">ACP Home care</a><br><a href="http://www.acpbrasil.com/" target="_blank">ACP Brasil</a>']
       ]

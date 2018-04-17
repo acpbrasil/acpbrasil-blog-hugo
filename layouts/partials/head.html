@@ -1,18 +1,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> {{ .Title }}</title>
+    {{ $title := cond (.IsHome) (.Title) (printf "%s - %s" .Site.Title .Title) }}
+    <title>{{ $title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--     <meta name="description" content="Free HTML5 Template by FREEHTML5.CO - Hugo port by Pieter Saey" />
     <meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive, hugo, static site" />
-    <meta name="author" content="FREEHTML5.CO / Hugo port " />
- -->
+    <meta name="author" content="FREEHTML5.CO / Hugo port " /> -->
     {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
     {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
     {{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
 
   <!-- 
     //////////////////////////////////////////////////////
-
     FREE HTML5 TEMPLATE 
     DESIGNED & DEVELOPED by FREEHTML5.CO
         
@@ -26,8 +25,6 @@
     Website:        http://saey55.gitlab.io/pietercv
     Email:          saeypieter@gmail.com
     Twitter:        http://twitter.com/saey55
-    
-
     //////////////////////////////////////////////////////
      -->
 
@@ -78,19 +75,6 @@
     <!-- Bootstrap  -->
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.css">
 
-    <!-- 
-    Default Theme Style 
-    You can change the style.css (default color purple) to one of these styles
-    
-    1. pink.css
-    2. blue.css
-    3. turquoise.css
-    4. orange.css
-    5. lightblue.css
-    6. brown.css
-    7. green.css
-
-    -->
     <!-- <link rel="stylesheet" href="css/style.css"> -->
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
 
