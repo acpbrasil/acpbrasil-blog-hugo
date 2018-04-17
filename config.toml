@@ -30,7 +30,7 @@ theme = "elate"
     work = "Por que a ACP?"
     services = "Serviços"
     # TODO Habilitar Testemunhos?
-    testimonials = "Testemunhos"
+    # testimonials = "Testemunhos"
     about = "Sobre"
     contact = "Contato"
 
