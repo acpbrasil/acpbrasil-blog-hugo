@@ -6,9 +6,46 @@
     <description>Recent content in Tags on ACP Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
+    <lastBuildDate>Tue, 17 Apr 2018 22:10:00 -0300</lastBuildDate>
     
 	<atom:link href="http://www.acpbrasil.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Emprego</title>
+      <link>http://www.acpbrasil.com/tags/emprego/</link>
+      <pubDate>Tue, 17 Apr 2018 22:10:00 -0300</pubDate>
+      
+      <guid>http://www.acpbrasil.com/tags/emprego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enfermagem</title>
+      <link>http://www.acpbrasil.com/tags/enfermagem/</link>
+      <pubDate>Tue, 17 Apr 2018 22:10:00 -0300</pubDate>
+      
+      <guid>http://www.acpbrasil.com/tags/enfermagem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eua</title>
+      <link>http://www.acpbrasil.com/tags/eua/</link>
+      <pubDate>Tue, 17 Apr 2018 22:10:00 -0300</pubDate>
+      
+      <guid>http://www.acpbrasil.com/tags/eua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vagas</title>
+      <link>http://www.acpbrasil.com/tags/vagas/</link>
+      <pubDate>Tue, 17 Apr 2018 22:10:00 -0300</pubDate>
+      
+      <guid>http://www.acpbrasil.com/tags/vagas/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

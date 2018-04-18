@@ -3,29 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.acpbrasil.com/blog/3-post/</loc>
-    <lastmod>2018-04-08T17:32:08-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.acpbrasil.com/blog/2-post/</loc>
-    <lastmod>2018-04-08T17:15:08-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.acpbrasil.com/blog/1-post/</loc>
-    <lastmod>2018-04-08T16:59:48-03:00</lastmod>
+    <loc>http://www.acpbrasil.com/blog/2018-04-17-escassez-de-enfermeiros-nos-eua/</loc>
+    <lastmod>2018-04-17T22:10:00-03:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.acpbrasil.com/</loc>
-    <lastmod>2018-04-08T17:32:08-03:00</lastmod>
+    <lastmod>2018-04-17T22:10:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.acpbrasil.com/blog/</loc>
-    <lastmod>2018-04-08T17:32:08-03:00</lastmod>
+    <lastmod>2018-04-17T22:10:00-03:00</lastmod>
   </url>
   
   <url>
@@ -34,7 +24,31 @@
   </url>
   
   <url>
+    <loc>http://www.acpbrasil.com/tags/emprego/</loc>
+    <lastmod>2018-04-17T22:10:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acpbrasil.com/tags/enfermagem/</loc>
+    <lastmod>2018-04-17T22:10:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.acpbrasil.com/formulario/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.acpbrasil.com/tags/eua/</loc>
+    <lastmod>2018-04-17T22:10:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acpbrasil.com/categories/mercado/</loc>
+    <lastmod>2018-04-17T22:10:00-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -47,11 +61,18 @@
   
   <url>
     <loc>http://www.acpbrasil.com/tags/</loc>
+    <lastmod>2018-04-17T22:10:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.acpbrasil.com/pages/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.acpbrasil.com/tags/vagas/</loc>
+    <lastmod>2018-04-17T22:10:00-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

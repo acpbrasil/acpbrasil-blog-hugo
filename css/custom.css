@@ -20,16 +20,22 @@ body {
   font-family: 'Varela Round', Arial, sans-serif;
   /* font-family: 'Open Sans', Arial, sans-serif; */
 
+  /* font-size: 2.5vh; */
   /* font-size: 3vw; */
-  /* font-size: 3vh; */
   /* font-size: 1.5vw; */
   /* font-size: 1.5vh; */
+}
+@media (max-width: 767px) {
+  body {
+    font-size: 2.5vh;
+  }
 }
 h1, h2 {
   font-family: 'Ruluko', sans-serif;
 }
 h3, h4, h5, h6 {
   font-family: 'Varela Round', Arial, sans-serif;
+  /* font-size: 3.4vh; */
 }
 
 /* Utilities */
@@ -75,6 +81,14 @@ a.inner-section-link:focus {
   /* font-size: 16px; */
 }
 /* TODO Usar uma fonte menor para xs devices */
+
+/* div.buttons {
+  text-align: right;
+  margin: 20px 0;
+}
+div.buttons.bottom-buttons {
+  margin-top: 30px;
+} */
 
 
 /* Blockquote */
@@ -346,9 +360,16 @@ section#fh5co-intro .fh5co-text > p {
   font-family: 'Varela Round', Arial, sans-serif;
 }
 @media (max-width: 991px) { /* small devices (sm) */
+  #heading-breadcrumbs {
+    margin-bottom: 20px;
+  }
   #heading-breadcrumbs h1,
   #heading-breadcrumbs h4 {
+    margin-bottom: 20px;
     text-align: center;
+  }
+  #heading-breadcrumbs h4 {
+    margin-bottom: 10px;
   }
 }
 #heading-breadcrumbs ul.breadcrumb {
@@ -359,6 +380,11 @@ section#fh5co-intro .fh5co-text > p {
 
 
 /* Responsive fixes */
+#footer .gotop {
+  width: 50px;
+  height: 50px;
+  margin-left: -25px;
+}
 @media (max-width: 1199px) { /* medium devices (md) */
   #footer .gotop {
     width: 60px;
