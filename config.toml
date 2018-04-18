@@ -5,6 +5,8 @@ title = "ACP Brasil"
 languageCode = "pt-br"
 theme = "elate"
 
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-117751277-1"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "acpbrasil"
 

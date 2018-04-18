@@ -4,6 +4,9 @@
     <title>{{ $title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+  
     {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
     {{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
 
