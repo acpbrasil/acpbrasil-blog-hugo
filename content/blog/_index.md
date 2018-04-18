@@ -2,9 +2,7 @@
 # type: "list"
 # type: "blog"
 title: "Blog"
-description: "TODO Alguma descrição"
+description: "Últimos posts"
 # header: "Últimos posts"
+# keywords: ["blog", "emprego", "eua", "enfermeiros"]
 ---
-
-Este é o conteúdo do <code>blog/_index.md</code>
-<p><b>Últimos posts:</b></p>

@@ -5,6 +5,9 @@ title = "ACP Brasil"
 languageCode = "pt-br"
 theme = "elate"
 
+# Define the number of posts per page
+paginate = 5
+
 [params]
 
   # Format dates with Go's time formatting
@@ -48,10 +51,10 @@ theme = "elate"
       url = "formulario/"
       name = "Faça parte"
       weight = 10
-    # [[menu.postpend]]
-    #   url = "blog/"
-    #   name = "Blog"
-    #   weight = 11
+    [[menu.postpend]]
+      url = "blog/"
+      name = "Blog"
+      weight = 11
   
   # Hero section
   [params.hero]

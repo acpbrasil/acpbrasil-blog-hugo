@@ -17,16 +17,14 @@
       <div class="container">
         <div class="row">
           <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
-    
-            {{ if isset .Params "header" }}
-              {{ partial "content-header.html" . }}
-            {{ end }}
+
+            {{ partial "content-header.html" . }}
 
             <!-- <pre>MAIN</pre> -->
-            <!-- <section> -->
-            {{ block "main" . }}
-            {{ end }}
-            <!-- </section> -->
+            <section class="main">
+              {{ block "main" . }}
+              {{ end }}
+            </section>
             <!-- <pre>// MAIN</pre> -->
 
           </div>

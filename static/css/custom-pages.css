@@ -5,10 +5,98 @@ body {
 }
 
 footer {
+  margin-top: 50px;
+}
+
+div.buttons {
+  text-align: right;
+  margin: 20px 0;
+}
+div.buttons.bottom-buttons {
   margin-top: 30px;
 }
 
 #fh5co-header.navbar-fixed-top {
   /* Overrides style.css to hide the navbar during scroll */
   position: absolute !important;
+}
+
+
+/* ########################################################################### */
+
+article.post {
+  margin: 15px 0 60px;
+}
+
+article.post .image {
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+article.post .baner > .image img {
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+article.post h3 {
+  text-transform: uppercase;
+  margin: 0 0 10px;
+  /* font-size: 24px; */
+  letter-spacing: 0.08em;
+}
+article.post .author-category {
+  float: left;
+  color: #999999;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+}
+article.post p.intro {
+  text-align: left;
+  color: #999999;
+  /* font-size: 0.7em; */
+  /* font-size: 0.8em; */
+  letter-spacing: 0.01em;
+  margin: 0 0 10px;
+}
+
+article.post .date-comments {
+  float: right;
+  font-size: 12px;
+}
+article.post .date-comments a {
+  color: #999999;
+  margin-right: 20px;
+}
+article.post .date-comments a:hover {
+  color: #157CBA;
+}
+article.post .read-more {
+  text-align: right;
+}
+
+article .source {
+  font-size: smaller;
+  padding-top: 10px;
+}
+
+article.post .read-more > a.btn {
+  color: #F39B3B;
+  background-color: #ffffff;
+  border-color: #F39B3B;
+}
+
+@media (max-width: 767px) {
+  article.post p.intro {
+    font-size: 16px;
+  }
+  article.post .baner > .image img.img-responsive {
+    min-width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  article.post .date-comments {
+    text-align: right;
+  }
 }

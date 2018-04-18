@@ -1,4 +1,14 @@
+{{/* 
+  {{ partial "_debug.html" .}}
+*/}}
+
+{{ if and (eq .Type "blog") (eq .Kind "page") }}
 <section class="content-header">
-  <h2 class="section_heading">{{ .Params.Header | safeHTML }}</h2>
+  <h2 class="section_heading">{{ .Params.Title | safeHTML }}</h2>
   <hr class="acp-hr variation-3">
 </section>
+{{ else if isset .Params "header" }}
+  <section class="content-header">
+  <h2 class="section_heading">{{ .Params.Header | safeHTML }}</h2>
+  <hr class="acp-hr variation-3">
+{{ end }}

@@ -1,27 +1,8 @@
 {{ define "main" }}
 
-  <!-- TODO Usar este IF ou criar um blog/single.html ??? -->
-  {{ if eq .Section "blog" }}
-    <a class="btn btn-default btn-sm" href="{{ .Site.BaseURL }}blog/">Voltar</a>
-  {{ end }}
-
-  <!-- Description -->
-  <!-- <h2>{{ .Description | safeHTML }}</h2> -->
-  <!-- Author / Date -->
-  {{ if not .Date.IsZero }}
-    <p class="font-smaller text-muted text-uppercase mb-small text-right">
-      {{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}
-    </p>
-  {{ end }}
   <!-- Page Content -->
   <div class="page-content">
-    {{.Content}}
+    {{ .Content }}
   </div>
-
-
-  <!-- TODO Usar este IF ou criar um blog/single.html ??? -->
-  {{ if eq .Section "blog" }}
-    <a class="btn btn-default btn-sm" href="{{ .Site.BaseURL }}blog/">Voltar</a>
-  {{ end }}
 
 {{ end }}

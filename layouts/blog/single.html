@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+  <!-- Author / Date -->
+  {{ if not .Date.IsZero }}
+    <p class="font-smaller text-muted text-uppercase mb-small text-right">
+      {{ if .Params.author }}<i class="icon-user"></i> Autor: <a href="#">{{ .Params.author }}</a> | {{ end }}
+      {{/* .Date.Format .Site.Params.date_format */}}
+      <i class="icon-calendar"></i> {{ .Date.Day }} · {{ index $.Site.Data.meses (printf "%d" .Date.Month) }} · {{ .Date.Year }}
+    </p>
+  {{ end }}
+
+  <!-- Article content -->
+  <article class="page-content">
+    {{ .Content }}
+
+    {{ with .Params.source }}
+    <div class="source text-muted">Fonte: <a href="{{ . }}" target="_blank">{{ . }}</a></div>
+    {{ end }}
+  </article>
+
+  <!-- Buttons -->
+  <div class="buttons bottom-buttons">
+    <a class="btn btn-primary btn-sm" href="{{ .Site.BaseURL }}blog/">Voltar</a>
+  </div>
+
+{{ end }}
