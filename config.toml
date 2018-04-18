@@ -5,6 +5,9 @@ title = "ACP Brasil"
 languageCode = "pt-br"
 theme = "elate"
 
+# Enable comments by entering your Disqus shortname
+disqusShortname = "acpbrasil"
+
 # Define the number of posts per page
 paginate = 5
 

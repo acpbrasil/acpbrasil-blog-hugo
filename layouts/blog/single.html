@@ -12,7 +12,6 @@
   <!-- Article content -->
   <article class="page-content">
     {{ .Content }}
-
     {{ with .Params.source }}
     <div class="source text-muted">Fonte: <a href="{{ . }}" target="_blank">{{ . }}</a></div>
     {{ end }}
@@ -22,5 +21,13 @@
   <div class="buttons bottom-buttons">
     <a class="btn btn-primary btn-sm" href="{{ .Site.BaseURL }}blog/">Voltar</a>
   </div>
+
+  <!-- Comments -->
+  {{ if .Site.DisqusShortname }}
+  <hr class="acp-hr variation-3">
+  <div class="disqus-comments">
+    {{ template "_internal/disqus.html" . }}
+  </div>
+  {{ end }}
 
 {{ end }}
