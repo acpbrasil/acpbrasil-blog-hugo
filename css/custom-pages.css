@@ -87,6 +87,10 @@ article.post .read-more > a.btn {
   border-color: #F39B3B;
 }
 
+hr + .disqus-comments {
+  padding-top: 20px;
+}
+
 @media (max-width: 767px) {
   article.post p.intro {
     font-size: 16px;
