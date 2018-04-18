@@ -17,14 +17,18 @@ paginate = 5
   custom_pages_css = ["css/custom-pages.css"] # Custom CSS files for all other pages
 
   # Meta
-  author = ""
-  description = ""
-  # TODO Trocar o email
+  # TODO Me adicionar como autor
+  # author = "Denis C de Azevedo <denis.azevedo@gmail.com>"
+  author = "ACP Brasil"
+  description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
   email = "contato@acpediatrics.com"
+
+  # TODO Definir keywords com as gurias
+  defaultKeywords = [ "acp", "eua", "blog", "enfermeiros", "nurse", "recrutamento", "migração", "emprego", "job" ]
+
   
   # Forms configuration
   emailsSubjectPrefix = "[ACP]"
-  # TODO Add other emails here (_cc)
   
   # Navigation
   [params.navigation]
