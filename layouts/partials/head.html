@@ -1,7 +1,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    {{ $title := cond (.IsHome) (.Title) (printf "%s - %s" .Site.Title .Title) }}
-    <title>{{ $title }}</title>
+    {{ $title := cond (.IsHome) (.Site.Params.Description) (.Title) }}
+    <title>{{ .Site.Title}} - {{ $title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="robots" content="all,follow">

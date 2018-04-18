@@ -2,7 +2,7 @@
 title: "Escassez de enfermeiros nos EUA"
 date: 2018-04-17T22:10:00-03:00
 # TODO Definir tags
-tags: ["emprego", "vagas", "eua", "enfermagem"]
+tags: ["emprego", "vagas", "eua", "escassez", "enfermagem", "profissionais", "estimativa"]
 categories: ["Mercado"]
 # banner: "ambulance-1822457_640-2.jpg"
 banner: "emergency.jpg"
