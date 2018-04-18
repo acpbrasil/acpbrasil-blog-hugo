@@ -1,5 +1,6 @@
 <form method="post" class="about-you-form" action="//formspree.io/{{ $.Page.Site.Params.email }}">
   <input type="hidden" name="_subject" value="{{ $.Page.Site.Params.EmailsSubjectPrefix}} Novo formulário enviado!" />
+  <input type="hidden" name="_cc" value='{{ delimit .Site.Params.contact.emailCc "," }}' />
   <input type="hidden" name="_language" value="{{ $.Page.Site.LanguageCode }}" />
 
   <!-- TODO Mostrar uma página de confirmação? -->
