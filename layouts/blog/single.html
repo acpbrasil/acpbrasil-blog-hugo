@@ -23,11 +23,16 @@
   </div>
 
   <!-- Comments -->
-  {{ if .Site.DisqusShortname }}
-  <hr class="acp-hr variation-3">
-  <div class="disqus-comments">
-    {{ template "_internal/disqus.html" . }}
-  </div>
+  {{ if not (in (string .Site.BaseURL) "localhost") }}
+    {{ if .Site.DisqusShortname }}
+    <hr class="acp-hr variation-3">
+    <div class="disqus-comments">
+      {{ template "_internal/disqus.html" . }}
+    </div>
+    {{ end }}
+  {{ else }}
+    <hr class="acp-hr variation-3">
+    <div class="alert alert-warning">Disqus desabilitado em <code>localhost</code>.</div>
   {{ end }}
 
 {{ end }}
