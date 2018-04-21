@@ -103,7 +103,7 @@ paginate = 5
 
   [params.intro.video]
     enable = true
-    title = "Assista ao vídeo e conheça mais sobre a ACP nas palavras de Greice Murphy"
+    title = "Assista ao vídeo e conheça mais sobre a ACP nas palavras da fundadora Greice Murphy"
     icon = "icon-play2"
     url = "https://www.youtube.com/watch?v=QWJAwVH1ULY"
 
