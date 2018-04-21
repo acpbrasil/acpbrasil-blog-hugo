@@ -279,6 +279,24 @@ section hr::after {
   left: auto;
   right: 0;
 }
+section hr.variation-1 {
+  background-color: #1f7cb7;
+}
+section hr.variation-1::before {
+  background-color: #8cd0ce;
+}
+section hr.variation-1::after {
+  background-color: #f19a45;
+}
+section hr.variation-2 {
+  background-color: #8cd0ce;
+}
+section hr.variation-2::before {
+  background-color: #f19a45;
+}
+section hr.variation-2::after {
+  background-color: #1f7cb7;
+}
 section hr.variation-3 {
   background-color: #f19a45;
 }

@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>About</title>
+      <link>http://www.acpbrasil.com/tags/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acpbrasil.com/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefícios</title>
+      <link>http://www.acpbrasil.com/tags/benef%C3%ADcios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acpbrasil.com/tags/benef%C3%ADcios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Emprego</title>
       <link>http://www.acpbrasil.com/tags/emprego/</link>
       <pubDate>Tue, 17 Apr 2018 22:10:00 -0300</pubDate>
@@ -66,11 +84,56 @@
     </item>
     
     <item>
+      <title>Exterior</title>
+      <link>http://www.acpbrasil.com/tags/exterior/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acpbrasil.com/tags/exterior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O Que É Acp</title>
+      <link>http://www.acpbrasil.com/tags/o-que-%C3%A9-acp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acpbrasil.com/tags/o-que-%C3%A9-acp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Profissionais</title>
       <link>http://www.acpbrasil.com/tags/profissionais/</link>
       <pubDate>Tue, 17 Apr 2018 22:10:00 -0300</pubDate>
       
       <guid>http://www.acpbrasil.com/tags/profissionais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quem Somos</title>
+      <link>http://www.acpbrasil.com/tags/quem-somos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acpbrasil.com/tags/quem-somos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quem É Acp</title>
+      <link>http://www.acpbrasil.com/tags/quem-%C3%A9-acp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acpbrasil.com/tags/quem-%C3%A9-acp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salário</title>
+      <link>http://www.acpbrasil.com/tags/sal%C3%A1rio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acpbrasil.com/tags/sal%C3%A1rio/</guid>
       <description></description>
     </item>
     
