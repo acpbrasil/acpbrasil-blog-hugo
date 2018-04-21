@@ -112,7 +112,7 @@ paginate = 5
   [params.work]
     enable = true
     title = "Por que a ACP?"
-    description = "ACP atua ativamente na busca de enfermeiros qualificados para integrar a equipe da ACP na área de enfermagem domiciliar. O nosso time de profissionais irá junto com você percorrer e transpor todas as etapas necessárias para <strong>você exercer a enfermagem nos Estados Unidos como profissional habilitado</strong>."
+    description = "ACP atua ativamente na busca de enfermeiros qualificados para integrar a equipe da ACP na área de enfermagem domiciliar. O nosso time de profissionais irá junto com você percorrer e transpor todas as etapas necessárias para <strong style='text-decoration: underline;'>você exercer a enfermagem nos Estados Unidos como profissional habilitado</strong>.<br><br>Confira o passo a passo nos quadros abaixo:"
     footertext = "Nós ajudaremos você em todas estas etapas."
     dataContent = "porqueacp" # Arquivo dentro de data/ com o conteúdo dessa seção
 

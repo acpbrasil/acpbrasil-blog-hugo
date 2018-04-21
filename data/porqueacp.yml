@@ -4,11 +4,11 @@
 
 # 01 - Requisitos mínimos
 - id: "requisitos-minimos"
-  title: "Requisitos mínimos"
+  title: "#1 - Requisitos mínimos"
   # subtitle: ""
   # Tamanho da imagem: 470 x 330 px
   img: "work/requisitos-minimos.jpg"
-  alt: "Requisitos mínimos"
+  alt: "#1 - Requisitos mínimos"
   # TODO usar icone de check
   content: |
     - Ter inglês intermediário / avançado;
@@ -18,10 +18,10 @@
 
 # 02 - Teste de proficiência em inglês
 - id: "teste-proficiencia"
-  title: "Teste de proficiência em inglês"
+  title: "#2 - Teste de proficiência em inglês"
   # subtitle: "Qual teste de inglês devo fazer?"
   img: "work/teste-proficiencia.jpg"
-  alt: "Teste de proficiência em inglês"
+  alt: "#2 - Teste de proficiência em inglês"
   content: |
     O conselho de enfermagem de cada estado exige, na sua grande maioria, a proficiência do inglês. Esta proficiência pode ser avaliada através de dois exames&colon;
     
@@ -31,39 +31,39 @@
 
 # 03 - O que é CGFNS
 - id: "cgfns"
-  title: "O que é CGFNS"
+  title: "#3 - O que é CGFNS"
   # subtitle: ""
   img: "work/cgfns.jpg"
-  alt: "O que é CGFNS"
+  alt: "#3 - O que é CGFNS"
   content: |
     O CGFNS (_Commission on Graduates of Foreign Nursing Schools_) é uma instituição que ajuda profissionais de saúde na validação das credenciais acadêmicas e profissionais.
 
 
 # 04 - Licença profissional
 - id: "licenca-profissional"
-  title: "Licença profissional"
+  title: "#4 - Licença profissional"
   # subtitle: ""
   img: "work/licenca-profissional.jpg"
-  alt: "Licença profissional"
+  alt: "#4 - Licença profissional"
   content: |
     Após validação dos documentos pelo CGFNS, inicia-se o processo de retirada da licença junto ao conselho de interesse.
 
 
 # 05 - NCLEX
 - id: "nclex"
-  title: "NCLEX"
+  title: "#5 - NCLEX"
   # subtitle: ""
   img: "work/nclex.jpg"
-  alt: "NCLEX"
+  alt: "#5 - NCLEX"
   content: |
     NCLEX é um exame que enfermeiros americanos e estrangeiros devem realizar para obter a sua licença e assim poder exercer a profissão.
 
 
 # 06 - Imigração
 - id: "imigracao"
-  title: "Imigração"
+  title: "#6 - Imigração"
   # subtitle: ""
   img: "work/imigracao.jpg"
-  alt: "Imigração"
+  alt: "#6 - Imigração"
   content: |
     Nessa etapa a ACP atuará como seu empregador (_sponsor_). A etapa de imigração será desenvolvida por um escritório parceiro.
