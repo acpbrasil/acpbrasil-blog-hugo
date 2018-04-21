@@ -79,7 +79,7 @@ paginate = 5
   [params.intro]
 
   [[params.intro.item]]
-    title = "Quem somos nós?"
+    title = "Quem somos?"
     description = "Conheça um pouco mais sobre a ACP."
     # TODO Testar o link no github.io
     url = "sobre/"

@@ -1,5 +1,5 @@
 ---
-title: "Quem somos nós"
+title: "Quem somos"
 description: "Conheça um pouco mais sobre a ACP"
 header: "Por que <em>home care</em>?"
 # date: 2018-04-09T23:34:06-03:00
@@ -11,7 +11,6 @@ Nos EUA, famílias de pacientes com condições médicas frágeis, que necessita
 
 Em oito anos a ACP se tornou referência nacional, integrando desde 2015 a conceituada lista da INC 5000 que avalia anualmente as empresas que mais crescem nos EUA. Tudo isso devido à seriedade e comprometimento da ACP com seus enfermeiros, pacientes e familiares.
 
-<!-- TODO Criar um shortcode pro blockquote? -->
 <blockquote><p>Em oito anos a ACP se tornou referência nacional, integrando desde 2015 lista das 5000 empresas que mais crescem nos EUA.”</p></blockquote>
 
 Parte do sucesso da ACP fundamenta-se em sua cultura única de ir além do trabalho em equipe para alcançar excelência no serviço oferecido. Na ACP, cuidamos uns dos outros como em uma família, alinhados pelo respeito mútuo e compartilhando os mesmos valores. A maior prova do nosso sucesso é demonstrada quando 90% dos enfermeiros contratados são provenientes de indicações dos membros da ACP.
