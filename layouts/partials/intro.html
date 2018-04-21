@@ -18,10 +18,10 @@
 			</div>
 			{{ if .Site.Params.intro.video.enable }}
 			<div class="row watch-video text-center to-animate">
-				<!-- <span>{{ with .Site.Params.intro.video }}{{ . }}{{ end }}</span> -->
-				<span>{{.Site.Params.intro.video.title | markdownify }}</span>
-
-				<a href="{{ .Site.Params.intro.video.url }}" class="popup-vimeo btn-video"><i class="{{ .Site.Params.intro.video.icon | markdownify }}"></i></a>
+				<span class="col-md-8 col-md-offset-2">{{.Site.Params.intro.video.title | markdownify }}</span>
+				<span class="col-md-8 col-md-offset-2">
+					<a href="{{ .Site.Params.intro.video.url }}" class="popup-vimeo btn-video"><i class="{{ .Site.Params.intro.video.icon }}"></i></a>
+				</span>
 			</div>
 			{{ end }}
 		</div>

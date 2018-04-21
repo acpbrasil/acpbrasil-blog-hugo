@@ -48,6 +48,15 @@ h3, h4, h5, h6 {
 .font-smaller {
   font-size: smaller;
 }
+.margin-top { margin-top: 15px; }
+.margin-bottom { margin-bottom: 15px; }
+.padding-top { padding-top: 15px; }
+.padding-bottom { padding-bottom: 15px; }
+.margin-lg-top { margin-top: 25px; }
+.margin-lg-bottom { margin-bottom: 25px; }
+.padding-lg-top { padding-top: 25px; }
+.padding-lg-bottom { padding-bottom: 25px; }
+
 code.TODO {
   background-color: yellow;
 }
@@ -73,6 +82,11 @@ a.inner-section-link:focus {
   color: #F39B3B;
 }
 
+/* Override style.css */
+.watch-video {
+  float: none;
+  width: inherit;
+}
 
 /* Page content */
 .page-content p {

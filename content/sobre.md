@@ -5,6 +5,8 @@ header: "Por que <em>home care</em>?"
 # date: 2018-04-09T23:34:06-03:00
 ---
 
+{{< acp-video >}}
+
 A Advanced Care Pediatrics (ACP) foi fundada em 2010 com objetivo mudar a vida de enfermeiros e de famílias com entes enfermos fornecendo atendimento diferenciado em assistência de enfermagem domiciliar a pacientes pediátricos e adultos.
 
 Nos EUA, famílias de pacientes com condições médicas frágeis, que necessitam o mesmo nível de cuidado como se estivessem hospitalizadas, recebem apoio governamental para ter assistência de enfermagem domiciliar sem custo algum. O governo americano contrata empresas como a ACP para oferecer atendimento de enfermagem a estes pacientes no conforto de suas casas.

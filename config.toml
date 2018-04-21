@@ -102,11 +102,10 @@ paginate = 5
     icon = "icon-wallet"
 
   [params.intro.video]
-    # TODO Habilitar o vídeo assim que estiver pronto
-    enable = false
-    title = "Assista ao vídeo"
+    enable = true
+    title = "Assista ao vídeo e conheça mais sobre a ACP nas palavras de Greice Murphy"
     icon = "icon-play2"
-    url = "https://www.youtube.com/watch?v=FSGWhw_RA8Y"
+    url = "https://www.youtube.com/watch?v=QWJAwVH1ULY"
 
 
   # Work section
