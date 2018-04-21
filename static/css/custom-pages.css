@@ -24,6 +24,37 @@ div.buttons.bottom-buttons {
 
 /* ########################################################################### */
 
+/* .page-content.salarios-e-beneficios ul > li { */
+.page-content ul > li {
+  padding: 5px 0;
+}
+
+.page-content.salarios-e-beneficios h3 {
+  text-align: center;
+  color: #157CBA;
+}
+.page-content.salarios-e-beneficios img {
+  height: auto;
+  max-height: 80vh;
+  /* max-width: 80vw; */
+  /* max-width: 400px; */
+  width: auto;
+
+  margin: -20px auto 20px;
+}
+
+.page-content.salarios-e-beneficios div.photo {
+  /* float: right; */
+
+  /* max-width: 1310px; */
+  /* width: 100%; */
+  padding: 0 20px;
+  margin: 0 auto;
+  position: relative;
+}
+
+/* ########################################################################### */
+
 article.post {
   margin: 15px 0 60px;
 }

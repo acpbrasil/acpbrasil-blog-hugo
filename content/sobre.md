@@ -2,7 +2,7 @@
 title: "Quem somos"
 description: "Conheça um pouco mais sobre a ACP"
 header: "Por que <em>home care</em>?"
-# date: 2018-04-09T23:34:06-03:00
+tags: ["quem somos", "about", "o que é ACP", "quem é ACP"]
 ---
 
 {{< acp-video >}}
