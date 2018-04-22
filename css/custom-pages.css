@@ -21,10 +21,8 @@ div.buttons.bottom-buttons {
   position: absolute !important;
 }
 
-
 /* ########################################################################### */
 
-/* .page-content.salarios-e-beneficios ul > li { */
 .page-content ul > li {
   padding: 5px 0;
 }
@@ -42,7 +40,6 @@ div.buttons.bottom-buttons {
 
   margin: -20px auto 20px;
 }
-
 .page-content.salarios-e-beneficios div.photo {
   /* float: right; */
 
@@ -53,6 +50,69 @@ div.buttons.bottom-buttons {
   position: relative;
 }
 
+/* ############################################# */
+
+.blockquote-image-bg {
+  position: relative;
+  background-color: rgba(0,0,0,.4);
+  /* padding: 4em 1em; */
+  padding: 3em 10px;
+  margin-bottom: 1.75em;
+  border-radius: 10px;
+}
+.page-content .blockquote-image-bg blockquote {
+  padding: 0;
+}
+.page-content .blockquote-image-bg blockquote p {
+  color: #fff;
+  text-shadow: 0 1px lightgray;
+  letter-spacing: 0.25rem;
+  text-align: center;
+}
+.blockquote-image-bg::before {
+  border-radius: 10px;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  content: "";
+
+  background-size: cover;
+  opacity: .8;
+  color: rgba(0, 0, 0, 0.4);
+
+  /* -webkit-filter: brightness(40%) contrast(70%) blur(.5px); */
+    /* filter: brightness(40%) contrast(70%) blur(.5px); */
+  -webkit-filter: blur(1px);
+    filter: blur(1px);
+}
+.blockquote-image-bg.bg-01::before {
+  background-image: url("/images/about/bg-quote-sobre-01.jpg");
+}
+.blockquote-image-bg.bg-02::before {
+  background-image: url("/images/about/bg-quote-sobre-02.jpg");
+}
+.blockquote-image-bg.bg-03::before {
+  background-image: url("/images/about/bg-quote-sobre-03.jpg");
+}
+.blockquote-image-bg.bg-04::before {
+  background-image: url("/images/about/bg-quote-sobre-04.jpg");
+}
+.page-content .blockquote-image-bg blockquote p:first-child:before {
+  left: -.05em;
+}
+
+@media (min-width: 768px) { /* small devices (sm) */
+  .blockquote-image-bg {
+    padding: 4em 0;
+  }
+  .page-content .blockquote-image-bg blockquote {
+    padding: 0px 30px 15px;
+    font-size: 1.5em;
+  }
+}
 /* ########################################################################### */
 
 article.post {
