@@ -2,13 +2,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     {{ if .IsHome }}
-    <title>{{ .Site.Title}} - {{ .Site.Params.Description }}</title>
-    {{ else if and (eq .Type "blog") .IsPage }}
-    <title>{{ .Title}}</title>
+    <title>{{ .Site.Title}} | {{ .Site.Params.Description }}</title>
     {{ else }}
-    <title>{{ .Site.Title}} - {{ .Title }}</title>
+    <title>{{ .Title }} | {{ .Site.Title}}</title>
     {{ end }}
-
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 

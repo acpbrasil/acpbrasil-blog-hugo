@@ -55,6 +55,11 @@ paginate = 5
     #  name = "Hugo"
     #  weight = 10
 
+    [[menu.pages]]
+      url = "sobre/"
+      name = "Sobre"
+      weight = 10
+
     # postpended links
     [[menu.postpend]]
       url = "formulario/"

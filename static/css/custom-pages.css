@@ -21,10 +21,8 @@ div.buttons.bottom-buttons {
   position: absolute !important;
 }
 
-
 /* ########################################################################### */
 
-/* .page-content.salarios-e-beneficios ul > li { */
 .page-content ul > li {
   padding: 5px 0;
 }
@@ -42,7 +40,6 @@ div.buttons.bottom-buttons {
 
   margin: -20px auto 20px;
 }
-
 .page-content.salarios-e-beneficios div.photo {
   /* float: right; */
 

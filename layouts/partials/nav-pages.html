@@ -27,10 +27,18 @@
         
         <!-- Home -->
         <li><a href="{{ .Site.BaseURL }}" class="external"><span>{{ with .Site.Params.navigation.home }}{{ . | markdownify }}{{ end }}</span></a></li>
-        
-        <!-- Postpend menus -->
+
         {{/* $url := strings.TrimPrefix "/" (.Permalink | relURL) */}}
         {{ $url := printf "%s/" (index (split .URL "/") 1) }}
+
+        <!-- Internal pages menus only -->
+        {{ range .Site.Menus.pages }}
+        <li class="{{ if eq .URL $url }}active{{ end }}">
+          <a class="external" href="{{ $.Site.BaseURL }}{{ .URL }}"><span>{{ .Name | markdownify }}</span></a>
+        </li>
+        {{ end }}
+      
+        <!-- Postpend menus -->
         {{ range .Site.Menus.postpend }}
           <li class="{{ if eq .URL $url }}active{{ end }}">
             <a class="external" href="{{ $.Site.BaseURL }}{{ .URL }}"><span>{{ .Name | markdownify }}</span></a>
