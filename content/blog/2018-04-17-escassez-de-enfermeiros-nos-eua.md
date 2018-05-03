@@ -1,10 +1,10 @@
 ---
 title: "Escassez de enfermeiros nos EUA"
+description: "Escassez de enfermeiros nos EUA e sua oportunidade de trabalhar lá."
 date: 2018-04-17T22:10:00-03:00
 # TODO Definir tags
 tags: ["emprego", "vagas", "eua", "trabalho nos eua", "escassez", "enfermeiros", "enfermagem", "profissionais", "enfermagem nos eua"]
 categories: ["Mercado"]
-# banner: "ambulance-1822457_640-2.jpg"
 banner: "emergency.jpg"
 # author: "F. Morales"
 source: "https://www.theatlantic.com/health/archive/2016/02/nursing-shortage/459741/"
@@ -22,3 +22,5 @@ Nos últimos anos, a carência de profissionais de enfermagem vem alertando o si
 Os EUA têm lidado com um déficit dos enfermeiros por décadas, mas atualmente a situação piorou.
 
 O envelhecimento populacional e dos próprios profissionais da enfermagem, o aumento da incidência de doenças crônicas, e a capacidade limitada das escolas de enfermagem fazem desta redução dramática de profissionais, o cenário de uma crise com implicações preocupantes para os pacientes e sistema de saúde como um todo.
+
+[Clique aqui]({{< ref "formulario.md" >}}) e venha ser um enfermeiro da família ACP nos EUA!
