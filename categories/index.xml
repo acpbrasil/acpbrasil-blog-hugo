@@ -6,9 +6,55 @@
     <description>Recent content in Categories on ACP Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
+    <lastBuildDate>Sat, 28 Apr 2018 15:21:26 -0300</lastBuildDate>
     
 	<atom:link href="http://www.acpbrasil.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Acp</title>
+      <link>http://www.acpbrasil.com/categories/acp/</link>
+      <pubDate>Sat, 28 Apr 2018 15:21:26 -0300</pubDate>
+      
+      <guid>http://www.acpbrasil.com/categories/acp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conhecimento</title>
+      <link>http://www.acpbrasil.com/categories/conhecimento/</link>
+      <pubDate>Tue, 01 May 2018 15:42:56 -0300</pubDate>
+      
+      <guid>http://www.acpbrasil.com/categories/conhecimento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enfermagem</title>
+      <link>http://www.acpbrasil.com/categories/enfermagem/</link>
+      <pubDate>Mon, 30 Apr 2018 15:37:18 -0300</pubDate>
+      
+      <guid>http://www.acpbrasil.com/categories/enfermagem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eua</title>
+      <link>http://www.acpbrasil.com/categories/eua/</link>
+      <pubDate>Wed, 25 Apr 2018 14:56:00 -0300</pubDate>
+      
+      <guid>http://www.acpbrasil.com/categories/eua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inglês</title>
+      <link>http://www.acpbrasil.com/categories/ingl%C3%AAs/</link>
+      <pubDate>Tue, 01 May 2018 15:42:56 -0300</pubDate>
+      
+      <guid>http://www.acpbrasil.com/categories/ingl%C3%AAs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mercado</title>

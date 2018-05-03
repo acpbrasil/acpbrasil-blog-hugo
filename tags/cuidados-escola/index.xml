@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuidados Escola on ACP Brasil</title>
+    <link>http://www.acpbrasil.com/tags/cuidados-escola/</link>
+    <description>Recent content in Cuidados Escola on ACP Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 30 Apr 2018 15:37:18 -0300</lastBuildDate>
+    
+	<atom:link href="http://www.acpbrasil.com/tags/cuidados-escola/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In School Nursing</title>
+      <link>http://www.acpbrasil.com/blog/2018-04-30-in-school-nursing/</link>
+      <pubDate>Mon, 30 Apr 2018 15:37:18 -0300</pubDate>
+      
+      <guid>http://www.acpbrasil.com/blog/2018-04-30-in-school-nursing/</guid>
+      <description>Quando nossos pacientes precisam de cuidado especial na escola, a ACP estabelece parcerias com as instituições de ensino para fornecer atenção para o paciente sem interferir no desenvolvimento educacional. Esta prática é conhecida como in school nursing.
+A ACP está junto com seus pacientes em cada etapa do dia, desde se preparar para escola, pegar o transporte e estar confortável na sala de aula.</description>
+    </item>
+    
+  </channel>
+</rss>

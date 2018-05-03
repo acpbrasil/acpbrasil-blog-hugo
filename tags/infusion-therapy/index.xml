@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infusion Therapy on ACP Brasil</title>
+    <link>http://www.acpbrasil.com/tags/infusion-therapy/</link>
+    <description>Recent content in Infusion Therapy on ACP Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 24 Apr 2018 14:51:00 -0300</lastBuildDate>
+    
+	<atom:link href="http://www.acpbrasil.com/tags/infusion-therapy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Acesso Venoso</title>
+      <link>http://www.acpbrasil.com/blog/2018-04-24-acesso-venoso/</link>
+      <pubDate>Tue, 24 Apr 2018 14:51:00 -0300</pubDate>
+      
+      <guid>http://www.acpbrasil.com/blog/2018-04-24-acesso-venoso/</guid>
+      <description>O acesso venoso é um procedimento importante e de responsabilidade da equipe de enfermagem. Vale relembrar alguns pontos:
+ Escolher adequadamente o dispositivo periférico de acordo com as características da rede venosa do paciente e local onde será então realizada a inserção do dispositivo, a medicação a ser infundida e o tempo que o cateter será utilizado; Observar as interações farmacológicas e efeitos adversos das medicações em uso; Estar atento a dosagem e volume a serem infundidos de acordo com idade, peso, altura ou superfície corporal; Monitorar cuidadosamente a resposta do paciente quanto à infusão realizada.</description>
+    </item>
+    
+  </channel>
+</rss>
