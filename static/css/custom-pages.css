@@ -57,6 +57,31 @@ div.buttons.bottom-buttons {
 
 /* ############################################# */
 
+.article-header-image {
+  /* background-size: cover; */
+  /* background-attachment: fixed; */
+  background-position-x: center;
+  
+  background-repeat: no-repeat;
+  background-size: contain;
+
+  opacity: .8;
+  color: rgba(0, 0, 0, 0.4);
+
+  min-height: 150px;
+  height: 200px;
+  max-height: 300px;
+  margin-bottom: 1.75em;
+  /* border-radius: 10px; */
+}
+@media (min-width: 768px) {
+  .article-header-image {
+    height: 300px;
+  }
+}
+
+/* ############################################# */
+
 .blockquote-image-bg {
   position: relative;
   background-color: rgba(0,0,0,.4);
