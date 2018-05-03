@@ -47,7 +47,7 @@
           <!-- Summary -->
           <!-- <div class="summary"> -->
             <p class="intro">{{ .Summary }}</p>
-            {{ if .Truncated }}
+            {{ if or ( .Truncated ) (.Params.readmore) }}
             <div class="read-more">
               <a href="{{ .Permalink }}" class="btn btn-default btn-sm">Continue lendo...</a>
               <!-- <a href="{{ .RelPermalink }}" class="btn btn-default btn-sm">Continue lendo...</a> -->

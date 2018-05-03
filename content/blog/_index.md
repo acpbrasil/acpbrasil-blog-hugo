@@ -4,5 +4,5 @@
 title: "Blog: últimos posts"
 description: "Últimos posts"
 # header: "Últimos posts"
-# keywords: ["blog", "emprego", "eua", "enfermeiros"]
+keywords: ["blog", "emprego", "eua", "enfermeiros", "enfermeiros eua", "enfermagem eua"]
 ---

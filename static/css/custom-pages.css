@@ -23,8 +23,13 @@ div.buttons.bottom-buttons {
 
 /* ########################################################################### */
 
-.page-content ul > li {
+.page-content ul > li,
+.page-content ol > li {
   padding: 5px 0;
+}
+.page-content ol.alpha {
+  list-style-type: lower-alpha;
+  font-size: 0.9em;
 }
 
 .page-content.salarios-e-beneficios h3 {

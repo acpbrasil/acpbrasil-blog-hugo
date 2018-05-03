@@ -29,7 +29,7 @@ paginate = 5
   email = "contato@acpediatrics.com"
 
   # TODO Definir keywords com as gurias
-  defaultKeywords = [ "acp", "eua", "blog", "enfermeiros", "nurse", "recrutamento", "migração", "emprego", "job" ]
+  defaultKeywords = [ "acp", "eua", "blog", "enfermeiros", "enfermeiros eua", "enfermeiros usa", "nurse", "recrutamento", "migração", "emprego", "job" ]
 
   
   # Forms configuration
@@ -57,7 +57,7 @@ paginate = 5
 
     [[menu.pages]]
       url = "sobre/"
-      name = "Sobre"
+      name = "Quem somos"
       weight = 10
 
     # postpended links
@@ -110,7 +110,8 @@ paginate = 5
     enable = true
     title = "Assista ao vídeo e conheça mais sobre a ACP nas palavras da fundadora Greice Murphy"
     icon = "icon-play2"
-    url = "https://www.youtube.com/watch?v=QWJAwVH1ULY"
+    # url = "https://www.youtube.com/watch?v=QWJAwVH1ULY"
+    url = "https://vimeo.com/267397018/0b8ed33c67"
 
 
   # Work section
