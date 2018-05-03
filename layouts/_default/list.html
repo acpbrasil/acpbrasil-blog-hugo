@@ -11,9 +11,9 @@
           <div class="image">
             <a href="{{ .Permalink }}">
               {{ if .Params.banner }}
-                <img src="{{ .Site.BaseURL}}images/blog/{{ .Params.banner }}" class="img-responsive img-thumbnail" alt="">
+                <img src="{{ .Site.BaseURL}}images/blog/{{ .Params.banner }}" class="img-responsive img-thumbnail" alt="{{ .Description }}" title="{{ .Description }}">
               {{ else }}
-                <img src="{{ .Site.BaseURL}}images/blog/placeholder.png" class="img-responsive img-thumbnail" alt="">
+                <img src="{{ .Site.BaseURL}}images/blog/placeholder.png" class="img-responsive img-thumbnail" alt="{{ .Description }}" title="{{ .Description }}">
               {{ end }}
             </a>
           </div>

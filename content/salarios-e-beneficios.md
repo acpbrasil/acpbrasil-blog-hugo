@@ -11,7 +11,7 @@ Salários e benefícios serão firmados entre a ACP e o enfermeiro por meio cont
 <!-- ![alt text](/images/foto-08-quad.jpg "Salários e Benefícios") -->
 <!-- {{< figure src="/media/spf13.jpg" title="Steve Francia" >}} -->
 <div class="photo col-sm-6">
-  <img src="/images/foto-08-quad.jpg" class="img-circle img-responsive" title="Salários e Benefícios">
+  <img src="/images/foto-08-quad.jpg" class="img-circle img-responsive" title="Salários e Benefícios" alt="Salários e Benefícios">
 </div>
 
 
