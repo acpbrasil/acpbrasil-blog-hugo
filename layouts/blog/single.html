@@ -11,9 +11,7 @@
 
   <!-- Article image -->
   {{ with .Params.banner }}
-  <!-- <div class="text-center padding-lg-bottom"><img src="/images/blog/{{ . }}" alt="{{ $.Title }}"></div> -->
-  <div class="article-header-image" style="background-image: url('/images/blog/{{ . }}')" title="{{ $.Title }}">
-  </div>
+  <div class="article-header-image" style="background-image: url('/images/blog/{{ . }}')" title="{{ $.Title }}"></div>
   {{ end }}
 
   <!-- Article content -->
@@ -28,6 +26,11 @@
   <div class="buttons bottom-buttons">
     <a class="btn btn-primary btn-sm" href="{{ .Site.BaseURL }}blog/">Voltar</a>
   </div>
+
+  <!-- Social sharing -->
+  {{ if .Site.Params.socialSharing }}
+    {{ partial "social-sharing.html" . }}
+  {{ end }}
 
   <!-- Comments -->
   {{ if not (in (string .Site.BaseURL) "localhost") }}

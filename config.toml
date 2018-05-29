@@ -15,6 +15,8 @@ paginate = 5
 
 [params]
 
+  socialSharing = true
+
   # Format dates with Go's time formatting
   date_format = "2 January, 2006"
   
@@ -31,7 +33,6 @@ paginate = 5
   # TODO Definir keywords com as gurias
   defaultKeywords = [ "acp", "eua", "blog", "enfermeiros", "enfermeiros eua", "enfermeiros usa", "nurse", "recrutamento", "migração", "emprego", "job" ]
 
-  
   # Forms configuration
   emailsSubjectPrefix = "[ACP]"
   
