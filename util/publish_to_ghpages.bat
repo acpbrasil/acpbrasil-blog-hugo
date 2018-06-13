@@ -1,9 +1,7 @@
-#!/bin/sh
-
 DIR=$(dirname "$0")
 UPSTREAM=${1:-origin}
 
-cd $DIR/..
+cd %DIR%/..
 
 if [[ $(git status -s) ]]
 then
@@ -18,7 +16,7 @@ git worktree prune
 rm -rf .git/worktrees/public/
 
 echo "Checking out gh-pages branch into public"
-git worktree add -B gh-pages public $UPSTREAM/gh-pages
+git worktree add -B gh-pages public %UPSTREAM%/gh-pages
 
 echo "Removing existing files"
 rm -rf public/*
@@ -29,8 +27,8 @@ hugo
 echo "Creating CNAME file for gh-pages"
 echo "www.acpbrasil.com" >> public/CNAME
 
+# TODO add the date to the commit msg
 echo "Updating gh-pages branch"
-DATE=`date +%Y-%m-%d`
-cd public && git add --all && git commit -m "$DATE Publishing to gh-pages (publish.sh)"
+cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
 
 git push origin gh-pages
