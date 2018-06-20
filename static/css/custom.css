@@ -239,8 +239,9 @@ section#fh5co-testimonials .section-heading {
 section.content-header {
   padding-bottom: 16px;
 }
+section.content-header > h1,
 section.content-header > h2 {
-  color: #157cba;
+    color: #157cba;
   text-align: center;
   margin: 0 auto 20px;
 }
