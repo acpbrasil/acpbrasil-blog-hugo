@@ -38,7 +38,14 @@
 	<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
 	-->
-
+	
+	<!-- ville Target Tracking Pixel -->
+	<script src="https://app.villetarget.com/villetarget_tracking.min.js"></script>
+	<script>
+    	villetarget.init("5b1bccf5e7272");
+	</script>
+	<!-- /ville Target Tracking Pixel -->
+	
 	<!-- Google Analytics -->
 	{{ if not (in (string .Site.BaseURL) "localhost") }}
 		{{ template "_internal/google_analytics_async.html" . }}
