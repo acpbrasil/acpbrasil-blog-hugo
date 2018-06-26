@@ -5,7 +5,7 @@ date: 2018-06-23T22:10:00-03:00
 # TODO Definir tags
 tags: ["plano de carreira para enfermeiros", "trabalho nos eua", "escassez", "enfermeiros", "enfermagem", "profissionais", "enfermagem nos eua"]
 categories: ["Mercado"]
-banner: "plano_carreira_enfermeiros.jpeg"
+banner: "plano_de_carreira_para_enfermeiros_1.jpg"
 # author: "F. Morales"
 source: "https://nurse.org/resources/"
 draft: false
