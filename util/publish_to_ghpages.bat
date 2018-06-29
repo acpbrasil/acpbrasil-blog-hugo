@@ -1,25 +1,23 @@
-DIR=$(dirname "$0")
-UPSTREAM=${1:-origin}
+set UPSTREAM="origin"
 
-cd %DIR%/..
+cd ..
 
-if [[ $(git status -s) ]]
-then
+if $(git status -s) (
     echo "The working directory is dirty. Please commit any pending changes."
     exit 1;
-fi
+)
 
 echo "Deleting old publication"
-rm -rf public
+rmdir /s /q public
 mkdir public
 git worktree prune
-rm -rf .git/worktrees/public/
+rmdir /s /q .git/worktrees/public/
 
 echo "Checking out gh-pages branch into public"
 git worktree add -B gh-pages public %UPSTREAM%/gh-pages
 
 echo "Removing existing files"
-rm -rf public/*
+rmdir /s /q public/*
 
 echo "Generating site"
 hugo
