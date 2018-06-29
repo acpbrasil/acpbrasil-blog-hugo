@@ -3,8 +3,10 @@
 		<div class="container">
 			<div class="">
 				<div class="col-md-12 text-center">
-					<p>{{ with .Site.Params.footer.copyright }}{{ . | markdownify }}{{ end }} </p>
-					<p>[Política de Privacidade](http://www.acpbrasil.com/politica-de-privacidade") </p>
+					<span>{{ with .Site.Params.footer.copyright }}{{ . | markdownify }}{{ end }}</span>
+					<p class="privacy text-muted">
+						<a href="{{ $.Site.BaseURL }}politica-de-privacidade/">Política de Privacidade</a>
+					</p>
 				</div>
 			</div>
 			<div class="row">
