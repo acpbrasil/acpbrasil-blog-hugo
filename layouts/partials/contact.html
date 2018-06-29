@@ -28,7 +28,7 @@
 			</div>
 			{{ if .Site.Params.contact.form }}
 			<div class="col-md-6 to-animate">
-				<form method="post" action="//formspree.io/{{ .Site.Params.contact.emailTo }}">
+				<form method="post" action="https://app.villetarget.com/lists/5b3637810cb8c/embedded-form-subscribe-captcha">
 					<input type="hidden" name="_subject" value="{{ .Site.Params.EmailsSubjectPrefix}} {{ .Site.Params.contact.subject }}" />
 					<input type="hidden" name="_cc" value='{{ delimit .Site.Params.contact.emailCc "," }}' />
 		
@@ -38,7 +38,7 @@
 					<div class="form-group ">
 						{{ with .Site.Params.contact.name }}
 						<label for="name" class="sr-only">{{ . | markdownify }}</label>
-						<input id="name" class="form-control" name="name" placeholder="{{ . }}" type="text">
+						<input id="name" class="form-control" name="nome" placeholder="{{ . }}" type="text">
 						{{ end }}
 					</div>
 					<div class="form-group ">
@@ -50,13 +50,13 @@
 					<div class="form-group ">
 						{{ with .Site.Params.contact.phone }}
 						<label for="phone" class="sr-only">{{ . | markdownify }}</label>
-						<input id="phone" class="form-control" name="phone" placeholder="{{ . }}" type="text">
+						<input id="phone" class="form-control" name="telefone_celular" placeholder="{{ . }}" type="text">
 						{{ end }}
 					</div>
 					<div class="form-group ">
 						{{ with .Site.Params.contact.message }}
 						<label for="message" class="sr-only">{{ . | markdownify }}</label>
-						<textarea id="message" cols="30" rows="5" class="form-control" name="message" placeholder="{{ . }}"></textarea>
+						<textarea id="message" cols="30" rows="5" class="form-control" name="lead_custom_field_mensagem" placeholder="{{ . }}"></textarea>
 						{{ end }}
 					</div>
 					<div class="form-group ">
