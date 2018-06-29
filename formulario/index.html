@@ -252,7 +252,7 @@
 
   <div class="form-group">
     <label for="age">Idade</label>
-    <input id="age" name="idade" required type="number" placeholder="Informe a idade" class="form-control">
+    <input id="age" name="lead_custom_field_idade" type="number" placeholder="Informe a idade" class="form-control">
   </div>
   
   <div class="form-group">
@@ -273,7 +273,7 @@
   </div>
 
   <div class="form-group">
-    <label>Experiência como enfermeiro</label>
+    <label>Experiência como enfermeiro(a)</label>
     <div class="radio">
       <label><input type="radio" id="experience#1" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="Sem experiência"> Sem experiência</label>
     </div>
@@ -372,14 +372,17 @@
 		<div class="container">
 			<div class="">
 				<div class="col-md-12 text-center">
-					<p>&copy; ACP Brasil. Todos os direitos reservados.</p>
+					<span>&copy; ACP Brasil. Todos os direitos reservados.</span>
+					<p class="privacy text-muted">
+						<a href="http://www.acpbrasil.com/politica-de-privacidade/">Política de Privacidade</a>
+					</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<ul class="social social-circle">
 					
-						<li><a href="https://www.instagram.com/acpbrasil/" target="_blank"><i class="icon-instagram"></i></a></li>
+						<li><a href="https://www.instagram.com/acpbrasil_enfermeiroseua/" target="_blank"><i class="icon-instagram"></i></a></li>
 					
 						<li><a href="https://www.facebook.com/enfermeiroseua" target="_blank"><i class="icon-facebook"></i></a></li>
 					
@@ -428,10 +431,11 @@
 	
 	<script src="https://app.villetarget.com/villetarget_tracking.min.js"></script>
 	<script>
-    	villetarget.init("5b1bccf5e7272");
+			villetarget.includeDefaultPrivacyPolicyPopup(true);
+			villetarget.init("5b1bccf5e7272");
 	</script>
 	
-	
+    
 	
 	
 		

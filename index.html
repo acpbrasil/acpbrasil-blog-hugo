@@ -653,7 +653,7 @@
 			</div>
 			
 			<div class="col-md-6 to-animate">
-				<form method="post" action="//formspree.io/contato@acpediatrics.com">
+				<form method="post" action="https://app.villetarget.com/lists/5b3637810cb8c/embedded-form-subscribe-captcha">
 					<input type="hidden" name="_subject" value="[ACP] Nova mensagem do site!" />
 					<input type="hidden" name="_cc" value='fmorales@acpediatrics.com,igindri@acpediatrics.com,denisazevedo@gmail.com' />
 		
@@ -663,7 +663,7 @@
 					<div class="form-group ">
 						
 						<label for="name" class="sr-only">Nome</label>
-						<input id="name" class="form-control" name="name" placeholder="Nome" type="text">
+						<input id="name" class="form-control" name="nome" placeholder="Nome" type="text">
 						
 					</div>
 					<div class="form-group ">
@@ -675,13 +675,13 @@
 					<div class="form-group ">
 						
 						<label for="phone" class="sr-only">Telefone</label>
-						<input id="phone" class="form-control" name="phone" placeholder="Telefone" type="text">
+						<input id="phone" class="form-control" name="telefone_celular" placeholder="Telefone" type="text">
 						
 					</div>
 					<div class="form-group ">
 						
 						<label for="message" class="sr-only">Mensagem</label>
-						<textarea id="message" cols="30" rows="5" class="form-control" name="message" placeholder="Mensagem"></textarea>
+						<textarea id="message" cols="30" rows="5" class="form-control" name="lead_custom_field_mensagem" placeholder="Mensagem"></textarea>
 						
 					</div>
 					<div class="form-group ">
@@ -706,14 +706,17 @@
 		<div class="container">
 			<div class="">
 				<div class="col-md-12 text-center">
-					<p>&copy; ACP Brasil. Todos os direitos reservados.</p>
+					<span>&copy; ACP Brasil. Todos os direitos reservados.</span>
+					<p class="privacy text-muted">
+						<a href="http://www.acpbrasil.com/politica-de-privacidade/">Política de Privacidade</a>
+					</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<ul class="social social-circle">
 					
-						<li><a href="https://www.instagram.com/acpbrasil/" target="_blank"><i class="icon-instagram"></i></a></li>
+						<li><a href="https://www.instagram.com/acpbrasil_enfermeiroseua/" target="_blank"><i class="icon-instagram"></i></a></li>
 					
 						<li><a href="https://www.facebook.com/enfermeiroseua" target="_blank"><i class="icon-facebook"></i></a></li>
 					
@@ -764,10 +767,11 @@
 	
 	<script src="https://app.villetarget.com/villetarget_tracking.min.js"></script>
 	<script>
-    	villetarget.init("5b1bccf5e7272");
+			villetarget.includeDefaultPrivacyPolicyPopup(true);
+			villetarget.init("5b1bccf5e7272");
 	</script>
 	
-	
+    
 	
 	
 		

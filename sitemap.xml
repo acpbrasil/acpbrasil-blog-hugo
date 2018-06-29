@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>http://www.acpbrasil.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.acpbrasil.com/</loc>
     <lastmod>2018-06-23T22:10:00-03:00</lastmod>
     <priority>0</priority>
@@ -70,14 +75,14 @@
   </url>
   
   <url>
-    <loc>http://www.acpbrasil.com/tags/acp/</loc>
-    <lastmod>2018-04-22T14:17:48-03:00</lastmod>
+    <loc>http://www.acpbrasil.com/categories/acp/</loc>
+    <lastmod>2018-04-28T15:21:26-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.acpbrasil.com/categories/acp/</loc>
-    <lastmod>2018-04-28T15:21:26-03:00</lastmod>
+    <loc>http://www.acpbrasil.com/tags/acp/</loc>
+    <lastmod>2018-04-22T14:17:48-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -164,14 +169,14 @@
   </url>
   
   <url>
-    <loc>http://www.acpbrasil.com/tags/enfermagem/</loc>
-    <lastmod>2018-06-23T22:10:00-03:00</lastmod>
+    <loc>http://www.acpbrasil.com/categories/enfermagem/</loc>
+    <lastmod>2018-04-30T15:37:18-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.acpbrasil.com/categories/enfermagem/</loc>
-    <lastmod>2018-04-30T15:37:18-03:00</lastmod>
+    <loc>http://www.acpbrasil.com/tags/enfermagem/</loc>
+    <lastmod>2018-06-23T22:10:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -258,14 +263,14 @@
   </url>
   
   <url>
-    <loc>http://www.acpbrasil.com/tags/eua/</loc>
-    <lastmod>2018-04-17T22:10:00-03:00</lastmod>
+    <loc>http://www.acpbrasil.com/categories/eua/</loc>
+    <lastmod>2018-04-25T14:56:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.acpbrasil.com/categories/eua/</loc>
-    <lastmod>2018-04-25T14:56:00-03:00</lastmod>
+    <loc>http://www.acpbrasil.com/tags/eua/</loc>
+    <lastmod>2018-04-17T22:10:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -470,6 +475,10 @@
     <loc>http://www.acpbrasil.com/tags/plano-de-carreira-para-enfermeiros/</loc>
     <lastmod>2018-06-23T22:10:00-03:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acpbrasil.com/politica-de-privacidade/</loc>
   </url>
   
   <url>

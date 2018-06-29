@@ -426,6 +426,10 @@ section#fh5co-intro .fh5co-text > p {
     margin-left: -30px;
   }
 }
+#footer .privacy {
+  color: red;
+  font-size: 0.8em;
+}
 
 
 /* ########################################################################### */
