@@ -74,14 +74,22 @@
   </div>
 
   <div class="form-group">
-    <label>Já fez especialização? Se sim, em qual área? (responda no campo mensagem)</label>
+    <label>Já fez especialização? Se sim, em qual área?</label>
     <div class="radio">
-        <label class="radio-inline"><input required type="radio" id="specialization#1" name="lead_custom_field_ja_fez_especializacao?" value="Sim"> Sim</label>
-         <!-- TODO Habilitar esse campo apenas quando selecionar "Sim" -->
-        <input id="specialization" name="lead_custom_field_ja_fez_especializacao?" required type="text" placeholder="Informe a área de sua especialização" class="form-control">
+      <label>
+        <input required type="radio" id="specialization#2" 
+            name="lead_custom_field_ja_fez_especializacao?" value="Não"
+            onchange="disableEspecializacao(true)"> Não</label>
     </div>
     <div class="radio">
-      <label><input required type="radio" id="specialization#2" name="lead_custom_field_ja_fez_especializacao?" value="Não"> Não</label>
+        <label class="radio-inline">
+          <input required type="radio" id="specialization#1" 
+              name="lead_custom_field_ja_fez_especializacao?" value="Sim"
+              onchange="disableEspecializacao(false)"> Sim</label>
+        <input id="specialization" type="text" 
+            name="lead_custom_field_ja_fez_especializacao?" class="form-control"
+            placeholder="Se sim, informe a área de sua especialização" 
+            required disabled="disabled">
     </div>
   </div>
 
@@ -130,3 +138,15 @@
   </div>
   
 </form>
+
+<script>
+  function disableEspecializacao(shouldDisable) {
+    console.log('Desabilitando o campo Especialização:', shouldDisable);
+    var specializationInput = $('#specialization');
+    if (shouldDisable) {
+      $('#specialization').attr('disabled', 'disabled');
+    } else {
+      $('#specialization').removeAttr('disabled');
+    }
+  }
+</script>
