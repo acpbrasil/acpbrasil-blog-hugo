@@ -76,7 +76,9 @@
   <div class="form-group">
     <label>Já fez especialização? Se sim, em qual área? (responda no campo mensagem)</label>
     <div class="radio">
-      <label><input requires type="radio" id="specialization#1" name="lead_custom_field_ja_fez_especializacao?" value="Sim"> Sim</label>
+        <label class="radio-inline"><input required type="radio" id="specialization#1" name="lead_custom_field_ja_fez_especializacao?" value="Sim"> Sim</label>
+         <!-- TODO Habilitar esse campo apenas quando selecionar "Sim" -->
+        <input id="specialization" name="lead_custom_field_ja_fez_especializacao?" required type="text" placeholder="Informe a área de sua especialização" class="form-control">
     </div>
     <div class="radio">
       <label><input required type="radio" id="specialization#2" name="lead_custom_field_ja_fez_especializacao?" value="Não"> Não</label>
@@ -118,7 +120,7 @@
     <textarea id="message" name="lead_custom_field_mensagem" cols="30" rows="5" placeholder="Você quer deixar alguma mensagem?" class="form-control"></textarea>
   </div>
 
-  <div class="form-group"><input required type="checkbox" name="privacy_policy_accepted" value="accept" id="villetarget_embedded_form_checkbox_privacy_policy" required><label for="villetarget_embedded_form_checkbox_privacy_policy" class="">Eu li e concordo com a Política de Privacidade.</label></div>
+  <div class="form-group"><input type="checkbox" name="privacy_policy_accepted" value="accept" id="villetarget_embedded_form_checkbox_privacy_policy" required><label for="villetarget_embedded_form_checkbox_privacy_policy" class="">Eu li e concordo com a <a href='http://www.acpbrasil.com/politica-de-privacidade/' target='_blank'>Política de Privacidade</a>.</label></div>
 
   <div class="between-form-sections"></div>
 
