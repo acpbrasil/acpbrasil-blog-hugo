@@ -290,5 +290,6 @@ paginate = 5
         # TODO Mudar o link do Facebook pra acpbrasil
         ["icon-facebook", "https://www.facebook.com/enfermeiroseua"],
         ["icon-youtube", "https://www.youtube.com/channel/UCTMLh7W0ZyYm_NopZKVVNDg"],
+        ["icon-linkedin", "https://www.linkedin.com/company/acp-brasil-enfermeiros-eua/"],
         # ["icon-twitter", "#twitter"]
       ]
