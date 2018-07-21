@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.acpbrasil.com/blog/2018-07-20-vagas-para-enfermeiros-nos-estados-unidos/</loc>
+    <lastmod>2018-07-19T15:08:00-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.acpbrasil.com/blog/2018-07-10-qual-o-salario-de-um-enfermeiro-nos-eua/</loc>
     <lastmod>2018-07-11T22:10:00-03:00</lastmod>
   </url>
@@ -69,7 +74,7 @@
   
   <url>
     <loc>http://www.acpbrasil.com/</loc>
-    <lastmod>2018-07-11T22:10:00-03:00</lastmod>
+    <lastmod>2018-07-19T15:08:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -128,7 +133,7 @@
   
   <url>
     <loc>http://www.acpbrasil.com/blog/</loc>
-    <lastmod>2018-07-11T22:10:00-03:00</lastmod>
+    <lastmod>2018-07-19T15:08:00-03:00</lastmod>
   </url>
   
   <url>
@@ -175,7 +180,7 @@
   
   <url>
     <loc>http://www.acpbrasil.com/tags/enfermagem/</loc>
-    <lastmod>2018-07-11T22:10:00-03:00</lastmod>
+    <lastmod>2018-07-19T15:08:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -199,7 +204,7 @@
   
   <url>
     <loc>http://www.acpbrasil.com/tags/enfermagem-nos-eua/</loc>
-    <lastmod>2018-07-11T22:10:00-03:00</lastmod>
+    <lastmod>2018-07-19T15:08:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -218,6 +223,12 @@
   <url>
     <loc>http://www.acpbrasil.com/tags/enfermeios-na-georgia/</loc>
     <lastmod>2018-04-25T14:56:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acpbrasil.com/tags/enfermeiro-nos-eua/</loc>
+    <lastmod>2018-07-19T15:08:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -406,7 +417,7 @@
   
   <url>
     <loc>http://www.acpbrasil.com/categories/mercado/</loc>
-    <lastmod>2018-07-11T22:10:00-03:00</lastmod>
+    <lastmod>2018-07-19T15:08:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -462,6 +473,10 @@
     <loc>http://www.acpbrasil.com/tags/nurse/</loc>
     <lastmod>2018-05-01T15:42:56-03:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acpbrasil.com/agradecimento/</loc>
   </url>
   
   <url>
@@ -572,6 +587,12 @@
   </url>
   
   <url>
+    <loc>http://www.acpbrasil.com/tags/trabalhar-como-enfermeiro-nos-estados-unidos/</loc>
+    <lastmod>2018-07-19T15:08:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.acpbrasil.com/tags/trabalho-nos-eua/</loc>
     <lastmod>2018-06-23T22:10:00-03:00</lastmod>
     <priority>0</priority>
@@ -592,6 +613,18 @@
   <url>
     <loc>http://www.acpbrasil.com/tags/vagas/</loc>
     <lastmod>2018-04-17T22:10:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acpbrasil.com/tags/vagas-de-enfermeiro-nos-eua/</loc>
+    <lastmod>2018-07-19T15:08:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acpbrasil.com/tags/vagas-para-enfermeiro-nos-estados-unidos/</loc>
+    <lastmod>2018-07-19T15:08:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
