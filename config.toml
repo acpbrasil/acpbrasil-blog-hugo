@@ -233,7 +233,7 @@ paginate = 5
 
     [[params.counters.item]]
       # TODO Adicionar um link pra essa list INC 5000?
-      description = "Lista INC 5000 por dois anos consecutivos"
+      description = "Lista INC 5000 por três anos consecutivos"
       icon = "icon-trophy"
       from = 5000
       to = 5000
