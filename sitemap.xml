@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.acpbrasil.com/blog/2018-08-10-o-que-e-e-como-me-preparar-para-o-toefl/</loc>
+    <lastmod>2018-08-10T09:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.acpbrasil.com/blog/2018-08-06-como-e-porque-escolher-um-sponsor-para-morar-e-trabalhar-como-enfermeiro-nos-eua/</loc>
     <lastmod>2018-08-05T15:08:00-03:00</lastmod>
   </url>
@@ -84,7 +89,7 @@
   
   <url>
     <loc>http://www.acpbrasil.com/</loc>
-    <lastmod>2018-08-05T15:08:00-03:00</lastmod>
+    <lastmod>2018-08-10T09:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -95,14 +100,14 @@
   </url>
   
   <url>
-    <loc>http://www.acpbrasil.com/categories/acp/</loc>
-    <lastmod>2018-04-28T15:21:26-03:00</lastmod>
+    <loc>http://www.acpbrasil.com/tags/acp/</loc>
+    <lastmod>2018-04-22T14:17:48-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.acpbrasil.com/tags/acp/</loc>
-    <lastmod>2018-04-22T14:17:48-03:00</lastmod>
+    <loc>http://www.acpbrasil.com/categories/acp/</loc>
+    <lastmod>2018-04-28T15:21:26-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -143,7 +148,7 @@
   
   <url>
     <loc>http://www.acpbrasil.com/blog/</loc>
-    <lastmod>2018-08-05T15:08:00-03:00</lastmod>
+    <lastmod>2018-08-10T09:00:00-03:00</lastmod>
   </url>
   
   <url>
@@ -155,6 +160,12 @@
   <url>
     <loc>http://www.acpbrasil.com/tags/cgfns/</loc>
     <lastmod>2018-04-26T15:02:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acpbrasil.com/tags/como-me-preparar-para-o-toefl/</loc>
+    <lastmod>2018-08-10T09:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -201,14 +212,14 @@
   </url>
   
   <url>
-    <loc>http://www.acpbrasil.com/categories/enfermagem/</loc>
-    <lastmod>2018-08-02T15:08:00-03:00</lastmod>
+    <loc>http://www.acpbrasil.com/tags/enfermagem/</loc>
+    <lastmod>2018-07-19T15:08:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.acpbrasil.com/tags/enfermagem/</loc>
-    <lastmod>2018-07-19T15:08:00-03:00</lastmod>
+    <loc>http://www.acpbrasil.com/categories/enfermagem/</loc>
+    <lastmod>2018-08-02T15:08:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -232,7 +243,7 @@
   
   <url>
     <loc>http://www.acpbrasil.com/tags/enfermagem-nos-eua/</loc>
-    <lastmod>2018-07-19T15:08:00-03:00</lastmod>
+    <lastmod>2018-08-10T09:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -313,14 +324,14 @@
   </url>
   
   <url>
-    <loc>http://www.acpbrasil.com/categories/eua/</loc>
-    <lastmod>2018-04-25T14:56:00-03:00</lastmod>
+    <loc>http://www.acpbrasil.com/tags/eua/</loc>
+    <lastmod>2018-08-10T09:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.acpbrasil.com/tags/eua/</loc>
-    <lastmod>2018-04-17T22:10:00-03:00</lastmod>
+    <loc>http://www.acpbrasil.com/categories/eua/</loc>
+    <lastmod>2018-04-25T14:56:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -426,6 +437,12 @@
   </url>
   
   <url>
+    <loc>http://www.acpbrasil.com/tags/ingl%C3%AAs-para-trabalhar-nos-estados-unidos/</loc>
+    <lastmod>2018-08-10T09:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.acpbrasil.com/tags/international-nurses/</loc>
     <lastmod>2018-04-26T15:02:00-03:00</lastmod>
     <priority>0</priority>
@@ -452,6 +469,12 @@
   <url>
     <loc>http://www.acpbrasil.com/categories/mercado/</loc>
     <lastmod>2018-07-19T15:08:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acpbrasil.com/categories/mercado-ingl%C3%AAs/</loc>
+    <lastmod>2018-08-10T09:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -506,6 +529,12 @@
   <url>
     <loc>http://www.acpbrasil.com/tags/nurse/</loc>
     <lastmod>2018-05-01T15:42:56-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acpbrasil.com/tags/o-que-%C3%A9-o-toefl/</loc>
+    <lastmod>2018-08-10T09:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -604,7 +633,7 @@
   
   <url>
     <loc>http://www.acpbrasil.com/tags/toefl/</loc>
-    <lastmod>2018-04-26T15:02:00-03:00</lastmod>
+    <lastmod>2018-08-10T09:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -628,7 +657,7 @@
   
   <url>
     <loc>http://www.acpbrasil.com/tags/trabalho-nos-eua/</loc>
-    <lastmod>2018-06-23T22:10:00-03:00</lastmod>
+    <lastmod>2018-08-10T09:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
