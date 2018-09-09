@@ -254,7 +254,7 @@ paginate = 5
   [params.contact]
     enable = true
     map = true
-    form = true
+    form = false
     emailTo = "contato@acpediatrics.com"
     emailCc = [
       "fmorales@acpediatrics.com",
@@ -262,16 +262,16 @@ paginate = 5
       "denisazevedo@gmail.com"
     ]
     title = "Contato"
-    description = "Quer fazer parte do nosso time?<br>Quer iniciar o processo?<br>Tem dúvidas?<br>Entre em contato com a nossa equipe no Brasil."
+    # description = "Quer fazer parte do nosso time?<br>Quer iniciar o processo?<br>Tem dúvidas?<br>Entre em contato com a nossa equipe no Brasil."
+    description = "Quer fazer parte do nosso time?<br>Quer iniciar o processo?<br>Tem dúvidas?<br>Entre em contato com a nossa equipe no Brasil.<br><br><br><a class='btn btn-primary' href='formulario/'>Entre em contato</a>"
     
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "Florianópolis / SC"],
-        ["icon-phone", "+55 (48) 99176-0676<br>+55 (48) 99176-3535"],
-        ["icon-envelope", "<a href='mailto:contato@acpediatrics.com?subject=Contato'>contato@acpediatrics.com</a>"],
-        # TODO Colocar a url da ACP Brasil também?
-        ["icon-globe", '<a href="https://www.advancedcarepediatrics.com/" target="_blank">ACP Home care</a><br><a href="http://www.acpbrasil.com/" target="_blank">ACP Brasil</a>']
-      ]
+      ["icon-home", "Florianópolis / SC"],
+      ["icon-phone", "+55 (48) 99176-0676<br>+55 (48) 99176-3535"],
+      ["icon-envelope", "<a href='mailto:contato@acpediatrics.com?subject=Contato'>contato@acpediatrics.com</a>"],
+      ["icon-globe", '<a href="https://www.advancedcarepediatrics.com/" target="_blank">ACP Home care</a><br><a href="http://www.acpbrasil.com/" target="_blank">ACP Brasil</a>']
+    ]
 
     subject = "Nova mensagem do site!"
     # Form input fields
