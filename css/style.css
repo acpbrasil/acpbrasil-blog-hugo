@@ -1040,8 +1040,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-contact .fh5co-contact-info {
   padding: 0;
-  margin: 0 0 1.5em 0;
+  /* margin: 0 0 1.5em 0; */
   /* No contact form */
+  margin: 0;
   display: flex;
   flex-flow: row wrap;
   list-style: none;
@@ -1052,7 +1053,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 1.5em 0;
   padding-left: 50px;
   /* No contact form */
-  padding-left: 20px;
+  padding-left: 25px;
   padding-right: 40px;
   white-space: nowrap;
   /* display: inline-block; */
