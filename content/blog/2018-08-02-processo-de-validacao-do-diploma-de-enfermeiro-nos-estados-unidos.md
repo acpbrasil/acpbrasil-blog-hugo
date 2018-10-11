@@ -44,3 +44,7 @@ Seguindo essa orientação, você conseguirá transpor uma das etapas para se to
 Busque, portanto, por uma organização brasileira que tenha expertise e o conhecimento necessário para facilitar o processo de validação de diploma de enfermeiro nos Estados Unidos. Assim você garante o cumprimento dessa etapa com maestria e terá dado um passo importante para firmar o sucesso de sua carreira internacional como enfermeiro.
 
 **Nós da Advanced Care Pediatrics podemos auxiliar você em todas as questões burocráticas e ainda garantir um bom trabalho nos EUA. Tudo isso de forma segura, com um plano de carreira traçado, ótimos salários e excelentes benefícios. [Entre em contato conosco e saiba mais!]({{< ref "formulario.md" >}})**
+
+<div class="img-responsive" title="Ebook ACP">
+    <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>
+</div>

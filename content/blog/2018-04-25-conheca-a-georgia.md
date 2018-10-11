@@ -19,3 +19,7 @@ Ao longo do estado encontram-se mais de 40 parques florestais, oferecendo divers
 Leia mais em:  
 https://www.visiteosusa.com.br/state/georgia  
 http://www.exploregeorgia.org/
+
+<div class="img-responsive" title="Ebook ACP">
+    <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>
+</div>

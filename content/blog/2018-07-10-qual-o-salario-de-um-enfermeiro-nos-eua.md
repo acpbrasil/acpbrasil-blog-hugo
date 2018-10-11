@@ -41,3 +41,7 @@ De nada adianta saber qual o **salário de um enfermeiro nos EUA**, se não soub
 Esperamos que as nossas informações sejam valiosas e alimentem seu desejo de morar nos Estados Unidos, ao mesmo tempo em que esclarece a realidade e as várias oportunidades para os profissionais de enfermagem.
 
 E então, se animou em descobrir **qual o salário de um enfermeiro nos EUA?** Então aproveita para conferir também: [Tudo o que você precisa saber sobre o plano de carreira para enfermeiros.](http://www.acpbrasil.com/blog/2018-06-23-plano-de-carreira-para-enfermeiros/)
+
+<div class="img-responsive" title="Ebook ACP">
+    <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>
+</div>

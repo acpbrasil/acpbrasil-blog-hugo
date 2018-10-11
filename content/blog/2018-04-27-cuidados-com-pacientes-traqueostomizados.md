@@ -17,3 +17,7 @@ Alguns pacientes em assistência domiciliar ou Home Care, possuem uma traqueosto
 A traqueostomia é uma abertura cirúrgica realizada na parede anterior da traquéia para facilitar a ventilação; a abertura é mantida usualmente com uma cânula de traqueostomia.
 
 O principal objetivo dos cuidados de enfermagem ao paciente com uma traqueostomia é a manutenção da permeabilidade desta via aérea paraventilação e oxigenação. O cuidado com o estoma (local de inserção da traqueostomia), humidificação da via aérea em pacientes em ventilação mecânica, remoção das secreções, comunicação verbal e não verbal e avaliação da deglutição são pontos importantes que a equipe de enfermagem deve estabelecer no cuidado ao paciente traqueostomizado.
+
+<div class="img-responsive" title="Ebook ACP">
+    <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>
+</div>

@@ -62,3 +62,7 @@ Para ser considerado fluente no idioma inglês, o candidato deverá ter a sua no
 E então, conseguiu encontrar a resposta para a pergunta “O que é e como me preparar para o TOEFL?”. Esperamos que sim!
 
 **Como você também deve saber, além de ter domínio na língua inglesa, para ser enfermeiro nos EUA é preciso validar o seu diploma. Por isso, recomendamos a leitura do artigo [“Processo de validação do diploma de enfermeiro dos Estados Unidos”](http://www.acpbrasil.com/blog/2018-08-02-processo-de-validacao-do-diploma-de-enfermeiro-nos-estados-unidos/). Não deixe de conferir!**
+
+<div class="img-responsive" title="Ebook ACP">
+    <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>
+</div>
