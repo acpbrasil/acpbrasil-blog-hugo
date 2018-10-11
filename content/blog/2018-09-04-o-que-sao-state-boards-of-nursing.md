@@ -45,6 +45,10 @@ Se você é enfermeiro formado em uma instituição de ensino superior  brasil
 
 O primeiro passo quanto ao State Board of Nursing  é conhecer as exigências do Board do Estado em que você deseja trabalhar faz quanto ao enfermeiro estrangeiro. No caso do [board do estado da Georgia](http://sos.ga.gov/index.php/licensing/plb/45/licensure_as_a_registered_nurse), por exemplo, algumas das exigências são comprovar proficiência do idioma inglês através do exame TOEFL e fazer o licenciamento por exame internacional NCLEX, entre outras.
 
+  <div class="img-responsive" title="Ebook ACP">
+    <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a> 
+  </div>
+  
 O NCLEX é uma prova que tem como objetivo avaliar o conhecimento, as habilidades e capacidades essenciais necessárias para o **Registered Nurse** na promoção, manutenção e restauração da saúde do paciente/cliente. Para saber mais sobre o NCLEX [confira esse outro post](http://www.acpbrasil.com/blog/2018-05-01-nclex/).
 
 E então, conseguiu entender um pouco mais sobre o papel que os States Board of Nursing tem no processo de se tornar um enfermeiro nos EUA? Esperamos que nosso conteúdo tenha sido útil para você. 
