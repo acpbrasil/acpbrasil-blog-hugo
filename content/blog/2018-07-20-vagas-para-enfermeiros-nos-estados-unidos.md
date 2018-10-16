@@ -1,7 +1,7 @@
 ---
 title: "Vagas para enfermeiro nos Estados Unidos"
 description: "Veja as vantagens de aproveitar as vagas para enfermeiro nos Estados Unidos oferecidas pela ACP"
-date: 2018-07-19T15:08:00-03:00
+date: 2018-07-20T15:08:00-03:00
 # TODO Definir tags
 tags: ["vagas para enfermeiro nos Estados Unidos", "trabalhar como enfermeiro nos Estados Unidos", "enfermeiro nos EUA", "enfermagem", "vagas de enfermeiro nos EUA", "enfermagem nos eua"]
 categories: ["Mercado"]
@@ -29,7 +29,7 @@ Os benefícios oferecidos pela ACP em suas **vagas para enfermeiros nos Estados 
 - Pagamento salarial semanal;
 - Folgas remuneradas.
 
-Gostou dos benefícios? Se você atende aos requisitos, [se candidate já a uma vaga para enfermeiros nos Estados Unidos]({{< ref "formulario.md" >}}) .
+Gostou dos benefícios? Se você atende aos requisitos, [se candidate já a uma vaga para enfermeiros nos Estados Unidos]({{< ref "/formulario.md" >}}) .
 
 ## Quais são os requisitos para se candidatar a vagas para enfermeiro nos Estados Unidos?
 Se você já se formou como enfermeiro no Brasil, tem um nível de inglês entre o avançado e o fluente, além de experiência mínima de 500hrs na área já pode se candidatar a uma vaga para ser enfermeiro nos Estados Unidos!
@@ -53,7 +53,7 @@ Temos grandes expectativas para os nossos enfermeiros, o que os mantém muito re
 ### Treinamento Contínuo
 Todo enfermeiro recebe treinamento contínuo, o que os ajuda a trabalhar de maneira mais inteligente e mais eficaz.
 
-**E então, é um enfermeiro graduado e deseja encontrar vagas para enfermeiro nos Estados Unidos? Não espere mais! [Candidate-se a uma vaga]({{< ref "formulario.md" >}}) ou entre em contato para obter mais informações!**
+**E então, é um enfermeiro graduado e deseja encontrar vagas para enfermeiro nos Estados Unidos? Não espere mais! [Candidate-se a uma vaga]({{< ref "/formulario.md" >}}) ou entre em contato para obter mais informações!**
 
 <div class="img-responsive" title="Ebook ACP">
     <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>

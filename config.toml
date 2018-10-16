@@ -30,7 +30,7 @@ paginate = 5
   description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
   email = "contato@acpediatrics.com"
 
-  # TODO Definir keywords com as gurias
+  # Definir keywords com as gurias
   defaultKeywords = [ "acp", "eua", "blog", "enfermeiros", "enfermeiros eua", "enfermeiros usa", "nurse", "recrutamento", "migração", "emprego", "job" ]
 
   # Forms configuration

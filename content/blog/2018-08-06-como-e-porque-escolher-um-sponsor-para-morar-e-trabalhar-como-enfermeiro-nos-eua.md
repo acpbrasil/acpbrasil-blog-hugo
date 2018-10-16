@@ -50,9 +50,9 @@ Isso quer dizer que, se trabalhar 40 horas semanais, você terá um salário bru
 
 **E então, conseguimos esclarecer as suas dúvidas sobre como escolher um Sponsor e quais são as empresas americanas que contratam enfermeiros brasileiros? Esperamos que nosso conteúdo tenha sido útil e que você possa ter compreendido sobre como começar o processo migratório para trabalhar no país americano e realizar os seus sonhos pessoais e profissionais.**
 
-Para mais informações sobre o processo e esclarecimento de dúvidas pontuais que ainda tenham ficado, não deixe de [**entrar em contato conosco**]({{< ref "formulario.md" >}}). Nossa equipe está sempre pronta e à disposição para lhe dar todas as orientações e responder a qualquer tipo de questionamento que você tiver.
+Para mais informações sobre o processo e esclarecimento de dúvidas pontuais que ainda tenham ficado, não deixe de [**entrar em contato conosco**]({{< ref "/formulario.md" >}}). Nossa equipe está sempre pronta e à disposição para lhe dar todas as orientações e responder a qualquer tipo de questionamento que você tiver.
 
-## [**Faça parte!**]({{< ref "formulario.md" >}})
+## [**Faça parte!**]({{< ref "/formulario.md" >}})
 
 <div class="img-responsive" title="Ebook ACP">
     <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>

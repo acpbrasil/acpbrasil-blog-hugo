@@ -59,24 +59,25 @@ Segundo o [Blog da Catho](https://www.catho.com.br/educacao/blog/plano-de-carrei
 
 ## Situação do mercado de trabalho para o enfermeiro nos Estados Unidos
 
-Há grande demanda por enfermeiros nos EUA por várias razões, como: 
-+ os americanos preferem estudar medicina; 
+Há grande demanda por enfermeiros nos EUA por várias razões, como:
+
++ os americanos preferem estudar medicina;
 + a quantidade de idosos da geração pós-guerra é alta (muitos requerem cuidados intensivos);
-+ muitos enfermeiros americanos estão se aposentando; 
-+ há falta de profissionais em áreas rurais; 
-há carência de professores de enfermagem. 
++ muitos enfermeiros americanos estão se aposentando;
++ há falta de profissionais em áreas rurais;
++ há carência de professores de enfermagem.
 
 Dessa forma, quem tiver um plano de carreira para enfermeiros eficiente tem grandes chances de trabalhar como enfermeiro nos Estados Unidos.
 
 ## Qualificação dos enfermeiros norte-americanos
 
-Assim como na enfermagem brasileira, na norte-americana há alguns tipos de certificações. Mencionaremos as que são similares ao Brasil: 
+Assim como na enfermagem brasileira, na norte-americana há alguns tipos de certificações. Mencionaremos as que são similares ao Brasil:
 
 + **CNA (certified nurse assistant)**: auxilia enfermeiros e médicos em tarefas básicas como limpar ferramentas e ajudar nos cuidados básicos aos pacientes (movimentação, alimentação e higiene). Comparativamente, seriam os auxiliares de enfermagem brasileiros.
 
 + **LPN (licenced practice nurse)**: fazem tarefas como primeiros socorros, análises básicas de laboratório, aplicação de soro e administração de medicamentos, dão pequenos diagnósticos, organizam e supervisionam o serviço dos CNAs, etc. Seriam os técnicos de enfermagem.
 
-+ **RN (registered nurse)**:  são os enfermeiros graduados e que precisam passar no [NCLEX-RN]({{< ref "2018-05-01-nclex.md" >}}) para atuarem na profissão. Um RN realiza uma gama bastante ampla de tarefas, da pediatria à geriatria. Abaixo, algumas das suas principais atribuições:
++ **RN (registered nurse)**:  são os enfermeiros graduados e que precisam passar no [NCLEX-RN]({{< ref "/blog/2018-05-01-nclex.md" >}}) para atuarem na profissão. Um RN realiza uma gama bastante ampla de tarefas, da pediatria à geriatria. Abaixo, algumas das suas principais atribuições:
 + Observar e registrar o comportamento dos pacientes;
 + Coordenar, com médicos e outros profissionais de saúde, a criação e avaliação de planos de cuidados personalizados para cada paciente;
 + Fornecer apoio emocional e psicológico aos pacientes e suas famílias;
@@ -101,7 +102,7 @@ Além das questões práticas anteriores, essa estratégia baseia-se em fortes a
 
 Assim, suas habilidades, qualidades, o tipo de trabalho que lhe interessa e o que você gosta de fazer — ao lidar diretamente com pacientes — devem permear sua decisão por qual área seguir na enfermagem. Faça uma autoavaliação, considere várias opções para só então, estabelecer o seu plano de sucesso.
 
-Seguindo informações acima, você estará apto a construir seu **plano de carreira para enfermeiros**. E se sua intenção é [trabalhar nos Estados Unidos como enfermeiro]({{< ref "formulario.md" >}}), continue acompanhando nossos artigos com mais informações sobre essa oportunidade!
+Seguindo informações acima, você estará apto a construir seu **plano de carreira para enfermeiros**. E se sua intenção é [trabalhar nos Estados Unidos como enfermeiro]({{< ref "/formulario.md" >}}), continue acompanhando nossos artigos com mais informações sobre essa oportunidade!
 
 <div class="img-responsive" title="Ebook ACP">
     <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>

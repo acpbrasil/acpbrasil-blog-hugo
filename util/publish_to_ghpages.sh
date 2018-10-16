@@ -30,7 +30,7 @@ echo "Creating CNAME file for gh-pages"
 echo "www.acpbrasil.com" >> public/CNAME
 
 echo "Updating gh-pages branch"
-DATE=`date +%Y-%m-%d`
-cd public && git add --all && git commit -m "$DATE Publishing to gh-pages (publish.sh)"
+DATE=`date '+%Y-%m-%d %H:%M:%S'`
+cd public && git add --all && git commit -m "$DATE publish to gh-pages (script)"
 
 git push origin gh-pages
