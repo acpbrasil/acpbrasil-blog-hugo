@@ -30,7 +30,9 @@ paginate = 5
   description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
   email = "contato@acpediatrics.com"
 
-  # Definir keywords com as gurias
+  # Google Maps Javascript API Key (if not set will default to not passing a key)
+  googleMapsApiKey = "AIzaSyAjfJiRAe8ct6XKSaHSEXp49sXZBLdmy0Q"
+
   defaultKeywords = [ "acp", "eua", "blog", "enfermeiros", "enfermeiros eua", "enfermeiros usa", "nurse", "recrutamento", "migração", "emprego", "job" ]
 
   # Forms configuration
