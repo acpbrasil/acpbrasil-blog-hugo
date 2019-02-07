@@ -11,7 +11,7 @@ source: "https://en.wikipedia.org/wiki/Georgia_(U.S._state)"
 draft: false
 --- 
 
-A ACP [(Advanced Care Partners)](https://www.advancedcarepediatrics.com/) é uma empresa de home care Americana atendendo famílias a mais de 8 anos em todo Estado da Georgia, sendo sua sede na cidade de Atlanta. Este ano, através da ACP Brasil, abre oportunidades de emprego para enfermeiros do Brasil que queiram fazer parte da família ACP na Georgia/EUA.
+A ACP [(Advanced Care Partners)](https://www.advancedcarepartners.com/) é uma empresa de home care Americana atendendo famílias a mais de 8 anos em todo Estado da Georgia, sendo sua sede na cidade de Atlanta. Este ano, através da ACP Brasil, abre oportunidades de emprego para enfermeiros do Brasil que queiram fazer parte da família ACP na Georgia/EUA.
 
 Se você tem o sonho de melhorar a sua qualidade de vida e a da sua família trabalhando como enfermeiro nos Estados unidos, saiba um pouco mais sobre as cidades de atuação da ACP, alguma delas pode se tornar o seu local de trabalho e de moradia algum dia.
 

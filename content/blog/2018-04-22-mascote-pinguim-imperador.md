@@ -1,12 +1,12 @@
 ---
 title: "Mascote ACP"
-description: "Conheça a história do mascote que inspira a família Advanced Care Pediatrics."
+description: "Conheça a história do mascote que inspira a família Advanced Care Partners."
 date: 2018-04-22T14:17:48-03:00
-tags: ["mascote", "pinguim imperador", "acp", "acpediatrics", "advanced care pediatrics", "trabalho nos eua", "home care", "enfermeiros", "enfermagem", "enfermagem nos eua"]
+tags: ["mascote", "pinguim imperador", "acp", "acpbrasil", "acpartners", "advanced care partners", "trabalho nos eua", "home care", "enfermeiros", "enfermagem", "enfermagem nos eua"]
 categories: ["ACP"]
 banner: "pinguim_imperador.jpg"
 # author: "Izabelle Gindri"
-source: "https://www.advancedcarepediatrics.com/penguin-story/"
+source: "https://www.advancedcarepartners.com/penguin-story/"
 draft: false
 ---
 

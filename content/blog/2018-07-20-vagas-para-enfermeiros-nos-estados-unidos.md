@@ -13,7 +13,7 @@ draft: false
 
 A enfermagem está sempre em alta nos **Estados Unidos**, havendo muitas oportunidades para quem quer encontrar **vagas para enfermeiro nos EUA**. Assim, os enfermeiros formados no Brasil que possuem nível do avançado ao fluente em inglês podem trabalhar em hospitais, clinicas de repouso para idosos e como enfermeiros particulares do tipo home care.  
 
-Nós da **Advanced Care Pediatrics (ACP)**, por exemplo, somos uma empresa que [recruta enfermeiros](https://www.advancedcarepartners.com/brasil/) brasileiros que tenham interesse de trabalhar nos EUA, oferecendo um plano de carreira sólido e salário justo. 
+Nós da **Advanced Care Partners (ACP)**, por exemplo, somos uma empresa que [recruta enfermeiros](https://www.advancedcarepartners.com/brasil/) brasileiros que tenham interesse de trabalhar nos EUA, oferecendo um plano de carreira sólido e salário justo. 
 
 Oferecemos uma ampla variedade de benefícios e um pacote de remuneração competitiva para nossos enfermeiros. Mas nosso maior benefício está no fato de que todos os funcionários da ACP têm um novo lugar para chamar de lar.
 

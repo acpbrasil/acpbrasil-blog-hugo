@@ -9,9 +9,9 @@ Por favor, leia atentamente as seguintes declarações, pois elas abordam as reg
 
 Queremos garantir que você respeite seus direitos de proteção de dados em conformidade com os mais recentes requisitos do Regulamento Geral de Proteção de Dados da UE [(GDPR)](https://www.gdpr.org/) a partir de 25 de maio de 2018.
 
-Este site pertence e é operado pela Advanced Care Pediatrics Brasil. Os seguintes termos e condições regem o uso deste site e de todos os outros sites e produtos da Advanced Care Pediatrics Brasil, alguns dos quais (mas não todos) estão listados aqui.
+Este site pertence e é operado pela Advanced Care Partners Brasil. Os seguintes termos e condições regem o uso deste site e de todos os outros sites e produtos da Advanced Care Partners Brasil, alguns dos quais (mas não todos) estão listados aqui.
 
-Para os fins deste acordo e para facilidade de uso, qualquer referência a "nós", "nós" ou a "Empresa" será uma referência à Advanced Care Pediatrics Brasil e qualquer referência ao "Site" será uma referência a qualquer e todos os sites de propriedade da Empresa, seus respectivos produtos e seus funcionários e agentes.
+Para os fins deste acordo e para facilidade de uso, qualquer referência a "nós", "nós" ou a "Empresa" será uma referência à Advanced Care Partners Brasil e qualquer referência ao "Site" será uma referência a qualquer e todos os sites de propriedade da Empresa, seus respectivos produtos e seus funcionários e agentes.
 
 Os sites incluem, mas não estão limitados a: acpbrasil.com
 

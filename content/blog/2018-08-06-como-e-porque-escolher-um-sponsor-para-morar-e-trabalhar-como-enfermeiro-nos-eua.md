@@ -33,7 +33,7 @@ Somente assim, você saberá exatamente onde trabalhará, quanto receberá de sa
 
 ## Quais são as empresas americanas que contratam enfermeiros brasileiros?
 
-A Advanced Care Pediatrics (em transição para Advanced Care Partners) - ACP, é a única empresa dos Estados Unidos que recruta enfermeiros no Brasil e garante emprego na própria empresa. Assim, os profissionais interessados podem procurar a instituição e ter um suporte completo, em todas as etapas necessárias para trabalhar nos EUA.
+A Advanced Care Partners (em transição para Advanced Care Partners) - ACP, é a única empresa dos Estados Unidos que recruta enfermeiros no Brasil e garante emprego na própria empresa. Assim, os profissionais interessados podem procurar a instituição e ter um suporte completo, em todas as etapas necessárias para trabalhar nos EUA.
 
 [Greice Murphy, CEO, brasileira e fundadora da ACP,](https://www.linkedin.com/in/greice-murphy-0673077a/) tem muita expertise e experiência na área. Ela conhece o esforço que os profissionais estrangeiros precisam ter para se adaptar a uma nova cultura,pois já vivenciou esta transição quando chegou aos Estados Unidos. Assim, a empresa garante um suporte total aos enfermeiros que migram de país, com atendimento 24 horas por dia, 7 dias por semana, em português e em inglês.
 

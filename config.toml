@@ -77,9 +77,9 @@ paginate = 5
   [params.hero]
     title = "ACP: Recrutando, orientando e empregando"
     subtitle = "A enfermagem como passaporte para os EUA."
-    description = "Trabalhar como enfermeiro na Advanced Care Pediatrics é a sua oportunidade de expandir seus conhecimentos e alavancar a sua carreira como enfermeiro nos Estados Unidos."
+    description = "Trabalhar como enfermeiro na Advanced Care Partners é a sua oportunidade de expandir seus conhecimentos e alavancar a sua carreira como enfermeiro nos Estados Unidos."
     # video settings
-    videoUrl = "https://www.advancedcarepediatrics.com/wp-content/uploads/2017/03/homepage-header.mp4"
+    videoUrl = "https://www.advancedcarepartners.com/wp-content/uploads/2017/03/homepage-header.mp4"
     videoImage = "bg/homepage-header-still.jpg"
  
   # Intro section
@@ -259,9 +259,8 @@ paginate = 5
     form = false
     emailTo = "contato@acpediatrics.com"
     emailCc = [
-      "fmorales@acpediatrics.com",
-      "igindri@acpediatrics.com",
-      "denisazevedo@gmail.com"
+      "fmorales@acpbrasil.com",
+      "igindri@acpbrasil.com"
     ]
     title = "Contato"
     # description = "Quer fazer parte do nosso time?<br>Quer iniciar o processo?<br>Tem dúvidas?<br>Entre em contato com a nossa equipe no Brasil."
@@ -272,7 +271,7 @@ paginate = 5
       ["icon-home", "Florianópolis / SC"],
       ["icon-phone", "+55 (48) 99176-0676<br>+55 (48) 99176-3535"],
       ["icon-envelope", "<a href='mailto:contato@acpediatrics.com?subject=Contato'>contato@acpediatrics.com</a>"],
-      ["icon-globe", '<a href="https://www.advancedcarepediatrics.com/" target="_blank">ACP Home care</a><br><a href="http://www.acpbrasil.com/" target="_blank">ACP Brasil</a>']
+      ["icon-globe", '<a href="https://www.advancedcarepartners.com/" target="_blank">ACP Home care</a><br><a href="http://www.acpbrasil.com/" target="_blank">ACP Brasil</a>']
     ]
 
     subject = "Nova mensagem do site!"
