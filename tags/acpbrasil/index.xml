@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Acpediatrics on ACP Brasil</title>
-    <link>http://www.acpbrasil.com/tags/acpediatrics/</link>
-    <description>Recent content in Acpediatrics on ACP Brasil</description>
+    <title>Acpbrasil on ACP Brasil</title>
+    <link>http://www.acpbrasil.com/tags/acpbrasil/</link>
+    <description>Recent content in Acpbrasil on ACP Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 23 Apr 2018 14:52:42 -0300</lastBuildDate>
     
-	<atom:link href="http://www.acpbrasil.com/tags/acpediatrics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.acpbrasil.com/tags/acpbrasil/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
