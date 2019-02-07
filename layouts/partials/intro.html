@@ -11,7 +11,9 @@
 						<i class="fh5co-intro-icon {{ .icon }}"></i>
 						<h2>{{ .title }}</h2>
 						<p>{{ .description }}</p>
+						{{ if .button}}
 						<a href="{{ .url }}" class="btn btn-primary">{{ .button}}</a>
+						{{ end }}
 					</div>
 				</div>
 				{{ end }}
