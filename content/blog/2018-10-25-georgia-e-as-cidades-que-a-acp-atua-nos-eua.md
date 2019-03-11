@@ -56,7 +56,7 @@ Falando agora especificamente de Atlanta, região metropolitana do estado no qua
 
 Há muitas outras cidades da Geórgia nas quais a ACP atua e necessita constantemente de enfermeiros para cuidados no home care. Há, inclusive, diversas vagas abertas para as quais você pode se candidatar cumprindo todos os requisitos necessários.
 
-Quer saber mais sobre como você pode morar em uma das cidades da Geórgia e ter uma qualidade de vida melhor trabalhando como enfermeiro? [Entre em contato com a gente e tire todas as suas dúvidas!]({{< ref "formulario.md" >}})
+Quer saber mais sobre como você pode morar em uma das cidades da Geórgia e ter uma qualidade de vida melhor trabalhando como enfermeiro? [Entre em contato com a gente e tire todas as suas dúvidas!]({{< ref "/formulario.md" >}})
 
 <div class="img-responsive" title="Ebook ACP">
     <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts" target="_blank"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>

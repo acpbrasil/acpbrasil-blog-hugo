@@ -44,11 +44,13 @@
 	-->
 	
 	<!-- ville Target Tracking Pixel -->
-	<script src="https://app.villetarget.com/villetarget_tracking.min.js"></script>
-	<script>
-			villetarget.includeDefaultPrivacyPolicyPopup(true);
-			villetarget.init("5b1bccf5e7272");
-	</script>
+	{{ if not (in (string .Site.BaseURL) "localhost") }}
+		<script src="https://app.villetarget.com/villetarget_tracking.min.js"></script>
+		<script>
+				villetarget.includeDefaultPrivacyPolicyPopup(true);
+				villetarget.init("5b1bccf5e7272");
+		</script>
+	{{ end }}
 	<!-- /ville Target Tracking Pixel -->
 
 	<!-- Load Facebook SDK for JavaScript -->
