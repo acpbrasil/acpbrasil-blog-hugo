@@ -1,0 +1,90 @@
+heroTitle:
+  other: I'm recruiting
+heroSubTitle:
+  other: "A enfermagem como passaporte para os EUA."
+
+
+
+# About section
+# aboutTitle:
+#   other: "Sobre"
+# aboutDescription:
+#   other: "Empresa de recrutamento e consultoria de enfermeiros para os EUA."
+# aboutMoreButton:
+#   other: "Know more"
+aboutMoreUrl:
+  other: "about/"
+
+
+
+# ###################
+
+# home:
+#   other: Home
+
+# contactGoTo:
+#   other: Go to contact page
+
+# contactAddrTitle:
+#   other: Address
+
+# contactTitle:
+#   other: Contact
+
+# contactForm:
+#   other: Contact form
+
+# contactName:
+#   other: Your Name
+
+# contactMail:
+#   other: Your Email
+
+# contactMessage:
+#   other: Your Message
+
+# contactSend:
+#   other: Send Message
+
+# navHome:
+#   other: go to homepage
+
+# navToggle:
+#   other: Toggle Navigation
+
+# categoriesTitle:
+#   other: Categories
+
+# searchTitle:
+#   other: Search
+
+# tagsTitle:
+#   other: Tags
+
+# continueReading:
+#   other: Continue reading
+
+# readMore:
+#   other: Read more
+
+# authorBy:
+#   other: By
+
+# recentPosts:
+#   other: Recent posts
+
+# aboutUs:
+#   other: About us
+
+# newer:
+#   other: Newer
+
+# older:
+#   other: Older
+
+# publishedOn:
+#   other: "on"
+
+
+# - id: home
+#   translation: "Home"

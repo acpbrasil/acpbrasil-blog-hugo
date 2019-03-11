@@ -8,14 +8,18 @@
 				</div>
 			</div>
 			<div class="row">
-			{{ range .Site.Params.counters.item }}
-				<div class="col-md-3 col-sm-6 col-xs-12">
-					<div class="fh5co-counter to-animate">
-						<i class="fh5co-counter-icon {{ .icon }} to-animate-2"></i>
-						<span class="fh5co-counter-number js-counter" data-from="{{ .from }}" data-to="{{ .to }}" data-speed="{{ .speed }}" data-refresh-interval="{{ .interval }}">{{ .to }}</span>
-						<span class="fh5co-counter-label">{{ .description }}</span>
+
+			{{ $data := index .Site.Data .Site.Language.Lang }}
+			{{ if $data.counters }}
+				{{ range sort $data.counters "weight" }}
+					<div class="col-md-3 col-sm-6 col-xs-12">
+						<div class="fh5co-counter to-animate">
+							<i class="fh5co-counter-icon {{ .icon }} to-animate-2"></i>
+							<span class="fh5co-counter-number js-counter" data-from="{{ .from }}" data-to="{{ .to }}" data-speed="{{ .speed }}" data-refresh-interval="{{ .interval }}">{{ .to }}</span>
+							<span class="fh5co-counter-label">{{ .description }}</span>
+						</div>
 					</div>
-				</div>
+				{{ end }}
 			{{ end }}
 			</div>
 		</div>

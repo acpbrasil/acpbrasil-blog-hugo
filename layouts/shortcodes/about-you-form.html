@@ -1,3 +1,84 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ range $index, $element := (sort $data.porqueacp "weight") }}
+<!-- <pre>{{ $data }}</pre> -->
+  <pre> [{{$index}}] (weight:{{.weight}}) {{ .title }}</pre>
+{{ end }}
+
+
+<!-- Team com $index -->
+{{/* 
+  {{ $data := index .Site.Data .Site.Language.Lang }}
+  {{ if $data }}
+    {{ range $index, $element := (sort $data.team "weight") }}
+    <code>[{{$index}}] (weight:{{ .weight }}) - {{ .title }}</code><br>
+    {{ end }}
+  {{ end }}
+  <hr>
+*/}}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ if $data }}
+  {{ range (sort $data.team "weight") }}
+  <code>(weight:{{ .weight }}) - {{ .title }}</code><br>
+  {{ end }}
+{{ end }}
+<hr>
+
+
+{{/*
+  {{ $data := index .Site.Data .Site.Language.Lang }}
+  {{ range sort $data.porqueacp ".Weight" }}
+  {{ range $data.porqueacp }}
+*/}}
+{{/*
+  {{ $data := index .Site.Data .Site.Language.Lang }}
+  {{ range $data.porqueacp }}
+  */}}
+
+
+{{/*
+  {{ $data := index .Site.Data .Site.Language.Lang }}
+  {{ range sort $data.testimonials ".Weight" }}
+  {{ range $data.testimonials }}
+*/}}
+{{/*
+  {{ $data := index .Site.Data .Site.Language.Lang }}
+  {{ range $data.testimonials }}
+  {{ range $data }}
+*/}}
+<!-- Testimonials -->
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ range sort $data.testimonials "weight" }}
+<code>{{ .img }} - {{.alt}}</code><br>
+{{ end }}
+<hr>
+  
+<!-- <pre>{{.Site.Language.Lang}} - {{.Site.Params.work.dataContent}}</pre> -->
+
+<!-- porqueacp -->
+{{/*
+{{ $data := index .Site.Data .Site.Language.Lang }}
+<pre>{{.Site.Params.work.dataContent}}</pre>
+<pre>{{$data.porqueacp}}</pre>
+*/}}
+<hr>
+
+{{/*
+{{ $data := index .Site.Data.porqueacp .Site.Language.Lang }}
+<pre>{{ $data }}</pre>
+{{ range $data }}
+  <pre>{{ . }}</pre>
+{{ end }}
+<hr>
+*/}}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ range $index, $element := (sort $data.porqueacp "weight") }}
+<!-- <pre>{{ $data }}</pre> -->
+  <pre> [{{$index}}] {{ .title }}</pre>
+{{ end }}
+
+
 <form method="post" class="about-you-form" action="https://app.villetarget.com/lists/5b28068644804/embedded-form-subscribe-captcha">
   <input type="hidden" name="_subject" value='{{ $.Page.Site.Params.EmailsSubjectPrefix}} {{ T "formEmailSubject" }}' />
   <input type="hidden" name="_cc" value='{{ delimit .Site.Params.contact.emailCc "," }}' />
@@ -171,7 +252,6 @@
 <script>
   function disableEspecializacao(shouldDisable) {
     console.log('Desabilitando o campo Especialização:', shouldDisable);
-    var specializationInput = $('#specialization');
     if (shouldDisable) {
       $('#specialization').attr('disabled', 'disabled');
     } else {
