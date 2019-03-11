@@ -1,0 +1,32 @@
+- description: "Funcionários"
+  icon: "icon-emotsmile"
+  from: 0
+  to: 450
+  interval: 200
+  speed: 4000
+  weight: 1
+
+- description: "Crescimento anual (em %)"
+  icon: "icon-graph"
+  from: 0
+  to: 40
+  interval: 50
+  speed: 3000
+  weight: 2
+
+# TODO Adicionar um link pra essa list INC 5000?
+- description: "Lista INC 5000 por três anos consecutivos"
+  icon: "icon-trophy"
+  from: 5000
+  to: 5000
+  interval: 50
+  speed: 5000
+  weight: 3
+
+- description: "Vagas de emprego disponíveis"
+  icon: "icon-pin"
+  from: 0
+  to: 237
+  interval: 100
+  speed: 4000
+  weight: 4

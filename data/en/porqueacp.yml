@@ -1,6 +1,4 @@
-# 
 # Conteúdo para a seção "Por que a ACP"
-# 
 
 # 01 - Requisitos mínimos
 - id: "requisitos-minimos"
@@ -10,6 +8,7 @@
   img: "work/requisitos-minimos.jpg"
   alt: "#1 - Requisitos mínimos"
   # TODO usar icone de check
+  weight: 1
   content: |
     - Ter inglês avançado / fluente;
     - Ser graduado em Enfermagem em uma universidade reconhecida pelo MEC;
@@ -22,6 +21,7 @@
   # subtitle: "Qual teste de inglês devo fazer?"
   img: "work/teste-proficiencia.jpg"
   alt: "#2 - Teste de proficiência em inglês"
+  weight: 2
   content: |
     O conselho de enfermagem de cada estado exige, na sua grande maioria, a proficiência do inglês. Esta proficiência pode ser avaliada através de dois exames&colon;
     
@@ -35,6 +35,7 @@
   # subtitle: ""
   img: "work/cgfns.jpg"
   alt: "#3 - O que é CGFNS"
+  weight: 3
   content: |
     O CGFNS (_Commission on Graduates of Foreign Nursing Schools_) é uma instituição que ajuda profissionais de saúde na validação das credenciais acadêmicas e profissionais.
 
@@ -45,6 +46,7 @@
   # subtitle: ""
   img: "work/licenca-profissional.jpg"
   alt: "#4 - Licença profissional"
+  weight: 4
   content: |
     Após validação dos documentos pelo CGFNS, inicia-se o processo de retirada da licença junto ao conselho de interesse.
 
@@ -55,6 +57,7 @@
   # subtitle: ""
   img: "work/nclex.jpg"
   alt: "#5 - NCLEX"
+  weight: 5
   content: |
     NCLEX é um exame que enfermeiros americanos e estrangeiros devem realizar para obter a sua licença e assim poder exercer a profissão.
 
@@ -65,5 +68,6 @@
   # subtitle: ""
   img: "work/imigracao.jpg"
   alt: "#6 - Imigração"
+  weight: 6
   content: |
     Nessa etapa a ACP atuará como seu empregador (_sponsor_). A etapa de imigração será desenvolvida por um escritório parceiro.

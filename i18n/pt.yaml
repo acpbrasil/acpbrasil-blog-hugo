@@ -1,0 +1,212 @@
+# Hero section
+heroTitle:
+  other: "ACP: Recrutando, orientando e empregando"
+heroSubtitle:
+  other: "A enfermagem como passaporte para os EUA."
+heroDescription:
+  other: "Trabalhar como enfermeiro na Advanced Care Partners é a sua oportunidade de expandir seus conhecimentos e alavancar a sua carreira como enfermeiro nos Estados Unidos."
+
+# Intro section
+# TODO
+
+# Work section
+workTitle:
+  other: "Por que a ACP?"
+workDescription:
+  other: "ACP atua ativamente na busca de enfermeiros qualificados para integrar a equipe da ACP na área de enfermagem domiciliar. O nosso time de profissionais irá junto com você percorrer e transpor todas as etapas necessárias para <strong style='text-decoration: underline;'>você exercer a enfermagem nos Estados Unidos como profissional habilitado</strong>.<br><br>Confira o passo a passo nos quadros abaixo:"
+workFootertext:
+  other: "Nós ajudaremos você em todas estas etapas."
+
+# Services section
+servicesTitle:
+  other: "Serviços"
+servicesDescription:
+  other: "Conheça os nossos serviços e formas de atuação."
+
+# About section
+aboutTitle:
+  other: "Sobre"
+aboutDescription:
+  other: "Empresa de recrutamento e consultoria de enfermeiros para os EUA."
+aboutButtonLabel:
+  other: "Conheça mais"
+aboutUrl:
+  other: "sobre/"
+
+# Testimonials section
+testimonialsTitle:
+  other: "Testemunhos"
+testimonialsDescription:
+  other: "Conheça a história de enfermeiros que já passaram por esse processo e também de nossos colaboradores."
+
+# Counters section
+countersTitle:
+  other: "ACP em números"
+
+# Contact section
+contactTitle:
+  other: "Contato"
+contactDescription:
+  # other: "Quer fazer parte do nosso time?<br>Quer iniciar o processo?<br>Tem dúvidas?<br>Entre em contato com a nossa equipe no Brasil.<br><br><br><a class='btn btn-primary' href='formulario/'>Entre em contato</a>"
+  other: >
+    Quer fazer parte do nosso time?<br>
+    Quer iniciar o processo?<br>
+    Tem dúvidas?<br>
+    Entre em contato com a nossa equipe no Brasil.
+contactFormLabelName:
+  other: "Nome"
+contactFormLabelEmail:
+  other: "Email"
+contactFormLabelPhone:
+  other: "Telefone"
+contactFormLabelMessage:
+  other: "Mensagem"
+contactFormLabelButton:
+  other: "Enviar mensagem"
+contactButtonLabel:
+  other: "Entre em contato"
+contactUrl:
+  other: "formulario/"
+
+
+# Form - Join us
+formEmailSubject:
+  other: "Novo formulário enviado!"
+formLabelName:
+  other: "Nome"
+formLabelNamePlaceholder:
+  other: "Informe o nome completo"
+formLabelEmail:
+  other: "Email"
+formLabelEmailPlaceholder:
+  other: "Informe um email válido"
+formLabelPhone:
+  other: "Telefone"
+formLabelPhonePlaceholder:
+  other: "Informe o telefone no formato (99) 99999-9999"
+formLabelAge:
+  other: "Idade"
+formLabelAgePlaceholder:
+  other: "Informe a idade"
+formLabelMaritalStatus:
+  other: "Estado civil"
+formLabelMaritalStatusPlaceholder:
+  other: "Informe o estado civil"
+formLabelCity:
+  other: "Cidade"
+formLabelCityPlaceholder:
+  other: "Informe a cidade onde mora"
+formLabelUniversity:
+  other: "Universidade"
+formLabelUniversityPlaceholder:
+  other: "Informe a universidade da graduação"
+# Experience
+formLabelExperience:
+  other: "Experiência como enfermeiro(a)"
+formLabelExperienceOption_01:
+  other: "Sem experiência"
+formLabelExperienceOption_02:
+  other: "Aluno de graduação"
+formLabelExperienceOption_03:
+  other: "1 – 12 meses"
+formLabelExperienceOption_04:
+  other: "13 – 17 meses"
+formLabelExperienceOption_05:
+  other: "18 – 24 meses"
+formLabelExperienceOption_06:
+  other: "Acima de 24 meses"
+# Specialization
+formLabelSpecialization:
+  other: "Já fez especialização? Se sim, em qual área?"
+formLabelSpecializationPlaceholder:
+  other: "Se sim, informe a área de sua especialização"
+formLabelEnglishTest:
+  other: "Já realizou teste de proficiência em inglês (TOEFL ou IELTS)?"
+# English Level
+formLabelEnglishLevel:
+  other: "Nível de inglês"
+formLabelEnglishLevelOption_01:
+  other: "Iniciante"
+formLabelEnglishLevelOption_02:
+  other: "Intermediário"
+formLabelEnglishLevelOption_03:
+  other: "Avançado"
+formLabelEnglishLevelOption_04:
+  other: "Fluente"
+# How did you find us
+formLabelHowDidFind:
+  other: "Como conheceu a gente?"
+formLabelHowDidFindOption_01:
+  other: Google
+formLabelHowDidFindOption_02:
+  other: Redes sociais
+formLabelHowDidFindOption_03:
+  other: Site de emprego
+formLabelHowDidFindOption_04:
+  other: Indicação
+formLabelHowDidFindOption_05:
+  other: Panfletos
+formLabelHowDidFindOption_06:
+  other: Outro
+# Message
+formLabelMessage:
+  other: "Mensagem"
+formLabelMessagePlaceholder:
+  other: "Você quer deixar alguma mensagem?"
+# FIXME i18n: adicionar a politica de privacidade de forma relativa
+formPrivacyPolicyAgreement:
+  other: "Eu li e concordo com a <a href='politica-de-privacidade' target='_blank'>Política de Privacidade</a>."
+formPrivacyPolicyAgreement_:
+  other: "Eu li e concordo com a <a href='politica-de-privacidade' target='_blank'>Política de Privacidade</a>."
+  # other: "Eu li e concordo com a <a href='{{\"formulario.md\" | relLangURL}}' target='_blank'>Política de Privacidade</a>."
+  # other: "Eu li e concordo com a {{ ref . \"/formulario.md\" }}Política de Privacidade."
+formButtonSubmit:
+  other: "Enviar as respostas"
+
+
+# Basic translations
+basicNo:
+  other: "Não"
+basicYes:
+  other: "Sim"
+copyright:
+  other: "&copy; ACP Brasil. Todos os direitos reservados."
+privacyPolicy:
+  other: "Política de Privacidade"
+privacyPolicyUrl:
+  other: "/politica-de-privacidade/"
+
+# - id: home
+#   translation: "Página Inicial"
+
+
+# ################################################
+# TODO i18n: precisa?
+# home:
+#   other: Página Inicial
+# navHome:
+#   other: vá à página inicial
+# navToggle:
+#   other: Alternar Navegação
+# categoriesTitle:
+#   other: Categorias
+# searchTitle:
+#   other: Buscar
+# tagsTitle:
+#   other: Tags
+# continueReading:
+#   other: Continuar lendo
+# readMore:
+#   other: Leia mais
+# authorBy:
+#   other: Por
+# recentPosts:
+#   other: Posts recentes
+# aboutUs:
+#   other: Sobre nós
+# newer:
+#   other: Mais novas
+# older:
+#   other: Mais antigos
+# publishedOn:
+#   other: em

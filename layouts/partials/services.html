@@ -13,7 +13,8 @@
 				</div>
 			</div>
 			<div class="row">
-			{{ range .Site.Params.services.item }}
+			{{ $data := index .Site.Data .Site.Language.Lang }}
+			{{ range $data.services }}
 				<div class="col-md-6 col-sm-6 fh5co-service to-animate">
 					<i class="icon to-animate-2 {{ .icon | markdownify }}"></i>
 					<h3>{{ .title | markdownify }}</h3>
