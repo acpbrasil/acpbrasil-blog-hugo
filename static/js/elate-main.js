@@ -67,7 +67,8 @@
 	var clickMenu = function() {
 
 		// $('#navbar a:not([class="external"])').click(function(event){
-		$('#navbar a:not([class="external"]), .inner-section-link').click(function(event) { // Custom change
+		// $('#navbar a:not([class="external"]), .inner-section-link').click(function(event) { // Custom change
+		$('#navbar a:not(.external), .inner-section-link').click(function(event) { // Custom change
 			var section = $(this).data('nav-section'),
 				navbar = $('#navbar');
 

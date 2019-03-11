@@ -2,7 +2,6 @@
 # baseurl = "https://acpbrasil.github.io/acpbrasil-blog-hugo/"
 baseurl = "http://www.acpbrasil.com/"
 title = "ACP Brasil"
-languageCode = "pt-br"
 theme = "elate"
 
 # Enable Google Analytics by entering your tracking code
@@ -13,75 +12,172 @@ disqusShortname = "acpbrasil"
 # Define the number of posts per page
 paginate = 5
 
+# enableInlineShortcodes = true
+enableMissingTranslationPlaceholders = true
+footnoteReturnLinkContents = "↑" # "↩"
+summaryLength = 50  # 70
+
+# Multilanguage
+isMultiLingual = true
+defaultContentLanguage = "pt"
+# defaultContentLanguage = "pt-br"
+
+[blackfriday]
+  fractions = false
+
+
+# Languages (i18n)
+
+# Portuguese ###############
+[languages.pt]
+  lang = "pt-br"
+  languageCode = "pt-br"
+  languagePrefix = "pt"
+  # language = "português"
+  contentDir = "content/pt"
+  languageName = "Português"
+  weight = 1
+  [[languages.pt.menu.pages]]
+    url = "sobre/"
+    name = "Quem somos"
+    weight = 10
+  [[languages.pt.menu.postpend]]
+    url = "formulario/"
+    name = "Faça parte"
+    weight = 10
+  [[languages.pt.menu.postpend]]
+    # FIXME i18n: tem uma pasta blog dentro de content/ e dentro de content/pt/
+    url = "blog/"
+    name = "Blog"
+    weight = 11
+
+  # Params
+  [languages.pt.params]
+    description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
+    defaultKeywords = [
+      "acp", "blog", "advanced care", "advanced care pediatrics", "acp brasil",
+      "enfermeiros", "enfermeiros eua", "enfermeiros usa", "recrutamento", "migração", "emprego"
+    ]
+    # Navigation
+    [languages.pt.params.navigation]
+      brand = "ACP Brasil"
+      home = "Home"
+      work = "Por que a ACP?"
+      services = "Serviços"
+      # testimonials = "Testemunhos"  # TODO Habilitar Testemunhos?
+      about = "Sobre"
+      contact = "Contato"
+
+
+# English ###############
+[languages.en]
+  lang = "en"
+  languageCode = "en-us"
+  languagePrefix = "en"
+  # language = "english"
+  contentDir = "content/en"
+  languageName = "English"
+  weight = 2
+  # Menus
+  [[languages.en.menu.pages]]
+    url = "about/"
+    name = "About us"
+    weight = 10
+  [[languages.en.menu.postpend]]
+    url = "form/"
+    name = "Join us"
+    weight = 10
+  [[languages.en.menu.postpend]]
+    url = "blog/"
+    name = "Blog"
+    weight = 11
+  
+  # Params
+  [languages.en.params]
+    description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
+    defaultKeywords = [
+      "acp", "blog", "advanced care", "advanced care pediatrics", "acp brasil",
+      "enfermeiros", "enfermeiros eua", "enfermeiros usa", "recrutamento", "migração", "emprego"
+    ]
+    # Navigation
+    [languages.en.params.navigation]
+      brand = "ACP Brasil"
+      home = "Home"
+      work = "Why ACP?"
+      services = "Services"
+      about = "About"
+      contact = "Contact"
+
+
+# Spanish ###############
+[languages.es]
+  lang = "es"
+  languageCode = "es"
+  languagePrefix = "es"
+  # language = "español"
+  contentDir = "content/es"
+  languageName = "Español"
+  weight = 3
+  # Menus
+  [[languages.es.menu.pages]]
+    url = "nosotros/"
+    name = "Sobre nosotros"
+    weight = 10
+  [[languages.es.menu.postpend]]
+    url = "form/"
+    name = "Trabaje con nosotros"
+    weight = 10
+  [[languages.es.menu.postpend]]
+    url = "blog/"
+    name = "Blog"
+    weight = 11
+  
+  # Params
+  [languages.es.params]
+    description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
+    defaultKeywords = [
+      "acp", "blog", "advanced care", "advanced care pediatrics", "acp brasil",
+      "enfermeiros", "enfermeiros eua", "enfermeiros usa", "recrutamento", "migração", "emprego"
+    ]
+    # Navigation
+    [languages.es.params.navigation]
+      brand = "ACP Brasil"
+      home = "Home"
+      work = "Por que ACP?"
+      services = "Servicios"
+      about = "Sobre"
+      contact = "Contacto"
+    # Hero section
+    [languages.es.params.hero]
+      video = true
+
+
 [params]
-
   socialSharing = true
-
-  # Format dates with Go's time formatting
-  date_format = "2 January, 2006"
+  date_format = "2 January, 2006"  # Format dates with Go's time formatting
   
   custom_css = ["css/custom.css"] # Custom CSS files for Home page
   custom_pages_css = ["css/custom-pages.css"] # Custom CSS files for all other pages
 
   # Meta
-  # TODO Me adicionar como autor
-  # author = "Denis C de Azevedo <denis.azevedo@gmail.com>"
-  author = "ACP Brasil"
-  description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
+  author = "ACP Brasil, Denis C de Azevedo <denis.azevedo@gmail.com>"
   email = "contato@acpediatrics.com"
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
+  # FIXME i18n: Liberar urls /en e /es
   googleMapsApiKey = "AIzaSyAjfJiRAe8ct6XKSaHSEXp49sXZBLdmy0Q"
 
-  defaultKeywords = [ "acp", "eua", "blog", "enfermeiros", "enfermeiros eua", "enfermeiros usa", "nurse", "recrutamento", "migração", "emprego", "job" ]
+  defaultKeywords = [ "acp", "blog", "advanced care", "advanced care pediatrics", "acp brasil" ]
 
   # Forms configuration
   emailsSubjectPrefix = "[ACP]"
-  
-  # Navigation
-  [params.navigation]
-    brand = "ACP Brasil"
-    home = "Home"
-    work = "Por que a ACP?"
-    services = "Serviços"
-    # TODO Habilitar Testemunhos?
-    # testimonials = "Testemunhos"
-    about = "Sobre"
-    contact = "Contato"
 
-    # You can add custom links before or after the default links
-    # Assign a weight to define the order
-    
-    # prepended links
-    #[[menu.prepend]]
-    #  url = "http://gohugo.io"
-    #  name = "Hugo"
-    #  weight = 10
-
-    [[menu.pages]]
-      url = "sobre/"
-      name = "Quem somos"
-      weight = 10
-
-    # postpended links
-    [[menu.postpend]]
-      url = "formulario/"
-      name = "Faça parte"
-      weight = 10
-    [[menu.postpend]]
-      url = "blog/"
-      name = "Blog"
-      weight = 11
-  
   # Hero section
   [params.hero]
-    title = "ACP: Recrutando, orientando e empregando"
-    subtitle = "A enfermagem como passaporte para os EUA."
-    description = "Trabalhar como enfermeiro na Advanced Care Partners é a sua oportunidade de expandir seus conhecimentos e alavancar a sua carreira como enfermeiro nos Estados Unidos."
-    # video settings
     videoUrl = "https://www.advancedcarepartners.com/wp-content/uploads/2017/03/homepage-header.mp4"
     videoImage = "bg/homepage-header-still.jpg"
  
+  # TODO i18n: Traduzir: cuidado que é um array
   # Intro section
   # Available icons: http://simplelineicons.com/
   [params.intro]
@@ -89,7 +185,6 @@ paginate = 5
   [[params.intro.item]]
     title = "Quem somos?"
     description = "Conheça um pouco mais sobre a ACP."
-    # TODO Testar o link no github.io
     url = "sobre/"
     button = "Saiba mais"
     icon = "icon-people"
@@ -120,101 +215,86 @@ paginate = 5
   # Work section
   [params.work]
     enable = true
-    title = "Por que a ACP?"
-    description = "ACP atua ativamente na busca de enfermeiros qualificados para integrar a equipe da ACP na área de enfermagem domiciliar. O nosso time de profissionais irá junto com você percorrer e transpor todas as etapas necessárias para <strong style='text-decoration: underline;'>você exercer a enfermagem nos Estados Unidos como profissional habilitado</strong>.<br><br>Confira o passo a passo nos quadros abaixo:"
-    footertext = "Nós ajudaremos você em todas estas etapas."
+    # TODO i18n: traduzir data
     dataContent = "porqueacp" # Arquivo dentro de data/ com o conteúdo dessa seção
 
 
   # Testimonials section
   [params.testimonials]
     enable = true
-    title = "Testemunhos"
-    description = "Conheça a história de enfermeiros que já passaram por esse processo e também de nossos colaboradores."
-
-    [[params.testimonials.item]]
-      quote = "&ldquo;Desde o primeiro dia que conversei com a ACP, senti imediatamente a sinceridade e acolhimento da ACP em seus objetivos de fornecer o melhor cuidado possível aos nossos pacientes e familiares, mantendo sempre uma relação profissional e de cuidado com toda a equipe.&rdquo;"
-      person = 'T. O’Brein <span class="subtext">Técnica em Enfermagem</span>'
-      img = "person1.jpg"
-      alt = "T. O’Brein"
-
-    [[params.testimonials.item]]
-      quote = "&ldquo;Eu tenho trabalhado em assistência domiciliar durante 19 anos e para diferentes empresas. A ACP é a única empresa que reconhece o enfermeiro, mensalmente e anualmente, pelo esforço e dedicação. Eu amo trabalhar para a ACP, eles cuidam de mim. Sempre que tenho uma preocupação sou ouvida. Oferece salários e benefícios competitivos. ACP você é a melhor e sou muito grata por tudo o que faz!&rdquo;"
-      person = 'D. Hurt <span class="subtext">Enfermeira</span>'
-      img = "person2.jpg"
-      alt = "D. Hurt"
-    
-    [[params.testimonials.item]]
-      quote = "&ldquo;Em 2007 consegui minha licença pela <em>Board of Nursing Colorado</em>. Contei com uma americana da área da saúde para entender todas as etapas: isso foi fundamental! Passei na 1ª tentativa na prova do Nclex! Não consegui _sponsor_ devido à recessão nos EUA na época. Quando conheci a Greice, fiquei extremamente interessada em participar da ACP Brasil e ajudar colegas com minha experiência a concretizar este sonho!&rdquo;"
-      person = 'F. Morales <span class="subtext">Consultora</span>'
-      img = "person3.jpg"
-      alt = "F. Morales"
-
+    # TODO i18n: traduzir data
+    # [[params.testimonials.item]]
+    #   quote = "&ldquo;Desde o primeiro dia que conversei com a ACP, senti imediatamente a sinceridade e acolhimento da ACP em seus objetivos de fornecer o melhor cuidado possível aos nossos pacientes e familiares, mantendo sempre uma relação profissional e de cuidado com toda a equipe.&rdquo;"
+    #   person = 'T. O’Brein <span class="subtext">Técnica em Enfermagem</span>'
+    #   img = "person1.jpg"
+    #   alt = "T. O’Brein"
+    # [[params.testimonials.item]]
+    #   quote = "&ldquo;Eu tenho trabalhado em assistência domiciliar durante 19 anos e para diferentes empresas. A ACP é a única empresa que reconhece o enfermeiro, mensalmente e anualmente, pelo esforço e dedicação. Eu amo trabalhar para a ACP, eles cuidam de mim. Sempre que tenho uma preocupação sou ouvida. Oferece salários e benefícios competitivos. ACP você é a melhor e sou muito grata por tudo o que faz!&rdquo;"
+    #   person = 'D. Hurt <span class="subtext">Enfermeira</span>'
+    #   img = "person2.jpg"
+    #   alt = "D. Hurt"
+    # [[params.testimonials.item]]
+    #   quote = "&ldquo;Em 2007 consegui minha licença pela <em>Board of Nursing Colorado</em>. Contei com uma americana da área da saúde para entender todas as etapas: isso foi fundamental! Passei na 1ª tentativa na prova do Nclex! Não consegui _sponsor_ devido à recessão nos EUA na época. Quando conheci a Greice, fiquei extremamente interessada em participar da ACP Brasil e ajudar colegas com minha experiência a concretizar este sonho!&rdquo;"
+    #   person = 'F. Morales <span class="subtext">Consultora</span>'
+    #   img = "person3.jpg"
+    #   alt = "F. Morales"
 
 
   # Services section
   [params.services]
     enable = true
-    title = "Serviços"
-    description = "Conheça os nossos serviços e formas de atuação."
-
+    # TODO i18n: traduzir data
     [[params.services.item]]
       title = "Enfermeiros"
       description = "Cuidaremos do seu processo de forma personalizada, traçando uma meta realista de acordo com as suas necessidades e experiência profissional."
       icon = "icon-people"
-
     [[params.services.item]]
       title = "Universidades &amp; Instituições de Ensino"
-      # TODO Arrumar a cor do link
       description = 'Oferecemos workshops gratuitos para apresentar essa oportunidade aos alunos e professores. <a class="inner-section-link" href="#" data-nav-section="contact">Entre em contato</a> para saber como.'
       icon = "icon-graduation"
+
 
   # About section
   [params.about]
     enable = true
-    title = "Sobre"
-    description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA.<br><br><a class='btn btn-primary' href='sobre/'>Conheça mais</a>"
-
     # [[params.about.item]]
     #   name = "Greice"
     #   position = "Fundadora"
-    #   description = "<code class='TODO'>Descrição</code>"
+    #   description = "<code class=''>Descrição</code>"
     #   img = "person1.jpg"
     #   alt = "Greice"
     #   # social = [
-    #   #   ["icon-twitter", "#"],
     #   #   ["icon-facebook", "#"],
     #   #   ["icon-linkedin", "#"]
+    #   #   ["icon-twitter", "#"],
     #   # ]      
-
     # [[params.about.item]]
     #   name = "Flaviane"
     #   position = "Consultora"
-    #   description = "<code class='TODO'>Descrição</code>"
+    #   description = "<code class=''>Descrição</code>"
     #   img = "person2.jpg"
     #   alt = "Flaviane"
     #   # social = [
     #   #   ["icon-facebook", "#"],
     #   #   ["icon-linkedin", "#"]
     #   # ]
-
     # [[params.about.item]]
     #   name = "Izabelle"
     #   position = "Consultora"
-    #   description = "<code class='TODO'>Descrição</code>"
+    #   description = "<code class=''>Descrição</code>"
     #   img = "person3.jpg"
     #   alt = "Person3"
     #   # social = [
-    #   #   ["icon-twitter", "#"],
     #   #   ["icon-facebook", "#"],
     #   #   ["icon-linkedin", "#"]
+    #   #   ["icon-twitter", "#"],
     #   # ]
     
 
+  # TODO i18n: traduzir data
   # Counters section
   [params.counters]
     enable = true
-    title = "ACP em números"
     background = "full_image_1.jpg"
 
     [[params.counters.item]]
@@ -224,7 +304,6 @@ paginate = 5
       to = 450
       interval = 200
       speed = 4000
-
     [[params.counters.item]]
       description = "Crescimento anual (em %)"
       icon = "icon-graph"
@@ -232,7 +311,6 @@ paginate = 5
       to = 40
       interval = 50
       speed = 3000
-
     [[params.counters.item]]
       # TODO Adicionar um link pra essa list INC 5000?
       description = "Lista INC 5000 por três anos consecutivos"
@@ -241,10 +319,8 @@ paginate = 5
       to = 5000
       interval = 50
       speed = 5000
-
     [[params.counters.item]]
       description = "Vagas de emprego disponíveis"
-      # TODO pin? feed? info? magnifier?
       icon = "icon-pin"
       from = 0
       to = 237
@@ -257,35 +333,24 @@ paginate = 5
     enable = true
     map = true
     form = false
+    subject = "Nova mensagem do site!"  # Home page contact form
     emailTo = "contato@acpediatrics.com"
     emailCc = [
       "fmorales@acpbrasil.com",
       "igindri@acpbrasil.com"
     ]
-    title = "Contato"
-    # description = "Quer fazer parte do nosso time?<br>Quer iniciar o processo?<br>Tem dúvidas?<br>Entre em contato com a nossa equipe no Brasil."
-    description = "Quer fazer parte do nosso time?<br>Quer iniciar o processo?<br>Tem dúvidas?<br>Entre em contato com a nossa equipe no Brasil.<br><br><br><a class='btn btn-primary' href='formulario/'>Entre em contato</a>"
-    
-    # Available icons: http://simplelineicons.com/
-    details = [
+    details = [  # Available icons: http://simplelineicons.com/
       ["icon-home", "Florianópolis / SC"],
       ["icon-phone", "+55 (48) 99176-0676<br>+55 (48) 99176-3535"],
       ["icon-envelope", "<a href='mailto:contato@acpediatrics.com?subject=Contato'>contato@acpediatrics.com</a>"],
       ["icon-globe", '<a href="https://www.advancedcarepartners.com/" target="_blank">ACP Home care</a><br><a href="http://www.acpbrasil.com/" target="_blank">ACP Brasil</a>']
     ]
 
-    subject = "Nova mensagem do site!"
-    # Form input fields
-    name = "Nome"
-    email = "Email"
-    phone = "Telefone"
-    message = "Mensagem"
-    button = "Enviar mensagem"
 
   # Footer section
   [params.footer]
     enable = true
-    copyright = "&copy; ACP Brasil. Todos os direitos reservados."
+    privacyPolicy = true
     links = [
         ["icon-instagram", "https://www.instagram.com/acpbrasil_enfermeiroseua/"],
         # TODO Mudar o link do Facebook pra acpbrasil

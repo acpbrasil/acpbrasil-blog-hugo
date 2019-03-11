@@ -8,15 +8,16 @@
 				<div class="text-inner">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
-							<h1 class="to-animate">{{ with .Site.Params.hero.title }}{{ . | markdownify }}{{ end }}</h1>
+							<!-- <h1 class="to-animate">{{ i18n "heroTitle" | markdownify }}</h1> -->
+							<h1 class="to-animate">{{ T "heroTitle" | markdownify }}</h1>
 							<hr class="acp-hr variation-3 to-animate">
-							<h2 class="to-animate">{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</h2>
+							<h2 class="to-animate">{{ T "heroSubtitle" | markdownify }}</h2>
 							<!-- <hr class="acp-hr variation-3 to-animate"> -->
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-10 col-md-offset-1">
-							<p class="to-animate">{{ with .Site.Params.hero.description }}{{ . | markdownify }}{{ end }}</p>
+							<p class="to-animate">{{ T "heroDescription" | markdownify }}</p>
 						</div>
 					</div>
 				</div>

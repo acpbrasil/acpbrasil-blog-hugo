@@ -4,11 +4,15 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-12 section-heading text-center">
-					<h2 class="to-animate">{{ with .Site.Params.contact.title }}{{ . | markdownify }}{{ end }}</h2>
+					<!-- <h2 class="to-animate">{{ with .Site.Params.contact.title }}{{ . | markdownify }}{{ end }}</h2> -->
+					<h2 class="to-animate">{{ T "contactTitle" }}</h2>
 					<hr class="acp-hr variation-3 to-animate">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 subtext to-animate">
-							<h3>{{ with .Site.Params.contact.description }}{{ . | markdownify }}{{ end }}</h3>
+							<h3>{{ T "contactDescription" | markdownify }}</h3>
+							<p style="padding-top: 15px;">
+								<a class='btn btn-primary' href='{{ T "contactUrl" | relLangURL }}'>{{ T "contactButtonLabel" }}</a>
+							</p>
 						</div>
 					</div>
 				</div>
@@ -38,39 +42,39 @@
 					<!-- <input type="hidden" name="_next" value="/thanks.html" /> -->
 				
 					<div class="form-group ">
-						{{ with .Site.Params.contact.name }}
-						<label for="name" class="sr-only">{{ . | markdownify }}</label>
-						<input id="name" class="form-control" name="nome" placeholder="{{ . }}" type="text">
-						{{ end }}
+						{{/* <!--
+							{{ with .Site.Params.contact.name }}
+							<label for="name" class="sr-only">{{ . | markdownify }}</label>
+							<input id="name" class="form-control" name="nome" placeholder="{{ . }}" type="text">
+							{{ end }} -->
+						*/}}
+						<label for="name" class="sr-only">{{ T "contactFormLabelName" | markdownify }}</label>
+						<input id="name" class="form-control" name="nome" placeholder='{{ T "contactFormLabelName" }}' type="text">
 					</div>
 					<div class="form-group ">
-						{{ with .Site.Params.contact.email }}
-						<label for="email" class="sr-only">{{ . | markdownify }}</label>
-						<input id="email" class="form-control" name="email" placeholder="{{ . }}" type="email">
-						{{ end }}
+						<label for="email" class="sr-only">{{ T "contactFormLabelEmail" | markdownify }}</label>
+						<input id="email" class="form-control" name="email" placeholder='{{ T "contactFormLabelEmail" }}' type="email">
 					</div>
 					<div class="form-group ">
-						{{ with .Site.Params.contact.phone }}
-						<label for="phone" class="sr-only">{{ . | markdownify }}</label>
-						<input id="phone" class="form-control" name="telefone_celular" placeholder="{{ . }}" type="text">
-						{{ end }}
+						<label for="phone" class="sr-only">{{ T "contactFormLabelPhone" | markdownify }}</label>
+						<input id="phone" class="form-control" name="telefone_celular" placeholder='{{ T "contactFormLabelPhone" }}' type="text">
 					</div>
 					<div class="form-group ">
-						{{ with .Site.Params.contact.message }}
-						<label for="message" class="sr-only">{{ . | markdownify }}</label>
-						<textarea id="message" cols="30" rows="5" class="form-control" name="lead_custom_field_mensagem" placeholder="{{ . }}"></textarea>
-						{{ end }}
+						<label for="message" class="sr-only">{{ T "contactFormLabelMessage" | markdownify }}</label>
+						<textarea id="message" cols="30" rows="5" class="form-control" name="lead_custom_field_mensagem" placeholder='{{ T "contactFormLabelMessage" }}'></textarea>
 					</div>
 					<div class="form-group ">
-						<input class="btn btn-primary btn-lg" value="{{ .Site.Params.contact.button | markdownify }}" type="submit">
+						<input class="btn btn-primary btn-lg" value='{{ T "contactFormLabelButton" | markdownify }}' type="submit">
 					</div>
 				</form>
 			</div>
 			{{ end }}
 		</div>
 	</div>
-	
-	{{ if .Site.Params.contact.map }}
-		<div id="map" class="to-animate"></div>
+
+	{{ if not (in (string .Site.BaseURL) "localhost") }}
+		{{ if .Site.Params.contact.map }}
+			<div id="map" class="to-animate"></div>
+		{{ end }}
 	{{ end }}
 </section>

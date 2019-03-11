@@ -1,5 +1,5 @@
 <form method="post" class="about-you-form" action="https://app.villetarget.com/lists/5b28068644804/embedded-form-subscribe-captcha">
-  <input type="hidden" name="_subject" value="{{ $.Page.Site.Params.EmailsSubjectPrefix}} Novo formulário enviado!" />
+  <input type="hidden" name="_subject" value='{{ $.Page.Site.Params.EmailsSubjectPrefix}} {{ T "formEmailSubject" }}' />
   <input type="hidden" name="_cc" value='{{ delimit .Site.Params.contact.emailCc "," }}' />
   <input type="hidden" name="_language" value="{{ $.Page.Site.LanguageCode }}" />
 
@@ -15,129 +15,155 @@
 
   <!-- TODO Separar o label por ":"? -->
   <div class="form-group">
-    <label for="name">Nome</label>
-    <input id="name" name="nome" required type="text" placeholder="Informe o nome completo" class="form-control" autocomplete="name">
+    <label for="name">{{ T "formLabelName" }}</label>
+    <input id="name" name="nome" required type="text" placeholder='{{ T "formLabelNamePlaceholder" }}' class="form-control" autocomplete="name">
   </div>
 
   <div class="form-group">
-    <label for="email">Email</label>
-    <input id="email" name="email" required type="email" placeholder="Informe um email válido" class="form-control" autocomplete="email">
+    <label for="email">{{ T "formLabelEmail" }}</label>
+    <input id="email" name="email" required type="email" placeholder='{{ T "formLabelEmailPlaceholder" }}' class="form-control" autocomplete="email">
   </div>
 
   <div class="form-group">
-    <label for="phone">Telefone</label>
-    <input id="phone" name="telefone_celular" required type="text" placeholder="Informe o telefone no formato (99) 99999-9999" class="form-control" autocomplete="phone">
+    <label for="phone">{{ T "formLabelPhone" }}</label>
+    <input id="phone" name="telefone_celular" required type="text" placeholder='{{ T "formLabelPhonePlaceholder" }}' class="form-control" autocomplete="phone">
   </div>
 
   <div class="form-group">
-    <label for="age">Idade</label>
-    <input id="age" name="lead_custom_field_idade" required type="number" placeholder="Informe a idade" class="form-control">
+    <label for="age">{{ T "formLabelAge" }}</label>
+    <input id="age" name="lead_custom_field_idade" required type="number" placeholder='{{ T "formLabelAgePlaceholder" }}' class="form-control">
   </div>
   
   <div class="form-group">
-    <label for="maritalStatus">Estado civil</label>
-    <input id="maritalStatus" name="lead_custom_field_estado_civil" required type="text" placeholder="Informe o estado civil" class="form-control">
+    <label for="maritalStatus">{{ T "formLabelMaritalStatus" }}</label>
+    <input id="maritalStatus" name="lead_custom_field_estado_civil" required type="text" placeholder='{{ T "formLabelMaritalStatusPlaceholder" }}' class="form-control">
   </div>
 
   <div class="form-group">
-    <label for="city">Cidade</label>
-    <input id="city" name="cidade" required type="text" placeholder="Informe a cidade onde mora" class="form-control" autocomplete="city">
+    <label for="city">{{ T "formLabelCity" }}</label>
+    <input id="city" name="cidade" required type="text" placeholder='{{ T "formLabelCityPlaceholder" }}' class="form-control" autocomplete="city">
   </div>
 
   <div class="between-form-sections"></div>
 
   <div class="form-group">
-    <label for="college">Universidade</label>
-    <input id="college" name="lead_custom_field_universidade" required type="text" placeholder="Informe a universidade da graduação" class="form-control">
+    <label for="college">{{ T "formLabelUniversity" }}</label>
+    <input id="college" name="lead_custom_field_universidade" required type="text" placeholder='{{ T "formLabelUniversityPlaceholder" }}' class="form-control">
   </div>
 
   <div class="form-group">
-    <label>Experiência como enfermeiro(a)</label>
+    <label>{{ T "formLabelExperience" }}</label>
     <div class="radio">
-      <label><input required type="radio" id="experience#1" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="Sem experiência"> Sem experiência</label>
+      <label><input required type="radio" id="experience#1" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="Sem experiência"> {{ T "formLabelExperienceOption_01" }}</label>
     </div>
     <div class="radio">
-      <label><input required type="radio" id="experience#2" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="Aluno de graduação"> Aluno de graduação</label>
+      <label><input required type="radio" id="experience#2" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="Aluno de graduação"> {{ T "formLabelExperienceOption_02" }}</label>
     </div>
     <div class="radio">
-      <label><input required type="radio" id="experience#3" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="1 – 12 meses"> 1 – 12 meses</label>
+      <label><input required type="radio" id="experience#3" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="1 – 12 meses"> {{ T "formLabelExperienceOption_03" }}</label>
     </div>
     <div class="radio">
-      <label><input required type="radio" id="experience#4" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="13 – 17 meses"> 13 – 17 meses</label>
+      <label><input required type="radio" id="experience#4" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="13 – 17 meses"> {{ T "formLabelExperienceOption_04" }}</label>
     </div>
     <div class="radio">
-      <label><input required type="radio" id="experience#5" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="18 – 24 meses"> 18 – 24 meses</label>
+      <label><input required type="radio" id="experience#5" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="18 – 24 meses"> {{ T "formLabelExperienceOption_05" }}</label>
     </div>
     <div class="radio">
-      <label><input required type="radio" id="experience#6" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="Acima de 24 meses"> Acima de 24 meses</label>
+      <label><input required type="radio" id="experience#6" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="Acima de 24 meses"> {{ T "formLabelExperienceOption_06" }}</label>
     </div>
   </div>
 
   <div class="form-group">
-    <label>Já fez especialização? Se sim, em qual área?</label>
+    <label>{{ T "formLabelSpecialization" }}</label>
     <div class="radio">
       <label>
         <input required type="radio" id="specialization#2" 
             name="lead_custom_field_ja_fez_especializacao?" value="Não"
-            onchange="disableEspecializacao(true)"> Não</label>
+            onchange="disableEspecializacao(true)"> {{ T "basicNo" }}</input>
+      </label>
     </div>
     <div class="radio">
         <label class="radio-inline">
           <input required type="radio" id="specialization#1" 
               name="lead_custom_field_ja_fez_especializacao?" value="Sim"
-              onchange="disableEspecializacao(false)"> Sim</label>
+              onchange="disableEspecializacao(false)"> {{ T "basicYes" }}</input>
+        </label>
         <input id="specialization" type="text" 
             name="lead_custom_field_area_de_especializacao" class="form-control"
-            placeholder="Se sim, informe a área de sua especialização" 
-            required disabled="disabled">
+            placeholder='{{ T "formLabelSpecializationPlaceholder" }}'
+            required disabled="disabled" />
     </div>
   </div>
 
   <div class="between-form-sections"></div>
   
   <div class="form-group">
-    <label>Já realizou teste de proficiência em inglês (TOEFL ou IELTS)?</label>
+    <label>{{ T "formLabelEnglishTest" }}</label>
     <div class="radio">
-      <label><input required type="radio" id="englishTest#1" name="lead_custom_field_ja_realizou_teste_de_proficiencia_em_ingles(toefl_ou_ielts)?" value="Sim"> Sim</label>
+      <label><input required type="radio" id="englishTest#1" name="lead_custom_field_ja_realizou_teste_de_proficiencia_em_ingles(toefl_ou_ielts)?" value="Sim"> {{ T "basicYes" }}</label>
     </div>
     <div class="radio">
-      <label><input required type="radio" id="englishTest#2" name="lead_custom_field_ja_realizou_teste_de_proficiencia_em_ingles(toefl_ou_ielts)?" value="Não"> Não</label>
+      <label><input required type="radio" id="englishTest#2" name="lead_custom_field_ja_realizou_teste_de_proficiencia_em_ingles(toefl_ou_ielts)?" value="Não"> {{ T "basicNo" }}</label>
     </div>
   </div>
   
   <div class="form-group">
-    <label>Nível de inglês</label>
+    <label>{{ T "formLabelEnglishLevel" }}</label>
     <div class="radio">
-      <label><input required type="radio" id="englishLevel#1" name="lead_custom_field_nivel_de_ingles" value="Iniciante"> Iniciante</label>
+      <label><input required type="radio" id="englishLevel#1" name="lead_custom_field_nivel_de_ingles" value="Iniciante"> {{ T "formLabelEnglishLevelOption_01" }}</label>
     </div>
     <div class="radio">
-      <label><input required type="radio" id="englishLevel#2" name="lead_custom_field_nivel_de_ingles" value="Intermediário"> Intermediário</label>
+      <label><input required type="radio" id="englishLevel#2" name="lead_custom_field_nivel_de_ingles" value="Intermediário"> {{ T "formLabelEnglishLevelOption_02" }}</label>
     </div>
     <div class="radio">
-      <label><input required type="radio" id="englishLevel#3" name="lead_custom_field_nivel_de_ingles" value="Avançado"> Avançado</label>
+      <label><input required type="radio" id="englishLevel#3" name="lead_custom_field_nivel_de_ingles" value="Avançado"> {{ T "formLabelEnglishLevelOption_03" }}</label>
     </div>
     <div class="radio">
-      <label><input required type="radio" id="englishLevel#4" name="lead_custom_field_nivel_de_ingles" value="Fluente"> Fluente</label>
+      <label><input required type="radio" id="englishLevel#4" name="lead_custom_field_nivel_de_ingles" value="Fluente"> {{ T "formLabelEnglishLevelOption_04" }}</label>
     </div>
   </div>
 
   <div class="between-form-sections"></div>
 
   <div class="form-group">
-    <label>Como conheceu a gente?</label><div class="radio " data-popup='tooltip' title=""><label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Google" class="styled"/> Google</label></div><div class="radio " data-popup='tooltip' title=""><label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Redes sociais" class="styled"/> Redes sociais</label></div><div class="radio " data-popup='tooltip' title=""><label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Site de emprego" class="styled"/> Site de emprego</label></div><div class="radio " data-popup='tooltip' title=""><label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Indicação" class="styled"/> Indicação</label></div><div class="radio " data-popup='tooltip' title=""><label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Panfletos" class="styled"/> Panfletos</label></div><div class="radio " data-popup='tooltip' title=""><label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Outro" class="styled"/> Outro</label></div></div>
+    <label>{{ T "formLabelHowDidFind" }}</label>
+    <div class="radio" data-popup="tooltip">
+      <label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Google" class="styled"/> {{ T "formLabelHowDidFindOption_01" }}</label>
+    </div>
+    <div class="radio" data-popup="tooltip">
+      <label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Redes sociais" class="styled"/> {{ T "formLabelHowDidFindOption_02" }}</label>
+    </div>
+    <div class="radio" data-popup="tooltip">
+      <label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Site de emprego" class="styled"/> {{ T "formLabelHowDidFindOption_03" }}</label>
+    </div>
+    <div class="radio" data-popup="tooltip">
+      <label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Indicação" class="styled"/> {{ T "formLabelHowDidFindOption_04" }}</label>
+    </div>
+    <div class="radio" data-popup="tooltip">
+      <label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Panfletos" class="styled"/> {{ T "formLabelHowDidFindOption_05" }}</label>
+    </div>
+    <div class="radio" data-popup="tooltip">
+      <label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Outro" class="styled"/> {{ T "formLabelHowDidFindOption_06" }}</label>
+    </div>
 
-  <div class="form-group">
-    <label for="message">Mensagem</label>
-    <textarea id="message" name="lead_custom_field_mensagem" cols="30" rows="5" placeholder="Você quer deixar alguma mensagem?" class="form-control"></textarea>
   </div>
 
-  <div class="form-group"><input type="checkbox" name="privacy_policy_accepted" value="accept" id="villetarget_embedded_form_checkbox_privacy_policy" required><label for="villetarget_embedded_form_checkbox_privacy_policy" class="">Eu li e concordo com a <a href='http://www.acpbrasil.com/politica-de-privacidade/' target='_blank'>Política de Privacidade</a>.</label></div>
+  <div class="form-group">
+    <label for="message">{{ T "formLabelMessage" }}</label>
+    <textarea id="message" name="lead_custom_field_mensagem" cols="30" rows="5" placeholder='{{ T "formLabelMessagePlaceholder" }}' class="form-control"></textarea>
+  </div>
+
+  <div class="form-group">
+    <input type="checkbox" name="privacy_policy_accepted" value="accept" id="villetarget_embedded_form_checkbox_privacy_policy" required />
+    <label for="villetarget_embedded_form_checkbox_privacy_policy">&nbsp;{{ T "formPrivacyPolicyAgreement" | safeHTML }}</label>
+    <label for="villetarget_embedded_form_checkbox_privacy_policy">&nbsp;{{ T "formPrivacyPolicyAgreement_" | markdownify }}</label>
+  </div>
 
   <div class="between-form-sections"></div>
 
   <!-- Submit button -->
   <div class="form-group">
-    <input class="btn btn-primary btn-lg" value="Enviar as respostas" type="submit">
+    <input class="btn btn-primary btn-lg" value='{{ T "formButtonSubmit" }}' type="submit">
   </div>
   
 </form>

@@ -6,7 +6,7 @@
       <!-- Mobile Toggle Menu Button -->
       <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
 
-      <a class="navbar-brand site-title" href="{{ .Site.BaseURL }}">
+      <a class="navbar-brand site-title" href="{{ .Site.BaseURL | relLangURL }}">
         <figure class="svg-container">
           <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 300 106.3">
             <style>.st0{fill:url(#SVGID_1_)}.st1{fill:#010101}.st2{fill:#f9ae5e}.st3{fill:#e69625}.st4{fill:#f2f2f2}.st5{fill:#e9262a}.st6{fill:#1b7dbb}</style>
@@ -29,23 +29,39 @@
         <!-- Home -->
         <li><a href="{{ .Site.BaseURL }}" class="external"><span>{{ with .Site.Params.navigation.home }}{{ . | markdownify }}{{ end }}</span></a></li>
 
-        {{/* $url := strings.TrimPrefix "/" (.Permalink | relURL) */}}
+        {{/*}}
+        {{ $url := strings.TrimPrefix "/" (.Permalink | relLangURL) }}
         {{ $url := printf "%s/" (index (split .URL "/") 1) }}
+
+        <!-- {{ $currentPage := . }} -->
+        <!-- <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}"> -->
+
+        <!-- Get the last part from URL -->
+        {{ $url := printf "%s/" (index (last 1 (split (delimit (split .URL "/") "," "") ",")) 0) }}
+        {{*/}}
+        
+        {{ $url := .Permalink | relURL }}
 
         <!-- Internal pages menus only -->
         {{ range .Site.Menus.pages }}
-        <li class="{{ if eq .URL $url }}active{{ end }}">
-          <a class="external" href="{{ $.Site.BaseURL }}{{ .URL }}"><span>{{ .Name | markdownify }}</span></a>
+        <!-- <li class="{{ if eq .URL $url }}active{{ end }}"> -->
+        <li class="{{ if eq (.URL | relLangURL) $url }}active{{ end }}">
+          <!-- <a class="external" href="{{ $.Site.BaseURL }}{{ .URL }}"><span>{{ .Name | markdownify }}</span></a> -->
+          <a class="external" href="{{ .URL | relLangURL }}"><span>{{ .Name | markdownify }}</span></a>
         </li>
         {{ end }}
-      
         <!-- Postpend menus -->
         {{ range .Site.Menus.postpend }}
-          <li class="{{ if eq .URL $url }}active{{ end }}">
-            <a class="external" href="{{ $.Site.BaseURL }}{{ .URL }}"><span>{{ .Name | markdownify }}</span></a>
+          <li class="{{ if eq (.URL | relLangURL) $url }}active{{ end }}">
+            <a class="external" href="{{ .URL | relLangURL }}"><span>{{ .Name | markdownify }}</span></a>
           </li>
         {{ end }}
+
+        <!-- Language selector dropdown -->
+        {{ partial "i18nlist.html" . }}
+
       </ul>
+
     </div>
     <!--/.nav-collapse -->
 

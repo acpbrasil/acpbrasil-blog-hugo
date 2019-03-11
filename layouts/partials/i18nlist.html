@@ -1,0 +1,14 @@
+{{ if .IsTranslated }}
+<li class="dropdown">
+  <a class="external dropdown-toggle" data-toggle="dropdown" href="#"
+      aria-label="{{ $.Site.Params.languageName }}" title="{{ $.Site.Params.languageName }}">{{ .Lang }}
+  <span class="caret"></span></a>
+  <ul class="dropdown-menu">
+    {{ range .Translations }}
+    <!-- <li><a class="external" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li> -->
+    <li><a class="external" href="{{ .Permalink }}"
+        aria-label="{{ .Language.LanguageName }}" title="{{ .Language.LanguageName }}">{{ .Lang }}</a></li>
+    {{ end}}
+  </ul>
+</li>
+{{ end }}

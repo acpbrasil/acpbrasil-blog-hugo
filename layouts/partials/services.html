@@ -2,11 +2,12 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 section-heading text-center">
-					<h2 class="to-animate">{{ with .Site.Params.services.title }}{{ . | markdownify }}{{ end }}</h2>
+					<!-- <h2 class="to-animate">{{ with .Site.Params.services.title }}{{ . | markdownify }}{{ end }}</h2> -->
+					<h2 class="to-animate">{{ T "servicesTitle" | markdownify }}</h2>
 					<hr class="acp-hr variation-4 to-animate">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 subtext to-animate">
-							<h3>{{ with .Site.Params.services.description }}{{ . | markdownify }}{{ end }}</h3>
+							<h3>{{ T "servicesDescription" | markdownify }}</h3>
 						</div>
 					</div>
 				</div>
