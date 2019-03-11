@@ -118,6 +118,13 @@
       {{ end }}
     {{ end }}
 
+    <!-- <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}"> -->
+    {{ if .IsTranslated }}
+      {{ range .AllTranslations }}
+      <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+      {{ end }}
+    {{ end }}
+
     <!-- Modernizr JS -->
     <!-- <script src="js/modernizr-2.6.2.min.js"></script> -->
     <script src="{{ .Site.BaseURL }}js/modernizr-2.6.2.min.js"></script>

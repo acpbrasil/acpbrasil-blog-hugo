@@ -2,19 +2,23 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 section-heading text-center">
-					<h2 class="to-animate">{{ with .Site.Params.work.title }}{{ . }}{{ end }}</h2>
+					<!-- <h2 class="to-animate">{{ with .Site.Params.work.title }}{{ . }}{{ end }}</h2> -->
+					<h2 class="to-animate">{{ T "workTitle" | safeHTML }}</h2>
 					<hr class="acp-hr variation-4 to-animate">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 subtext to-animate">
-							<h3>{{ with .Site.Params.work.description }}{{ . | markdownify }}{{ end }}</h3>
+							<h3>{{ T "workDescription" | safeHTML }}</h3>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="row row-bottom-padded-sm dialog-popup-container">
 
-			{{/* range $index, $element := .Site.Data.porqueacp */}}
-			{{ range $index, $element := (index .Site.Data .Site.Params.work.dataContent) }}
+			{{/* 
+				{{ range $index, $element := (index .Site.Data .Site.Params.work.dataContent) }}
+			 */}}
+			{{ $data := index .Site.Data .Site.Language.Lang }}
+			{{ range $index, $element := $data.parqueacp }}
 				<div class="col-md-4 col-sm-6 col-xxs-12">
 					<!-- Box -->
 					<a href="#work-small-dialog-{{$index}}" class="fh5co-project-item dialog-popup to-animate">
@@ -29,7 +33,7 @@
 					<div id="work-small-dialog-{{$index}}" class="zoom-anim-dialog mfp-hide popup-small-dialog work-small-dialog">
 						<h1>{{ .title }}</h1>
 						<hr class="variation-3">
-						<p>{{ .content | markdownify }}</p>
+						{{ .content | markdownify }}
 					</div>
 					<!-- // Content dialog -->
 				</div>				
@@ -40,7 +44,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-12 text-center to-animate work__footer-text">
-					<h3>{{ .Site.Params.work.footertext | markdownify }}</h3>
+					<h3>{{ T "workFootertext" | markdownify }}</h3>
 				</div>
 			</div>
 		</div>

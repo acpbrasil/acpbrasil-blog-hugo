@@ -3,10 +3,13 @@
 		<div class="container">
 			<div class="">
 				<div class="col-md-12 text-center">
-					<span>{{ with .Site.Params.footer.copyright }}{{ . | markdownify }}{{ end }}</span>
-					<p class="privacy text-muted">
-						<a href="{{ $.Site.BaseURL }}politica-de-privacidade/">Política de Privacidade</a>
-					</p>
+					<!-- <span>{{ with .Site.Params.footer.copyright }}{{ . | markdownify }}{{ end }}</span> -->
+					<span>{{ T "copyright" | markdownify }}</span>
+					{{ if .Site.Params.footer.privacyPolicy }}
+						<p class="privacy text-muted">
+							<a href='{{ T "privacyPolicyUrl" | relLangURL }}'>{{ T "privacyPolicy" }}</a>
+						</p>
+					{{ end }}
 				</div>
 			</div>
 			<div class="row">

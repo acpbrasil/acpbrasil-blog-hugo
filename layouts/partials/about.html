@@ -2,11 +2,13 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-12 section-heading text-center">
-					<h2 class="to-animate">{{ with .Site.Params.about.title }}{{ . | markdownify }}{{ end }}</h2>
+					<!-- <h2 class="to-animate">{{ with .Site.Params.about.title }}{{ . | markdownify }}{{ end }}</h2> -->
+					<h2 class="to-animate">{{ T "aboutTitle" }}</h2>
 					<hr class="acp-hr variation-3 to-animate">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 subtext to-animate">
-							<h3>{{ with .Site.Params.about.description }}{{ . | markdownify }}{{ end }}</h3>
+							<h3>{{ T "aboutDescription" | markdownify }}</h3>
+							<p><a class='btn btn-primary' href='{{ T "aboutUrl" | relLangURL }}'>{{ T "aboutButtonLabel" }}</a></p>
 						</div>
 					</div>
 				</div>
