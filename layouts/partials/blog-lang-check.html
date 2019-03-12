@@ -1,0 +1,15 @@
+{{ with .Params.blogNotSupported }}
+  <div class="blog-not-supported">
+    <h3 class="title">{{ T "blogNotSupported" }}</h3>
+    <p>{{ T "visitPortugueseBlog" }}</p>
+  </div>
+  <hr class="acp-hr variation-2">
+{{ end }}
+
+{{/* 
+{{ if .IsTranslated }}
+  {{ if not (eq .Site.Language.Lang "pt") }}
+    {{ T "blogNotSupported" }}
+  {{ end }}
+{{ end }}
+*/}}
