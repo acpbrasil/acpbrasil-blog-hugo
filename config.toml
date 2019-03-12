@@ -46,7 +46,6 @@ defaultContentLanguage = "pt"
     name = "Faça parte"
     weight = 10
   [[languages.pt.menu.postpend]]
-    # FIXME i18n: tem uma pasta blog dentro de content/ e dentro de content/pt/
     url = "blog/"
     name = "Blog"
     weight = 11

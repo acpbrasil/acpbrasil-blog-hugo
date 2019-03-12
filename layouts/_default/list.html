@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+  {{ partial "blog-lang-check.html" . }}
+
   <main>
     {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
     {{ range $paginator.Pages }}

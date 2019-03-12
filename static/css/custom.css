@@ -104,6 +104,10 @@ div.buttons.bottom-buttons {
   margin-top: 30px;
 } */
 
+.blog-not-supported {
+  text-align: center;
+  padding-bottom: 20px;
+}
 
 /* Blockquote */
 .page-content blockquote {
