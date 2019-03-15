@@ -1,14 +1,28 @@
 {{ if .IsTranslated }}
-<li class="dropdown">
-  <a class="external dropdown-toggle" data-toggle="dropdown" href="#"
-      aria-label="{{ $.Site.Params.languageName }}" title="{{ $.Site.Params.languageName }}">{{ .Lang }}
-  <span class="caret"></span></a>
-  <ul class="dropdown-menu">
-    {{ range .Translations }}
-    <!-- <li><a class="external" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li> -->
-    <li><a class="external" href="{{ .Permalink }}"
-        aria-label="{{ .Language.LanguageName }}" title="{{ .Language.LanguageName }}">{{ .Lang }}</a></li>
-    {{ end}}
-  </ul>
-</li>
+  <li class="dropdown language-dropdown">
+    <a class="external dropdown-toggle" data-toggle="dropdown" href="#"
+        aria-label="{{ $.Site.Params.languageName }}" title="{{ $.Site.Params.languageName }}">
+      <i class="icon-globe"></i>
+      <span class="visible-xs-inline">{{ .Lang }}</span>
+      <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li class="active-lang">
+        <a aria-label="{{ .Language.LanguageName }}" title="{{ .Language.LanguageName }}">
+          {{ .Language.LanguageName }}
+          <i class="icon-check"></i>
+        </a>
+      </li>
+      {{ range .Translations }}
+        <li>
+          <a class="external" href="{{ .Permalink }}"
+              aria-label="{{ .Language.LanguageName }}"
+              title="{{ .Language.LanguageName }}">
+            {{ .Language.LanguageName }}
+            {{/* {{ .Lang }} */}}
+          </a>
+        </li>
+      {{ end}}
+    </ul>
+  </li>
 {{ end }}

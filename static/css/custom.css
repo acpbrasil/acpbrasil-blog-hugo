@@ -104,9 +104,20 @@ div.buttons.bottom-buttons {
   margin-top: 30px;
 } */
 
+/* Multilingual styles */
 .blog-not-supported {
   text-align: center;
   padding-bottom: 20px;
+}
+.language-dropdown > .dropdown-menu a {
+  font-weight: normal !important;
+}
+.language-dropdown > .dropdown-menu > li.active-lang {
+  /* background-color: #F39B3B; */
+  background-color: rgba(243, 155, 59, 0.7);
+}
+.language-dropdown > .dropdown-menu > li.active-lang > a {
+  font-weight: bold !important;
 }
 
 /* Blockquote */
