@@ -54,12 +54,15 @@ defaultContentLanguage = "pt"
 
   # Params
   [languages.pt.params]
+    # TODO i18n: traduzir
     description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
+    # TODO i18n: traduzir
     defaultKeywords = [
       "acp", "blog", "advanced care", "advanced care pediatrics", "acp brasil",
       "enfermeiros", "enfermeiros eua", "enfermeiros usa", "recrutamento", "migração", "emprego"
     ]
     # Navigation
+    # TODO i18n: traduzir
     [languages.pt.params.navigation]
       brand = "ACP Brasil"
       home = "Home"
@@ -148,9 +151,6 @@ defaultContentLanguage = "pt"
       services = "Servicios"
       about = "Sobre"
       contact = "Contacto"
-    # Hero section
-    [languages.es.params.hero]
-      video = true
 
 
 [params]

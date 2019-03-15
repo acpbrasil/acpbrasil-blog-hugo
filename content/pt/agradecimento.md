@@ -1,4 +1,5 @@
 ---
+# TODO i18n: traduzir
 title: "Obrigado!"
 description: "Agradecemos pelo interesse em fazer parte da equipe ACP nos EUA"
 header: ""
