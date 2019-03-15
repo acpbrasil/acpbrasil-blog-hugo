@@ -1,6 +1,6 @@
 {{ if .Site.Params.intro.video.enable }}
   <div class="row watch-video text-center padding-top margin-bottom">
-    <span class="col-md-10 col-md-offset-1">{{.Site.Params.intro.video.title | markdownify }}</span>
+    <span class="col-md-10 col-md-offset-1">{{ T "introVideoTitle" | markdownify }}</span>
     <span class="col-md-12">
       <a href="{{ .Site.Params.intro.video.url }}" class="popup-vimeo btn-video"><i class="{{ .Site.Params.intro.video.icon }}"></i></a>
     </span>

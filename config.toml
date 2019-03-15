@@ -176,40 +176,13 @@ defaultContentLanguage = "pt"
     videoUrl = "https://www.advancedcarepartners.com/wp-content/uploads/2017/03/homepage-header.mp4"
     videoImage = "bg/homepage-header-still.jpg"
  
-  # TODO i18n: Traduzir: cuidado que é um array
   # Intro section
-  # Available icons: http://simplelineicons.com/
   [params.intro]
-
-  [[params.intro.item]]
-    title = "Quem somos?"
-    description = "Conheça um pouco mais sobre a ACP."
-    url = "sobre/"
-    button = "Saiba mais"
-    icon = "icon-people"
-
-  [[params.intro.item]]
-    title = "Está interessado?"
-    description = "Nos conte um pouco sobre você."
-    url = "formulario/"
-    button = "Saiba mais"
-    icon = "icon-note"
-
-  [[params.intro.item]]
-    # title = "Salários e benefícios nos EUA"
-    title = "Salários e benefícios"
-    description = "Conheça as nossas vantagens nos EUA."
-    url = "salarios-e-beneficios/"
-    button = "Saiba mais"
-    icon = "icon-wallet"
-
-  [params.intro.video]
-    enable = true
-    title = "Assista ao vídeo e conheça mais sobre a ACP nas palavras da fundadora Greice Murphy"
-    icon = "icon-play2"
-    # url = "https://www.youtube.com/watch?v=QWJAwVH1ULY"
-    url = "https://vimeo.com/267397018/0b8ed33c67"
-
+    [params.intro.video]
+      enable = true
+      icon = "icon-play2"
+      # url = "https://www.youtube.com/watch?v=QWJAwVH1ULY"
+      url = "https://vimeo.com/267397018/0b8ed33c67"
 
   # Work section
   [params.work]
