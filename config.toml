@@ -26,6 +26,8 @@ defaultContentLanguage = "pt"
   fractions = false
 
 
+# TODO i18n: Precisa criar 3 sitemap.xml
+
 # Languages (i18n)
 
 # Portuguese ###############
