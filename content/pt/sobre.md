@@ -1,4 +1,5 @@
 ---
+# TODO i18n: traduzir
 title: "Quem somos"
 description: "Conheça um pouco mais sobre a ACP"
 header: "Por que _home care_?"

@@ -3,7 +3,7 @@
     <a class="external dropdown-toggle" data-toggle="dropdown" href="#"
         aria-label="{{ $.Site.Params.languageName }}" title="{{ $.Site.Params.languageName }}">
       <i class="icon-globe"></i>
-      <span class="visible-xs-inline">{{ .Lang }}</span>
+      <span class="visible-xs-inline visible-lg-inline">{{ .Lang | upper }}</span>
       <span class="caret"></span>
     </a>
     <ul class="dropdown-menu">
