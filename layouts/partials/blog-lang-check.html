@@ -1,7 +1,9 @@
 {{ with .Params.blogNotSupported }}
   <div class="blog-not-supported">
     <h3 class="title">{{ T "blogNotSupported" }}</h3>
-    <p>{{ T "visitPortugueseBlog" }}</p>
+    <p>
+      <a href='{{ "blog/" | absURL }}'>{{ T "visitPortugueseBlog" }}</a>
+    </p>
   </div>
   <hr class="acp-hr variation-2">
 {{ end }}
