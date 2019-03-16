@@ -1,5 +1,4 @@
 ---
-# TODO i18n: traduzir
 title: "Salários e Benefícios na ACP"
 description: "Conheça as vantagens de fazer parte da nossa equipe"
 header: "Venha trabalhar com a ACP"
@@ -14,7 +13,6 @@ Salários e benefícios serão firmados entre a ACP e o enfermeiro por meio cont
 <div class="photo col-sm-6">
   <img src="/images/foto-08-quad.jpg" class="img-circle img-responsive" title="Salários e Benefícios" alt="Salários e Benefícios">
 </div>
-
 
 <div class="col-sm-6 padding-lg-bottom">
   <h3>Salários ACP</h3>
