@@ -1,0 +1,18 @@
+- quote: "&ldquo;From the first day that I spoke to ACP, I immediately felt the warmth and sincereness of ACP in their goals to provide the best care possible to our patients and their families while maintaining professional and caring relationships with all staff.&rdquo;"
+  # TODO i18n Iza: O'Brein, O'Brien, O'Brian???
+  person: 'T. O’Brein <span class="subtext">LPN</span>'
+  img: "person1.jpg"
+  alt: "T. O’Brein"
+  weight: 1
+
+- quote: "&ldquo;I’ve worked in home health for 19 years and have worked for several companies. ACP is the only company that recognizes a nurse monthly and yearly for their hard work and dedication. I love working for ACP — they care about me. ACP listens to me when I have a concern. ACP offers competitive pay and benefits. ACP, you’re the best and thanks for all you do!&rdquo;"
+  person: 'D. Hurt <span class="subtext">RN</span>'
+  img: "person2.jpg"
+  alt: "D. Hurt"
+  weight: 2
+
+- quote: "&ldquo;In 2007 I got my license from the Colorado Board of Nursing. I had help from an American woman in the health area to understand all the steps: that was fundamental! I passed the first attempt in the NCLEX test! I could not get a sponsor due to the recession in the US at the time. When I met Greice, I was extremely interested in joining ACP Recruitment and helping colleagues with my experience to realize this dream.&rdquo;"
+  person: 'F. Morales <span class="subtext">Consultant</span>'
+  img: "person3.jpg"
+  alt: "F. Morales"
+  weight: 3

@@ -16,7 +16,6 @@
 			</div>
 			<div class="row">
 			
-			<!-- # FIXME i18n: decidir se será assim -->
 			{{ $data := index .Site.Data .Site.Language.Lang }}
 			{{ if $data.testimonials }}
 				{{ range sort $data.testimonials "weight" }}
