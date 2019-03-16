@@ -1,3 +1,10 @@
+# TODO i18n: Procurar por:
+# - Brazil
+# - Pediatrics
+# - Imigration
+# - Testemonial
+# - Wage
+
 # Page settings
 # baseurl = "https://acpbrasil.github.io/acpbrasil-blog-hugo/"
 baseurl = "http://www.acpbrasil.com/"
@@ -58,7 +65,7 @@ defaultContentLanguage = "pt"
     description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
     # TODO i18n: traduzir
     defaultKeywords = [
-      "acp", "blog", "advanced care", "advanced care pediatrics", "acp brasil",
+      "acp", "blog", "advanced care", "advanced care pediatrics", "advanced care partners", "acp brasil",
       "enfermeiros", "enfermeiros eua", "enfermeiros usa", "recrutamento", "migração", "emprego"
     ]
     # Navigation
@@ -100,7 +107,7 @@ defaultContentLanguage = "pt"
   [languages.en.params]
     description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
     defaultKeywords = [
-      "acp", "blog", "advanced care", "advanced care pediatrics", "acp brasil",
+      "acp", "blog", "advanced care", "advanced care pediatrics", "advanced care partners", "acp brasil",
       "enfermeiros", "enfermeiros eua", "enfermeiros usa", "recrutamento", "migração", "emprego"
     ]
     # Navigation
@@ -140,7 +147,7 @@ defaultContentLanguage = "pt"
   [languages.es.params]
     description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
     defaultKeywords = [
-      "acp", "blog", "advanced care", "advanced care pediatrics", "acp brasil",
+      "acp", "blog", "advanced care", "advanced care pediatrics", "advanced care partners", "acp brasil",
       "enfermeiros", "enfermeiros eua", "enfermeiros usa", "recrutamento", "migração", "emprego"
     ]
     # Navigation

@@ -1,95 +1,186 @@
+# Basic translations
+basicNo:
+  other: "No"
+basicYes:
+  other: "Yes"
+copyright:
+  other: "&copy; ACP Brasil. All rights reserved."
+privacyPolicy:
+  other: "Privacy Policy"
+privacyPolicyUrl:
+  other: "/privacy-policy/"
+
+# Hero section
+heroTitle:
+  other: "ACP: Recruiting, guiding and employing"
+heroSubtitle:
+  other: "Nursing as a passport to the United States."
+heroDescription:
+  other: "Working as a nurse at Advanced Care Partners is your opportunity to expand your knowledge and leverage your career as a nurse in the United States."
+
+# Intro section
+introVideoTitle:
+  other: "What the video and know more about ACP in the words of the founder Greice Murphy"
+
+# Work section
+workTitle:
+  other: "Why ACP?"
+workDescription:
+  other: "ACP Brasil actively works in the search for qualified nurses to integrate the ACP team in the home care area. Our team of professionals will come along with you to go through and transpose all the necessary steps in order for <strong style='text-decoration: underline;'>you to practice nursing in the United States as a qualified professional</strong>.<br><br>Check out the step-by-step in the tables below:"
+# TODO i18n Iza: Translate!
+workFootertext:
+  other: "Nós ajudaremos você em todas estas etapas."
+
+# Services section
+servicesTitle:
+  other: "Services"
+servicesDescription:
+  other: "Know our services and ways of acting."
+
+# About section
+aboutTitle:
+  other: "About"
+aboutDescription:
+  other: "Nursing Recruitment & Consulting Company for the USA."
+aboutButtonLabel:
+  other: "Know more"
+aboutUrl:
+  other: "about/"
+
+# Testimonials section
+testimonialsTitle:
+  other: "Testimonials"
+testimonialsDescription:
+  other: "Get to know the history of nurses who have gone through this process and also from our collaborators."
+
+# Counters section
+countersTitle:
+  other: "ACP in numbers"
+
+# Contact section
+contactTitle:
+  other: "Contact"
+contactDescription:
+  # other: "Quer fazer parte do nosso time?<br>Quer iniciar o processo?<br>Tem dúvidas?<br>Entre em contato com a nossa equipe no Brasil.<br><br><br><a class='btn btn-primary' href='formulario/'>Entre em contato</a>"
+  other: >
+    Do you want to be part of our team?<br>
+    Would you like to start the process?<br>
+    Have doubts?<br>
+    Contact our team in Brazil.
+contactFormLabelName:
+  other: "Name"
+contactFormLabelEmail:
+  other: "Email"
+contactFormLabelPhone:
+  other: "Phone"
+contactFormLabelMessage:
+  other: "Message"
+contactFormLabelButton:
+  other: "Send message"
+contactButtonLabel:
+  other: "Contact us"
+contactUrl:
+  other: "form/"
+
+# Blog 
 blogNotSupported:
   other: "Sorry, the blog is not available in your language yet."
 visitPortugueseBlog:
   other: "Visit the blog in Portuguese."
 
-heroTitle:
-  other: I'm recruiting
-heroSubTitle:
-  other: "A enfermagem como passaporte para os EUA."
 
-
-
-# About section
-# aboutTitle:
-#   other: "Sobre"
-# aboutDescription:
-#   other: "Empresa de recrutamento e consultoria de enfermeiros para os EUA."
-# aboutMoreButton:
-#   other: "Know more"
-aboutMoreUrl:
-  other: "about/"
-
-
-
-# ###################
-
-# home:
-#   other: Home
-
-# contactGoTo:
-#   other: Go to contact page
-
-# contactAddrTitle:
-#   other: Address
-
-# contactTitle:
-#   other: Contact
-
-# contactForm:
-#   other: Contact form
-
-# contactName:
-#   other: Your Name
-
-# contactMail:
-#   other: Your Email
-
-# contactMessage:
-#   other: Your Message
-
-# contactSend:
-#   other: Send Message
-
-# navHome:
-#   other: go to homepage
-
-# navToggle:
-#   other: Toggle Navigation
-
-# categoriesTitle:
-#   other: Categories
-
-# searchTitle:
-#   other: Search
-
-# tagsTitle:
-#   other: Tags
-
-# continueReading:
-#   other: Continue reading
-
-# readMore:
-#   other: Read more
-
-# authorBy:
-#   other: By
-
-# recentPosts:
-#   other: Recent posts
-
-# aboutUs:
-#   other: About us
-
-# newer:
-#   other: Newer
-
-# older:
-#   other: Older
-
-# publishedOn:
-#   other: "on"
-
-
-# - id: home
-#   translation: "Home"
+# Form - Join us
+formEmailSubject:
+  other: "Novo formulário enviado!"
+formLabelName:
+  other: "Name"
+formLabelNamePlaceholder:
+  other: "Enter your full name"
+formLabelEmail:
+  other: "Email"
+formLabelEmailPlaceholder:
+  other: "Enter a valid email"
+formLabelPhone:
+  other: "Phone"
+formLabelPhonePlaceholder:
+  other: "Enter your phone"
+formLabelAge:
+  other: "Age"
+formLabelAgePlaceholder:
+  other: "Enter your age"
+formLabelMaritalStatus:
+  other: "Civil status"
+formLabelMaritalStatusPlaceholder:
+  other: "Enter your civil status"
+formLabelCity:
+  other: "City"
+formLabelCityPlaceholder:
+  other: "Enter the city where you live"
+formLabelUniversity:
+  other: "University"
+formLabelUniversityPlaceholder:
+  other: "Enter your University"
+# Experience
+formLabelExperience:
+  other: "Experience as a nurse"
+formLabelExperienceOption_01:
+  other: "No experience"
+formLabelExperienceOption_02:
+  other: "Graduating student"
+formLabelExperienceOption_03:
+  other: "1 – 12 mos"
+formLabelExperienceOption_04:
+  other: "13 – 17 mos"
+formLabelExperienceOption_05:
+  other: "18 – 24 mos"
+formLabelExperienceOption_06:
+  other: "Over 24 months"
+# Specialization
+formLabelSpecialization:
+  other: "Have you already done specialization? If yes, in which area?"
+formLabelSpecializationPlaceholder:
+  other: "Yes. Which one?"
+# English test
+formLabelEnglishTest:
+  other: "Have you already taken an English proficiency test (TOEFL or IELTS)?"
+# English Level
+formLabelEnglishLevel:
+  other: "English level"
+formLabelEnglishLevelOption_01:
+  other: "Beginner"
+formLabelEnglishLevelOption_02:
+  other: "Intermediate"
+formLabelEnglishLevelOption_03:
+  other: "Advanced"
+formLabelEnglishLevelOption_04:
+  other: "Fluent"
+# How did you find us
+formLabelHowDidFind:
+  other: "How did you hear about us?"
+formLabelHowDidFindOption_01:
+  other: Google
+formLabelHowDidFindOption_02:
+  other: Social media
+formLabelHowDidFindOption_03:
+  other: Employment website
+# TODO i18n Iza: Mudei de "indication" para "referral"
+formLabelHowDidFindOption_04:
+  other: Referral
+formLabelHowDidFindOption_05:
+  other: Flyers
+formLabelHowDidFindOption_06:
+  other: Other
+# Message
+formLabelMessage:
+  other: "Message"
+formLabelMessagePlaceholder:
+  other: "Do you want to leave a message?"
+# FIXME i18n: adicionar a politica de privacidade de forma relativa
+formPrivacyPolicyAgreement:
+  other: "I have read and agree to the <a href='politica-de-privacidade' target='_blank'>Privacy Policy</a>."
+formPrivacyPolicyAgreement_:
+  other: "I have read and agree to the <a href='politica-de-privacidade' target='_blank'>Privacy Policy</a>."
+  # other: "I have read and agree to the <a href='{{\"formulario.md\" | relLangURL}}' target='_blank'>Privacy Policy</a>."
+  # other: "I have read and agree to the {{ ref . \"/formulario.md\" }}Privacy Policy."
+formButtonSubmit:
+  other: "Submit form"

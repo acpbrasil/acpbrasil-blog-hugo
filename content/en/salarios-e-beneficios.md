@@ -1,56 +1,49 @@
 ---
-# TODO i18n: traduzir
-title: "Salários e Benefícios na ACP"
-description: "Conheça as vantagens de fazer parte da nossa equipe"
-header: "Venha trabalhar com a ACP"
-tags: ["salário", "benefícios", "enfermagem", "exterior", "enfermagem nos eua"]
+# TODO i18n Iza: "Wages" ou "Salaries"?
+title: "Salaries and Benefits in ACP"
+slug: "salaries-and-benefits"
+description: "Know the advantages to be part of our team"
+header: "Come work with ACP!"
+tags: ["wages", "salaries", "benefits", "nurse", "abroad", "nursing in usa"]
 ---
 
-Salários e benefícios serão firmados entre a ACP e o enfermeiro por meio contratual.
+Salaries and benefits will be entered between ACP and the nurse through contractual arrangements.
 
 <div class="row">
-<!-- ![alt text](/images/foto-08-quad.jpg "Salários e Benefícios") -->
+<!-- ![alt text](/images/foto-08-quad.jpg "Salaries and Benefits") -->
 <!-- {{< figure src="/media/spf13.jpg" title="Steve Francia" >}} -->
 <div class="photo col-sm-6">
-  <img src="/images/foto-08-quad.jpg" class="img-circle img-responsive" title="Salários e Benefícios" alt="Salários e Benefícios">
+  <img src="/images/foto-08-quad.jpg" class="img-circle img-responsive" title="Salaries and Benefits" alt="Salaries and Benefits">
 </div>
 
-
 <div class="col-sm-6 padding-lg-bottom">
-  <h3>Salários ACP</h3>
+  <h3>ACP Salaries</h3>
   <hr class="acp-hr variation-2">
   <ul>
-    <li>Oferecemos planos de carreira baseado na experiência de cada profissional;</li>
-    <li>O salário é pago semanalmente ao enfermeiro.</li>
+    <li>ACP offers career plans based on the experience of each professional;</li>
+    <li>The salary is paid weekly to the nurse.</li>
   </ul>
 </div>
 </div>
 
-<!--   ## Salários ACP
-  <hr class="acp-hr variation-2">
-
-  - Oferecemos planos de carreira baseado na experiência de cada profissional;
-  - O salário é pago semanalmente ao enfermeiro.
- -->
-
-### Benefícios ACP
+### ACP Benefits
 
 <hr class="acp-hr variation-1">
 
-Os enfermeiros serão recebidos pela equipe da ACP nos EUA e além de ajuda de custo terão suporte de estadia e transporte pelos primeiros 30 dias, além de disponibilidade de contato 24h/7 dias por semana durante todo o tempo de contrato. Alguns dos benefícios oferecidos aos profissionais são:
+Nurses will be received by the ACP team in the US and in addition to cost support they will have abode support and transportation for the first 30 days, as well as contact availability 24hs / 7 days a week throughout the contract time. Some of the benefits offered to professionals are: 
 
-- Garantia de trabalho _full-time_ (mínima carga horária: 36h/semana);
-- Seguro saúde (médico, oftalmológico e odontológico);
-- Seguro de vida;
-- Auxilio para obtenção de residência permanente e transporte próprio;
-- Auxilio para obtenção de documentos (e.g carteira de motorista, seguro automóvel, _social security card number_);
-- Auxilio na abertura de conta bancaria, cartão de crédito e linha telefônica;
-- Educação continuada começando com treinamento inicial de 12 horas;
-- Férias remuneradas;
-- Escala de serviço flexível;
-- Pagamento de hora extra (ao exceder 40 horas semanais, pagamento de 1.5 vezes o valor regular/hora;
-- Bônus baseado em desempenho;
-- Prêmios por desempenho (funcionário do mês/ano);
-- Ambiente familiar e apoio exclusivo.
+- Full-time work guarantee (minimum workload: 36h / week);
+- Health Insurance (medical, ophthalmological and dental);
+- Life Insurance;
+- Assistance to obtain permanent residence and own transport.;
+- Assistance in obtaining documents (eg driver's license, car insurance, social security card number);
+- Assistance in the opening of bank account, credit card and telephone line.;
+- Continuing education starting with initial training of 12 hrs.;
+- Paid vacations;
+- Flexible service range;
+- Overtime payment (when exceeding 40 hours a week, payment of 1.5 times the regular amount / hour;
+- Performance-based Bonus;
+- Performance awards (employee of the month / year);
+- Family environment and exclusive support.
 
-### [Faça parte!]({{< ref "formulario.md" >}})
+### [Join us!]({{< ref "formulario.md" >}})

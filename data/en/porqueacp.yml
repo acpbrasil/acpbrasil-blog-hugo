@@ -2,53 +2,53 @@
 
 # 01 - Requisitos mínimos
 - id: "requisitos-minimos"
-  title: "#1 - Requisitos mínimos"
+  title: "#1 - Requirements"
   # subtitle: ""
   # Tamanho da imagem: 470 x 330 px
   img: "work/requisitos-minimos.jpg"
-  alt: "#1 - Requisitos mínimos"
+  alt: "#1 - Requirements"
   # TODO usar icone de check
   weight: 1
   content: |
-    - Ter inglês avançado / fluente;
-    - Ser graduado em Enfermagem em uma universidade reconhecida pelo MEC;
-    - Ter o registro ativo no COREN do seu estado;
+    - Advanced English;
+    - Be a graduate in Nursing;
+    - Have the active registration in the Board of Nursing of your State.
 
 
 # 02 - Teste de proficiência em inglês
 - id: "teste-proficiencia"
-  title: "#2 - Teste de proficiência em inglês"
+  title: "#2 - English proficiency test"
   # subtitle: "Qual teste de inglês devo fazer?"
   img: "work/teste-proficiencia.jpg"
-  alt: "#2 - Teste de proficiência em inglês"
+  alt: "#2 - English proficiency test"
   weight: 2
   content: |
-    O conselho de enfermagem de cada estado exige, na sua grande maioria, a proficiência do inglês. Esta proficiência pode ser avaliada através de dois exames&colon;
-    
+    The nursing council of each state requires, for the most part, the proficiency of English. This proficiency can be assessed through two exams&colon;
+
     - TOEFL (Test of English as a Foreign Language);
     - IELTS (International English Language Testing System).
 
 
 # 03 - O que é CGFNS
 - id: "cgfns"
-  title: "#3 - O que é CGFNS"
+  title: "#3 - What is CGFNS?"
   # subtitle: ""
   img: "work/cgfns.jpg"
-  alt: "#3 - O que é CGFNS"
+  alt: "#3 - What is CGFNS?"
   weight: 3
   content: |
-    O CGFNS (_Commission on Graduates of Foreign Nursing Schools_) é uma instituição que ajuda profissionais de saúde na validação das credenciais acadêmicas e profissionais.
+    The CGFNS (_Commission on Graduates of Foreign Nursing Schools_) is an institution that helps health professionals validate academic and professional credentials.
 
 
 # 04 - Licença profissional
 - id: "licenca-profissional"
-  title: "#4 - Licença profissional"
+  title: "#4 - License"
   # subtitle: ""
   img: "work/licenca-profissional.jpg"
-  alt: "#4 - Licença profissional"
+  alt: "#4 - License"
   weight: 4
   content: |
-    Após validação dos documentos pelo CGFNS, inicia-se o processo de retirada da licença junto ao conselho de interesse.
+    After the documents validation by CGFNS, the process of withdrawal of the license begins with the council of interest.
 
 
 # 05 - NCLEX
@@ -59,15 +59,15 @@
   alt: "#5 - NCLEX"
   weight: 5
   content: |
-    NCLEX é um exame que enfermeiros americanos e estrangeiros devem realizar para obter a sua licença e assim poder exercer a profissão.
+    NCLEX is a test that American and foreign nurses must carry out to obtain their license and thus be able to practice the profession.
 
 
 # 06 - Imigração
 - id: "imigracao"
-  title: "#6 - Imigração"
+  title: "#6 - Immigration"
   # subtitle: ""
   img: "work/imigracao.jpg"
-  alt: "#6 - Imigração"
+  alt: "#6 - Immigration"
   weight: 6
   content: |
-    Nessa etapa a ACP atuará como seu empregador (_sponsor_). A etapa de imigração será desenvolvida por um escritório parceiro.
+    At this stage ACP will act as your employer (sponsor). The immigration stage will be developed by a partner office.
