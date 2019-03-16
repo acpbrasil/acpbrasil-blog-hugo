@@ -27,7 +27,7 @@
         {{ end }}
         
         <!-- Home -->
-        <li><a href="{{ .Site.BaseURL }}" class="external"><span>{{ with .Site.Params.navigation.home }}{{ . | markdownify }}{{ end }}</span></a></li>
+        <li><a href="{{ .Site.BaseURL | relLangURL }}" class="external"><span>{{ with .Site.Params.navigation.home }}{{ . | markdownify }}{{ end }}</span></a></li>
 
         {{/*}}
         {{ $url := strings.TrimPrefix "/" (.Permalink | relLangURL) }}

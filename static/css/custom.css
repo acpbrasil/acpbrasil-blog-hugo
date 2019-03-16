@@ -109,6 +109,9 @@ div.buttons.bottom-buttons {
   text-align: center;
   padding-bottom: 20px;
 }
+.language-dropdown > a.dropdown-toggle > .lang-prefix {
+  font-size: smaller;
+}
 .language-dropdown > .dropdown-menu a {
   font-weight: normal !important;
 }
@@ -118,6 +121,9 @@ div.buttons.bottom-buttons {
 }
 .language-dropdown > .dropdown-menu > li.active-lang > a {
   font-weight: bold !important;
+}
+.language-dropdown > .dropdown-menu > li.active-lang > a > i {
+  vertical-align: middle;
 }
 
 /* Blockquote */
@@ -471,6 +477,10 @@ section#fh5co-intro .fh5co-text > p {
 }
 #fh5co-header #navbar li a span {
   display: initial;
+}
+#fh5co-header #navbar li.language-dropdown a span.caret {
+  display: inline-block;
+
 }
 .navbar-collapse.collapse.in > .navbar-nav > li > a,
 .navbar-collapse.collapsing > .navbar-nav > li > a {
