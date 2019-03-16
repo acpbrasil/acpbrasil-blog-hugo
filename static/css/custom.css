@@ -20,6 +20,10 @@ body {
   font-family: 'Varela Round', Arial, sans-serif;
   /* font-family: 'Open Sans', Arial, sans-serif; */
 
+  /* Fix horizontal scroll */
+  max-width: 100%;
+  overflow-x: hidden;
+
   /* font-size: 2.5vh; */
   /* font-size: 3vw; */
   /* font-size: 1.5vw; */
