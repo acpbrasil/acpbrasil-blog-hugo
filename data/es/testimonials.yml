@@ -1,0 +1,18 @@
+# TODO i18n: Translate!
+- quote: "&ldquo;Desde o primeiro dia que conversei com a ACP, senti imediatamente a sinceridade e acolhimento da ACP em seus objetivos de fornecer o melhor cuidado possível aos nossos pacientes e familiares, mantendo sempre uma relação profissional e de cuidado com toda a equipe.&rdquo;"
+  person: 'T. O’Brein <span class="subtext">Técnica em Enfermagem</span>'
+  img: "person1.jpg"
+  alt: "T. O’Brein"
+  weight: 1
+
+- quote: "&ldquo;Eu tenho trabalhado em assistência domiciliar durante 19 anos e para diferentes empresas. A ACP é a única empresa que reconhece o enfermeiro, mensalmente e anualmente, pelo esforço e dedicação. Eu amo trabalhar para a ACP, eles cuidam de mim. Sempre que tenho uma preocupação sou ouvida. Oferece salários e benefícios competitivos. ACP você é a melhor e sou muito grata por tudo o que faz!&rdquo;"
+  person: 'D. Hurt <span class="subtext">Enfermeira</span>'
+  img: "person2.jpg"
+  alt: "D. Hurt"
+  weight: 2
+
+- quote: "&ldquo;Em 2007 consegui minha licença pela <em>Board of Nursing Colorado</em>. Contei com uma americana da área da saúde para entender todas as etapas: isso foi fundamental! Passei na 1ª tentativa na prova do Nclex! Não consegui _sponsor_ devido à recessão nos EUA na época. Quando conheci a Greice, fiquei extremamente interessada em participar da ACP Brasil e ajudar colegas com minha experiência a concretizar este sonho.&rdquo;"
+  person: 'F. Morales <span class="subtext">Consultora</span>'
+  img: "person3.jpg"
+  alt: "F. Morales"
+  weight: 3
