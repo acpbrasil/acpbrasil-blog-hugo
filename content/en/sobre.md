@@ -1,45 +1,46 @@
 ---
+# TODO i18n Iza: "About us" ou "Who re are"???
 title: "About us"
 slug: "about"
-description: "English: Conheça um pouco mais sobre a ACP"
-header: "Por que _home care_?"
-tags: ["quem somos", "home care", "quem é ACP"]
+description: "Know more about ACP"
+header: "Why home care?"
+tags: ["about us", "home care", "who is ACP"]
 ---
 
 {{< acp-video >}}
 
-A Advanced Care Partners (ACP) foi fundada em 2010 com objetivo mudar a vida de enfermeiros e de famílias com entes enfermos fornecendo atendimento diferenciado em assistência de enfermagem domiciliar a pacientes pediátricos e adultos.
+Advanced Care Partners (ACP) was founded in 2010 with the objective of changing the lives of nurses and families with sick entities, providing differentiated care in home nursing care to pediatric and adult patients.
 
-Nos EUA, famílias de pacientes com condições médicas frágeis, que necessitam o mesmo nível de cuidado como se estivessem hospitalizadas, recebem apoio governamental para ter assistência de enfermagem domiciliar sem custo algum. O governo americano contrata empresas como a ACP para oferecer atendimento de enfermagem a estes pacientes no conforto de suas casas.
+In the US, families of patients with fragile medical conditions who require the same level of care as if they were hospitalized receive government support for home-based nursing care at no cost. The US government hires companies like ACP to provide nursing care to these patients in the comfort of their homes.
 
-Em oito anos a ACP se tornou referência nacional, integrando desde 2015 a conceituada lista da INC 5000 que avalia anualmente as empresas que mais crescem nos EUA. Tudo isso devido à seriedade e comprometimento da ACP com seus enfermeiros, pacientes e familiares.
+In eight years, ACP has become a national reference, integrating since 2015 the prestigious list of the INC 5000 that annually evaluates the fastest growing companies in the USA. All this due to the seriousness and commitment of the ACP with its nurses, patients and relatives.
 
 {{% blockquote-image-bg bg-class="bg-01" %}}
-  > Em oito anos a ACP se tornou referência nacional, integrando desde 2015 lista das 5000 empresas que mais crescem nos EUA.”
+  > In eight years, ACP has become a national reference, integrating since 2015 the list of the 5000 fastest growing companies in the USA.”
 {{% /blockquote-image-bg %}}
 
-Parte do sucesso da ACP fundamenta-se em sua cultura única de ir além do trabalho em equipe para alcançar excelência no serviço oferecido. Na ACP, cuidamos uns dos outros como em uma família, alinhados pelo respeito mútuo e compartilhando os mesmos valores. A maior prova do nosso sucesso é demonstrada quando 90% dos enfermeiros contratados são provenientes de indicações dos membros da ACP.
+Part of ACP's success is based on its unique culture of going beyond teamwork to achieve excellence in service. In the ACP, we take care of each other as a family, aligned with mutual respect and sharing the same values. The greatest proof of our success is demonstrated when 90% of the nurses hired come from indications from the ACP members.
 
 {{% blockquote-image-bg bg-class="bg-02" %}}
-  > Na ACP, cuidamos uns dos outros como em uma família, alinhados pelo respeito mútuo e compartilhando os mesmos valores.”
+  > At ACP, we take care of each other as in a family, aligned by mutual respect and sharing the same values.”
 {{% /blockquote-image-bg %}}
 
-Nos últimos anos a carência de profissionais de enfermagem vem alertando o sistema de saúde americano. Estima-se que até 2022 haverão mais de 700 mil vagas de emprego disponíveis na área de enfermagem. Entendendo este cenário, e considerando a qualidade dos enfermeiros formados no Brasil, a ACP junto com seus parceiros Brasileiros está buscando profissionais qualificados e comprometidos que tenham o sonho de construir uma carreira de sucesso nos Estados Unidos. Estamos aqui para transformar esse sonho em realidade.
+In recent years the shortage of nursing professionals has been warning the American health system. It is estimated that by 2022 there will be over 700,000 jobs available in the nursing area. Understanding this scenario, and considering the quality of nurses trained in Brazil, ACP along with its Brazilian partners is seeking qualified and committed professionals who have the dream of building a successful career in the United States. We are here to make this dream become a reality.
 
 {{% blockquote-image-bg bg-class="bg-03" %}}
-  > Estima-se que até 2022 haverão mais de 700 mil vagas de emprego disponíveis na área de enfermagem.”
+  > It is estimated that by 2022 there will be more than 700,000 jobs available in the nursing area.”
 {{% /blockquote-image-bg %}}
 
-A ACP é a única empresa com os serviços de recrutamento, consultoria e certeza do emprego nos Estados Unidos pois somos os recrutadores e os empregadores. Procuramos enfermeiros apaixonados pelo que fazem e que desejam fazer a diferença na vida de nossos pacientes e de todos que os rodeiam. A ACP busca uma relação profissional duradoura com cada enfermeiro, pois isso contribui com vínculos de lealdade e sucesso. 
+ACP is the only company with the services of recruitment, consulting and certainty of employment in the United States as we are the recruiters and the employers. We look for nurses who are passionate about what they do and who want to make a difference in the lives of our patients and those around them. ACP seeks a lasting professional relationship with each nurse, as this contributes to loyalty and success.
 
-A equipe brasileira oferece o passo a passo de como se tornar um enfermeiro nos EUA, auxiliando com informações e apoio institucional em todas as etapas do processo. Proporcionamos apoio e treinamento para os exames TOEFL e NCLEX incluindo treinamento on-line, simulados e workshops ao vivo. Nosso objetivo é preparar o enfermeiro de forma personalizada, traçando uma meta realista de acordo com as necessidades e experiência específica de cada profissional.
+The Brazilian team offers step-by-step on how to become a nurse in the US, assisting with information and institutional support at all stages of the process. We provide support and training for the TOEFL and NCLEX exams including online training, simulation and live workshops. Our goal is to prepare the nurse in a personalized way, setting a realistic goal according to the needs and specific experience of each professional.
 
 {{% blockquote-image-bg bg-class="bg-04" %}}
-  > Preparamos o enfermeiro de forma personalizada, traçando uma meta realista de acordo com as necessidades e experiência específica de cada profissional.”
+  > We prepare the nurse in a personalized way, setting a realistic goal according to the needs and specific experience of each professional.”
 {{% /blockquote-image-bg %}}
 
-Queremos construir um relacionamento sólido com cada enfermeiro. Profissionais _sponsored_ pela ACP terão não apenas a garantia de um empregador nos Estados Unidos, mas de um parceiro que percorrerá esta jornada de mãos dadas garantindo acesso a todas as ferramentas necessárias para ter êxito em sua carreira profissional e uma tranquila adaptação cultural.
+We want to build a solid relationship with every nurse. Professionals sponsored by ACP will have not only the guarantee of an employer in the United States, but a partner who will walk this journey hand in hand guaranteeing access to all the tools necessary to succeed in their professional career and a quiet cultural adaptation.
 
-<p class="bold">Não somos uma empresa convencional de home care. Nós somos a ACP, inovando na forma que o cuidado é entregue ao paciente.</p>
+<p class="bold">We are not a conventional home care company. We are ACP, innovating in the way that care is delivered to the patient.</p>
 
-### [Faça parte!]({{< ref "formulario.md" >}})
+### [Join us!]({{< ref "formulario.md" >}})

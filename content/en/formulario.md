@@ -1,11 +1,12 @@
 ---
 # type: "page"
-title: "English: Está interessado?"
+title: "Are you interested?"
 slug: "form"
-description: "This form... // TODO Este formulário nos ajudará a traçar uma meta realista para você se tornar um enfermeiro nos EUA através da ACP"
-header: "Tell us about you"
+# TODO i18n Iza: Translate!
+description: "Este formulário nos ajudará a traçar uma meta realista para você se tornar um enfermeiro nos EUA através da ACP"
+header: "Tell us a little about yourself"
 # TODO Declarar as keywords nos outros arquivos? Como funciona?
-keywords: ["FAQ", "How do I", "questions", "what if", "como", "interessado", "contato"]
+keywords: ["FAQ", "How do I", "questions", "what if", "interested", "contact"]
 ---
 
 <section class="check-requirements-form">
