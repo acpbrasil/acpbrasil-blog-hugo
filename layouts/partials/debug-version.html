@@ -1,0 +1,8 @@
+{{ with $.GitInfo }}
+  <div id="debugVersion" class="debug-version">
+    Hash: {{ .AbbreviatedHash }}<br>
+    Last mod: {{ $.Lastmod }}<br>
+    Author: {{ .AuthorName }}<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<{{ .AuthorEmail }}>
+  </div>
+{{ end }}

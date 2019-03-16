@@ -24,6 +24,8 @@ enableMissingTranslationPlaceholders = true
 footnoteReturnLinkContents = "↑" # "↩"
 summaryLength = 50  # 70
 
+enableGitInfo = true
+
 # Multilanguage
 isMultiLingual = true
 defaultContentLanguage = "pt"
