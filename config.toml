@@ -91,6 +91,7 @@ defaultContentLanguage = "pt"
   weight = 2
   # Menus
   [[languages.en.menu.pages]]
+    # TODO i18n Iza: "About us" ou "Who we are"???
     url = "about/"
     name = "About us"
     weight = 10
@@ -108,7 +109,7 @@ defaultContentLanguage = "pt"
     description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
     defaultKeywords = [
       "acp", "blog", "advanced care", "advanced care pediatrics", "advanced care partners", "acp brasil",
-      "enfermeiros", "enfermeiros eua", "enfermeiros usa", "recrutamento", "migração", "emprego"
+      "nursing eua", "nurses usa", "recruiting", "immigration", "nurse jobs"
     ]
     # Navigation
     [languages.en.params.navigation]
@@ -130,6 +131,7 @@ defaultContentLanguage = "pt"
   languageName = "Español"
   weight = 3
   # Menus
+  # TODO i18n Flavi: Translate!
   [[languages.es.menu.pages]]
     url = "nosotros/"
     name = "Sobre nosotros"
@@ -144,6 +146,7 @@ defaultContentLanguage = "pt"
     weight = 11
   
   # Params
+  # TODO i18n Flavi: Translate!
   [languages.es.params]
     description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
     defaultKeywords = [
@@ -152,6 +155,7 @@ defaultContentLanguage = "pt"
     ]
     # Navigation
     [languages.es.params.navigation]
+      # TODO i18n Flavi: Translate!
       brand = "ACP Brasil"
       home = "Home"
       work = "Por que ACP?"

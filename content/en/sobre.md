@@ -1,5 +1,5 @@
 ---
-# TODO i18n Iza: "About us" ou "Who re are"???
+# TODO i18n Iza: "About us" ou "Who we are"???
 title: "About us"
 slug: "about"
 description: "Know more about ACP"

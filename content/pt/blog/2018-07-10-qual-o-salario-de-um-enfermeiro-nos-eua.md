@@ -23,6 +23,7 @@ O valor pago para alguns cargos específicos ocupados por enfermeiros e suas mé
 
 Em geral, a área de saúde costuma pagar bem nos Estados Unidos. Os enfermeiros estão entre os profissionais de saúde com ótimo faturamento anual. No início de 2018, o Bureau de Estatísticas do Trabalho dos EUA afirmou que, de maio de 2016 a maio do ano seguinte, os enfermeiros obtiveram um aumento de 3,7% em comparação com o ano anterior, mostrando ainda a valorizando deste profissional no mercado norte-americano.
 
+<!-- FIXME Não usar a url do site para links: "www.acpbrasil.com" -->
 No início da carreira, os enfermeiros estrangeiros que possuem dois anos de experiência, que vão trabalhar nos EUA tem salários iniciais variando de  [US$ 39.000 - U$ 70.000](http://saudeexperts.com.br/salarios-de-enfermeiros-em-14-paises/), mas esse valor pode aumentar consideravelmente com a experiência do profissional e com o [crescimento na carreira](http://www.acpbrasil.com/blog/2018-06-23-plano-de-carreira-para-enfermeiros/) após ter imigrado aos Estados Unidos.
 Além disso os valores variam de acordo com o grau de complexidade do emprego (home care, centros de saúde, hospitais, unidades especializadas, etc.), especialidade, e localização geográfica.
 
