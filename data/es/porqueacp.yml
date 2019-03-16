@@ -1,3 +1,4 @@
+# TODO i18n: Translate!
 # Conteúdo para a seção "Por que a ACP"
 
 # 01 - Requisitos mínimos
@@ -12,7 +13,7 @@
   content: |
     - Ter inglês avançado / fluente;
     - Ser graduado em Enfermagem em uma universidade reconhecida pelo MEC;
-    - Ter o registro ativo no COREN do seu estado;
+    - Ter o registro ativo no COREN do seu estado.
 
 
 # 02 - Teste de proficiência em inglês

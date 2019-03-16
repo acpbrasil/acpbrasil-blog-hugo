@@ -1,6 +1,7 @@
 ---
-# TODO i18n: traduzir
+# TODO i18n: Translate!
 title: "Salários e Benefícios na ACP"
+slug: "salarios-e-beneficios"
 description: "Conheça as vantagens de fazer parte da nossa equipe"
 header: "Venha trabalhar com a ACP"
 tags: ["salário", "benefícios", "enfermagem", "exterior", "enfermagem nos eua"]
@@ -15,7 +16,6 @@ Salários e benefícios serão firmados entre a ACP e o enfermeiro por meio cont
   <img src="/images/foto-08-quad.jpg" class="img-circle img-responsive" title="Salários e Benefícios" alt="Salários e Benefícios">
 </div>
 
-
 <div class="col-sm-6 padding-lg-bottom">
   <h3>Salários ACP</h3>
   <hr class="acp-hr variation-2">
@@ -25,13 +25,6 @@ Salários e benefícios serão firmados entre a ACP e o enfermeiro por meio cont
   </ul>
 </div>
 </div>
-
-<!--   ## Salários ACP
-  <hr class="acp-hr variation-2">
-
-  - Oferecemos planos de carreira baseado na experiência de cada profissional;
-  - O salário é pago semanalmente ao enfermeiro.
- -->
 
 ### Benefícios ACP
 

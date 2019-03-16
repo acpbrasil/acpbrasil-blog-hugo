@@ -1,3 +1,16 @@
+# Basic translations
+basicNo:
+  other: "Não"
+basicYes:
+  other: "Sim"
+copyright:
+  other: "&copy; ACP Brasil. Todos os direitos reservados."
+privacyPolicy:
+  other: "Política de Privacidade"
+privacyPolicyUrl:
+  other: "/politica-de-privacidade/"
+
+
 # Hero section
 heroTitle:
   other: "ACP: Recrutando, orientando e empregando"
@@ -121,6 +134,7 @@ formLabelSpecialization:
   other: "Já fez especialização? Se sim, em qual área?"
 formLabelSpecializationPlaceholder:
   other: "Se sim, informe a área de sua especialização"
+# English test
 formLabelEnglishTest:
   other: "Já realizou teste de proficiência em inglês (TOEFL ou IELTS)?"
 # English Level
@@ -164,18 +178,6 @@ formPrivacyPolicyAgreement_:
 formButtonSubmit:
   other: "Enviar as respostas"
 
-
-# Basic translations
-basicNo:
-  other: "Não"
-basicYes:
-  other: "Sim"
-copyright:
-  other: "&copy; ACP Brasil. Todos os direitos reservados."
-privacyPolicy:
-  other: "Política de Privacidade"
-privacyPolicyUrl:
-  other: "/politica-de-privacidade/"
 
 # - id: home
 #   translation: "Página Inicial"
