@@ -63,15 +63,12 @@ defaultContentLanguage = "pt"
 
   # Params
   [languages.pt.params]
-    # TODO i18n: traduzir
     description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
-    # TODO i18n: traduzir
     defaultKeywords = [
       "acp", "blog", "advanced care", "advanced care pediatrics", "advanced care partners", "acp brasil",
       "enfermeiros", "enfermeiros eua", "enfermeiros usa", "recrutamento", "migração", "emprego"
     ]
     # Navigation
-    # TODO i18n: traduzir
     [languages.pt.params.navigation]
       brand = "ACP Brasil"
       home = "Home"
@@ -108,7 +105,7 @@ defaultContentLanguage = "pt"
   
   # Params
   [languages.en.params]
-    description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
+    description = "Nursing Recruitment & Consulting Company for the USA"
     defaultKeywords = [
       "acp", "blog", "advanced care", "advanced care pediatrics", "advanced care partners", "acp brasil",
       "nursing eua", "nurses usa", "recruiting", "immigration", "nurse jobs"
@@ -148,9 +145,10 @@ defaultContentLanguage = "pt"
     weight = 11
   
   # Params
-  # TODO i18n Flavi: Translate!
   [languages.es.params]
+    # TODO i18n Flavi: Translate!
     description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
+    # TODO i18n Flavi: Translate!
     defaultKeywords = [
       "acp", "blog", "advanced care", "advanced care pediatrics", "advanced care partners", "acp brasil",
       "enfermeiros", "enfermeiros eua", "enfermeiros usa", "recrutamento", "migração", "emprego"

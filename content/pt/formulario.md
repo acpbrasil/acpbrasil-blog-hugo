@@ -1,5 +1,4 @@
 ---
-# TODO i18n: traduzir
 # type: "page"
 title: "Está interessado?"
 slug: "formulario"

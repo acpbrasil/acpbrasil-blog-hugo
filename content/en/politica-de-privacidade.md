@@ -3,7 +3,7 @@
 title: "Política de Privacidade ACP Brasil"
 description: "Sua privacidade é importante para nós, por favor leia atentamente as informações nessa página"
 header: ""
-tags: ["política de privacidade", "privacidade" ]
+tags: ["privacy policy", "terms"]
 ---
 
 Por favor, leia atentamente as seguintes declarações, pois elas abordam as regras de engajamento entre nós.

@@ -184,35 +184,3 @@ formButtonSubmit:
 
 # - id: home
 #   translation: "Página Inicial"
-
-
-# ################################################
-# TODO i18n: precisa?
-# home:
-#   other: Página Inicial
-# navHome:
-#   other: vá à página inicial
-# navToggle:
-#   other: Alternar Navegação
-# categoriesTitle:
-#   other: Categorias
-# searchTitle:
-#   other: Buscar
-# tagsTitle:
-#   other: Tags
-# continueReading:
-#   other: Continuar lendo
-# readMore:
-#   other: Leia mais
-# authorBy:
-#   other: Por
-# recentPosts:
-#   other: Posts recentes
-# aboutUs:
-#   other: Sobre nós
-# newer:
-#   other: Mais novas
-# older:
-#   other: Mais antigos
-# publishedOn:
-#   other: em
