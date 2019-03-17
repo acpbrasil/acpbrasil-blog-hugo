@@ -1,3 +1,45 @@
-<!-- TODO Criar a 404 -->
-<h1>404</h1>
-<p>Ops, parece que a página não existe.</p>
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  
+  <body>
+    <!-- Header-->
+    {{ partial "nav-pages.html" . }}
+    {{ partial "breadcrumbs" . }}
+
+    <div id="content">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
+
+            {{ partial "content-header.html" . }}
+
+            <section class="main">
+              <h1>404</h1>
+              <p>{{ T "pageNotFound" }}</p>
+              <p class="buttons">
+                <a href="{{ .Site.BaseURL | relLangURL }}" class="btn btn-default">{{ T "navHome" }}</a>
+              </p>
+            </section>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer-->
+    {{ if .Site.Params.footer.enable }}
+      {{ partial "footer.html" .}}
+    {{ end }}
+
+    <!-- Javascript -->
+    {{ partial "js.html" . }}
+
+  </body>
+</html>
