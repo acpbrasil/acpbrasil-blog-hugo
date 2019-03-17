@@ -1220,13 +1220,6 @@ h1, h2, h3, h4, h5, h6 {
   width: 25px;
   border-bottom: none !important;
 }
-/* TODO Fix Elate's theme navbar issue */
-/* @media screen and (max-width: 768px) { */
-@media screen and (max-width: 767px) {
-  .fh5co-nav-toggle {
-    display: block;
-  }
-}
 
 #footer {
   padding: 50px 0;
