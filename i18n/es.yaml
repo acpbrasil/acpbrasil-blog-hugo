@@ -9,6 +9,10 @@ privacyPolicy:
   other: "Política de Privacidad"
 privacyPolicyUrl:
   other: "/politica-de-privacidad/"
+pageNotFound:
+  other: Oops, esta página no está disponible.
+navHome:
+  other: "Ir a inicio"
 
 # ############################################################################
 # TODO i18n: traduzir a partir daqui #########################################

@@ -9,6 +9,10 @@ privacyPolicy:
   other: "Privacy Policy"
 privacyPolicyUrl:
   other: "/privacy-policy/"
+pageNotFound:
+  other: Oops, that page couldn't be found.
+navHome:
+  other: Go to homepage
 
 # Hero section
 heroTitle:

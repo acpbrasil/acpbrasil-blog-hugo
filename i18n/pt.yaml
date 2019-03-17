@@ -9,7 +9,10 @@ privacyPolicy:
   other: "Política de Privacidade"
 privacyPolicyUrl:
   other: "/politica-de-privacidade/"
-
+pageNotFound:
+  other: Oops, parece que a página não existe.
+navHome:
+  other: Ir para página inicial
 
 # Hero section
 heroTitle:
