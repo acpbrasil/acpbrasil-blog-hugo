@@ -1,6 +1,8 @@
 ---
-# TODO i18n: Test and translate!
-title: "Obrigado!"
+# TODO i18n Flavi: Test and ranslate!
+title: "Gracias!"
+# TODO i18n: Habilitar o slug? Verificar com o Bruno
+# slug: "gracias"
 description: "Agradecemos pelo interesse em fazer parte da equipe ACP nos EUA"
 header: ""
 tags: [""]
