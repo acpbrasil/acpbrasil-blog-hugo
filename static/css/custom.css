@@ -734,3 +734,46 @@ section#fh5co-contact > .section-photo-bg {
 }
 
 
+/* Change Bootstrap navbar collapse breakpoint */
+@media (max-width: 991px) {
+  /* TODO Fix Elate's theme navbar issue */
+  /* @media screen and (max-width: 991px) { */
+    .fh5co-nav-toggle { display: block; }
+  /* } */
+  
+  header .navbar-header {
+    float: none;
+  }
+  header .navbar-left,
+  header .navbar-right {
+    float: none !important;
+  }
+  header .navbar-toggle {
+    display: block;
+  }
+  header .navbar-collapse {
+    border-top: 1px solid transparent;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  }
+  header .navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+  }
+  header .navbar-collapse.collapse {
+    display: none !important;
+  }
+  header .navbar-nav {
+    float: none !important;
+    margin-top: 7.5px;
+  }
+  header .navbar-nav>li {
+    float: none;
+  }
+  header .navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  header .collapse.in {
+    display: block !important;
+  }
+}
