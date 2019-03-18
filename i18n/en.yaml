@@ -31,9 +31,8 @@ workTitle:
   other: "Why ACP?"
 workDescription:
   other: "ACP Brasil actively works in the search for qualified nurses to integrate the ACP team in the home care area. Our team of professionals will come along with you to go through and transpose all the necessary steps in order for <strong style='text-decoration: underline;'>you to practice nursing in the United States as a qualified professional</strong>.<br><br>Check out the step-by-step in the tables below:"
-# TODO i18n Iza: Translate!
 workFootertext:
-  other: "Nós ajudaremos você em todas estas etapas."
+  other: "We will assist you in all these steps."
 
 # Services section
 servicesTitle:
@@ -167,7 +166,6 @@ formLabelHowDidFindOption_02:
   other: Social media
 formLabelHowDidFindOption_03:
   other: Employment website
-# TODO i18n Iza: Mudei de "indication" para "referral"
 formLabelHowDidFindOption_04:
   other: Referral
 formLabelHowDidFindOption_05:

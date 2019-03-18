@@ -2,8 +2,7 @@
 # type: "page"
 title: "Are you interested?"
 slug: "form"
-# TODO i18n Iza: Translate!
-description: "Este formulário nos ajudará a traçar uma meta realista para você se tornar um enfermeiro nos EUA através da ACP"
+description: "This form will help us to set a realistic goal for you to become a nurse in US through ACP"
 header: "Tell us a little about yourself"
 keywords: ["FAQ", "How do I", "questions", "what if", "interested", "contact"]
 ---
