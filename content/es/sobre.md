@@ -1,6 +1,6 @@
 ---
 # TODO i18n Flavi: Translate!
-title: "Who we are"
+title: "Quien somos"
 slug: "nosotros"
 description: "English: Conheça um pouco mais sobre a ACP"
 header: "Por que _home care_?"

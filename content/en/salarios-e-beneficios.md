@@ -1,10 +1,9 @@
 ---
-# TODO i18n Iza: "Wages" ou "Salaries"?
 title: "Salaries and Benefits in ACP"
 slug: "salaries-and-benefits"
 description: "Know the advantages to be part of our team"
 header: "Come work with ACP!"
-tags: ["wages", "salaries", "benefits", "nurse", "abroad", "nursing in usa"]
+tags: ["salaries", "benefits", "nurse", "abroad", "nursing in usa"]
 ---
 
 Salaries and benefits will be entered between ACP and the nurse through contractual arrangements.

@@ -1,6 +1,6 @@
 ---
-# TODO i18n Iza: "About us" ou "Who we are"???
 title: "About us"
+# title: "Who we are"
 slug: "about"
 description: "Know more about ACP"
 header: "Why home care?"

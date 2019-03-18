@@ -1,9 +1,5 @@
 # TODO i18n: Procurar por:
-# - Brazil
 # - Pediatrics
-# - Imigration
-# - Testemonial
-# - Wage
 
 # Page settings
 # baseurl = "https://acpbrasil.github.io/acpbrasil-blog-hugo/"
@@ -20,6 +16,7 @@ disqusShortname = "acpbrasil"
 paginate = 5
 
 # enableInlineShortcodes = true
+# FIXME i18n: set to false
 enableMissingTranslationPlaceholders = true
 footnoteReturnLinkContents = "↑" # "↩"
 summaryLength = 50  # 70
@@ -34,8 +31,6 @@ defaultContentLanguage = "pt"
 [blackfriday]
   fractions = false
 
-
-# TODO i18n: Precisa criar 3 sitemap.xml
 
 # Languages (i18n)
 
@@ -90,7 +85,6 @@ defaultContentLanguage = "pt"
   weight = 2
   # Menus
   [[languages.en.menu.pages]]
-    # TODO i18n Iza: "About us" ou "Who we are"???
     url = "about/"
     name = "About us"
     weight = 10

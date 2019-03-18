@@ -15,8 +15,7 @@
   weight: 2
 
 # TODO Adicionar um link pra essa list INC 5000?
-# TODO i18n Iza: 2 ou 3 anos consecutivos???
-- description: "INC 5000 list for two consecutive years"
+- description: "INC 5000 list for four consecutive years"
   icon: "icon-trophy"
   from: 5000
   to: 5000
