@@ -41,6 +41,8 @@
               <a href="{{ .Permalink }}"><i class="icon-calendar"></i>
                 {{/* 
                   {{ .Date.Day }} · {{ index $.Site.Data.meses (printf "%d" .Date.Month) }} · {{ .Date.Year }}
+                  {{ $data := index .Site.Data .Site.Language.Lang }}
+                  {{ .Date.Day }} · {{ index $data.months (printf "%d" .Date.Month) }} · {{ .Date.Year }}
                 */}}
                 {{ .Date.Format "02/01/2006" }}
               </a>
