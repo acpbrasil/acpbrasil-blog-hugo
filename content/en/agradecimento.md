@@ -1,17 +1,14 @@
 ---
-# TODO i18n: Test and translate!
 title: "Thank you!"
-# TODO i18n: Habilitar o slug? Verificar com o Bruno
-# slug: "thanks"
-description: "Agradecemos pelo interesse em fazer parte da equipe ACP nos EUA"
+# TODO i18n: Bruno: Habilitar o slug
+slug: "thanks"
+description: "Thank you for your interest in joining the ACP team in US"
 header: ""
 tags: [""]
 ---
 
-### Sua solicitação foi confirmada.
+### Your form submission has been received
 
-Em breve você receberá um email com as informações necessárias para avançar no processo. Não esqueça de checar o SPAM.
+Soon you will receive an email with the information you need to move forward in the process. Do not forget to check the SPAM.
 
-Enquanto isso, não deixe de conferir conteúdos exclusivos em nosso [blog!]({{< ref "blog" >}})
-
-Até logo!
+See you soon!

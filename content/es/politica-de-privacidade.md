@@ -1,6 +1,8 @@
 ---
 # TODO i18n: Translate!
-title: "Política de Privacidade ACP Brasil"
+title: "Política de Privacidad ACP Brasil"
+# TODO i18n: Bruno: Habilitar o slug
+slug: "politica-privacidad"
 description: "Sua privacidade é importante para nós, por favor leia atentamente as informações nessa página"
 header: ""
 tags: ["política de privacidad"]
