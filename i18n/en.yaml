@@ -177,12 +177,8 @@ formLabelMessage:
   other: "Message"
 formLabelMessagePlaceholder:
   other: "Do you want to leave a message?"
-# FIXME i18n: adicionar a politica de privacidade de forma relativa
 formPrivacyPolicyAgreement:
-  other: "I have read and agree to the <a href='politica-de-privacidade' target='_blank'>Privacy Policy</a>."
-formPrivacyPolicyAgreement_:
-  other: "I have read and agree to the <a href='politica-de-privacidade' target='_blank'>Privacy Policy</a>."
-  # other: "I have read and agree to the <a href='{{\"formulario.md\" | relLangURL}}' target='_blank'>Privacy Policy</a>."
-  # other: "I have read and agree to the {{ ref . \"/formulario.md\" }}Privacy Policy."
+  # other: "I have read and agree to the <a href='politica-de-privacidade' target='_blank'>Privacy Policy</a>."
+  other: "I have read and agree to the"
 formButtonSubmit:
   other: "Submit form"

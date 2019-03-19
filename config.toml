@@ -1,5 +1,6 @@
 # TODO i18n: Procurar por:
 # - Pediatrics
+# - USA
 
 # Page settings
 # baseurl = "https://acpbrasil.github.io/acpbrasil-blog-hugo/"
@@ -39,7 +40,6 @@ defaultContentLanguage = "pt"
   lang = "pt-br"
   languageCode = "pt-br"
   languagePrefix = "pt"
-  # language = "português"
   contentDir = "content/pt"
   languageName = "Português"
   weight = 1
@@ -79,7 +79,6 @@ defaultContentLanguage = "pt"
   lang = "en"
   languageCode = "en-us"
   languagePrefix = "en"
-  # language = "english"
   contentDir = "content/en"
   languageName = "English"
   weight = 2
@@ -99,6 +98,7 @@ defaultContentLanguage = "pt"
   
   # Params
   [languages.en.params]
+    # TODO i18n: US ou USA?
     description = "Nursing Recruitment & Consulting Company for the USA"
     defaultKeywords = [
       "acp", "blog", "advanced care", "advanced care pediatrics", "advanced care partners", "acp brasil",
@@ -119,18 +119,17 @@ defaultContentLanguage = "pt"
   lang = "es"
   languageCode = "es"
   languagePrefix = "es"
-  # language = "español"
   contentDir = "content/es"
   languageName = "Español"
   weight = 3
   # Menus
-  # TODO i18n Flavi: Translate!
+  # TODO i18n: Flavi: Translate!
   [[languages.es.menu.pages]]
     url = "nosotros/"
     name = "Sobre nosotros"
     weight = 10
   [[languages.es.menu.postpend]]
-    url = "form/"
+    url = "formulario/"
     name = "Trabaje con nosotros"
     weight = 10
   [[languages.es.menu.postpend]]
@@ -140,16 +139,16 @@ defaultContentLanguage = "pt"
   
   # Params
   [languages.es.params]
-    # TODO i18n Flavi: Translate!
+    # TODO i18n: Flavi: Translate!
     description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
-    # TODO i18n Flavi: Translate!
+    # TODO i18n: Flavi: Translate!
     defaultKeywords = [
       "acp", "blog", "advanced care", "advanced care pediatrics", "advanced care partners", "acp brasil",
       "enfermeiros", "enfermeiros eua", "enfermeiros usa", "recrutamento", "migração", "emprego"
     ]
     # Navigation
     [languages.es.params.navigation]
-      # TODO i18n Flavi: Translate!
+      # TODO i18n: Flavi: Translate!
       brand = "ACP Brasil"
       home = "Home"
       work = "Por que ACP?"
@@ -170,7 +169,7 @@ defaultContentLanguage = "pt"
   email = "contato@acpediatrics.com"
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
-  # FIXME i18n: Liberar urls /en e /es
+  # FIXME i18n: Precisa liberar urls /en e /es ???
   googleMapsApiKey = "AIzaSyAjfJiRAe8ct6XKSaHSEXp49sXZBLdmy0Q"
 
   defaultKeywords = [ "acp", "blog", "advanced care", "advanced care pediatrics", "acp brasil" ]

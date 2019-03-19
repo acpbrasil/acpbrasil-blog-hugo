@@ -1,17 +1,14 @@
 ---
-# TODO i18n Flavi: Test and ranslate!
-title: "Gracias!"
-# TODO i18n: Habilitar o slug? Verificar com o Bruno
-# slug: "gracias"
-description: "Agradecemos pelo interesse em fazer parte da equipe ACP nos EUA"
+title: "¡Gracias!"
+# TODO i18n: Bruno: Habilitar o slug
+slug: "gracias"
+description: "Agradecemos por el interés en hacer parte del equipo ACP en los EE. UU."
 header: ""
 tags: [""]
 ---
 
-### Sua solicitação foi confirmada.
+### Recibimos su formulario
 
-Em breve você receberá um email com as informações necessárias para avançar no processo. Não esqueça de checar o SPAM.
+En la brevedad recibirá un correo electrónico con las informaciones necesarias para avanzar en el proceso. No olvide chequear el lista de SPAM.
 
-Enquanto isso, não deixe de conferir conteúdos exclusivos em nosso [blog!]({{< ref "blog" >}})
-
-Até logo!
+¡Hasta luego!

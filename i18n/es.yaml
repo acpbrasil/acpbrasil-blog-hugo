@@ -35,7 +35,7 @@ workTitle:
   other: "Por que a ACP?"
 workDescription:
   other: "ACP atua ativamente na busca de enfermeiros qualificados para integrar a equipe da ACP na área de enfermagem domiciliar. O nosso time de profissionais irá junto com você percorrer e transpor todas as etapas necessárias para <strong style='text-decoration: underline;'>você exercer a enfermagem nos Estados Unidos como profissional habilitado</strong>.<br><br>Confira o passo a passo nos quadros abaixo:"
-# TODO i18n Flavi: Translate!
+# TODO i18n: Flavi: Translate!
 workFootertext:
   other: "Nós ajudaremos você em todas estas etapas."
 
@@ -182,62 +182,9 @@ formLabelMessage:
   other: "Mensagem"
 formLabelMessagePlaceholder:
   other: "Você quer deixar alguma mensagem?"
-# FIXME i18n: adicionar a politica de privacidade de forma relativa
+# TODO i18n: Flavi: Translate!
 formPrivacyPolicyAgreement:
-  other: "Eu li e concordo com a <a href='politica-de-privacidade' target='_blank'>Política de Privacidade</a>."
-formPrivacyPolicyAgreement_:
-  other: "Eu li e concordo com a <a href='politica-de-privacidade' target='_blank'>Política de Privacidade</a>."
-  # other: "Eu li e concordo com a <a href='{{\"formulario.md\" | relLangURL}}' target='_blank'>Política de Privacidade</a>."
-  # other: "Eu li e concordo com a {{ ref . \"/formulario.md\" }}Política de Privacidade."
+  # other: "Eu li e concordo com a <a href='politica-de-privacidade' target='_blank'>Política de Privacidade</a>."
+  other: "Eu li e concordo com a"
 formButtonSubmit:
   other: "Enviar as respostas"
-
-
-
-# TODO i18n: DELETE!
-# ############################
-
-# - id: home
-#   translation: "Inicio"
-# - id: contactGoTo
-#   translation: "Ir a la página de contacto"
-# - id: contactAddrTitle
-#   translation: "Dirección"
-# - id: contactTitle
-#   translation: "Contacto"
-# - id: contactForm
-#   translation: "Formulario de contacto"
-# - id: contactName
-#   translation: "Tu Nombre"
-# - id: contactMail
-#   translation: "Tu Email"
-# - id: contactMessage
-#   translation: "Tu Mensaje"
-# - id: contactSend
-#   translation: "Enviar mensaje"
-# - id: navHome
-#   translation: "ir a inicio"
-# - id: navToggle
-#   translation: "Cambiar Navegación"
-# - id: categoriesTitle
-#   translation: "Categorias"
-# - id: searchTitle
-#   translation: "Buscar"
-# - id: tagsTitle
-#   translation: "Palabras clave"
-# - id: continueReading
-#   translation: "Continuar leyendo"
-# - id: readMore
-#   translation: "Leer más"
-# - id: authorBy
-#   translation: "Por"
-# - id: recentPosts
-#   translation: "Posts recientes"
-# - id: aboutUs
-#   translation: "Sobre nosotros"
-# - id: newer
-#   translation: "Más reciente"
-# - id: older
-#   translation: "Más antiguo"
-# - id: publishedOn
-#   translation: "el"
