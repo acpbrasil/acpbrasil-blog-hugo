@@ -8,26 +8,30 @@ tags: ["salaries", "benefits", "nurse", "abroad", "nursing in usa"]
 
 Salaries and benefits will be entered between ACP and the nurse through contractual arrangements.
 
+<!-- markdownlint-disable MD033 -->
 <div class="row">
-<!-- ![alt text](/images/foto-08-quad.jpg "Salaries and Benefits") -->
-<!-- {{< figure src="/media/spf13.jpg" title="Steve Francia" >}} -->
-<div class="photo col-sm-6">
-  <img src="/images/foto-08-quad.jpg" class="img-circle img-responsive" title="Salaries and Benefits" alt="Salaries and Benefits">
-</div>
+  <!-- ![alt text](/images/foto-08-quad.jpg "Salaries and Benefits") -->
+  <!-- {{< figure src="/media/spf13.jpg" title="Steve Francia" >}} -->
+  <div class="photo col-sm-6">
+    <img src="/images/foto-08-quad.jpg" class="img-circle img-responsive" title="Salaries and Benefits" alt="Salaries and Benefits">
+  </div>
 
-<div class="col-sm-6 padding-lg-bottom">
-  <h3>ACP Salaries</h3>
-  <hr class="acp-hr variation-2">
-  <ul>
-    <li>ACP offers career plans based on the experience of each professional;</li>
-    <li>The salary is paid weekly to the nurse.</li>
-  </ul>
+  <div class="col-sm-6 padding-lg-bottom">
+    <h3>ACP Salaries</h3>
+    <hr class="acp-hr variation-2">
+    <ul>
+      <li>ACP offers career plans based on the experience of each professional;</li>
+      <li>The salary is paid weekly to the nurse.</li>
+    </ul>
+  </div>
 </div>
-</div>
+<!-- markdownlint-enable MD033 -->
 
 ### ACP Benefits
 
+<!-- markdownlint-disable MD033 -->
 <hr class="acp-hr variation-1">
+<!-- markdownlint-enable MD033 -->
 
 Nurses will be received by the ACP team in the US and in addition to cost support they will have abode support and transportation for the first 30 days, as well as contact availability 24hs / 7 days a week throughout the contract time. Some of the benefits offered to professionals are: 
 

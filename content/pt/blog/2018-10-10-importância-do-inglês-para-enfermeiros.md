@@ -20,6 +20,7 @@ Mas há muitos outros motivos para aprender esse idioma. Trata-se da terceira l�
 Ainda não está convencido? Veja abaixo bons motivos para começar a aprender inglês hoje mesmo!
 
 ## Pode viajar com maior tranquilidade
+
 Você tem o sonho de viajar para fora do país? Que tal conhecer inúmeros países da Europa ou ir para Nova Iorque? Bom, para que o seu passeio seja o melhor possível, é muito melhor ir entendendo a língua nativa.
 
 E mesmo em países que não têm como a língua nativa o inglês como França e Itália, certamente você vai conseguir se virar muito bem sabendo esse idioma.
@@ -27,14 +28,17 @@ E mesmo em países que não têm como a língua nativa o inglês como França e 
 Para você que sonha em morar e trabalhar no exterior, como nos Estados Unidos, entender o inglês é fundamental uma vez que todo o relacionamento com as outras pessoas será em Inglês.
 
 ## Passa a ter acesso às melhores fontes de pesquisas
+
 Não importa se você já é graduado ou ainda está na universidade: os melhores materiais teóricos estão em inglês. Isso acontece porque os Estados Unidos e o Canadá investem muito mais em pesquisas quando comparado a outros países. Portanto, certamente você encontrará revistas, artigos científicos e livros em inglês com as últimas inovações na área de saúde.
 
 ## Melhora o funcionamento do cérebro
+
 O nosso cérebro está em constante mudança e evolução. À medida que vamos aprendendo novas coisas, novas conexões vão se formando. Mudanças mínimas podem fazer diferença, por exemplo, mudar o trajeto para o trabalho, às vezes, ajuda a nossa mente a funcionar melhor.
 
 Portanto, aprender um novo idioma é uma forma de promover novas conexões e assim, melhorar o funcionamento dessa nossa máquina tão importante.
 
 ## Oferece mais oportunidades no mercado de trabalho
+
 Saber um novo idioma é uma porta de entrada para conquistar boas oportunidades de trabalho, especialmente em grandes hospitais, que recebem pessoas de diversas partes do mundo.
 
 Por exemplo, uma cidade turística como Salvador, certamente precisa de enfermeiros que falem um segundo idioma para atender melhor os pacientes de outros países que aparecem na emergência.

@@ -11,7 +11,7 @@ source: "https://www.theatlantic.com/health/archive/2016/02/nursing-shortage/459
 draft: false
 ---
 
-### Entenda o porquê desta situação alarmante.
+### Entenda o porquê desta situação alarmante
 
 É o enfermeiro que garante o cuidado do paciente, seja no ambiente hospitalar ou na assistência domiciliar. Por este motivo, a saúde da população norte-americana está em risco.
 
