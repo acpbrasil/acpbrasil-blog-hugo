@@ -5,7 +5,8 @@
     <p class="font-smaller text-muted text-uppercase mb-small text-right">
       {{ if .Params.author }}<i class="icon-user"></i> Autor: <a href="#">{{ .Params.author }}</a> | {{ end }}
       {{/* .Date.Format .Site.Params.date_format */}}
-      <i class="icon-calendar"></i> {{ .Date.Day }} · {{ index $.Site.Data.meses (printf "%d" .Date.Month) }} · {{ .Date.Year }}
+      {{ $data := index .Site.Data .Site.Language.Lang }}
+      <i class="icon-calendar"></i> {{ .Date.Day }} · {{ index $data.months (printf "%d" .Date.Month) }} · {{ .Date.Year }}
     </p>
   {{ end }}
 
