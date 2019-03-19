@@ -7,33 +7,30 @@ tags: ["salário", "benefícios", "enfermagem", "exterior", "enfermagem nos eua"
 
 Salários e benefícios serão firmados entre a ACP e o enfermeiro por meio contratual.
 
+<!-- markdownlint-disable MD033 -->
 <div class="row">
-<!-- ![alt text](/images/foto-08-quad.jpg "Salários e Benefícios") -->
-<!-- {{< figure src="/media/spf13.jpg" title="Steve Francia" >}} -->
-<div class="photo col-sm-6">
-  <img src="/images/foto-08-quad.jpg" class="img-circle img-responsive" title="Salários e Benefícios" alt="Salários e Benefícios">
-</div>
+  <!-- ![alt text](/images/foto-08-quad.jpg "Salários e Benefícios") -->
+  <!-- {{< figure src="/media/spf13.jpg" title="Steve Francia" >}} -->
+  <div class="photo col-sm-6">
+    <img src="/images/foto-08-quad.jpg" class="img-circle img-responsive" title="Salários e Benefícios" alt="Salários e Benefícios">
+  </div>
 
-<div class="col-sm-6 padding-lg-bottom">
-  <h3>Salários ACP</h3>
-  <hr class="acp-hr variation-2">
-  <ul>
-    <li>Oferecemos planos de carreira baseado na experiência de cada profissional;</li>
-    <li>O salário é pago semanalmente ao enfermeiro.</li>
-  </ul>
+  <div class="col-sm-6 padding-lg-bottom">
+    <h3>Salários ACP</h3>
+    <hr class="acp-hr variation-2">
+    <ul>
+      <li>Oferecemos planos de carreira baseado na experiência de cada profissional;</li>
+      <li>O salário é pago semanalmente ao enfermeiro.</li>
+    </ul>
+  </div>
 </div>
-</div>
-
-<!--   ## Salários ACP
-  <hr class="acp-hr variation-2">
-
-  - Oferecemos planos de carreira baseado na experiência de cada profissional;
-  - O salário é pago semanalmente ao enfermeiro.
- -->
+<!-- markdownlint-enable MD033 -->
 
 ### Benefícios ACP
 
+<!-- markdownlint-disable MD033 -->
 <hr class="acp-hr variation-1">
+<!-- markdownlint-enable MD033 -->
 
 Os enfermeiros serão recebidos pela equipe da ACP nos EUA e além de ajuda de custo terão suporte de estadia e transporte pelos primeiros 30 dias, além de disponibilidade de contato 24h/7 dias por semana durante todo o tempo de contrato. Alguns dos benefícios oferecidos aos profissionais são:
 

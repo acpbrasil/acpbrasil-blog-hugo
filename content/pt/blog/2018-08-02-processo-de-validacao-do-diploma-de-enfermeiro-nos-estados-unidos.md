@@ -5,7 +5,7 @@ date: 2018-08-02T15:08:00-03:00
 # TODO Definir tags
 tags: ["Validação de diploma de enfermeiro nos Estados Unidos", "trabalhar como enfermeiro nos Estados Unidos", "como validar o diploma de enfermeiro nos Estados Unidos", "Validar diploma enfermeiro EUA", "diploma de enfermeiro nos estados unidos", "validação Diploma Enfermeiro EUA"]
 categories: ["Enfermagem"]
-banner: "validação-do-diploma-de-enfermeiro-nos-eua.png"
+banner: "validacao-do-diploma-de-enfermeiro-nos-eua.png"
 # author: "F. Morales"
 source: ""
 draft: false
@@ -19,7 +19,7 @@ Ficou interessado no assunto? Então siga conosco e confira agora mesmo como faz
 
 ## Passo a passo para fazer o processo de validação de diploma de enfermeiro nos Estados Unidos
 
-**1. Solicite uma avaliação de diploma da CGFNS**
+### 1. Solicite uma avaliação de diploma da CGFNS
 
 A [CGFNS International](http://www.cgfns.org/) (conhecido como Commission on Graduates of Foreign Nursing Schools) é uma organização sem fins lucrativos que ajuda os profissionais de saúde com formação estrangeira a trabalhar nos Estados Unidos, avaliando e validando suas credenciais profissionais e acadêmicas. Trata-se de uma renomada instituição, cujo trabalho realizado é válido em todos os estados dos Estados Unidos.
 
@@ -31,7 +31,7 @@ Paga-se uma taxa e a organização lhe enviará uma lista de documentos que voc�
 
 O órgão avaliará o seu histórico acadêmico e comparará com as exigências feitas para a profissão de enfermagem nos Estados Unidos. Assim que isso for feito e o diploma for validado, você poderá seguir as próximas etapas para conseguir sua licença de enfermagem de acordo com o Estado que deseja trabalhar.
 
-**2. Conheça outras agências de validação de diplomas**
+### 2. Conheça outras agências de validação de diplomas
 
 Além da CGFNS existem outras agências de validação de diplomas que podem ser contratadas para fazer esse trabalho. No entanto, essas empresas não são específicas para enfermeiros e podem também validar certificados de profissionais de outras áreas do conhecimento.
 

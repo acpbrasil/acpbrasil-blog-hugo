@@ -39,8 +39,7 @@ A Advanced Care Partners (em transição para Advanced Care Partners) - ACP, é 
 
 ## Como funciona o trabalho desenvolvido pelo ACP Brasil?
 
-A ACP Brasil desenvolve um trabalho em que auxilia com toda a parte burocrática para a migração de um enfermeiro brasileiro para os Estados Unidos. De tal modo, a empresa tem um serviço de consultoria sobre validação do diploma para atuar no país, sendo o principal objetivo auxiliá-lo na obtenção do visto para ter um emprego sólido com excelente remuneração e ´benefícios, além de um plano de carreira.
-
+A ACP Brasil desenvolve um trabalho em que auxilia com toda a parte burocrática para a migração de um enfermeiro brasileiro para os Estados Unidos. De tal modo, a empresa tem um serviço de consultoria sobre validação do diploma para atuar no país, sendo o principal objetivo auxiliá-lo na obtenção do visto para ter um emprego sólido com excelente remuneração e benefícios, além de um plano de carreira.
 
 Outro benefício é a possibilidade de inclusão dos familiares, como filhos e marido ou esposa, do profissional no processo imigratório, assim, os familiares diretos podem acompanhar o enfermeiro para o novo país.
 

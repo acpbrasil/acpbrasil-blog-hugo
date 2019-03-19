@@ -41,6 +41,8 @@ The Brazilian team offers step-by-step on how to become a nurse in the US, assis
 
 We want to build a solid relationship with every nurse. Professionals sponsored by ACP will have not only the guarantee of an employer in the United States, but a partner who will walk this journey hand in hand guaranteeing access to all the tools necessary to succeed in their professional career and a quiet cultural adaptation.
 
+<!-- markdownlint-disable MD033 -->
 <p class="bold">We are not a conventional home care company. We are ACP, innovating in the way that care is delivered to the patient.</p>
+<!-- markdownlint-enable MD033 -->
 
 ### [Join us!]({{< ref "formulario.md" >}})

@@ -9,7 +9,7 @@ banner: "georgia.jpg"
 draft: false
 ---
 
-A ACP está localizada em Atlanta, no estado da Georgia. Embora a sede da empresa seja na região metropolitana, as vagas de emprego estão distribuídas em várias cidades do estado. 
+A ACP está localizada em Atlanta, no estado da Georgia. Embora a sede da empresa seja na região metropolitana, as vagas de emprego estão distribuídas em várias cidades do estado.
 Então, que tal conhecer um pouco mais sobre este estado, que pode vir a se tornar seu novo lar?
 
 Cidades dinâmicas e animadas, um litoral tranquilo e os cenários surpreendentes das montanhas podem ser encontrados na Georgia. Atlanta, a capital do estado, possui uma variedade de opções de lazer voltadas a cultura, arte, gastronomia, compras, vida noturna, além de belos e tranquilos jardins espalhados pela cidade. Destacam-se como atrações da capital o Georgia Aquarium, um aquário gigante com tubarões, e o World of Coca-Cola, local onde nasceu a empresa.

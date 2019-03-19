@@ -37,7 +37,7 @@ Nesta lista também devem constar os conhecimentos que você já possui e quais 
 
 + **Enfermagem de resgate**: atua na equipe de salvamento de pessoas acidentadas.
 
-+ **Enfermagem home care (assistência domiciliar)**: é uma alternativa à hospitalização, consistindo na avaliação e assistência de pacientes e familiares em suas casas. 
++ **Enfermagem home care (assistência domiciliar)**: é uma alternativa à hospitalização, consistindo na avaliação e assistência de pacientes e familiares em suas casas.
 + **Enfermagem em saúde pública**: promove a saúde da coletividade e aconselha a população a prevenir doenças.
 + **Enfermagem do trabalho**: atende em ambulatórios de empresas e assiste programas de manutenção da saúde dos funcionários e prevenção de doenças.
 + **Ensino**: atua em cursos profissionalizantes que formam auxiliares e técnicos de enfermagem, ministrando aulas teóricas e práticas.

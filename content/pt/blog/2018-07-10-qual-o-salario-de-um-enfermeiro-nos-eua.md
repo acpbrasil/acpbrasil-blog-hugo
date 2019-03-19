@@ -17,7 +17,7 @@ Você sabia que a área de saúde está entre os empregos mais bem pagos dos Est
 
 Segundo o site da Catho em seu [guia de salários](https://www.catho.com.br/profissoes/buscar/enfermeiro), no Brasil, um enfermeiro recebe (na data da redação deste artigo) salários com vencimentos mensais entre R$ 2.396,82 a R$ 4.028,72, com a média salarial de R$ 3.212,77. Assim, um enfermeiro que trabalha no Brasil recebe anualmente uma média salarial de pouco mais de R$ 38.500,00.
 
-O valor pago para alguns cargos específicos ocupados por enfermeiros e suas médias — segundo o guia se salários já mencionado — podem ser conferidos a seguir: um Enfermeiro Chefe, por exemplo, recebe em média R$ 3.140,00; um Enfermeiro do Trabalho ganha cerca de R$ 3.207,68; um Enfermeiro de [Home Care](https://www.advancedcarepartners.com/our-services/) (que a Catho chama de Enfermeiro Visitador) recebe cerca de R$ R$ 2.573,73 e um Enfermeiro Obstetra possui média salarial de R$ 3.718,80. 
+O valor pago para alguns cargos específicos ocupados por enfermeiros e suas médias — segundo o guia se salários já mencionado — podem ser conferidos a seguir: um Enfermeiro Chefe, por exemplo, recebe em média R$ 3.140,00; um Enfermeiro do Trabalho ganha cerca de R$ 3.207,68; um Enfermeiro de [Home Care](https://www.advancedcarepartners.com/our-services/) (que a Catho chama de Enfermeiro Visitador) recebe cerca de R$ R$ 2.573,73 e um Enfermeiro Obstetra possui média salarial de R$ 3.718,80.
 
 ## Qual o salário de um enfermeiro nos EUA?
 
@@ -29,14 +29,16 @@ Além disso os valores variam de acordo com o grau de complexidade do emprego (h
 
 ## Qual é o valor da hora de trabalho nos EUA comparativamente com o Brasil?
 
-O salário para enfermeiros estipulado pelos EUA é de US$ 7,25 por cada hora trabalhada. Porém, essa quantia varia muito a depender de cada estado, que tem autonomia para determinar o mínimo a ser pago. 
+O salário para enfermeiros estipulado pelos EUA é de US$ 7,25 por cada hora trabalhada. Porém, essa quantia varia muito a depender de cada estado, que tem autonomia para determinar o mínimo a ser pago.
 
 ### Jornada de trabalho para enfermeiros nos EUA x Brasil
+
 Cabe salientar que a jornada de trabalho dos enfermeiros nos Estados Unidos é bem diferente da comumente aplicada no Brasil, em que é comum a necessidade de fazer dois turnos de trabalho e de acumular horas trabalhadas para conseguir garantir um salário que seja quase tão bom quanto o de lá, o que é muito raro de acontecer, sobretudo levando-se em consideração as condições de trabalho nem sempre favoráveis (no Brasil) e a qualidade de vida do profissional.
 
 No Brasil, a jornada para enfermeiros varia de 30 a 40 horas semanais, sendo que a de 36 horas ainda é a mais comumente aplicada. Já nos EUA, os enfermeiros trabalham as horas trabalhadas apresentam maior variação, entre 8 a 12 horas diárias. Assim, o usual é trabalhar de 36 a 40 horas semanais como no Brasil, mas com a diferença de ter [melhores salários e turnos menos desgastantes.](http://www.acpbrasil.com/salarios-e-beneficios/)
 
 ### Custo de vida nos EUA
+
 De nada adianta saber qual o **salário de um enfermeiro nos EUA**, se não soubermos o que você poderá fazer com o salário de um enfermeiro nos Estados Unidos. Aqui daremos apenas uma noção, mas muito esclarecedora. Citando um Estado, por exemplo, a Georgia, o valor de 1 hora de corrida de táxi sai por 2,08$ e a gasolina (1 litro) custa US$ 0,92. Uma xícara de Capuccino sai por US$ 1,62; almoçar em lanchonetes como McDonalds, Burger King ou similares custará cerca de US$ 4,54 e em um restaurante popular, pouco mais de 5 dólares. Mas não convém converter esses valores para o Real, já que trabalhando como enfermeiro nos EUA, seu salário será em dólar.
 
 Esperamos que as nossas informações sejam valiosas e alimentem seu desejo de morar nos Estados Unidos, ao mesmo tempo em que esclarece a realidade e as várias oportunidades para os profissionais de enfermagem.
