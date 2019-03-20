@@ -32,7 +32,7 @@ Salários e benefícios serão firmados entre a ACP e o enfermeiro por meio cont
 <hr class="acp-hr variation-1">
 <!-- markdownlint-enable MD033 -->
 
-Os enfermeiros serão recebidos pela equipe da ACP nos EUA e além de ajuda de custo terão suporte de estadia e transporte pelos primeiros 30 dias, além de disponibilidade de contato 24h/7 dias por semana durante todo o tempo de contrato. Alguns dos benefícios oferecidos aos profissionais são:
+Os enfermeiros serão recebidos pela equipe da ACP nos EUA e além de ajuda de custo terão suporte de estadia e transporte pelos primeiros 30 dias, além de disponibilidade de contato 24h / 7 dias por semana durante todo o tempo de contrato. Alguns dos benefícios oferecidos aos profissionais são:
 
 - Garantia de trabalho _full-time_ (mínima carga horária: 36h/semana);
 - Seguro saúde (médico, oftalmológico e odontológico);
@@ -47,5 +47,7 @@ Os enfermeiros serão recebidos pela equipe da ACP nos EUA e além de ajuda de c
 - Bônus baseado em desempenho;
 - Prêmios por desempenho (funcionário do mês/ano);
 - Ambiente familiar e apoio exclusivo.
+
+<div class="padding-lg-top"></div>
 
 ### [Faça parte!]({{< ref "formulario.md" >}})

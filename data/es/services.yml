@@ -1,8 +1,7 @@
-# TODO i18n: Flavi: Translate!
-- title: "Enfermeiros"
-  description: "Cuidaremos do seu processo de forma personalizada, traçando uma meta realista de acordo com as suas necessidades e experiência profissional."
+- title: "Enfermeros"
+  description: "Nos encargamos de su proceso de forma personalizada, estableciendo un objetivo realista de acuerdo a sus necesidades y experiencia profesional."
   icon: "icon-people"
   
-- title: "Universidades &amp; Instituições de Ensino"
-  description: 'Oferecemos workshops gratuitos para apresentar essa oportunidade aos alunos e professores. <a class="inner-section-link" href="#" data-nav-section="contact">Entre em contato</a> para saber como.'
+- title: "Universidades &amp; Institutos de Educación"
+  description: 'Ofrecemos workshops gratuitos para presentar esta oportunidad a estudiantes y maestros. <a class="inner-section-link" href="#" data-nav-section="contact">Póngase en contacto</a> para saber cómo.'
   icon: "icon-graduation"

@@ -14,79 +14,73 @@ pageNotFound:
 navHome:
   other: "Ir a inicio"
 
-# ############################################################################
-# TODO i18n: traduzir a partir daqui #########################################
-# ############################################################################
-
 # Hero section
 heroTitle:
-  other: "ACP: Recrutando, orientando e empregando"
+  other: "ACP: Reclutamiento, orientación y empleo"
 heroSubtitle:
-  other: "A enfermagem como passaporte para os EUA."
+  other: "La enfermería como pasaporte a los Estados Unidos."
 heroDescription:
-  other: "Trabalhar como enfermeiro na Advanced Care Partners é a sua oportunidade de expandir seus conhecimentos e alavancar a sua carreira como enfermeiro nos Estados Unidos."
+  other: "Trabajando como enfermero en Advanced Care Partners es su oportunidad para expandir su conocimiento e impulsar su carrera en los Estados Unidos."
 
 # Intro section
 introVideoTitle:
-  other: "Assista ao vídeo e conheça mais sobre a ACP nas palavras da fundadora Greice Murphy"
+  other: "Mire el video y conozca más sobre ACP en las palabras de la fundadora Greice Murphy"
 
 # Work section
 workTitle:
-  other: "Por que a ACP?"
+  other: "¿Por qué ACP?"
 workDescription:
-  other: "ACP atua ativamente na busca de enfermeiros qualificados para integrar a equipe da ACP na área de enfermagem domiciliar. O nosso time de profissionais irá junto com você percorrer e transpor todas as etapas necessárias para <strong style='text-decoration: underline;'>você exercer a enfermagem nos Estados Unidos como profissional habilitado</strong>.<br><br>Confira o passo a passo nos quadros abaixo:"
-# TODO i18n: Flavi: Translate!
+  other: "ACP actúa activamente en la búsqueda de enfermeros calificados para integrar el equipo de la ACP en el área de enfermería domiciliaria. Nuestro equipo de profesionales irá junto con usted a recorrer y transponer todas las etapas necesarias para <strong style='text-decoration: underline;'>que usted pueda trabajar como profesional habilitado en los Estados Unidos</strong>.<br><br>En los cuadros abajo se muestran los pasos:"
 workFootertext:
-  other: "Nós ajudaremos você em todas estas etapas."
+  other: "Nosotros le ayudaremos en todos estos pasos."
 
 # Services section
 servicesTitle:
-  other: "Serviços"
+  other: "Servicios"
 servicesDescription:
-  other: "Conheça os nossos serviços e formas de atuação."
+  other: "Conozca nuestros servicios y formas de actuación."
 
 # About section
 aboutTitle:
-  other: "Sobre"
+  other: "Acerca de"
 aboutDescription:
-  other: "Empresa de recrutamento e consultoria de enfermeiros para os EUA."
+  other: "Empresa de contratación y consultoria de enfermeros para los Estados Unidos."
 aboutButtonLabel:
-  other: "Conheça mais"
+  other: "Conozca más"
 aboutUrl:
   other: "sobre/"
 
 # Testimonials section
 testimonialsTitle:
-  other: "Testemunhos"
+  other: "Testimonios"
 testimonialsDescription:
-  other: "Conheça a história de enfermeiros que já passaram por esse processo e também de nossos colaboradores."
+  other: "Conozca la historia de enfermeros que ya pasaron por ese proceso y también de nuestros colaboradores."
 
 # Counters section
 countersTitle:
-  other: "ACP em números"
+  other: "ACP en números"
 
 # Contact section
 contactTitle:
-  other: "Contato"
+  other: "Contacto"
 contactDescription:
-  # other: "Quer fazer parte do nosso time?<br>Quer iniciar o processo?<br>Tem dúvidas?<br>Entre em contato com a nossa equipe no Brasil.<br><br><br><a class='btn btn-primary' href='formulario/'>Entre em contato</a>"
   other: >
-    Quer fazer parte do nosso time?<br>
-    Quer iniciar o processo?<br>
-    Tem dúvidas?<br>
-    Entre em contato com a nossa equipe no Brasil.
+    ¿Quieres formar parte de nuestro equipo?<br>
+    ¿Desea iniciar el proceso?<br>
+    ¿Tienes dudas?<br>
+    Entre en contacto con nuestro equipo en Brasil.
 contactFormLabelName:
-  other: "Nome"
+  other: "Nombre"
 contactFormLabelEmail:
   other: "Email"
 contactFormLabelPhone:
-  other: "Telefone"
+  other: "Teléfono"
 contactFormLabelMessage:
-  other: "Mensagem"
+  other: "Mensaje"
 contactFormLabelButton:
-  other: "Enviar mensagem"
+  other: "Enviar mensaje"
 contactButtonLabel:
-  other: "Entre em contato"
+  other: "Enviar contacto"
 contactUrl:
   other: "formulario/"
 
@@ -101,40 +95,40 @@ visitPortugueseBlog:
 formEmailSubject:
   other: "Novo formulário enviado!"
 formLabelName:
-  other: "Nome"
+  other: "Nombre"
 formLabelNamePlaceholder:
-  other: "Informe o nome completo"
+  other: "Ingresa tu nombre completo"
 formLabelEmail:
   other: "Email"
 formLabelEmailPlaceholder:
-  other: "Informe um email válido"
+  other: "Ingresa tu email"
 formLabelPhone:
-  other: "Telefone"
+  other: "Teléfono"
 formLabelPhonePlaceholder:
-  other: "Informe o telefone no formato (99) 99999-9999"
+  other: "Ingresa tu teléfono"
 formLabelAge:
-  other: "Idade"
+  other: "Edad"
 formLabelAgePlaceholder:
-  other: "Informe a idade"
+  other: "Ingresa tu edad"
 formLabelMaritalStatus:
   other: "Estado civil"
 formLabelMaritalStatusPlaceholder:
-  other: "Informe o estado civil"
+  other: "Ingresa tu estado civil"
 formLabelCity:
-  other: "Cidade"
+  other: "Ciudad"
 formLabelCityPlaceholder:
-  other: "Informe a cidade onde mora"
+  other: "Ingresa tu ciudad"
 formLabelUniversity:
-  other: "Universidade"
+  other: "Universidad"
 formLabelUniversityPlaceholder:
-  other: "Informe a universidade da graduação"
+  other: "Ingresa tu universidad"
 # Experience
 formLabelExperience:
-  other: "Experiência como enfermeiro(a)"
+  other: "Experiencia como enfermero(a)"
 formLabelExperienceOption_01:
-  other: "Sem experiência"
+  other: "Ninguna experiencia"
 formLabelExperienceOption_02:
-  other: "Aluno de graduação"
+  other: "Estudiante de enfermería"
 formLabelExperienceOption_03:
   other: "1 – 12 meses"
 formLabelExperienceOption_04:
@@ -142,49 +136,50 @@ formLabelExperienceOption_04:
 formLabelExperienceOption_05:
   other: "18 – 24 meses"
 formLabelExperienceOption_06:
-  other: "Acima de 24 meses"
+  other: "Más de 24 meses"
 # Specialization
 formLabelSpecialization:
-  other: "Já fez especialização? Se sim, em qual área?"
+  other: "¿Usted ya ha hecho especialización?"
 formLabelSpecializationPlaceholder:
-  other: "Se sim, informe a área de sua especialização"
+  other: "Caso sí, ¿en qué área?"
 # English test
 formLabelEnglishTest:
-  other: "Já realizou teste de proficiência em inglês (TOEFL ou IELTS)?"
+  other: "¿Ya has tomado un examen de inglés (TOEFL o IELTS)?"
 # English Level
 formLabelEnglishLevel:
-  other: "Nível de inglês"
+  other: "Nivel de inglés"
 formLabelEnglishLevelOption_01:
-  other: "Iniciante"
+  other: "Principiante"
 formLabelEnglishLevelOption_02:
-  other: "Intermediário"
+  other: "Intermedio"
 formLabelEnglishLevelOption_03:
-  other: "Avançado"
+  other: "Avanzado"
 formLabelEnglishLevelOption_04:
-  other: "Fluente"
+  other: "Fluido"
 # How did you find us
 formLabelHowDidFind:
-  other: "Como conheceu a gente?"
+  other: "¿Como supiste de nosotros?"
 formLabelHowDidFindOption_01:
-  other: Google
+  other: "Google"
 formLabelHowDidFindOption_02:
-  other: Redes sociais
+  other: "Redes sociales"
 formLabelHowDidFindOption_03:
-  other: Site de emprego
+  other: "Sitio web de empleos"
 formLabelHowDidFindOption_04:
-  other: Indicação
+  other: "Referencias"
 formLabelHowDidFindOption_05:
-  other: Panfletos
+  other: "Anuncios"
 formLabelHowDidFindOption_06:
-  other: Outro
+  other: "Otro"
 # Message
 formLabelMessage:
-  other: "Mensagem"
+  other: "Mensaje"
 formLabelMessagePlaceholder:
+  # TODO i18n: Flavi: Translate!
   other: "Você quer deixar alguma mensagem?"
-# TODO i18n: Flavi: Translate!
 formPrivacyPolicyAgreement:
+  # TODO i18n: Flavi: Translate!
   # other: "Eu li e concordo com a <a href='politica-de-privacidade' target='_blank'>Política de Privacidade</a>."
   other: "Eu li e concordo com a"
 formButtonSubmit:
-  other: "Enviar as respostas"
+  other: "Enviar las respuestas"

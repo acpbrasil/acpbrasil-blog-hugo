@@ -1,4 +1,3 @@
-# TODO i18n: Flavi: Translate!
 # Conteúdo para a seção "Por que a ACP"
 
 # 01 - Requisitos mínimos
@@ -11,45 +10,46 @@
   # TODO usar icone de check
   weight: 1
   content: |
-    - Ter inglês avançado / fluente;
-    - Ser graduado em Enfermagem em uma universidade reconhecida pelo MEC;
-    - Ter o registro ativo no COREN do seu estado.
+    - Inglés intermedio / avanzado;
+    - Graduación en enfermería;
+    - Tener un registro activo con el Consejo de Enfermería de su estado / país.
 
 
 # 02 - Teste de proficiência em inglês
 - id: "teste-proficiencia"
-  title: "#2 - Teste de proficiência em inglês"
+  title: "#2 - Prueba de Competencia en inglés"
   # subtitle: "Qual teste de inglês devo fazer?"
   img: "work/teste-proficiencia.jpg"
-  alt: "#2 - Teste de proficiência em inglês"
+  alt: "#2 - Prueba de Competencia en inglés"
   weight: 2
   content: |
-    O conselho de enfermagem de cada estado exige, na sua grande maioria, a proficiência do inglês. Esta proficiência pode ser avaliada através de dois exames&colon;
+    El consejo de enfermería de cada estado exige, en su gran mayoría, la competencia del inglés. Esta competencia puede evaluarse a través de dos exámenes&colon;
     
-    - TOEFL (Test of English as a Foreign Language);
-    - IELTS (International English Language Testing System).
+    # TODO i18n: Flavi: Não é melhor deixar a descrição em inglês?
+    - TOEFL (examen de inglés como idioma extranjero);
+    - IELTS (Lenguaje Internacional Ingles Sistema de Examen).
 
 
 # 03 - O que é CGFNS
 - id: "cgfns"
-  title: "#3 - O que é CGFNS"
+  title: "#3 - Qué es el CGFNS"
   # subtitle: ""
   img: "work/cgfns.jpg"
-  alt: "#3 - O que é CGFNS"
+  alt: "#3 - Qué es el CGFNS"
   weight: 3
   content: |
-    O CGFNS (_Commission on Graduates of Foreign Nursing Schools_) é uma instituição que ajuda profissionais de saúde na validação das credenciais acadêmicas e profissionais.
+    El CGFNS (_Commission on Graduates of Foreign Nursing Schools_) es una institución que ayuda a profesionales de la salud en la validación de las credenciales académicas y profesionales.
 
 
 # 04 - Licença profissional
 - id: "licenca-profissional"
-  title: "#4 - Licença profissional"
+  title: "#4 - Licencia"
   # subtitle: ""
   img: "work/licenca-profissional.jpg"
-  alt: "#4 - Licença profissional"
+  alt: "#4 - Licencia"
   weight: 4
   content: |
-    Após validação dos documentos pelo CGFNS, inicia-se o processo de retirada da licença junto ao conselho de interesse.
+    Después de la validación de los documentos por el CGFNS, se inicia el proceso de retirada de la licencia junto al consejo de interés.
 
 
 # 05 - NCLEX
@@ -60,15 +60,15 @@
   alt: "#5 - NCLEX"
   weight: 5
   content: |
-    NCLEX é um exame que enfermeiros americanos e estrangeiros devem realizar para obter a sua licença e assim poder exercer a profissão.
+    NCLEX es un examen que los enfermeros estadounidenses y extranjeros deben realizar para obtener su licencia y así poder ejercer la profesión.
 
 
 # 06 - Imigração
 - id: "imigracao"
-  title: "#6 - Imigração"
+  title: "#6 - Immigración"
   # subtitle: ""
   img: "work/imigracao.jpg"
-  alt: "#6 - Imigração"
+  alt: "#6 - Immigración"
   weight: 6
   content: |
-    Nessa etapa a ACP atuará como seu empregador (_sponsor_). A etapa de imigração será desenvolvida por um escritório parceiro.
+    En esta etapa, la ACP actuará como su empleador (sponsor). La etapa de inmigración será desarrollada por una oficina asociada.

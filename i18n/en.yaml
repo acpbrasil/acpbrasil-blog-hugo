@@ -161,17 +161,17 @@ formLabelEnglishLevelOption_04:
 formLabelHowDidFind:
   other: "How did you hear about us?"
 formLabelHowDidFindOption_01:
-  other: Google
+  other: "Google"
 formLabelHowDidFindOption_02:
-  other: Social media
+  other: "Social media"
 formLabelHowDidFindOption_03:
-  other: Employment website
+  other: "Employment website"
 formLabelHowDidFindOption_04:
-  other: Referral
+  other: "Referral"
 formLabelHowDidFindOption_05:
-  other: Flyers
+  other: "Flyers"
 formLabelHowDidFindOption_06:
-  other: Other
+  other: "Other"
 # Message
 formLabelMessage:
   other: "Message"
