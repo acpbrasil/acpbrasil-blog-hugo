@@ -1,6 +1,7 @@
 # TODO i18n: Procurar por:
 # - Pediatrics
 # - USA
+# - EE.UU.
 
 # Page settings
 # baseurl = "https://acpbrasil.github.io/acpbrasil-blog-hugo/"
@@ -123,13 +124,13 @@ defaultContentLanguage = "pt"
   languageName = "Español"
   weight = 3
   # Menus
-  # TODO i18n: Flavi: Translate!
   [[languages.es.menu.pages]]
-    url = "nosotros/"
-    name = "Sobre nosotros"
+    url = "sobre/"
+    name = "Quiénes somos"
     weight = 10
   [[languages.es.menu.postpend]]
     url = "formulario/"
+    # TODO i18n: Flavi: Translate!
     name = "Trabaje con nosotros"
     weight = 10
   [[languages.es.menu.postpend]]
@@ -139,21 +140,18 @@ defaultContentLanguage = "pt"
   
   # Params
   [languages.es.params]
-    # TODO i18n: Flavi: Translate!
-    description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
-    # TODO i18n: Flavi: Translate!
+    description = "Empresa de contratación y consultoria de enfermeros para los Estados Unidos"
     defaultKeywords = [
       "acp", "blog", "advanced care", "advanced care pediatrics", "advanced care partners", "acp brasil",
-      "enfermeiros", "enfermeiros eua", "enfermeiros usa", "recrutamento", "migração", "emprego"
+      "enfermeros", "enfermeros eua", "enfermeros usa", "contratación", "migración", "empleo"
     ]
     # Navigation
     [languages.es.params.navigation]
-      # TODO i18n: Flavi: Translate!
       brand = "ACP Brasil"
-      home = "Home"
-      work = "Por que ACP?"
+      home = "Inicio"
+      work = "¿Por qué ACP?"
       services = "Servicios"
-      about = "Sobre"
+      about = "Acerca de"
       contact = "Contacto"
 
 

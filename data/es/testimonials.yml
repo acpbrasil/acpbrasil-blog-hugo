@@ -1,17 +1,16 @@
-# TODO i18n: Flavi: Translate!
-- quote: "&ldquo;Desde o primeiro dia que conversei com a ACP, senti imediatamente a sinceridade e acolhimento da ACP em seus objetivos de fornecer o melhor cuidado possível aos nossos pacientes e familiares, mantendo sempre uma relação profissional e de cuidado com toda a equipe.&rdquo;"
-  person: 'T. O’Brein <span class="subtext">Técnica em Enfermagem</span>'
+- quote: "&ldquo;Desde el primer día que hablé con la ACP, sentí inmediatamente la sinceridad y la acogida de la ACP en sus objetivos de proporcionar el mejor cuidado posible a nuestros pacientes y familiares, manteniendo siempre una relación profesional y de cariño con todo el equipo.&rdquo;"
+  person: 'T. O’Brein <span class="subtext">LPN</span>'
   img: "person1.jpg"
   alt: "T. O’Brein"
   weight: 1
 
-- quote: "&ldquo;Eu tenho trabalhado em assistência domiciliar durante 19 anos e para diferentes empresas. A ACP é a única empresa que reconhece o enfermeiro, mensalmente e anualmente, pelo esforço e dedicação. Eu amo trabalhar para a ACP, eles cuidam de mim. Sempre que tenho uma preocupação sou ouvida. Oferece salários e benefícios competitivos. ACP você é a melhor e sou muito grata por tudo o que faz!&rdquo;"
-  person: 'D. Hurt <span class="subtext">Enfermeira</span>'
+- quote: "&ldquo;He trabajado en asistencia domiciliaria durante 19 años y para diferentes empresas. La ACP es la única empresa que reconoce al enfermero, mensualmente y anualmente, por el esfuerzo y la dedicación. Me encanta trabajar para la ACP, me cuidan. Siempre que tengo una preocupación soy escuchada. Ofrece salarios y beneficios competitivos. ACP usted es la mejor y estoy muy agradecida por todo lo que hace!&rdquo;"
+  person: 'D. Hurt <span class="subtext">RN</span>'
   img: "person2.jpg"
   alt: "D. Hurt"
   weight: 2
 
-- quote: "&ldquo;Em 2007 consegui minha licença pela <em>Board of Nursing Colorado</em>. Contei com uma americana da área da saúde para entender todas as etapas: isso foi fundamental! Passei na 1ª tentativa na prova do Nclex! Não consegui _sponsor_ devido à recessão nos EUA na época. Quando conheci a Greice, fiquei extremamente interessada em participar da ACP Brasil e ajudar colegas com minha experiência a concretizar este sonho.&rdquo;"
+- quote: "&ldquo;En 2007 conseguí mi licencia por el Board of Nursing Colorado. He contado con una americana del área de la salud para entender todas las etapas: ¡eso fue fundamental! ¡Pasé en el primer intento en la prueba del Nclex! No he conseguido el sponsor debido a la recesión en Estados Unidos. Cuando conocí a Greice, estuve muy interesada en participar en la ACP Brasil y ayudar a colegas con mi experiencia a concretar este sueño.&rdquo;"
   person: 'F. Morales <span class="subtext">Consultora</span>'
   img: "person3.jpg"
   alt: "F. Morales"

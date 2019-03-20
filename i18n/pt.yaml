@@ -88,6 +88,7 @@ contactUrl:
 
 # Form - Join us
 formEmailSubject:
+  # TODO i18n: Querem um email subject diferente para formulários enviados em ingles e espanhol?
   other: "Novo formulário enviado!"
 formLabelName:
   other: "Nome"
@@ -155,17 +156,17 @@ formLabelEnglishLevelOption_04:
 formLabelHowDidFind:
   other: "Como conheceu a gente?"
 formLabelHowDidFindOption_01:
-  other: Google
+  other: "Google"
 formLabelHowDidFindOption_02:
-  other: Redes sociais
+  other: "Redes sociais"
 formLabelHowDidFindOption_03:
-  other: Site de emprego
+  other: "Site de emprego"
 formLabelHowDidFindOption_04:
-  other: Indicação
+  other: "Indicação"
 formLabelHowDidFindOption_05:
-  other: Panfletos
+  other: "Panfletos"
 formLabelHowDidFindOption_06:
-  other: Outro
+  other: "Outro"
 # Message
 formLabelMessage:
   other: "Mensagem"

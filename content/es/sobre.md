@@ -1,48 +1,48 @@
 ---
+title: "Quiénes somos"
+slug: "sobre"
 # TODO i18n: Flavi: Translate!
-title: "Quien somos"
-slug: "nosotros"
-description: "English: Conheça um pouco mais sobre a ACP"
-header: "Por que _home care_?"
-tags: ["quem somos", "home care", "quem é ACP"]
+description: "Conheça um pouco mais sobre a ACP"
+header: "¿Por qué cuidar a domicilio?"
+tags: ["quiénes somos", "home care", "quien es ACP"]
 ---
 
 {{< acp-video >}}
 
-A Advanced Care Partners (ACP) foi fundada em 2010 com objetivo mudar a vida de enfermeiros e de famílias com entes enfermos fornecendo atendimento diferenciado em assistência de enfermagem domiciliar a pacientes pediátricos e adultos.
+Advanced Care Partners (ACP) fue fundada en 2010 con el objetivo de cambiar la vida de enfermeros y de familias con entes enfermos proporcionando atención diferenciada en asistencia de enfermería domiciliar a pacientes pediátricos y adultos.
 
-Nos EUA, famílias de pacientes com condições médicas frágeis, que necessitam o mesmo nível de cuidado como se estivessem hospitalizadas, recebem apoio governamental para ter assistência de enfermagem domiciliar sem custo algum. O governo americano contrata empresas como a ACP para oferecer atendimento de enfermagem a estes pacientes no conforto de suas casas.
+En Los Estados Unidos, familias de pacientes con condiciones médicas frágiles, que necesitan el mismo nivel de atención como si estuvieran hospitalizadas, reciben apoyo gubernamental para tener asistencia de enfermería domiciliar sin costo alguno. El gobierno de los EE. UU. contrata empresas como ACP para ofrecer cuidado de enfermería a estos pacientes en la comodidad de sus casas.
 
-Em oito anos a ACP se tornou referência nacional, integrando desde 2015 a conceituada lista da INC 5000 que avalia anualmente as empresas que mais crescem nos EUA. Tudo isso devido à seriedade e comprometimento da ACP com seus enfermeiros, pacientes e familiares.
+En ocho años, ACP se ha convertido en referencia nacional, integrando desde 2015 la conceptuada lista de la INC 5000 que evalúa anualmente a las empresas que más crecen en los Estados Unidos. Todo esto se debe a la seriedad y el compromiso de ACP con sus enfermeros, pacientes y familiares.
 
 {{% blockquote-image-bg bg-class="bg-01" %}}
-  > Em oito anos a ACP se tornou referência nacional, integrando desde 2015 lista das 5000 empresas que mais crescem nos EUA.”
+  > En ocho años, ACP se ha convertido en referencia nacional, integrando desde 2015 la conceptuada lista de la INC 5000 que evalúa anualmente a las empresas que más crecen en los Estados Unidos.”
 {{% /blockquote-image-bg %}}
 
-Parte do sucesso da ACP fundamenta-se em sua cultura única de ir além do trabalho em equipe para alcançar excelência no serviço oferecido. Na ACP, cuidamos uns dos outros como em uma família, alinhados pelo respeito mútuo e compartilhando os mesmos valores. A maior prova do nosso sucesso é demonstrada quando 90% dos enfermeiros contratados são provenientes de indicações dos membros da ACP.
+Parte del éxito de ACP se fundamenta en su cultura única de ir más allá del trabajo en equipo para lograr la excelencia en el servicio ofrecido. En ACP, cuidamos unos de los otros como en una familia, alineados por el respeto mutuo y compartiendo los mismos valores. La mayor prueba de nuestro éxito se demuestra cuando el 90% de los enfermeros contratados provienen de indicaciones de los miembros de la familia ACP.
 
 {{% blockquote-image-bg bg-class="bg-02" %}}
-  > Na ACP, cuidamos uns dos outros como em uma família, alinhados pelo respeito mútuo e compartilhando os mesmos valores.”
+  > En ACP, cuidamos unos de los otros como en una familia, alineados por el respeto mutuo y compartiendo los mismos valores.”
 {{% /blockquote-image-bg %}}
 
-Nos últimos anos a carência de profissionais de enfermagem vem alertando o sistema de saúde americano. Estima-se que até 2022 haverão mais de 700 mil vagas de emprego disponíveis na área de enfermagem. Entendendo este cenário, e considerando a qualidade dos enfermeiros formados no Brasil, a ACP junto com seus parceiros Brasileiros está buscando profissionais qualificados e comprometidos que tenham o sonho de construir uma carreira de sucesso nos Estados Unidos. Estamos aqui para transformar esse sonho em realidade.
+En los últimos años la carencia de profesionales de enfermería viene alertando al sistema de salud americano. Se estima que hasta 2022 habrá más de 700 mil vacantes de empleo disponibles en el área de enfermería. Entendiendo este escenario, y considerando la calidad de los enfermeros formados en Brasil, la ACP junto con sus socios brasileños está buscando profesionales calificados y comprometidos que tengan el sueño de construir una carrera exitosa en Estados Unidos. Estamos aquí para transformar ese sueño en realidad.
 
 {{% blockquote-image-bg bg-class="bg-03" %}}
-  > Estima-se que até 2022 haverão mais de 700 mil vagas de emprego disponíveis na área de enfermagem.”
+  > Se estima que hasta 2022 habrá más de 700 mil vacantes de empleo disponibles en el área de enfermería.”
 {{% /blockquote-image-bg %}}
 
-A ACP é a única empresa com os serviços de recrutamento, consultoria e certeza do emprego nos Estados Unidos pois somos os recrutadores e os empregadores. Procuramos enfermeiros apaixonados pelo que fazem e que desejam fazer a diferença na vida de nossos pacientes e de todos que os rodeiam. A ACP busca uma relação profissional duradoura com cada enfermeiro, pois isso contribui com vínculos de lealdade e sucesso.
+ACP es la única empresa con los servicios de reclutamiento, consultoría y seguridad del empleo en los Estados Unidos, pues somos los reclutadores y los empleadores. Buscamos enfermeros apasionados por lo que hacen y que desean hacer la diferencia en la vida de nuestros pacientes y quienes los rodean. ACP busca una relación profesional duradera con cada enfermero, pues eso contribuye con vínculos de lealtad y éxito.
 
-A equipe brasileira oferece o passo a passo de como se tornar um enfermeiro nos EUA, auxiliando com informações e apoio institucional em todas as etapas do processo. Proporcionamos apoio e treinamento para os exames TOEFL e NCLEX incluindo treinamento on-line, simulados e workshops ao vivo. Nosso objetivo é preparar o enfermeiro de forma personalizada, traçando uma meta realista de acordo com as necessidades e experiência específica de cada profissional.
+El equipo brasileño ofrece el paso a paso de cómo convertirse en un enfermero en los Estados Unidos, ayudando con informaciones y apoyo institucional en todas las etapas del proceso. Proporcionamos apoyo y entrenamiento para los exámenes TOEFL y NCLEX incluyendo entrenamiento en línea, simulados y workshops en vivo. Nuestro objetivo es preparar al enfermero de forma personalizada, estableciendo una meta realista de acuerdo con las necesidades y experiencia específica de cada profesional.
 
 {{% blockquote-image-bg bg-class="bg-04" %}}
-  > Preparamos o enfermeiro de forma personalizada, traçando uma meta realista de acordo com as necessidades e experiência específica de cada profissional.”
+  > Nuestro objetivo es preparar al enfermero de forma personalizada, estableciendo una meta realista de acuerdo con las necesidades y experiencia específica de cada profesional.”
 {{% /blockquote-image-bg %}}
 
-Queremos construir um relacionamento sólido com cada enfermeiro. Profissionais _sponsored_ pela ACP terão não apenas a garantia de um empregador nos Estados Unidos, mas de um parceiro que percorrerá esta jornada de mãos dadas garantindo acesso a todas as ferramentas necessárias para ter êxito em sua carreira profissional e uma tranquila adaptação cultural.
+Queremos construir una relación sólida con cada enfermero. Los profesionales patrocinados por ACP no sólo tendrán la garantía de un empleador en los Estados Unidos, sino de un socio que recorrerá esta jornada de la mano garantizando el acceso a todas las herramientas necesarias para tener éxito en su carrera profesional y una tranquila adaptación cultural.
 
 <!-- markdownlint-disable MD033 -->
-<p class="bold">Não somos uma empresa convencional de home care. Nós somos a ACP, inovando na forma que o cuidado é entregue ao paciente.</p>
+<p class="bold">No somos una empresa convencional de atención domiciliaria. Nosotros somos ACP, innovando en la forma en que se Brinda la atención al paciente.</p>
 <!-- markdownlint-enable MD033 -->
 
-### [Faça parte!]({{< ref "formulario.md" >}})
+### [¡Venga con nosotros!]({{< ref "formulario.md" >}})

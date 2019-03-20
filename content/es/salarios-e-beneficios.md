@@ -1,28 +1,27 @@
 ---
-# TODO i18n: Flavi: Translate!
-title: "Salários e Benefícios na ACP"
-slug: "salarios-e-beneficios"
-description: "Conheça as vantagens de fazer parte da nossa equipe"
-header: "Venha trabalhar com a ACP"
-tags: ["salário", "benefícios", "enfermagem", "exterior", "enfermagem nos eua"]
+title: "Salarios y Beneficios en ACP"
+slug: "salarios-y-beneficios"
+description: "Conozca las ventajas de hacer parte de nuestro equipo"
+header: "Venga trabajar con ACP"
+tags: ["salario", "beneficios", "enfermería", "trabajo en el extranjero", "enfermagem en ee uu"]
 ---
 
-Salários e benefícios serão firmados entre a ACP e o enfermeiro por meio contratual.
+Los salarios y beneficios serán discutidos entre la ACP y la enfermera a través de acuerdos contractuales.
 
 <!-- markdownlint-disable MD033 -->
 <div class="row">
-  <!-- ![alt text](/images/foto-08-quad.jpg "Salários e Benefícios") -->
+  <!-- ![alt text](/images/foto-08-quad.jpg "Salarios y Beneficios") -->
   <!-- {{< figure src="/media/spf13.jpg" title="Steve Francia" >}} -->
   <div class="photo col-sm-6">
-    <img src="/images/foto-08-quad.jpg" class="img-circle img-responsive" title="Salários e Benefícios" alt="Salários e Benefícios">
+    <img src="/images/foto-08-quad.jpg" class="img-circle img-responsive" title="Salarios y Beneficios" alt="Salarios y Beneficios">
   </div>
 
   <div class="col-sm-6 padding-lg-bottom">
-    <h3>Salários ACP</h3>
+    <h3>Salarios ACP</h3>
     <hr class="acp-hr variation-2">
     <ul>
-      <li>Oferecemos planos de carreira baseado na experiência de cada profissional;</li>
-      <li>O salário é pago semanalmente ao enfermeiro.</li>
+      <li>ACP ofrece planes de carrera basados ​​en la experiencia de cada profesional;</li>
+      <li>El salario se paga semanalmente a la enfermera.</li>
     </ul>
   </div>
 </div>
@@ -34,20 +33,22 @@ Salários e benefícios serão firmados entre a ACP e o enfermeiro por meio cont
 <hr class="acp-hr variation-1">
 <!-- markdownlint-enable MD033 -->
 
-Os enfermeiros serão recebidos pela equipe da ACP nos EUA e além de ajuda de custo terão suporte de estadia e transporte pelos primeiros 30 dias, além de disponibilidade de contato 24h/7 dias por semana durante todo o tempo de contrato. Alguns dos benefícios oferecidos aos profissionais são:
+Los enfermeros serán recibidos por el equipo de la ACP en los EE. UU. y además de ayuda de costo tendrán soporte de estancia y transporte por los primeros 30 días, además de disponibilidad de contacto 24h / 7 días a la semana durante todo el tiempo de contrato. Algunos de los beneficios ofrecidos a los profesionales son:
 
-- Garantia de trabalho _full-time_ (mínima carga horária: 36h/semana);
-- Seguro saúde (médico, oftalmológico e odontológico);
+- Garantía de trabajo a tiempo completo (carga de trabajo mínima: 36h / semana);
+- Seguro de salud (médico, oftalmológico y dental);
 - Seguro de vida;
-- Auxilio para obtenção de residência permanente e transporte próprio;
-- Auxilio para obtenção de documentos (e.g carteira de motorista, seguro automóvel, _social security card number_);
-- Auxilio na abertura de conta bancaria, cartão de crédito e linha telefônica;
-- Educação continuada começando com treinamento inicial de 12 horas;
-- Férias remuneradas;
-- Escala de serviço flexível;
-- Pagamento de hora extra (ao exceder 40 horas semanais, pagamento de 1.5 vezes o valor regular/hora;
-- Bônus baseado em desempenho;
-- Prêmios por desempenho (funcionário do mês/ano);
-- Ambiente familiar e apoio exclusivo.
+- Asistencia para la obtención de residencia permanente y transporte propio;
+- Asistencia para obtener documentos (por ejemplo, licencia de conducir, seguro de automóvil, número de tarjeta de seguridad social);
+- Asistencia en la apertura de cuenta bancaria, tarjeta de crédito y línea telefónica;
+- Educación continua a partir de la formación inicial de 12 hrs;
+- Vacaciones pagadas;
+- Escala de servicio flexible;
+- Pago de hora extra (cuando se exceda de 40 horas a la semana, pago de 1.5 veces la cantidad regular por hora);
+- Bono basado en el rendimiento;
+- Premios a la actuación (empleado del mes / año);
+- Entorno familiar y apoyo exclusivo. 
 
-### [Faça parte!]({{< ref "formulario.md" >}})
+<div class="padding-lg-top"></div>
+
+### [¡Venga con nosotros!]({{< ref "formulario.md" >}})
