@@ -1,8 +1,3 @@
-# TODO i18n: Procurar por:
-# - Pediatrics
-# - USA
-# - EE.UU.
-
 # Page settings
 # baseurl = "https://acpbrasil.github.io/acpbrasil-blog-hugo/"
 baseurl = "http://www.acpbrasil.com/"
@@ -18,8 +13,7 @@ disqusShortname = "acpbrasil"
 paginate = 5
 
 # enableInlineShortcodes = true
-# FIXME i18n: set to false
-enableMissingTranslationPlaceholders = true
+enableMissingTranslationPlaceholders = false
 footnoteReturnLinkContents = "↑" # "↩"
 summaryLength = 50  # 70
 
