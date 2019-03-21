@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACP Brasil</title>
+    <link>http://www.acpbrasil.com/es/</link>
+    <description>Recent content on ACP Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+	<atom:link href="http://www.acpbrasil.com/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Política de Privacidad ACP Brasil</title>
+      <link>http://www.acpbrasil.com/es/politica-privacidad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acpbrasil.com/es/politica-privacidad/</guid>
+      <description>Por favor, leia atentamente as seguintes declarações, pois elas abordam as regras de engajamento entre nós.
+Queremos garantir que você respeite seus direitos de proteção de dados em conformidade com os mais recentes requisitos do Regulamento Geral de Proteção de Dados da UE (GDPR) a partir de 25 de maio de 2018.</description>
+    </item>
+    
+    <item>
+      <title>Quiénes somos</title>
+      <link>http://www.acpbrasil.com/es/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acpbrasil.com/es/sobre/</guid>
+      <description>Mire el video y conozca más sobre ACP en las palabras de la fundadora Greice Murphy    Advanced Care Partners (ACP) fue fundada en 2010 con el objetivo de cambiar la vida de enfermeros y de familias con entes enfermos proporcionando atención diferenciada en asistencia de enfermería domiciliar a pacientes pediátricos y adultos.</description>
+    </item>
+    
+    <item>
+      <title>Salarios y Beneficios en ACP</title>
+      <link>http://www.acpbrasil.com/es/salarios-y-beneficios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acpbrasil.com/es/salarios-y-beneficios/</guid>
+      <description>Los salarios y beneficios serán discutidos entre la ACP y la enfermera a través de acuerdos contractuales.
+ Steve Francia   --  Salarios ACP  ACP ofrece planes de carrera basados ​​en la experiencia de cada profesional; El salario se paga semanalmente a la enfermera.    Benefícios ACP Los enfermeros serán recibidos por el equipo de la ACP en los EE.</description>
+    </item>
+    
+    <item>
+      <title>¡Gracias!</title>
+      <link>http://www.acpbrasil.com/es/gracias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acpbrasil.com/es/gracias/</guid>
+      <description>Recibimos su formulario En la brevedad recibirá un correo electrónico con las informaciones necesarias para avanzar en el proceso. No olvide chequear el lista de SPAM.
+¡Hasta luego!</description>
+    </item>
+    
+    <item>
+      <title>¿Te interesa?</title>
+      <link>http://www.acpbrasil.com/es/formulario/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acpbrasil.com/es/formulario/</guid>
+      <description>Nombre  Email  Teléfono  Edad  Estado civil  Ciudad   Universidad  Experiencia como enfermero(a) Ninguna experiencia  Estudiante de enfermería  1 – 12 meses  13 – 17 meses  18 – 24 meses  Más de 24 meses   ¿Usted ya ha hecho especialización?</description>
+    </item>
+    
+  </channel>
+</rss>

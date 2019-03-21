@@ -20,6 +20,10 @@ body {
   font-family: 'Varela Round', Arial, sans-serif;
   /* font-family: 'Open Sans', Arial, sans-serif; */
 
+  /* Fix horizontal scroll */
+  max-width: 100%;
+  overflow-x: hidden;
+
   /* font-size: 2.5vh; */
   /* font-size: 3vw; */
   /* font-size: 1.5vw; */
@@ -60,6 +64,45 @@ h3, h4, h5, h6 {
 code.TODO {
   background-color: yellow;
 }
+
+.debug-version {
+  display: none;
+  /* float: right; */
+  font-family: Consolas, monospace;
+  font-size: 11px;
+
+  position: relative;
+  background-color: #FFC;
+  padding: 2rem;
+  max-width: 320px;
+
+  /* position: absolute; */
+  position: fixed;
+  bottom: 00px;
+  right: 0px;
+
+  /* position: absolute; */
+  /* top: 95vh; */
+  /* transform: translateY(-100%); */
+  /* width: 100%; */
+}
+/*
+.debug-version::before {
+  content: "";
+
+  position: absolute;
+  z-index: -1;
+  bottom: 15px;
+  left: 5px;
+  width: 50%;
+  top: 80%;
+  max-width: 320px;
+
+  box-shadow: 0px 13px 10px black;
+  transform: rotate(-4deg);
+}
+*/
+
 /* // end Utilities */
 
 a.inner-section-link {
@@ -104,6 +147,27 @@ div.buttons.bottom-buttons {
   margin-top: 30px;
 } */
 
+/* Multilingual styles */
+.blog-not-supported {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.language-dropdown > a.dropdown-toggle > .lang-prefix {
+  font-size: smaller;
+}
+.language-dropdown > .dropdown-menu a {
+  font-weight: normal !important;
+}
+.language-dropdown > .dropdown-menu > li.active-lang {
+  /* background-color: #F39B3B; */
+  background-color: rgba(243, 155, 59, 0.7);
+}
+.language-dropdown > .dropdown-menu > li.active-lang > a {
+  font-weight: bold !important;
+}
+.language-dropdown > .dropdown-menu > li.active-lang > a > i {
+  vertical-align: middle;
+}
 
 /* Blockquote */
 .page-content blockquote {
@@ -211,21 +275,6 @@ form textarea.form-control {
   background: url("/images/tnt.svg") no-repeat 95% 50%;
   background-size: 45px;
 } */
-/*
-section.check-requirements-form > div {
-  background-color: lightgray;
-  padding: 20px;
-}
-section.check-requirements-form form {
-  background-color: #fff;
-  padding: 10px;
-}
-section.check-requirements-form form > div {
-  border: 3px solid green;
-  background-color: #fff;
-  border-radius: 20px;
-}
-*/
 
 section#fh5co-services .section-heading,
 section#fh5co-testimonials .section-heading {
@@ -457,6 +506,10 @@ section#fh5co-intro .fh5co-text > p {
 #fh5co-header #navbar li a span {
   display: initial;
 }
+#fh5co-header #navbar li.language-dropdown a span.caret {
+  display: inline-block;
+
+}
 .navbar-collapse.collapse.in > .navbar-nav > li > a,
 .navbar-collapse.collapsing > .navbar-nav > li > a {
   /* line-height: initial; */
@@ -666,3 +719,46 @@ section#fh5co-contact > .section-photo-bg {
 }
 
 
+/* Change Bootstrap navbar collapse breakpoint */
+@media (max-width: 991px) {
+  /* TODO Fix Elate's theme navbar issue */
+  /* @media screen and (max-width: 991px) { */
+    .fh5co-nav-toggle { display: block; }
+  /* } */
+  
+  header .navbar-header {
+    float: none;
+  }
+  header .navbar-left,
+  header .navbar-right {
+    float: none !important;
+  }
+  header .navbar-toggle {
+    display: block;
+  }
+  header .navbar-collapse {
+    border-top: 1px solid transparent;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  }
+  header .navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+  }
+  header .navbar-collapse.collapse {
+    display: none !important;
+  }
+  header .navbar-nav {
+    float: none !important;
+    margin-top: 7.5px;
+  }
+  header .navbar-nav>li {
+    float: none;
+  }
+  header .navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  header .collapse.in {
+    display: block !important;
+  }
+}
