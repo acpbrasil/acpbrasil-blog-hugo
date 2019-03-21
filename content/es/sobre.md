@@ -1,8 +1,7 @@
 ---
 title: "Quiénes somos"
 slug: "sobre"
-# TODO i18n: Flavi: Translate!
-description: "Conheça um pouco mais sobre a ACP"
+description: "Conozca un poco más sobre ACP"
 header: "¿Por qué cuidar a domicilio?"
 tags: ["quiénes somos", "home care", "quien es ACP"]
 ---

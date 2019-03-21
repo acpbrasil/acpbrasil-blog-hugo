@@ -1,6 +1,5 @@
 - title: "¿Quiénes somos?"
-  # TODO i18n: Flavi: Translate!
-  description: "Conheça um pouco mais sobre a ACP."
+  description: "Conozca un poco más sobre ACP."
   url: "sobre/"
   button: "Conozca más"
   icon: "icon-people"

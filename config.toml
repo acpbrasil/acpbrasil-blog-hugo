@@ -130,8 +130,8 @@ defaultContentLanguage = "pt"
     weight = 10
   [[languages.es.menu.postpend]]
     url = "formulario/"
-    # TODO i18n: Flavi: Translate!
-    name = "Trabaje con nosotros"
+    name = "Únase a nosotros"
+    # name = "Únete"
     weight = 10
   [[languages.es.menu.postpend]]
     url = "blog/"

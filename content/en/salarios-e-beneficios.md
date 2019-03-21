@@ -33,7 +33,7 @@ Salaries and benefits will be entered between ACP and the nurse through contract
 <hr class="acp-hr variation-1">
 <!-- markdownlint-enable MD033 -->
 
-Nurses will be received by the ACP team in the US and in addition to cost support they will have abode support and transportation for the first 30 days, as well as contact availability 24hs / 7 days a week throughout the contract time. Some of the benefits offered to professionals are: 
+Nurses will be received by the ACP team in the US and in addition to cost support they will have abode support and transportation for the first 30 days, as well as contact availability 24hs / 7 days a week throughout the contract time. Some of the benefits offered to professionals are:
 
 - Full-time work guarantee (minimum workload: 36h / week);
 - Health Insurance (medical, ophthalmological and dental);
@@ -49,6 +49,8 @@ Nurses will be received by the ACP team in the US and in addition to cost suppor
 - Performance awards (employee of the month / year);
 - Family environment and exclusive support.
 
+<!-- markdownlint-disable MD033 -->
 <div class="padding-lg-top"></div>
+<!-- markdownlint-enable MD033 -->
 
 ### [Join us!]({{< ref "formulario.md" >}})

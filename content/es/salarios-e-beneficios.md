@@ -47,8 +47,10 @@ Los enfermeros serán recibidos por el equipo de la ACP en los EE. UU. y además
 - Pago de hora extra (cuando se exceda de 40 horas a la semana, pago de 1.5 veces la cantidad regular por hora);
 - Bono basado en el rendimiento;
 - Premios a la actuación (empleado del mes / año);
-- Entorno familiar y apoyo exclusivo. 
+- Entorno familiar y apoyo exclusivo.
 
+<!-- markdownlint-disable MD033 -->
 <div class="padding-lg-top"></div>
+<!-- markdownlint-enable MD033 -->
 
 ### [¡Venga con nosotros!]({{< ref "formulario.md" >}})
