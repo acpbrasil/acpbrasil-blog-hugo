@@ -1,5 +1,4 @@
 ---
-# type: "page"
 title: "Are you interested?"
 slug: "form"
 description: "This form will help us to set a realistic goal for you to become a nurse in US through ACP"

@@ -175,11 +175,9 @@ formLabelHowDidFindOption_06:
 formLabelMessage:
   other: "Mensaje"
 formLabelMessagePlaceholder:
-  # TODO i18n: Flavi: Translate!
-  other: "Você quer deixar alguma mensagem?"
+  other: "¿Quieres dejar algún mensaje?"
 formPrivacyPolicyAgreement:
-  # TODO i18n: Flavi: Translate!
-  # other: "Eu li e concordo com a <a href='politica-de-privacidade' target='_blank'>Política de Privacidade</a>."
-  other: "Eu li e concordo com a"
+  # other: "He leído y estoy de acuerdo con la <a href='politica-de-privacidade' target='_blank'>Política de Privacidad</a>."
+  other: "He leído y estoy de acuerdo con la"
 formButtonSubmit:
   other: "Enviar las respuestas"

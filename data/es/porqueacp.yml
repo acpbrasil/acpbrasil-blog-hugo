@@ -25,9 +25,8 @@
   content: |
     El consejo de enfermería de cada estado exige, en su gran mayoría, la competencia del inglés. Esta competencia puede evaluarse a través de dos exámenes&colon;
     
-    # TODO i18n: Flavi: Não é melhor deixar a descrição em inglês?
-    - TOEFL (examen de inglés como idioma extranjero);
-    - IELTS (Lenguaje Internacional Ingles Sistema de Examen).
+    - TOEFL (Test of English as a Foreign Language);
+    - IELTS (International English Language Testing System).
 
 
 # 03 - O que é CGFNS
