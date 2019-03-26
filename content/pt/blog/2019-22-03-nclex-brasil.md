@@ -15,7 +15,9 @@ O processo para se tornar enfermeiro nos Estados Unidos consiste de [várias eta
 
 Essa prova faz parte dos requisitos necessários para obter a licença de enfermeiro para trabalhar no país e não só profissionais estrangeiros como também enfermeiros formados nos EUA precisam atingir sucesso no [NCLEX](http://www.acpbrasil.com/blog/2018-05-01-nclex/) para atuar profissionalmente.
 
-Você sabia que enfermeiros brasileiros que estão no processo para se tornar enfermeiro nos EUA podem realizar o NCLEX aqui no Brasil? Pois é, não é mais necessário fazer uma viagem apenas para fazer essa etapa. Assim, o seu sonho de ir trabalhar no país está muito mais acessível.
+Você sabia que enfermeiros brasileiros que estão no processo para se tornar enfermeiro nos EUA podem realizar o NCLEX aqui no Brasil?
+
+Pois é, não é mais necessário fazer uma viagem apenas para fazer essa etapa. Assim, o seu sonho de ir trabalhar no país está muito mais acessível.
 
 Vamos conhecer agora um pouco mais sobre esse cenário e como você pode se inscrever para realizar o exame aqui no país.
 
