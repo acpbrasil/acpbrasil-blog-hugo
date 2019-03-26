@@ -47,7 +47,7 @@
 	{{ if not (in (string .Site.BaseURL) "localhost") }}
 		<script src="https://app.villetarget.com/villetarget_tracking.min.js"></script>
 		<script>
-				villetarget.includeDefaultPrivacyPolicyPopup(true);
+				villetarget.includeDefaultPrivacyPolicyPopup(false);
 				villetarget.init("5b1bccf5e7272");
 		</script>
 	{{ end }}
