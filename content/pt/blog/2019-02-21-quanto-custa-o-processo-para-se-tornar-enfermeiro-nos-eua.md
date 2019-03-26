@@ -64,9 +64,7 @@ Para isso, você deverá enviar os documentos requeridos pelo órgão regulador 
 
 O [NCLEx](http://www.acpbrasil.com/blog/2018-05-01-nclex/) tem como objeto avaliar se o profissional tem os conhecimentos necessários para atuar como enfermeiro no país.
 
-A taxa deste exame gira em torno de $ 200. Será preciso viajar para os EUA ou outro país que aplique a prova, uma vez que este exame não pode ser feito no Brasil.
-
-Desta forma, os custos da viagem também devem ser considerados com antecedência. Por exemplo, viajar para Miami para fazer o exame pode custar em média $ 1.500,00 para 7 dias, porém esse valor dependerá da data da viagem, do hotel (se você não tiver conhecidos por lá onde possa se hospedar), entre outros aspectos.
+A taxa deste exame gira em torno de $ 200, e dos cursos preparatórios entre $ 50 e $ 150. Atualmente é possível fazer o exame no Brasil.
 
 ## Processo imigratório e Sponsor
 
