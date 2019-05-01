@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emprego on ACP Brasil</title>
-    <link>http://www.acpbrasil.com/tags/emprego/</link>
+    <link>https://www.acpbrasil.com/tags/emprego/</link>
     <description>Recent content in Emprego on ACP Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 17 Apr 2018 22:10:00 -0300</lastBuildDate>
     
-	<atom:link href="http://www.acpbrasil.com/tags/emprego/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.acpbrasil.com/tags/emprego/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Escassez de enfermeiros nos EUA</title>
-      <link>http://www.acpbrasil.com/blog/2018-04-17-escassez-de-enfermeiros-nos-eua/</link>
+      <link>https://www.acpbrasil.com/blog/escassez-de-enfermeiros-nos-eua/</link>
       <pubDate>Tue, 17 Apr 2018 22:10:00 -0300</pubDate>
       
-      <guid>http://www.acpbrasil.com/blog/2018-04-17-escassez-de-enfermeiros-nos-eua/</guid>
+      <guid>https://www.acpbrasil.com/blog/escassez-de-enfermeiros-nos-eua/</guid>
       <description>Entenda o porquê desta situação alarmante É o enfermeiro que garante o cuidado do paciente, seja no ambiente hospitalar ou na assistência domiciliar. Por este motivo, a saúde da população norte-americana está em risco.
 Três milhões de enfermeiros compõem um dos maiores segmentos de profissionais de saúde dos EUA, e a enfermagem é uma das profissões que mais crescem no país.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home Care on ACP Brasil</title>
-    <link>http://www.acpbrasil.com/es/tags/home-care/</link>
+    <link>https://www.acpbrasil.com/es/tags/home-care/</link>
     <description>Recent content in Home Care on ACP Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-	<atom:link href="http://www.acpbrasil.com/es/tags/home-care/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.acpbrasil.com/es/tags/home-care/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quiénes somos</title>
-      <link>http://www.acpbrasil.com/es/sobre/</link>
+      <link>https://www.acpbrasil.com/es/sobre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.acpbrasil.com/es/sobre/</guid>
-      <description>Mire el video y conozca más sobre ACP en las palabras de la fundadora Greice MurphyAdvanced Care Partners (ACP) fue fundada en 2010 con el objetivo de cambiar la vida de enfermeros y de familias con entes enfermos proporcionando atención diferenciada en asistencia de enfermería domiciliar a pacientes pediátricos y adultos.</description>
+      <guid>https://www.acpbrasil.com/es/sobre/</guid>
+      <description>Mire el video y conozca más sobre ACP en las palabras de la fundadora Greice Murphy    Advanced Care Partners (ACP) fue fundada en 2010 con el objetivo de cambiar la vida de enfermeros y de familias con entes enfermos proporcionando atención diferenciada en asistencia de enfermería domiciliar a pacientes pediátricos y adultos.</description>
     </item>
     
   </channel>

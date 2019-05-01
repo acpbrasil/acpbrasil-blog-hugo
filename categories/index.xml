@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ACP Brasil</title>
-    <link>http://www.acpbrasil.com/categories/</link>
+    <link>https://www.acpbrasil.com/categories/</link>
     <description>Recent content in Categories on ACP Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 28 Apr 2018 15:21:26 -0300</lastBuildDate>
     
-	<atom:link href="http://www.acpbrasil.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.acpbrasil.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Acp</title>
-      <link>http://www.acpbrasil.com/categories/acp/</link>
+      <link>https://www.acpbrasil.com/categories/acp/</link>
       <pubDate>Sat, 28 Apr 2018 15:21:26 -0300</pubDate>
       
-      <guid>http://www.acpbrasil.com/categories/acp/</guid>
+      <guid>https://www.acpbrasil.com/categories/acp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conhecimento</title>
-      <link>http://www.acpbrasil.com/categories/conhecimento/</link>
+      <link>https://www.acpbrasil.com/categories/conhecimento/</link>
       <pubDate>Tue, 01 May 2018 15:42:56 -0300</pubDate>
       
-      <guid>http://www.acpbrasil.com/categories/conhecimento/</guid>
+      <guid>https://www.acpbrasil.com/categories/conhecimento/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enfermagem</title>
-      <link>http://www.acpbrasil.com/categories/enfermagem/</link>
+      <link>https://www.acpbrasil.com/categories/enfermagem/</link>
       <pubDate>Tue, 04 Sep 2018 09:00:00 -0300</pubDate>
       
-      <guid>http://www.acpbrasil.com/categories/enfermagem/</guid>
+      <guid>https://www.acpbrasil.com/categories/enfermagem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enfermagem Acp</title>
-      <link>http://www.acpbrasil.com/categories/enfermagem-acp/</link>
+      <link>https://www.acpbrasil.com/categories/enfermagem-acp/</link>
       <pubDate>Thu, 25 Oct 2018 09:00:00 -0300</pubDate>
       
-      <guid>http://www.acpbrasil.com/categories/enfermagem-acp/</guid>
+      <guid>https://www.acpbrasil.com/categories/enfermagem-acp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enfermagem Mercado</title>
-      <link>http://www.acpbrasil.com/categories/enfermagem-mercado/</link>
+      <link>https://www.acpbrasil.com/categories/enfermagem-mercado/</link>
       <pubDate>Fri, 22 Mar 2019 09:00:00 -0300</pubDate>
       
-      <guid>http://www.acpbrasil.com/categories/enfermagem-mercado/</guid>
+      <guid>https://www.acpbrasil.com/categories/enfermagem-mercado/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eua</title>
-      <link>http://www.acpbrasil.com/categories/eua/</link>
+      <link>https://www.acpbrasil.com/categories/eua/</link>
       <pubDate>Wed, 25 Apr 2018 14:56:00 -0300</pubDate>
       
-      <guid>http://www.acpbrasil.com/categories/eua/</guid>
+      <guid>https://www.acpbrasil.com/categories/eua/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inglês</title>
-      <link>http://www.acpbrasil.com/categories/ingl%C3%AAs/</link>
+      <link>https://www.acpbrasil.com/categories/ingl%C3%AAs/</link>
       <pubDate>Tue, 01 May 2018 15:42:56 -0300</pubDate>
       
-      <guid>http://www.acpbrasil.com/categories/ingl%C3%AAs/</guid>
+      <guid>https://www.acpbrasil.com/categories/ingl%C3%AAs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mercado</title>
-      <link>http://www.acpbrasil.com/categories/mercado/</link>
+      <link>https://www.acpbrasil.com/categories/mercado/</link>
       <pubDate>Fri, 20 Jul 2018 15:08:00 -0300</pubDate>
       
-      <guid>http://www.acpbrasil.com/categories/mercado/</guid>
+      <guid>https://www.acpbrasil.com/categories/mercado/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mercado Inglês</title>
-      <link>http://www.acpbrasil.com/categories/mercado-ingl%C3%AAs/</link>
+      <link>https://www.acpbrasil.com/categories/mercado-ingl%C3%AAs/</link>
       <pubDate>Fri, 10 Aug 2018 09:00:00 -0300</pubDate>
       
-      <guid>http://www.acpbrasil.com/categories/mercado-ingl%C3%AAs/</guid>
+      <guid>https://www.acpbrasil.com/categories/mercado-ingl%C3%AAs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mercado Inglês Enfermagem</title>
-      <link>http://www.acpbrasil.com/categories/mercado-ingl%C3%AAs-enfermagem/</link>
+      <link>https://www.acpbrasil.com/categories/mercado-ingl%C3%AAs-enfermagem/</link>
       <pubDate>Wed, 10 Oct 2018 09:00:00 -0300</pubDate>
       
-      <guid>http://www.acpbrasil.com/categories/mercado-ingl%C3%AAs-enfermagem/</guid>
+      <guid>https://www.acpbrasil.com/categories/mercado-ingl%C3%AAs-enfermagem/</guid>
       <description></description>
     </item>
     
