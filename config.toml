@@ -24,8 +24,8 @@ isMultiLingual = true
 defaultContentLanguage = "pt"
 # defaultContentLanguage = "pt-br"
 
-[permalinks]
-  blog = "/blog/:slug/"
+# [permalinks]
+#   blog = "/blog/:slug/"
 
 [blackfriday]
   fractions = false
