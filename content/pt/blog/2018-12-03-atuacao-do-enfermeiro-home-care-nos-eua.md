@@ -13,9 +13,9 @@ draft: false
 
 As pessoas querem ter uma melhor qualidade de vida e oferecer isso para toda a família.
 
-Por isso, muitos pensam em morar em outros países como os EUA (Estados Unidos), já que é um país que oferece [essas condições](http://www.acpbrasil.com/blog/2018-06-23-plano-de-carreira-para-enfermeiros/).
+Por isso, muitos pensam em morar em outros países como os EUA (Estados Unidos), já que é um país que oferece [essas condições]({{< relref "2018-06-23-plano-de-carreira-para-enfermeiros" >}}).
 
-Uma ótima forma de fazer com que esse desejo se torne realidade é [trabalhando lá como enfermeiro](http://www.acpbrasil.com/blog/2018-07-20-vagas-para-enfermeiros-nos-estados-unidos/) em home care.
+Uma ótima forma de fazer com que esse desejo se torne realidade é [trabalhando lá como enfermeiro]({{< relref "2018-07-20-vagas-para-enfermeiros-nos-estados-unidos" >}}) em home care.
 
 Você já deve ter ouvido falar sobre essa forma de cuidados ou pode até já ter trabalhado em uma empresa que oferece cuidados de enfermagem à domicílio.
 
@@ -49,7 +49,7 @@ O paciente pode ser assistido, praticamente, com os mesmos cuidados de um hospit
 
 O paciente pode contar com  monitoramento constante através de equipamentos, ventilador mecânico invasivos ou não, bombas de infusão etc.
 
-Seu monitoramento pode ser do [mais básico ao mais complexo](http://www.acpbrasil.com/blog/2018-04-27-cuidados-com-pacientes-traqueostomizados/).
+Seu monitoramento pode ser do [mais básico ao mais complexo]({{< relref "2018-04-27-cuidados-com-pacientes-traqueostomizados" >}}).
 
 Portanto, o papel do enfermeiro é crucial tanto no processo de tratamento e controle da doença, como no processo de cura.
 
@@ -61,7 +61,7 @@ A média de salário para um enfermeiro que atua no home care nos EUA é de US$ 
 
 Esse valor é apenas a média e há empresas que chegam a pagar US$ 41,32 ou R$ 152,75.
 
-Portanto, podemos considerar que desde [salário inicial o enfermeiro](http://www.acpbrasil.com/blog/2018-07-10-qual-o-salario-de-um-enfermeiro-nos-eua/) já consegue ter uma condição de vida boa, podendo atingir ganhos comparados a enfermeiros que trabalham em ambientes hospitalares.
+Portanto, podemos considerar que desde [salário inicial o enfermeiro]({{< relref "2018-07-10-qual-o-salario-de-um-enfermeiro-nos-eua" >}}) já consegue ter uma condição de vida boa, podendo atingir ganhos comparados a enfermeiros que trabalham em ambientes hospitalares.
 
 É preciso considerar que cada vez mais as empresas de home care necessitarão de novos profissionais.
 
@@ -75,4 +75,4 @@ Essa tendência é fácil de notar por meio dos números: em 2005 a força de tr
 
 Uma excelente empresa e que pode ser a sua porta de entrada para uma qualidade de vida melhor em outro país é a ACP (Advanced Care Partners).
 
-Veja todos os [benefícios que os enfermeiros de nossa empresa](http://www.acpbrasil.com/salarios-e-beneficios/) de home care recebem!
+Veja todos os [benefícios que os enfermeiros de nossa empresa]({{< relref "/salarios-e-beneficios" >}}) de home care recebem!

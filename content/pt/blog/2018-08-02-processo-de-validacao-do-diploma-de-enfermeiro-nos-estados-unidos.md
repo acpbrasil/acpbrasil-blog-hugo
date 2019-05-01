@@ -11,7 +11,7 @@ source: ""
 draft: false
 ---
 
-Você trabalha como Enfermeiro no Brasil, tem o inglês fluente e gostaria de ter uma experiência de trabalho internacional? Se cumpre todos esses requisitos, pode conquistar uma ótima oportunidade internacional no mercado americano, que tem salários atrativos e oferece bons [planos de carreira](http://www.acpbrasil.com/blog/2018-06-23-plano-de-carreira-para-enfermeiros/) para os profissionais da área. Para isso, no entanto, é preciso conhecer o processo de validação de diploma de enfermeiro no Estados Unidos e cumprir as suas etapas à risca.
+Você trabalha como Enfermeiro no Brasil, tem o inglês fluente e gostaria de ter uma experiência de trabalho internacional? Se cumpre todos esses requisitos, pode conquistar uma ótima oportunidade internacional no mercado americano, que tem salários atrativos e oferece bons [planos de carreira]({{< relref "2018-06-23-plano-de-carreira-para-enfermeiros" >}}) para os profissionais da área. Para isso, no entanto, é preciso conhecer o processo de validação de diploma de enfermeiro no Estados Unidos e cumprir as suas etapas à risca.
 
 Foi pensando nisso que desenvolvemos este post, que apresentará um dos passos do processo sobre o que é necessário fazer para que o seu diploma de enfermagem obtido no Brasil possa ser validado nos EUA.
 

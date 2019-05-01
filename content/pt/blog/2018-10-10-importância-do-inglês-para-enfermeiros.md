@@ -11,7 +11,7 @@ source: ""
 draft: false
 ---
 
-O Inglês para enfermeiros é de fundamental importância para encontrar um bom trabalho e aproveitar as [oportunidades de emprego no exterior, como nos Estados Unidos](http://www.acpbrasil.com/blog/2018-07-20-vagas-para-enfermeiros-nos-estados-unidos/).
+O Inglês para enfermeiros é de fundamental importância para encontrar um bom trabalho e aproveitar as [oportunidades de emprego no exterior, como nos Estados Unidos]({{< relref "2018-07-20-vagas-para-enfermeiros-nos-estados-unidos" >}}).
 
 Com um mercado de trabalho cada vez mais competitivo, os enfermeiros e até mesmo os graduandos precisam estar em constante renovação do conhecimento e aprendendo o que o mercado pede.
 
@@ -43,9 +43,9 @@ Saber um novo idioma é uma porta de entrada para conquistar boas oportunidades 
 
 Por exemplo, uma cidade turística como Salvador, certamente precisa de enfermeiros que falem um segundo idioma para atender melhor os pacientes de outros países que aparecem na emergência.
 
-Além disso, você pode também ter a oportunidade de [trabalhar como enfermeiro em outro país](https://www.acpbrasil.com/blog/2018-04-26-requisitos-para-trabalhar-nos-eua-ingles/). Sendo aprovado nos exames Test of English for International Communication (TOEIC) ou Test of English as a Foreign Language [(TOEFL)](https://www.acpbrasil.com/blog/2018-08-10-o-que-e-e-como-me-preparar-para-o-toefl/).
+Além disso, você pode também ter a oportunidade de [trabalhar como enfermeiro em outro país]({{< relref "2018-04-26-requisitos-para-trabalhar-nos-eua-ingles" >}}). Sendo aprovado nos exames Test of English for International Communication (TOEIC) ou Test of English as a Foreign Language [(TOEFL)]({{< relref "2018-08-10-o-que-e-e-como-me-preparar-para-o-toefl" >}}).
 
-Esses exames são muito importantes para quem deseja trabalhar como enfermeiro em outro país como nos Estados Unidos. Aliás, esse é o sonho de muitos profissionais, já que outros países oferecem não só uma qualidade de vida melhor, como também mais recursos para a área de saúde e [salários mais atrativos](https://www.acpbrasil.com/blog/2018-07-10-qual-o-salario-de-um-enfermeiro-nos-eua/).
+Esses exames são muito importantes para quem deseja trabalhar como enfermeiro em outro país como nos Estados Unidos. Aliás, esse é o sonho de muitos profissionais, já que outros países oferecem não só uma qualidade de vida melhor, como também mais recursos para a área de saúde e [salários mais atrativos]({{< relref "2018-07-10-qual-o-salario-de-um-enfermeiro-nos-eua" >}}).
 
 Quer garantir que um dia você poderá [exercer a sua profissão em outros países?](https://www.advancedcarepartners.com/brasil/) Comece a praticar o seu inglês. Existem diversas formas de fazer isso online e às vezes de maneira gratuita, por exemplo, traduzindo músicas ou em sites como o [BBC](https://www.bbc.com/portuguese/aprenda_ingles).
 

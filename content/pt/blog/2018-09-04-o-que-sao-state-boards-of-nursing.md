@@ -11,7 +11,7 @@ source: "https://www.ncsbn.org/index.htm"
 draft: false
 ---
 
-Se você é enfermeiro e tem interesse em migrar para os Estados Unidos exercendo a sua profissão, já deve saber que precisa passar por uma série de etapas, como prestar o exame NCLEX e ter um [sponsor](http://www.acpbrasil.com/blog/2018-08-06-como-e-porque-escolher-um-sponsor-para-morar-e-trabalhar-como-enfermeiro-nos-eua/) adequado. Antes disso, no entanto, é preciso saber um pouco mais sobre o State Board of Nursing. Mas afinal o que são State Board of Nursing?
+Se você é enfermeiro e tem interesse em migrar para os Estados Unidos exercendo a sua profissão, já deve saber que precisa passar por uma série de etapas, como prestar o exame NCLEX e ter um [sponsor]({{< relref "2018-08-06-como-e-porque-escolher-um-sponsor-para-morar-e-trabalhar-como-enfermeiro-nos-eua" >}}) adequado. Antes disso, no entanto, é preciso saber um pouco mais sobre o State Board of Nursing. Mas afinal o que são State Board of Nursing?
 
 Neste post, vamos esclarecer as principais dúvidas que os enfermeiros que desejam atuar nos Estados Unidos têm sobre  os boards. Continue conosco e saiba mais sobre a importância de contatar essas instituições antes de migrar para o país americano.
 
@@ -41,7 +41,7 @@ Os LPNs são profissionais que podem realizar atividades um pouco mais complexas
 
 ### RN (Registered Nurse)
 
-Os RN, por sua vez, são os enfermeiros propriamente ditos, que precisam ter [diploma](http://www.acpbrasil.com/blog/2018-08-02-processo-de-validacao-do-diploma-de-enfermeiro-nos-estados-unidos/) com o título de bacharel em enfermagem e obter uma série de certificações para desenvolver atividades como administração de equipes de enfermagem, cuidados com pacientes em uniade de terapia intensiva (UTI), auxílio aos médicos em cirurgias, entre outras funções.
+Os RN, por sua vez, são os enfermeiros propriamente ditos, que precisam ter [diploma]({{< relref "2018-08-02-processo-de-validacao-do-diploma-de-enfermeiro-nos-estados-unidos" >}}) com o título de bacharel em enfermagem e obter uma série de certificações para desenvolver atividades como administração de equipes de enfermagem, cuidados com pacientes em uniade de terapia intensiva (UTI), auxílio aos médicos em cirurgias, entre outras funções.
 
 Vale ressaltar que fizemos uma comparação superficial das categorias dos profissionais da enfermagem, mas que mudanças importantes de atividades realizadas por tais categorias tanto no Brasil quanto nos Estados Unidos podem ser muito significativas exigindo uma leitura mais ampla.
 
@@ -55,7 +55,7 @@ O primeiro passo quanto ao State Board of Nursing  é conhecer as exigências 
     <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a> 
   </div>
   
-O NCLEX é uma prova que tem como objetivo avaliar o conhecimento, as habilidades e capacidades essenciais necessárias para o **Registered Nurse** na promoção, manutenção e restauração da saúde do paciente/cliente. Para saber mais sobre o NCLEX [confira esse outro post](http://www.acpbrasil.com/blog/2018-05-01-nclex/).
+O NCLEX é uma prova que tem como objetivo avaliar o conhecimento, as habilidades e capacidades essenciais necessárias para o **Registered Nurse** na promoção, manutenção e restauração da saúde do paciente/cliente. Para saber mais sobre o NCLEX [confira esse outro post]({{< relref "2018-05-01-nclex" >}}).
 
 E então, conseguiu entender um pouco mais sobre o papel que os States Board of Nursing tem no processo de se tornar um enfermeiro nos EUA? Esperamos que nosso conteúdo tenha sido útil para você.
 

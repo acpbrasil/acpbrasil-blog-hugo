@@ -1,6 +1,6 @@
 # Page settings
 # baseurl = "https://acpbrasil.github.io/acpbrasil-blog-hugo/"
-baseurl = "http://www.acpbrasil.com/"
+baseurl = "https://www.acpbrasil.com/"
 title = "ACP Brasil"
 theme = "elate"
 
@@ -23,6 +23,9 @@ enableGitInfo = true
 isMultiLingual = true
 defaultContentLanguage = "pt"
 # defaultContentLanguage = "pt-br"
+
+[permalinks]
+  blog = "/blog/:slug/"
 
 [blackfriday]
   fractions = false
@@ -252,7 +255,7 @@ defaultContentLanguage = "pt"
       ["icon-home", "Florianópolis / SC"],
       ["icon-phone", "+55 (48) 99176-0676<br>+55 (48) 99176-3535"],
       ["icon-envelope", "<a href='mailto:contato@acpediatrics.com?subject=Contato'>contato@acpediatrics.com</a>"],
-      ["icon-globe", '<a href="https://www.advancedcarepartners.com/" target="_blank">ACP Home care</a><br><a href="http://www.acpbrasil.com/" target="_blank">ACP Brasil</a>']
+      ["icon-globe", '<a href="https://www.advancedcarepartners.com/" target="_blank">ACP Home care</a><br><a href="https://www.acpbrasil.com/" target="_blank">ACP Brasil</a>']
     ]
 
 

@@ -21,7 +21,7 @@ A partir dessa constatação, desenvolvemos este post, que tem o objetivo de esc
 
 Sigla para *Test of English as a Foreign Language*, ou *Teste de Inglês como Língua Estrangeira*, em português, o TOEFL é uma prova que serve para comprovar que uma pessoa tem o conhecimento pleno da língua inglesa. Ao passar nesse exame, o candidato poderá trabalhar ou estudar nos Estados Unidos, pois terá demonstrado que tem domínio do idioma americano.
 
-De acordo com a [escola de inglês Wizard](http://www.wizard.com.br/blog/aprender-ingles/como-o-toefl-funciona/), o TOEFL é reconhecido mundialmente, por todas as empresas ou universidades dos países que falam a língua inglesa. Por isso, esse é o teste mais indicado para enfermeiros que desejam [trabalhar nos Estados Unidos](http://www.acpbrasil.com/blog/2018-04-26-requisitos-para-trabalhar-nos-eua-ingles/).
+De acordo com a [escola de inglês Wizard](http://www.wizard.com.br/blog/aprender-ingles/como-o-toefl-funciona/), o TOEFL é reconhecido mundialmente, por todas as empresas ou universidades dos países que falam a língua inglesa. Por isso, esse é o teste mais indicado para enfermeiros que desejam [trabalhar nos Estados Unidos]({{< relref "2018-04-26-requisitos-para-trabalhar-nos-eua-ingles" >}}).
 
 ## Quais são os tipos de prova do TOEFL?
 
@@ -73,7 +73,7 @@ Para ser considerado fluente no idioma inglês, o candidato deverá ter a sua no
 
 E então, conseguiu encontrar a resposta para a pergunta “O que é e como me preparar para o TOEFL?”. Esperamos que sim!
 
-**Como você também deve saber, além de ter domínio na língua inglesa, para ser enfermeiro nos EUA é preciso validar o seu diploma. Por isso, recomendamos a leitura do artigo [“Processo de validação do diploma de enfermeiro dos Estados Unidos”](http://www.acpbrasil.com/blog/2018-08-02-processo-de-validacao-do-diploma-de-enfermeiro-nos-estados-unidos/). Não deixe de conferir!**
+**Como você também deve saber, além de ter domínio na língua inglesa, para ser enfermeiro nos EUA é preciso validar o seu diploma. Por isso, recomendamos a leitura do artigo [“Processo de validação do diploma de enfermeiro dos Estados Unidos”]({{< relref "2018-08-02-processo-de-validacao-do-diploma-de-enfermeiro-nos-estados-unidos" >}}). Não deixe de conferir!**
 
 <div class="img-responsive" title="Ebook ACP">
     <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>

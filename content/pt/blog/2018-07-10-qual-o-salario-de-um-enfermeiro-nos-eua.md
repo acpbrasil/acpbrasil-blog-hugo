@@ -1,12 +1,11 @@
 ---
 title: "Qual o salário de um enfermeiro nos EUA"
 description: "Você sabe qual o salário de um enfermeiro nos EUA? Descubra quanto ganha e quanto ele precisa trabalhar para isso"
-date: 2018-07-11T22:10:00-03:00
+date: 2018-07-10T22:10:00-03:00
 # TODO Definir tags
 tags: ["Qual o salário de um enfermeiro nos Estados Unidos", "quanto ganha um enfermeiro nos Estados Unidos", "salário de enfermeiro nos EUA", "quanto ganha enfermeiro nos EUA", "enfermagem", "profissionais", "enfermagem nos eua"]
 categories: ["Mercado"]
-banner: "salário de enfermeiro nos eua - enfermeira cuidando de criança.jpg"
-# author: "F. Morales"
+banner: "salario_de_enfermeiro_nos_eua-enfermeira_cuidando_de_crianca.jpg"
 source: "https://nightingale.edu/blog/nurse-salary-by-state/" 
 draft: false
 ---
@@ -23,8 +22,7 @@ O valor pago para alguns cargos específicos ocupados por enfermeiros e suas mé
 
 Em geral, a área de saúde costuma pagar bem nos Estados Unidos. Os enfermeiros estão entre os profissionais de saúde com ótimo faturamento anual. No início de 2018, o Bureau de Estatísticas do Trabalho dos EUA afirmou que, de maio de 2016 a maio do ano seguinte, os enfermeiros obtiveram um aumento de 3,7% em comparação com o ano anterior, mostrando ainda a valorizando deste profissional no mercado norte-americano.
 
-<!-- FIXME Não usar a url do site para links: "www.acpbrasil.com" -->
-No início da carreira, os enfermeiros estrangeiros que possuem dois anos de experiência, que vão trabalhar nos EUA tem salários iniciais variando de  [US$ 39.000 - U$ 70.000](http://saudeexperts.com.br/salarios-de-enfermeiros-em-14-paises/), mas esse valor pode aumentar consideravelmente com a experiência do profissional e com o [crescimento na carreira](http://www.acpbrasil.com/blog/2018-06-23-plano-de-carreira-para-enfermeiros/) após ter imigrado aos Estados Unidos.
+No início da carreira, os enfermeiros estrangeiros que possuem dois anos de experiência, que vão trabalhar nos EUA tem salários iniciais variando de  [US$ 39.000 - U$ 70.000](http://saudeexperts.com.br/salarios-de-enfermeiros-em-14-paises/), mas esse valor pode aumentar consideravelmente com a experiência do profissional e com o [crescimento na carreira]({{< relref "2018-06-23-plano-de-carreira-para-enfermeiros" >}}) após ter imigrado aos Estados Unidos.
 Além disso os valores variam de acordo com o grau de complexidade do emprego (home care, centros de saúde, hospitais, unidades especializadas, etc.), especialidade, e localização geográfica.
 
 ## Qual é o valor da hora de trabalho nos EUA comparativamente com o Brasil?
@@ -35,7 +33,7 @@ O salário para enfermeiros estipulado pelos EUA é de US$ 7,25 por cada hora tr
 
 Cabe salientar que a jornada de trabalho dos enfermeiros nos Estados Unidos é bem diferente da comumente aplicada no Brasil, em que é comum a necessidade de fazer dois turnos de trabalho e de acumular horas trabalhadas para conseguir garantir um salário que seja quase tão bom quanto o de lá, o que é muito raro de acontecer, sobretudo levando-se em consideração as condições de trabalho nem sempre favoráveis (no Brasil) e a qualidade de vida do profissional.
 
-No Brasil, a jornada para enfermeiros varia de 30 a 40 horas semanais, sendo que a de 36 horas ainda é a mais comumente aplicada. Já nos EUA, os enfermeiros trabalham as horas trabalhadas apresentam maior variação, entre 8 a 12 horas diárias. Assim, o usual é trabalhar de 36 a 40 horas semanais como no Brasil, mas com a diferença de ter [melhores salários e turnos menos desgastantes.](http://www.acpbrasil.com/salarios-e-beneficios/)
+No Brasil, a jornada para enfermeiros varia de 30 a 40 horas semanais, sendo que a de 36 horas ainda é a mais comumente aplicada. Já nos EUA, os enfermeiros trabalham as horas trabalhadas apresentam maior variação, entre 8 a 12 horas diárias. Assim, o usual é trabalhar de 36 a 40 horas semanais como no Brasil, mas com a diferença de ter [melhores salários e turnos menos desgastantes.]({{< relref "/salarios-e-beneficios" >}})
 
 ### Custo de vida nos EUA
 
@@ -43,7 +41,7 @@ De nada adianta saber qual o **salário de um enfermeiro nos EUA**, se não soub
 
 Esperamos que as nossas informações sejam valiosas e alimentem seu desejo de morar nos Estados Unidos, ao mesmo tempo em que esclarece a realidade e as várias oportunidades para os profissionais de enfermagem.
 
-E então, se animou em descobrir **qual o salário de um enfermeiro nos EUA?** Então aproveita para conferir também: [Tudo o que você precisa saber sobre o plano de carreira para enfermeiros.](http://www.acpbrasil.com/blog/2018-06-23-plano-de-carreira-para-enfermeiros/)
+E então, se animou em descobrir **qual o salário de um enfermeiro nos EUA?** Então aproveita para conferir também: [Tudo o que você precisa saber sobre o plano de carreira para enfermeiros.]({{< relref "2018-06-23-plano-de-carreira-para-enfermeiros" >}})
 
 <div class="img-responsive" title="Ebook ACP">
     <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>
