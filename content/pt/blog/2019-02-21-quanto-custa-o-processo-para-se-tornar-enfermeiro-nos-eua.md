@@ -84,6 +84,4 @@ Assim, apenas o valor total dessa etapa pode chegar a $13.500 dólares.
 
 Parte deste valor pode ser facilitado caso você decida buscar por uma [empresa]({{< ref "/" >}}) que além de atuar como seu sponsor também ofereça auxílio no pagamento de taxas imigratórias.
 
-<div class="img-responsive" title="Ebook ACP">
-    <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts" target="_blank"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>
-</div>
+{{< download-ebook >}}

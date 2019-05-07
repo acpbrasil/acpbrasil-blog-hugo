@@ -17,6 +17,4 @@ O acesso venoso é um procedimento importante e de responsabilidade da equipe de
 - Estar atento a dosagem e volume a serem infundidos de acordo com idade, peso, altura ou superfície corporal;
 - Monitorar cuidadosamente a resposta do paciente quanto à infusão realizada.
 
-<div class="img-responsive" title="Ebook ACP">
-    <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>
-</div>
+{{< download-ebook >}}

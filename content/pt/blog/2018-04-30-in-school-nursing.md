@@ -16,6 +16,4 @@ Quando nossos pacientes precisam de cuidado especial na escola, a ACP estabelece
 
 A ACP está junto com seus pacientes em cada etapa do dia, desde se preparar para escola, pegar o transporte e estar confortável na sala de aula.
 
-<div class="img-responsive" title="Ebook ACP">
-    <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>
-</div>
+{{< download-ebook >}}

@@ -20,6 +20,4 @@ Assim que as mães retornam, elas encontram um grupo de centenas de pais com seu
 
 O Pinguim-Imperador é a única espécie que se reproduz durante o inverno congelante da Antártica, e através desse incrível processo de cuidado esta espécie continua a crescer. A ACP é inspirada pelos Pinguins-Imperadores e sua busca incansável para nutrir seus filhotes e cuidar das suas famílias.
 
-<div class="img-responsive" title="Ebook ACP">
-    <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>
-</div>
+{{< download-ebook >}}

@@ -104,6 +104,4 @@ Assim, suas habilidades, qualidades, o tipo de trabalho que lhe interessa e o qu
 
 Seguindo informações acima, você estará apto a construir seu **plano de carreira para enfermeiros**. E se sua intenção é [trabalhar nos Estados Unidos como enfermeiro]({{< ref "/formulario.md" >}}), continue acompanhando nossos artigos com mais informações sobre essa oportunidade!
 
-<div class="img-responsive" title="Ebook ACP">
-    <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>
-</div>
+{{< download-ebook >}}

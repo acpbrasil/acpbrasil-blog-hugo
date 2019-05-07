@@ -58,6 +58,4 @@ Além do impacto econômico, deve-se considerar que a possibilidade de fazer a p
 
 Ainda está com dúvidas sobre o processo? Então, baixe agora esse ebook exclusivo e aprenda tudo o para se tornar Enfermeiro nos Estados Unidos!
 
-<div class="img-responsive" title="Ebook ACP">
-    <a href="https://conteudo.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts" target="_blank"><img aliggn="center" alt="Ebook tudo o que você precisa saber para se tornar enfermeiro nos estados unidos" src="/images/blog/ebook_acp.png" style="height: 100%; width: 100%;"></a>
-</div>
+{{< download-ebook >}}
