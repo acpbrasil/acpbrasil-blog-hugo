@@ -1,10 +1,20 @@
-# Cloning this repo
+# ACP Brasil
+
+## Cloning this repo
 
 ```bash
 git clone --recursive git@github.com:acpbrasil/acpbrasil-blog-hugo.git
 ```
 
-# Commands
+## Commands
+
+### Create a new blog post
+
+```bash
+hugo new blog/title-of-the-post.md
+```
+
+### Start the project from the scratch
 
 ```bash
 hugo new site acpbrasil-blog-hugo

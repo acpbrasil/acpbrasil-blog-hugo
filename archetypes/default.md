@@ -13,6 +13,6 @@ banner: "placeholder.jpg"
 draft: true
 ---
 
-<Escreva aqui o blog post>
+<!-- <Apague esta linha e escreva aqui o blog post> -->
 
 {{< download-ebook >}}
