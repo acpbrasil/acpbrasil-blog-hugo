@@ -183,7 +183,9 @@ defaultContentLanguage = "pt"
       enable = true
       icon = "icon-play2"
       # url = "https://www.youtube.com/watch?v=QWJAwVH1ULY"
-      url = "https://vimeo.com/267397018/0b8ed33c67"
+      # url = "https://vimeo.com/267397018/0b8ed33c67"
+      url = "https://vimeo.com/267397018"
+      vimeo_id = "267397018"
 
   # Work section
   [params.work]
