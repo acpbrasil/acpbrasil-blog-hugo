@@ -285,193 +285,12 @@
 
   
   <div class="page-content formulario">
-    <section class="check-requirements-form">
-
-  <form method="post" class="about-you-form" action="https://app.villetarget.com/lists/5b28068644804/embedded-form-subscribe-captcha">
-    <input type="hidden" name="_subject" value='[ACP] Novo formulário enviado!' />
-    <input type="hidden" name="_cc" value='fmorales@acpbrasil.com,igindri@acpbrasil.com' />
-    <input type="hidden" name="_language" value="pt-br" />
-
-    
-    
-
-    
-
-    
-    
-    
-
-    
-    <div class="form-group">
-      <label for="name">Nome</label>
-      <input id="name" name="nome" required type="text" placeholder='Informe o nome completo' class="form-control" autocomplete="name">
-    </div>
-
-    <div class="form-group">
-      <label for="email">Email</label>
-      <input id="email" name="email" required type="email" placeholder='Informe um email válido' class="form-control" autocomplete="email">
-    </div>
-
-    <div class="form-group">
-      <label for="phone">Telefone</label>
-      <input id="phone" name="telefone_celular" required type="text" placeholder='Informe o telefone no formato (99) 99999-9999' class="form-control" autocomplete="phone">
-    </div>
-
-    <div class="form-group">
-      <label for="age">Idade</label>
-      <input id="age" name="lead_custom_field_idade" required type="number" placeholder='Informe a idade' class="form-control">
-    </div>
-    
-    <div class="form-group">
-      <label for="maritalStatus">Estado civil</label>
-      <input id="maritalStatus" name="lead_custom_field_estado_civil" required type="text" placeholder='Informe o estado civil' class="form-control">
-    </div>
-
-    <div class="form-group">
-      <label for="city">Cidade</label>
-      <input id="city" name="cidade" required type="text" placeholder='Informe a cidade onde mora' class="form-control" autocomplete="city">
-    </div>
-
-    <div class="between-form-sections"></div>
-
-    <div class="form-group">
-      <label for="college">Universidade</label>
-      <input id="college" name="lead_custom_field_universidade" required type="text" placeholder='Informe a universidade da graduação' class="form-control">
-    </div>
-
-    <div class="form-group">
-      <label>Experiência como enfermeiro(a)</label>
-      <div class="radio">
-        <label><input required type="radio" id="experience#1" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="Sem experiência"> Sem experiência</label>
-      </div>
-      <div class="radio">
-        <label><input required type="radio" id="experience#2" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="Aluno de graduação"> Aluno de graduação</label>
-      </div>
-      <div class="radio">
-        <label><input required type="radio" id="experience#3" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="1 – 12 meses"> 1 – 12 meses</label>
-      </div>
-      <div class="radio">
-        <label><input required type="radio" id="experience#4" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="13 – 17 meses"> 13 – 17 meses</label>
-      </div>
-      <div class="radio">
-        <label><input required type="radio" id="experience#5" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="18 – 24 meses"> 18 – 24 meses</label>
-      </div>
-      <div class="radio">
-        <label><input required type="radio" id="experience#6" name="lead_custom_field_experiencia_como_enfermeiro(a)" value="Acima de 24 meses"> Acima de 24 meses</label>
-      </div>
-    </div>
-
-    <div class="form-group">
-      <label>Já fez especialização? Se sim, em qual área?</label>
-      <div class="radio">
-        <label>
-          <input required type="radio" id="specialization#2" 
-              name="lead_custom_field_ja_fez_especializacao?" value="Não"
-              onchange="disableEspecializacao(true)"> Não</input>
-        </label>
-      </div>
-      <div class="radio">
-          <label class="radio-inline">
-            <input required type="radio" id="specialization#1" 
-                name="lead_custom_field_ja_fez_especializacao?" value="Sim"
-                onchange="disableEspecializacao(false)"> Sim</input>
-          </label>
-          <input id="specialization" type="text" 
-              name="lead_custom_field_area_de_especializacao" class="form-control"
-              placeholder='Se sim, informe a área de sua especialização'
-              required disabled="disabled" />
-      </div>
-    </div>
-
-    <div class="between-form-sections"></div>
-    
-    <div class="form-group">
-      <label>Já realizou teste de proficiência em inglês (TOEFL ou IELTS)?</label>
-      <div class="radio">
-        <label><input required type="radio" id="englishTest#1" name="lead_custom_field_ja_realizou_teste_de_proficiencia_em_ingles(toefl_ou_ielts)?" value="Sim"> Sim</label>
-      </div>
-      <div class="radio">
-        <label><input required type="radio" id="englishTest#2" name="lead_custom_field_ja_realizou_teste_de_proficiencia_em_ingles(toefl_ou_ielts)?" value="Não"> Não</label>
-      </div>
-    </div>
-    
-    <div class="form-group">
-      <label>Nível de inglês</label>
-      <div class="radio">
-        <label><input required type="radio" id="englishLevel#1" name="lead_custom_field_nivel_de_ingles" value="Iniciante"> Iniciante</label>
-      </div>
-      <div class="radio">
-        <label><input required type="radio" id="englishLevel#2" name="lead_custom_field_nivel_de_ingles" value="Intermediário"> Intermediário</label>
-      </div>
-      <div class="radio">
-        <label><input required type="radio" id="englishLevel#3" name="lead_custom_field_nivel_de_ingles" value="Avançado"> Avançado</label>
-      </div>
-      <div class="radio">
-        <label><input required type="radio" id="englishLevel#4" name="lead_custom_field_nivel_de_ingles" value="Fluente"> Fluente</label>
-      </div>
-    </div>
-
-    <div class="between-form-sections"></div>
-
-    <div class="form-group">
-      <label>Como conheceu a gente?</label>
-      <div class="radio" data-popup="tooltip">
-        <label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Google" class="styled"/> Google</label>
-      </div>
-      <div class="radio" data-popup="tooltip">
-        <label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Redes sociais" class="styled"/> Redes sociais</label>
-      </div>
-      <div class="radio" data-popup="tooltip">
-        <label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Site de emprego" class="styled"/> Site de emprego</label>
-      </div>
-      <div class="radio" data-popup="tooltip">
-        <label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Indicação" class="styled"/> Indicação</label>
-      </div>
-      <div class="radio" data-popup="tooltip">
-        <label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Panfletos" class="styled"/> Panfletos</label>
-      </div>
-      <div class="radio" data-popup="tooltip">
-        <label><input type="radio" id="lead_custom_field_como_conheceu_a_gente?" name="lead_custom_field_como_conheceu_a_gente?" value="Outro" class="styled"/> Outro</label>
-      </div>
-
-    </div>
-
-    <div class="form-group">
-      <label for="message">Mensagem</label>
-      <textarea id="message" name="lead_custom_field_mensagem" cols="30" rows="5" placeholder='Você quer deixar alguma mensagem?' class="form-control"></textarea>
-    </div>
-
-    <div class="form-group">
-      <input type="checkbox" name="privacy_policy_accepted" value="accept" id="villetarget_embedded_form_checkbox_privacy_policy" required />
-      <label for="villetarget_embedded_form_checkbox_privacy_policy">
-        
-        &nbsp;Eu li e concordo com a
-        <a href='/politica-de-privacidade/'>Política de Privacidade</a>.
-      </label>
-    </div>
-
-    <div class="between-form-sections"></div>
-
-    
-    <div class="form-group">
-      <input class="btn btn-primary btn-lg" value='Enviar as respostas' type="submit">
-    </div>
-    
-  </form>
-  
-</section>
-
-<script>
-  function disableEspecializacao(shouldDisable) {
-    console.log('Desabilitando o campo Especialização:', shouldDisable);
-    if (shouldDisable) {
-      $('#specialization').attr('disabled', 'disabled');
-    } else {
-      $('#specialization').removeAttr('disabled');
-    }
-  }
+    <div role="main" id="faca-parte-68cc8dd9cdaa1fe7fc07"></div>
+<script type="text/javascript"
+  src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('faca-parte-68cc8dd9cdaa1fe7fc07-html', 'UA-117751277-1').createForm();
 </script>
-
 
   </div>
 
@@ -520,8 +339,8 @@
 		
 		
   <div id="debugVersion" class="debug-version">
-    Hash: 35a15f4<br>
-    Last mod: 2019-03-19 01:07:14 -0300 -03<br>
+    Hash: 6b0d52c<br>
+    Last mod: 2019-05-06 21:45:36 -0300 -03<br>
     Author: Denis C de Azevedo<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;denis.azevedo@gmail.com>
   </div>
