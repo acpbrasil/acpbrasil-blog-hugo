@@ -23,12 +23,44 @@ function init() {
 
     // Create the Google Map using out element and options defined above
     var map = new google.maps.Map(mapElement, mapOptions);
+    
+    // Para aumento de performance, o geolocation já está definido para os endereços da ACP
+    // placeMarkersFromGeolocationSearch(map);
+    
+    placeMarkersFromGeolocationArray(map);
+}
 
+function placeMarkersFromGeolocationArray(map) {
+    var addresses = [
+        {
+            name: 'Georgia, USA',
+            location: {
+                lat: 32.165622, lng: -82.900075
+            }
+        }, {
+            name: 'Florida, USA',
+            location: {
+                lat: 27.664827, lng: -81.515754
+            }
+        },
+    ];
+    for (var x = 0; x < addresses.length; x++) {
+        var loc = addresses[x].location;
+        var latlng = new google.maps.LatLng(loc.lat, loc.lng);
+        new google.maps.Marker({
+            position: latlng,
+            map: map
+            // icon: 'images/loc.png'
+        });
+    }
+}
+
+function placeMarkersFromGeolocationSearch(map) {
     var addresses = ['Georgia, USA', 'Florida, USA'];
 
     for (var x = 0; x < addresses.length; x++) {
         $.getJSON('//maps.googleapis.com/maps/api/geocode/json?address='+addresses[x]+'&sensor=false', null, function (data) {
-            var p = data.results[0].geometry.location
+            var p = data.results[0].geometry.location;
             var latlng = new google.maps.LatLng(p.lat, p.lng);
             new google.maps.Marker({
                 position: latlng,
@@ -38,4 +70,5 @@ function init() {
         });
     }
 }
+
 google.maps.event.addDomListener(window, 'load', init);
