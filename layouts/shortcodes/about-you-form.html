@@ -1,5 +1,6 @@
 <section class="check-requirements-form">
 
+  {{/*  Atualmente este formulário de contato está desabilitado no config.toml */}}
   <form method="post" class="about-you-form" action="https://app.villetarget.com/lists/5b28068644804/embedded-form-subscribe-captcha">
     <input type="hidden" name="_subject" value='{{ $.Page.Site.Params.EmailsSubjectPrefix}} {{ T "formEmailSubject" }}' />
     <input type="hidden" name="_cc" value='{{ delimit .Site.Params.contact.emailCc "," }}' />

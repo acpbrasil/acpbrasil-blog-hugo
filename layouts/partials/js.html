@@ -1,34 +1,41 @@
 	<!-- jQuery -->
 	<!-- For production -->
-	<!-- <script src="js/jquery.min.js"></script> -->
-	<script src="{{ .Site.BaseURL }}js/jquery.min.js"></script>
+	{{/*  <script src="{{ .Site.BaseURL }}js/jquery.min.js"></script>  */}}
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 	<!-- TODO Abrir um pull request pro Elate para não importar o map -->
 	<!-- <script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script> -->
 	<!-- For development -->
 	<!-- <script src="https://code.jquery.com/jquery-2.1.4.js" integrity="sha256-siFczlgw4jULnUICcdm9gjQPZkw/YPDqhQ9+nAOScE4=" crossorigin="anonymous"></script> -->
 	
 	<!-- jQuery Easing -->
-	<script src="{{ .Site.BaseURL }}js/jquery.easing.1.3.js"></script>
+	{{/*  <script src="{{ .Site.BaseURL }}js/jquery.easing.1.3.js"></script>  */}}
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 	<!-- Bootstrap -->
-	<script src="{{ .Site.BaseURL }}js/bootstrap.min.js"></script>
+	{{/*  <script async src="{{ .Site.BaseURL }}js/bootstrap.min.js"></script>  */}}
+	<script async src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 	<!-- Waypoints -->
 	<script src="{{ .Site.BaseURL }}js/jquery.waypoints.min.js"></script>
 	<!-- Stellar Parallax -->
 	<script src="{{ .Site.BaseURL }}js/jquery.stellar.min.js"></script>
 	<!-- Counter -->
-	<script src="{{ .Site.BaseURL }}js/jquery.countTo.js"></script>
+	{{/*  <script async src="{{ .Site.BaseURL }}js/jquery.countTo.js"></script>  */}}
+	<script async src="https://cdnjs.cloudflare.com/ajax/libs/jquery-countto/1.2.0/jquery.countTo.min.js"></script>
 	<!-- Magnific Popup -->
-	<script src="{{ .Site.BaseURL }}js/jquery.magnific-popup.min.js"></script>
-	<script src="{{ .Site.BaseURL }}js/magnific-popup-options.js"></script>
+	<script async src="{{ .Site.BaseURL }}js/jquery.magnific-popup.min.js"></script>
+	<script async src="{{ .Site.BaseURL }}js/magnific-popup-options.js"></script>
+
 	<!-- Google Map (load only in the Home page) -->
-	{{ if and (.Site.Params.contact.map) (.IsHome) }}
-		{{ if .Site.Params.googleMapsApiKey }}
-			<script src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Params.googleMapsApiKey }}"></script>
-		{{ else }}
-			<script src="https://maps.googleapis.com/maps/api/js"></script>
+	{{ if not (in (string .Site.BaseURL) "localhost") }}
+		{{ if and (.Site.Params.contact.map) (.IsHome) }}
+			{{ if .Site.Params.googleMapsApiKey }}
+				<script defer src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Params.googleMapsApiKey }}"></script>
+			{{ else }}
+				<script defer src="https://maps.googleapis.com/maps/api/js"></script>
+			{{ end }}
+			<script defer src="{{ .Site.BaseURL }}js/google_map.js"></script>
 		{{ end }}
-		<script src="{{ .Site.BaseURL }}js/google_map.js"></script>
 	{{ end }}
+
 	<!-- Main JavaScript -->
 	<!-- <script src="{{ .Site.BaseURL }}js/main.js"></script> Overrided by elate-main.js -->
 	<script src="{{ .Site.BaseURL }}js/elate-main.js"></script>
@@ -43,16 +50,6 @@
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
 	-->
 	
-	<!-- ville Target Tracking Pixel -->
-	{{ if not (in (string .Site.BaseURL) "localhost") }}
-		<script src="https://app.villetarget.com/villetarget_tracking.min.js"></script>
-		<script>
-				villetarget.includeDefaultPrivacyPolicyPopup(false);
-				villetarget.init("5b1bccf5e7272");
-		</script>
-	{{ end }}
-	<!-- /ville Target Tracking Pixel -->
-
 	<!-- Load Facebook SDK for JavaScript -->
 	<!-- FIXME Duplicado em social-sharing.html??? -->
 	<div id="fb-root"></div>
@@ -84,25 +81,24 @@
 		b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
 		s.parentNode.insertBefore(b, s);})();
 	</script>
-		<noscript>
+	<noscript>
 		<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=430226&fmt=gif" />
-		</noscript>
+	</noscript>
 	
-<!-- Google Tag Manager (noscript) -->
+	<!-- Google Tag Manager (noscript) -->
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDLFDV2"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+	<!-- End Google Tag Manager (noscript) -->
 
-<!-- Google Analytics -->
+	<!-- Google Analytics -->
 	{{ if not (in (string .Site.BaseURL) "localhost") }}
 		{{ template "_internal/google_analytics_async.html" . }}
 	{{ end }}
-<!-- End Google Tag Manager (noscript) -->
+	<!-- End Google Tag Manager (noscript) -->
 
-<!-- tracking code rdstation -->
-<script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/f3aa9234-bd66-4a8b-af53-115275066d65-loader.js" ></script>
-<!-- End tracking code rdstation -->
+	<!-- tracking code rdstation -->
+	<script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/f3aa9234-bd66-4a8b-af53-115275066d65-loader.js" ></script>
+	<!-- End tracking code rdstation -->
 
-<!-- Go to www.addthis.com/dashboard to customize your tools --> 
-	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b2ef684f823e9bd">
-	</script>
+	<!-- Go to www.addthis.com/dashboard to customize your tools --> 
+	<script type="text/javascript" async src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b2ef684f823e9bd"></script>

@@ -59,7 +59,7 @@ defaultContentLanguage = "pt"
     description = "Empresa de recrutamento e consultoria de enfermeiros para os EUA"
     defaultKeywords = [
       "acp", "blog", "advanced care", "advanced care pediatrics", "advanced care partners", "acp brasil",
-      "enfermeiros", "enfermeiros eua", "enfermeiros usa", "recrutamento", "migração", "emprego"
+      "enfermeiros", "enfermeiros eua", "enfermeiros estados unidos", "recrutamento",
     ]
     # Navigation
     [languages.pt.params.navigation]
