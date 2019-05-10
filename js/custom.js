@@ -1,17 +1,8 @@
 ;(function () {
-	
   'use strict';
   
-
-	// Window Scroll
-	// var name = function() {
-	// };
-
-
-  // Document on load.
+  // Document on load
 	$(function() {
-		// name();
-
 		// Listen for ctrl + shift + a shortcut to display debug version
 		bindDebugVersionKeyListener();
 	});
@@ -33,4 +24,3 @@
 	}
 
 }());
-  
