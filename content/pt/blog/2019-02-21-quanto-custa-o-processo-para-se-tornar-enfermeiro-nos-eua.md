@@ -4,7 +4,7 @@ description: "Confira os processos necessários para se tornar Enfermeiro Atuant
 date: 2019-02-21T09:00:00-02:00
 # TODO Definir tags
 tags: ["enfermeiros brasileiros nos eua, trabalhar como enfermeiro nos eua"]
-categories: ["Enfermagem, Mercado"]
+categories: ["Enfermagem", "Mercado"]
 banner: "quanto_custa_o_processo_para_se_tornar_enfermeiro_nos_eua.png"
 # author: "F. Morales"
 source: ""

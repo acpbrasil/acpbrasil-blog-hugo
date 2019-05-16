@@ -4,7 +4,7 @@ description: "Confira agora mais detalhes dessa oportunidade incrível para os E
 date: 2019-03-22T09:00:00-03:00
 # TODO Definir tags
 tags: ["enfermeiros brasileiros nos eua, trabalhar como enfermeiro nos eua"]
-categories: ["Enfermagem, Mercado"]
+categories: ["Enfermagem", "Mercado", "NCLEX"]
 banner: "nclex-brasil-acp.png"
 # author: "F. Morales"
 source: ""

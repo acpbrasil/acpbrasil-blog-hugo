@@ -4,7 +4,7 @@ description: "Confira esse artigo super completo e tire as suas dúvidas sobre o
 date: 2018-08-10T09:00:00-03:00
 # TODO Definir tags
 tags: ["toefl", "TOEFL", "o que é o toefl", "Como me preparar para o toefl", "eua", "trabalho nos eua", "inglês para trabalhar nos Estados Unidos", "enfermagem nos eua"]
-categories: ["Mercado, Inglês"]
+categories: ["Mercado", "Inglês"]
 banner: "preparar-toefl.jpg"
 # author: "F. Morales"
 source: ""

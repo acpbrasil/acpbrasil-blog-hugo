@@ -4,7 +4,7 @@ description: "Confira mais sobre o Estado e as Cidades que a ACP atua nos EUA. U
 date: 2018-10-25T09:00:00-03:00
 # TODO Definir tags
 tags: ["enfermeiros brasileiros nos eua, sobre a ACP"]
-categories: ["Enfermagem, ACP"]
+categories: ["Enfermagem", "ACP"]
 banner: "georgia_e_cidades_que_acp_atua_nos_eua.png"
 # author: "F. Morales"
 source: "https://en.wikipedia.org/wiki/Georgia_(U.S._state)"

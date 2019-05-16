@@ -4,7 +4,7 @@ description: "Com um mercado de trabalho cada vez mais competitivo, o domínio d
 date: 2018-10-10T09:00:00-03:00
 # TODO Definir tags
 tags: ["inglês para enfermeiros, enfermeiros brasileiros nos eua"]
-categories: ["Mercado, Inglês, Enfermagem"]
+categories: ["Mercado", "Inglês", "Enfermagem"]
 banner: "importancia_do_ingles_para_enfermeiros.png"
 # author: "F. Morales"
 source: ""

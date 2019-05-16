@@ -4,7 +4,7 @@ description: "Entenda o que é um Sponsor e qual é o seu papel para auxiliar o 
 date: 2018-08-06T15:08:00-03:00
 # TODO Definir tags
 tags: ["enfermeiro nos eua, trabalhar como enfermeiro nos estados unidos, enfermeiro brasileiro nos estados unidos, ir para os estados unidos"]
-categories: ["Enfermagem, Mercado"]
+categories: ["Enfermagem", "Mercado"]
 banner: "sponsor-para-morar-e-trabalhar-como-enfermeiro-nos-eua.jpeg"
 # author: "F. Morales"
 source: ""  
