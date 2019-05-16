@@ -6,7 +6,7 @@
     <description>Recent content in Categories on ACP Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 28 Apr 2018 15:21:26 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 09:00:00 -0300</lastBuildDate>
     
 	<atom:link href="https://www.acpbrasil.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Acp</title>
       <link>https://www.acpbrasil.com/categories/acp/</link>
-      <pubDate>Sat, 28 Apr 2018 15:21:26 -0300</pubDate>
+      <pubDate>Thu, 25 Oct 2018 09:00:00 -0300</pubDate>
       
       <guid>https://www.acpbrasil.com/categories/acp/</guid>
       <description></description>
@@ -32,27 +32,9 @@
     <item>
       <title>Enfermagem</title>
       <link>https://www.acpbrasil.com/categories/enfermagem/</link>
-      <pubDate>Tue, 04 Sep 2018 09:00:00 -0300</pubDate>
-      
-      <guid>https://www.acpbrasil.com/categories/enfermagem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enfermagem Acp</title>
-      <link>https://www.acpbrasil.com/categories/enfermagem-acp/</link>
-      <pubDate>Thu, 25 Oct 2018 09:00:00 -0300</pubDate>
-      
-      <guid>https://www.acpbrasil.com/categories/enfermagem-acp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enfermagem Mercado</title>
-      <link>https://www.acpbrasil.com/categories/enfermagem-mercado/</link>
       <pubDate>Fri, 22 Mar 2019 09:00:00 -0300</pubDate>
       
-      <guid>https://www.acpbrasil.com/categories/enfermagem-mercado/</guid>
+      <guid>https://www.acpbrasil.com/categories/enfermagem/</guid>
       <description></description>
     </item>
     
@@ -68,7 +50,7 @@
     <item>
       <title>Inglês</title>
       <link>https://www.acpbrasil.com/categories/ingl%C3%AAs/</link>
-      <pubDate>Tue, 01 May 2018 15:42:56 -0300</pubDate>
+      <pubDate>Wed, 10 Oct 2018 09:00:00 -0300</pubDate>
       
       <guid>https://www.acpbrasil.com/categories/ingl%C3%AAs/</guid>
       <description></description>
@@ -77,27 +59,18 @@
     <item>
       <title>Mercado</title>
       <link>https://www.acpbrasil.com/categories/mercado/</link>
-      <pubDate>Fri, 20 Jul 2018 15:08:00 -0300</pubDate>
+      <pubDate>Fri, 22 Mar 2019 09:00:00 -0300</pubDate>
       
       <guid>https://www.acpbrasil.com/categories/mercado/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mercado Inglês</title>
-      <link>https://www.acpbrasil.com/categories/mercado-ingl%C3%AAs/</link>
-      <pubDate>Fri, 10 Aug 2018 09:00:00 -0300</pubDate>
+      <title>Nclex</title>
+      <link>https://www.acpbrasil.com/categories/nclex/</link>
+      <pubDate>Fri, 22 Mar 2019 09:00:00 -0300</pubDate>
       
-      <guid>https://www.acpbrasil.com/categories/mercado-ingl%C3%AAs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mercado Inglês Enfermagem</title>
-      <link>https://www.acpbrasil.com/categories/mercado-ingl%C3%AAs-enfermagem/</link>
-      <pubDate>Wed, 10 Oct 2018 09:00:00 -0300</pubDate>
-      
-      <guid>https://www.acpbrasil.com/categories/mercado-ingl%C3%AAs-enfermagem/</guid>
+      <guid>https://www.acpbrasil.com/categories/nclex/</guid>
       <description></description>
     </item>
     

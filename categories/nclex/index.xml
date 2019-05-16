@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nclex on ACP Brasil</title>
+    <link>https://www.acpbrasil.com/categories/nclex/</link>
+    <description>Recent content in Nclex on ACP Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 22 Mar 2019 09:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://www.acpbrasil.com/categories/nclex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exclusivo: Impactos de realizar o Nclex no Brasil</title>
+      <link>https://www.acpbrasil.com/blog/2019-03-22-nclex-brasil/</link>
+      <pubDate>Fri, 22 Mar 2019 09:00:00 -0300</pubDate>
+      
+      <guid>https://www.acpbrasil.com/blog/2019-03-22-nclex-brasil/</guid>
+      <description>O processo para se tornar enfermeiro nos Estados Unidos consiste de várias etapas, entre elas destaca-se passar no exame NCLEX (National Council Licensure Examination).
+Essa prova faz parte dos requisitos necessários para obter a licença de enfermeiro para trabalhar no país e não só profissionais estrangeiros como também enfermeiros formados nos EUA precisam atingir sucesso no NCLEX para atuar profissionalmente.</description>
+    </item>
+    
+    <item>
+      <title>NCLEX</title>
+      <link>https://www.acpbrasil.com/blog/2018-05-01-nclex/</link>
+      <pubDate>Tue, 01 May 2018 15:42:56 -0300</pubDate>
+      
+      <guid>https://www.acpbrasil.com/blog/2018-05-01-nclex/</guid>
+      <description>Para os enfermeiros que desejam trabalhar nos Estados Unidos, uma das etapas mais desafiadoras é passar no NCLEX (National Council Licensure Examination) ou exame nacional para licenciamento. Esta prova tem como objetivo avaliar o conhecimento, as habilidades e capacidades essenciais necessárias para o Registered Nurse (enfermeiro) na promoção, manutenção e restauração da saúde do paciente/cliente.</description>
+    </item>
+    
+  </channel>
+</rss>
