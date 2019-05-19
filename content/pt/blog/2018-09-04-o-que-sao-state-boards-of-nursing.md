@@ -4,7 +4,7 @@ description: "Entenda o papel dos State Boards of Nursing para trabalhar como en
 date: 2018-09-04T09:00:00-03:00
 # TODO Definir tags
 tags: ["state boards of nursing, enfermeiro nos eua, enfermeiro nos estados unidos, trabalhar nos Estados Unidos como enfermeiro, enfermeiros brasileiros nos estados unidos"]
-categories: ["Enfermagem"]
+categories: ["Enfermagem", "EUA"]
 banner: "State_Boards_of_Nursing.png"
 # author: "F. Morales"
 source: "https://www.ncsbn.org/index.htm"

@@ -1,5 +1,5 @@
 ---
-title: "Quanto Custa o Processo para se tornar Enfermeiro nos Estados unidos"
+title: "Quanto custa o processo para se tornar Enfermeiro nos Estados Unidos"
 description: "Confira os processos necessários para se tornar Enfermeiro Atuante nos EUA e os custos envolvidos para a realização desse sonho."
 date: 2019-02-21T09:00:00-02:00
 # TODO Definir tags

@@ -4,7 +4,7 @@ description: "Confira a história do home care nos EUA e qual o papel desse Enfe
 date: 2018-12-03T09:00:00-03:00
 # TODO Definir tags
 tags: ["enfermeiros brasileiros nos eua, trabalhar como enfermeiro nos eua"]
-categories: ["Enfermagem", "Mercado"]
+categories: ["Enfermagem", "Mercado", "EUA"]
 banner: "atuacao_do_enfermeiro_home_care_nos_eua.png"
 # author: "F. Morales"
 source: ""

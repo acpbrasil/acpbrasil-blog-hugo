@@ -4,7 +4,7 @@ description: "Você sabe qual o salário de um enfermeiro nos EUA? Descubra quan
 date: 2018-07-10T22:10:00-03:00
 # TODO Definir tags
 tags: ["Qual o salário de um enfermeiro nos Estados Unidos", "quanto ganha um enfermeiro nos Estados Unidos", "salário de enfermeiro nos EUA", "quanto ganha enfermeiro nos EUA", "enfermagem", "profissionais", "enfermagem nos eua"]
-categories: ["Mercado"]
+categories: ["Mercado", "Salário"]
 banner: "salario_de_enfermeiro_nos_eua-enfermeira_cuidando_de_crianca.jpg"
 source: "https://nightingale.edu/blog/nurse-salary-by-state/" 
 draft: false
