@@ -1,14 +1,24 @@
 {{ define "main" }}
 
-  <!-- Author / Date -->
-  {{ if not .Date.IsZero }}
-    <p class="font-smaller text-muted text-uppercase mb-small text-right">
-      {{ if .Params.author }}<i class="icon-user"></i> Autor: <a href="#">{{ .Params.author }}</a> | {{ end }}
-      {{/* .Date.Format .Site.Params.date_format */}}
+<p class="font-smaller text-muted text-uppercase mb-small">
+    <!-- Author / Date -->
+    {{ if not .Date.IsZero }}
+      {{ if .Params.author }}
+        <i class="icon-user"></i> Autor: <a href="#">{{ .Params.author }}</a> | 
+      {{ end }}
       {{ $data := index .Site.Data .Site.Language.Lang }}
       <i class="icon-calendar"></i> {{ .Date.Day }} · {{ index $data.months (printf "%d" .Date.Month) }} · {{ .Date.Year }}
-    </p>
-  {{ end }}
+    {{ end }}
+    <!-- Categories -->
+    {{ with .Params.categories }}
+      <span class="font-small">
+        &nbsp;&nbsp;|&nbsp;&nbsp;em
+        {{ $sort := sort . }}
+        {{ $links := apply $sort "partial" "categories-link" "." }}
+        {{ delimit $links ", " }}
+      </span>
+    {{ end }}
+  </p>
 
   <!-- Article image -->
   {{ with .Params.banner }}
