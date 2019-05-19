@@ -16,6 +16,7 @@ paginate = 5
 enableMissingTranslationPlaceholders = false
 footnoteReturnLinkContents = "↑" # "↩"
 summaryLength = 50  # 70
+removePathAccents = true
 
 enableGitInfo = true
 
