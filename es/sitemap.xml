@@ -48,6 +48,16 @@
     <loc>https://www.acpbrasil.com/es/tags/beneficios/</loc>
     <lastmod>2019-03-20T21:41:04-03:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.acpbrasil.com/tags/beneficios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.acpbrasil.com/es/tags/beneficios/"
+                />
   </url>
   
   <url>
@@ -97,7 +107,7 @@
   </url>
   
   <url>
-    <loc>https://www.acpbrasil.com/es/tags/enfermer%C3%ADa/</loc>
+    <loc>https://www.acpbrasil.com/es/tags/enfermeria/</loc>
     <lastmod>2019-03-20T21:41:04-03:00</lastmod>
     <priority>0</priority>
   </url>
@@ -124,7 +134,7 @@
   </url>
   
   <url>
-    <loc>https://www.acpbrasil.com/es/tags/pol%C3%ADtica-de-privacidad/</loc>
+    <loc>https://www.acpbrasil.com/es/tags/politica-de-privacidad/</loc>
     <lastmod>2019-03-19T01:04:39-03:00</lastmod>
     <priority>0</priority>
   </url>
@@ -156,7 +166,7 @@
   </url>
   
   <url>
-    <loc>https://www.acpbrasil.com/es/tags/qui%C3%A9nes-somos/</loc>
+    <loc>https://www.acpbrasil.com/es/tags/quienes-somos/</loc>
     <lastmod>2019-03-20T21:41:04-03:00</lastmod>
     <priority>0</priority>
   </url>
@@ -185,6 +195,16 @@
     <loc>https://www.acpbrasil.com/es/tags/salario/</loc>
     <lastmod>2019-03-20T21:41:04-03:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.acpbrasil.com/tags/salario/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.acpbrasil.com/es/tags/salario/"
+                />
   </url>
   
   <url>
