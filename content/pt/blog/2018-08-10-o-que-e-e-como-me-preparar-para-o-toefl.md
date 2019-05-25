@@ -3,7 +3,7 @@ title: "O que é e como me preparar para o TOEFL?"
 description: "Confira esse artigo super completo e tire as suas dúvidas sobre o exame TOEFL."
 date: 2018-08-10T09:00:00-03:00
 # TODO Definir tags
-tags: ["toefl", "TOEFL", "o que é o toefl", "Como me preparar para o toefl", "eua", "trabalho nos eua", "inglês para trabalhar nos Estados Unidos", "enfermagem nos eua"]
+tags: ["toefl", "o que é o toefl", "Como me preparar para o toefl", "trabalho nos eua", "inglês para trabalhar nos Estados Unidos", "enfermagem nos eua"]
 categories: ["Mercado", "Inglês", "Conhecimento"]
 banner: "preparar-toefl.jpg"
 # author: "F. Morales"

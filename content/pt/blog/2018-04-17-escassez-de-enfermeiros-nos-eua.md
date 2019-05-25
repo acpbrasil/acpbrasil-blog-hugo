@@ -3,7 +3,7 @@ title: "Escassez de enfermeiros nos EUA"
 description: "Escassez de enfermeiros nos EUA e sua oportunidade de trabalhar lá."
 date: 2018-04-17T22:10:00-03:00
 # TODO Definir tags
-tags: ["emprego", "vagas", "eua", "trabalho nos eua", "escassez", "enfermeiros", "enfermagem", "profissionais", "enfermagem nos eua"]
+tags: ["emprego nos eua", "vagas nos eua", "trabalho nos eua", "enfermeiros nos eua", "enfermagem nos eua"]
 categories: ["Mercado"]
 banner: "emergency.jpg"
 # author: "F. Morales"

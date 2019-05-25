@@ -3,7 +3,7 @@ title: "Tudo o que você precisa saber sobre o plano de carreira para enfermeiro
 description: "Plano de carreira para enfermeiros: um guia prático para quem quer atuar no Brasil e nos Estados Unidos"
 date: 2018-06-23T22:10:00-03:00
 # TODO Definir tags
-tags: ["plano de carreira para enfermeiros", "trabalho nos eua", "escassez", "enfermeiros", "enfermagem", "profissionais", "enfermagem nos eua"]
+tags: ["plano de carreira para enfermeiros", "trabalho nos eua", "enfermeiros nos eua", "enfermagem nos eua"]
 categories: ["Mercado"]
 banner: "plano-de-carreira-enfermeiro-header.jpg"
 # author: "F. Morales"

@@ -2,7 +2,7 @@
 title: "Cuidados com pacientes traqueostomizados"
 description: "Os enfermeiros que trabalham na ACP Home Care poderão atender pacientes traqueostomizados."
 date: 2018-04-27T15:14:00-03:00
-tags: ["traqueostomia", "tracheostomy", "enfermeiros eua", "enfermeiros usa", "enfermeiros nos eua", "nurse", "foreign nurses", "home care"]
+tags: ["traqueostomia", "tracheostomy", "enfermeiros eua", "enfermeiros usa", "enfermeiros nos eua", "nurse usa", "foreign nurses", "home care"]
 categories: ["Enfermagem"]
 banner: "traqueostomia.jpg"
 source: "http://www.journals.usp.br/rmrp/article/view/47337"

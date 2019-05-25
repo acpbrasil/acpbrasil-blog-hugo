@@ -254,7 +254,7 @@ defaultContentLanguage = "pt"
       "fmorales@acpbrasil.com",
       "igindri@acpbrasil.com"
     ]
-    details = [  # Available icons: http://simplelineicons.com/
+    details = [  # Available icons: https://simplelineicons.github.io
       ["icon-home", "Florianópolis / SC"],
       ["icon-phone", "+55 (48) 99176-0676<br>+55 (48) 99176-3535"],
       ["icon-envelope", "<a href='mailto:contato@acpediatrics.com?subject=Contato'>contato@acpediatrics.com</a>"],

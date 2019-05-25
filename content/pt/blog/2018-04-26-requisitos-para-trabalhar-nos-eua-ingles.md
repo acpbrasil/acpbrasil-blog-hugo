@@ -2,7 +2,7 @@
 title: "Requisitos para trabalhar nos EUA: Inglês"
 description: "Proficiência em inglês, um dos requisitos para se tornar enfermeiros nos EUA."
 date: 2018-04-26T15:02:00-03:00
-tags: ["enfermeiros eua", "enfermeiros usa", "enfermeiros nos eua", "enfermagem sem fronteiras", "nurse", "international nurses", "foreign nurses", "home care", "nclex", "cgfns", "TOEFL", "TOEFL preparation", "toefl test", "IELTS", "IELTS preparation", "IELTS test"]
+tags: ["enfermeiros eua", "enfermeiros usa", "enfermeiros nos eua", "enfermagem sem fronteiras", "nurse usa", "international nurses", "foreign nurses", "home care", "nclex", "cgfns", "TOEFL", "TOEFL preparation", "toefl test", "IELTS", "IELTS preparation", "IELTS test"]
 categories: ["Inglês", "Conhecimento"]
 banner: "teste-proficiencia.jpg"
 source: "https://www.ets.org/pt/toefl/ibt/prepare"

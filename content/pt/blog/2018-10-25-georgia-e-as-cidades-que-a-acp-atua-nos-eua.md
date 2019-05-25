@@ -3,7 +3,7 @@ title: "Georgia e as cidades que a ACP atua nos EUA"
 description: "Confira mais sobre o Estado e as cidades que a ACP atua nos EUA. Uma delas pode ser seu lar em breve!"
 date: 2018-10-25T09:00:00-03:00
 # TODO Definir tags
-tags: ["enfermeiros brasileiros nos eua, sobre a ACP"]
+tags: ["enfermeiros brasileiros nos eua", "sobre a ACP"]
 categories: ["ACP", "EUA"]
 banner: "georgia_e_cidades_que_acp_atua_nos_eua.png"
 # author: "F. Morales"

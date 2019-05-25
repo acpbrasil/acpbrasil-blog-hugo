@@ -2,7 +2,6 @@
 title: "Obrigado!"
 description: "Agradecemos pelo interesse em fazer parte da equipe ACP nos EUA"
 header: ""
-tags: [""]
 ---
 
 ### Sua solicitação foi confirmada

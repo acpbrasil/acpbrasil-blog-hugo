@@ -4,7 +4,6 @@ title: "Thank you!"
 slug: "thanks"
 description: "Thank you for your interest in joining the ACP team in US"
 header: ""
-tags: [""]
 ---
 
 ### Your form submission has been received

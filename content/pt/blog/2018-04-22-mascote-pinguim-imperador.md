@@ -2,7 +2,7 @@
 title: "Mascote ACP"
 description: "Conheça a história do mascote que inspira a família Advanced Care Partners."
 date: 2018-04-22T14:17:48-03:00
-tags: ["mascote", "pinguim imperador", "acp", "acpbrasil", "acpartners", "advanced care partners", "trabalho nos eua", "home care", "enfermeiros", "enfermagem", "enfermagem nos eua"]
+tags: ["mascote", "pinguim imperador", "acpbrasil", "acpartners", "advanced care partners", "trabalho nos eua", "home care", "enfermeiros nos eua", "enfermagem nos eua"]
 categories: ["ACP"]
 banner: "pinguim_imperador.jpg"
 # author: "Izabelle Gindri"

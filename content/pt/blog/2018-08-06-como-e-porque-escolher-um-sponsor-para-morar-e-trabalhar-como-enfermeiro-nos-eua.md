@@ -3,7 +3,7 @@ title: "Como e por que escolher um Sponsor para morar nos EUA e trabalhar como e
 description: "Entenda o que é um Sponsor e qual é o seu papel para auxiliar o profissional de enfermagem a atuar nos Estados Unidos."
 date: 2018-08-06T15:08:00-03:00
 # TODO Definir tags
-tags: ["enfermeiro nos eua, trabalhar como enfermeiro nos estados unidos, enfermeiro brasileiro nos estados unidos, ir para os estados unidos"]
+tags: ["enfermeiro nos eua", "trabalhar como enfermeiro nos estados unidos", "enfermeiro brasileiro nos estados unidos", "ir para os estados unidos"]
 categories: ["Enfermagem", "Mercado", "ACP", "Salário"]
 banner: "sponsor-para-morar-e-trabalhar-como-enfermeiro-nos-eua.jpeg"
 # author: "F. Morales"

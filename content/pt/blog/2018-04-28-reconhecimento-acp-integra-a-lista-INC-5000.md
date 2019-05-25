@@ -2,7 +2,7 @@
 title: "Reconhecimento: ACP integra a lista INC 5000"
 description: "Reconhecimento: desde 2016 a ACP integra a lista INC 5000."
 date: 2018-04-28T15:21:26-03:00
-tags: ["INC5000", "INC5000 list", "lista inc 5000", "melhores empresas eua", "enfermeiros eua", "enfermeiros usa", "enfermeiros nos eua", "nurse", "foreign nurses", "home care"]
+tags: ["INC5000", "INC5000 list", "lista inc 5000", "melhores empresas eua", "enfermeiros eua", "enfermeiros usa", "enfermeiros nos eua", "nurse usa", "foreign nurses", "home care"]
 categories: ["ACP"]
 banner: "inc5000-list.jpg"
 source: "https://www.advancedcarepartners.com/acp-made-inc-5000s-list-twice/"

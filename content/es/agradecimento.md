@@ -4,7 +4,6 @@ title: "¡Gracias!"
 slug: "gracias"
 description: "Agradecemos por el interés en hacer parte del equipo ACP en los EE. UU."
 header: ""
-tags: [""]
 ---
 
 ### Recibimos su formulario

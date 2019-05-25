@@ -2,7 +2,7 @@
 title: "Salários e Benefícios na ACP"
 description: "Conheça as vantagens de fazer parte da nossa equipe"
 header: "Venha trabalhar com a ACP"
-tags: ["salário", "benefícios", "enfermagem", "exterior", "enfermagem nos eua"]
+tags: ["salário", "benefícios", "enfermagem eua", "enfermagem nos eua"]
 ---
 
 Salários e benefícios serão firmados entre a ACP e o enfermeiro por meio contratual.

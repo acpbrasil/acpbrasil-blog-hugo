@@ -3,7 +3,7 @@ title: "In School Nursing"
 description: "ACP proporciona cuidados especiais para pacientes na escola."
 date: 2018-04-30T15:37:18-03:00
 
-tags: ["in school nursing", "cuidados escola", "cuidados especiais na escola", "pacientes na escola", "enfermeiros eua", "enfermeiros usa", "nurse", "foreign nurses", "home care"]
+tags: ["in school nursing", "cuidados escola", "cuidados especiais na escola", "pacientes na escola", "enfermeiros eua", "enfermeiros usa", "nurse usa", "foreign nurses", "home care"]
 categories: ["Enfermagem", "ACP"]
 banner: "in_home_school.jpg"
 source: "https://www.advancedcarepartners.com/"

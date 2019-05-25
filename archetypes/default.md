@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 description: ""
 date: {{ .Date }}
 
-tags: ["enfermeiros eua", "enfermeiros usa", "nurse", "foreign nurses", "home care"]
+tags: ["enfermeiros eua", "enfermeiros usa", "nurse usa", "foreign nurses", "home care"]
 categories: [ "Categoria#1", "Categoria#2" ]
 
 banner: "placeholder.jpg"

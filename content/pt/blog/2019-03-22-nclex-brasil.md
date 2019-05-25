@@ -3,7 +3,7 @@ title: "Exclusivo: Impactos de realizar o Nclex no Brasil"
 description: "Confira agora mais detalhes dessa oportunidade incrível para os Enfermeiros Brasileiros que desejam trabalhar nos EUA"
 date: 2019-03-22T09:00:00-03:00
 # TODO Definir tags
-tags: ["enfermeiros brasileiros nos eua, trabalhar como enfermeiro nos eua"]
+tags: ["enfermeiros brasileiros nos eua", "trabalhar como enfermeiro nos eua"]
 categories: ["NCLEX", "Enfermagem", "Conhecimento"]
 banner: "nclex-brasil-acp.png"
 # author: "F. Morales"
