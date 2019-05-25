@@ -49,7 +49,7 @@
   {{ end }}
 
   <!-- Comments -->
-  {{ if not (in (string .Site.BaseURL) "localhost") }}
+  {{ if not .Site.IsServer }}
     {{ if .Site.DisqusShortname }}
     <hr class="acp-hr variation-3">
     <div class="disqus-comments">

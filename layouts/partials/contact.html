@@ -72,9 +72,11 @@
 		</div>
 	</div>
 
-	{{ if not (in (string .Site.BaseURL) "localhost") }}
-		{{ if .Site.Params.contact.map }}
+	{{ if .Site.Params.contact.map }}
+		{{ if not .Site.IsServer }}
 			<div id="map" class="to-animate"></div>
+		{{ else }}
+			<div class="alert alert-warning">Mapa desabilitado em <code>localhost</code>.</div>
 		{{ end }}
 	{{ end }}
 </section>
