@@ -1,4 +1,5 @@
-{{ if .IsTranslated }}
+{{/*  .IsTranslated não está mostrando o seletor de idioma na página de blog post  */}}
+{{/*  {{ if .IsTranslated }}  */}}
   <li class="dropdown language-dropdown">
     <a class="external dropdown-toggle" data-toggle="dropdown" href="#"
         aria-label="{{ $.Site.Params.languageName }}" title="{{ $.Site.Params.languageName }}">
@@ -13,16 +14,19 @@
           <i class="icon-check"></i>
         </a>
       </li>
-      {{ range .Translations }}
-        <li>
-          <a class="external" href="{{ .Permalink }}"
-              aria-label="{{ .Language.LanguageName }}"
-              title="{{ .Language.LanguageName }}">
-            {{ .Language.LanguageName }}
-            {{/* {{ .Lang }} */}}
-          </a>
-        </li>
+      {{/*  {{ range .Translations }}  */}}
+      {{ range $.Site.Home.AllTranslations }}
+        {{ if not (eq .Lang $.Site.Params.LanguagePrefix) }}
+          <li>
+            <a class="external" href="{{ .Permalink }}"
+                aria-label="{{ .Language.LanguageName }}"
+                title="{{ .Language.LanguageName }}">
+              {{ .Language.LanguageName }}
+              {{/* {{ .Lang }} */}}
+            </a>
+          </li>
+        {{ end }}
       {{ end}}
     </ul>
   </li>
-{{ end }}
+{{/*  {{ end }}  */}}
