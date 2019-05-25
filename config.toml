@@ -81,7 +81,6 @@ defaultContentLanguage = "pt"
   contentDir = "content/en"
   languageName = "English"
   weight = 2
-  # Menus
   [[languages.en.menu.pages]]
     url = "about/"
     name = "About us"
@@ -121,7 +120,6 @@ defaultContentLanguage = "pt"
   contentDir = "content/es"
   languageName = "Español"
   weight = 3
-  # Menus
   [[languages.es.menu.pages]]
     url = "sobre/"
     name = "Quiénes somos"

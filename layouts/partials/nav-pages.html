@@ -31,28 +31,31 @@
 
         {{/*}}
         {{ $url := strings.TrimPrefix "/" (.Permalink | relLangURL) }}
-        {{ $url := printf "%s/" (index (split .URL "/") 1) }}
 
         <!-- {{ $currentPage := . }} -->
         <!-- <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}"> -->
 
         <!-- Get the last part from URL -->
         {{ $url := printf "%s/" (index (last 1 (split (delimit (split .URL "/") "," "") ",")) 0) }}
-        {{*/}}
         
         {{ $url := .Permalink | relURL }}
+        {{*/}}
+        
+        {{/*  {{ $url := printf "%s/" (index (split .RelPermalink "/") 1) }}  */}}
+        {{ $url := .RelPermalink }}
+
 
         <!-- Internal pages menus only -->
         {{ range .Site.Menus.pages }}
-        <!-- <li class="{{ if eq .URL $url }}active{{ end }}"> -->
-        <li class="{{ if eq (.URL | relLangURL) $url }}active{{ end }}">
-          <!-- <a class="external" href="{{ $.Site.BaseURL }}{{ .URL }}"><span>{{ .Name | markdownify }}</span></a> -->
-          <a class="external" href="{{ .URL | relLangURL }}"><span>{{ .Name | markdownify }}</span></a>
-        </li>
+          {{ $isActive := hasPrefix $url (.URL | relLangURL) }}
+          <li class="{{ if $isActive }}active{{ end }}">
+            <a class="external" href="{{ .URL | relLangURL }}"><span>{{ .Name | markdownify }}</span></a>
+          </li>
         {{ end }}
         <!-- Postpend menus -->
         {{ range .Site.Menus.postpend }}
-          <li class="{{ if eq (.URL | relLangURL) $url }}active{{ end }}">
+          {{ $isActive := hasPrefix $url (.URL | relLangURL) }}
+          <li class="{{ if $isActive }}active{{ end }}">
             <a class="external" href="{{ .URL | relLangURL }}"><span>{{ .Name | markdownify }}</span></a>
           </li>
         {{ end }}
