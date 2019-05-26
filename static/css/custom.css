@@ -485,6 +485,100 @@ section#fh5co-intro .fh5co-text > p {
 
 
 /* ########################################################################### */
+/* Sidebar */
+.panel.sidebar-menu .form-control {
+  height: 34px;
+  font-size: 0.7em;
+  font-weight: normal;
+}
+.panel.sidebar-menu h3 {
+  padding: 5px 0;
+  margin: 0;
+  font-weight: 700;
+  color: #F39B3B;
+}
+.panel.sidebar-menu {
+  background: #fff;
+  margin: 0 0 20px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  box-shadow: none;
+}
+.panel.sidebar-menu .panel-heading {
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  background: none;
+  padding: 0;
+  letter-spacing: 0.08em;
+  border-bottom: none;
+}
+.panel.sidebar-menu .panel-heading h1,
+.panel.sidebar-menu .panel-heading h2,
+.panel.sidebar-menu .panel-heading h3,
+.panel.sidebar-menu .panel-heading h4,
+.panel.sidebar-menu .panel-heading h5 {
+  display: inline-block;
+  border-bottom: solid 5px #F39B3B;
+  line-height: 1.1;
+  margin-bottom: 0;
+  padding-bottom: 10px;
+}
+.panel.sidebar-menu .panel-body {
+  padding: 0;
+}
+.panel.sidebar-menu ul.nav ul {
+  list-style: none;
+  padding-left: 0;
+}
+.panel.sidebar-menu ul.nav ul li {
+  display: block;
+}
+.panel.sidebar-menu ul.tag-cloud {
+  list-style: none;
+  padding-left: 0;
+}
+.panel.sidebar-menu ul.tag-cloud li {
+  display: inline-block;
+}
+.panel.sidebar-menu ul.tag-cloud li a {
+  display: inline-block;
+  padding: 3px;
+  border: solid 1px #eeeeee;
+  border-radius: 0;
+  color: #157cba;
+  margin: 5px 5px 5px 0;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  font-size: 12px;
+}
+.panel.sidebar-menu ul.tag-cloud li a:hover {
+  color: #157cba;
+  text-decoration: none;
+  border-color: #157cba;
+} 
+
+.nav-pills > li {
+  float: left;
+}
+.nav-pills > li > a {
+  border-radius: 0;
+  font-size: 0.8em;
+  padding: 5px 15px;
+}
+.nav-pills > li + li {
+  margin-left: 2px;
+}
+.nav-stacked > li {
+  float: none;
+}
+.nav-stacked > li + li {
+  margin-top: 2px;
+  margin-left: 0;
+}
+
+/* ########################################################################### */
 
 /* Changes to adjust the header to a bigger logo (in height) */
 /* #fh5co-header .navbar-brand { */

@@ -1,91 +1,105 @@
 {{ define "main" }}
 
-  {{ partial "blog-lang-check.html" . }}
+  <div class="col-md-9">
+    {{ partial "content-header.html" . }}
 
-  <main>
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
-    {{ range $paginator.Pages }}
-    <article class="post">
-      <div class="row">
+    <section class="main">
 
-        <!-- Banner image -->
-        <div class="banner col-md-4">
-          <div class="image">
-            <a href="{{ .Permalink }}">
-              {{ if .Params.banner }}
-                <img src="{{ .Site.BaseURL}}images/blog/{{ .Params.banner }}" class="img-responsive img-thumbnail" alt="{{ .Description }}" title="{{ .Description }}">
-              {{ else }}
-                <img src="{{ .Site.BaseURL}}images/blog/placeholder.png" class="img-responsive img-thumbnail" alt="{{ .Description }}" title="{{ .Description }}">
-              {{ end }}
-            </a>
-          </div>
-        </div>
+      <!-- Page Content -->
+      {{ partial "blog-lang-check.html" . }}
 
-        <!-- Title / author / date -->
-        <div class="content col-md-8">
-          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-          <div class="clearfix">
-            <p class="author-category">
-              {{ if isset .Params "author" }}
-                {{/* Por <a href="#">{{ .Params.author }}</a> */}}
-                Por {{ .Params.author }}
-              {{ end }}
-              {{ with .Params.categories }}
-                em
-                {{ $sort := sort . }}
-                {{ $links := apply $sort "partial" "categories-link" "." }}
-                {{ delimit $links ", " }}
-              {{ end }}
-            </p>
-            <p class="date-comments">
-              <!-- <a href="{{ .Permalink }}"><i class="icon-calendar"></i> {{ .Date.Format .Site.Params.date_format }}</a> -->
-              <a href="{{ .Permalink }}"><i class="icon-calendar"></i>
-                {{/* 
-                  {{ .Date.Day }} · {{ index $.Site.Data.meses (printf "%d" .Date.Month) }} · {{ .Date.Year }}
-                  {{ $data := index .Site.Data .Site.Language.Lang }}
-                  {{ .Date.Day }} · {{ index $data.months (printf "%d" .Date.Month) }} · {{ .Date.Year }}
-                */}}
-                {{ .Date.Format "02/01/2006" }}
-              </a>
-              <!-- <a href="{{.Permalink}}">{{.Date.Format "02/01/2006"}} | {{.Title}}</a> -->
-            </p>
-          </div>
-          <!-- Summary -->
-          <!-- <div class="summary"> -->
-            <p class="intro">{{ .Summary }}</p>
-            {{ if or ( .Truncated ) (.Params.readmore) }}
-            <div class="read-more">
-              <a href="{{ .Permalink }}" class="btn btn-default btn-sm">Continue lendo...</a>
-              <!-- <a href="{{ .RelPermalink }}" class="btn btn-default btn-sm">Continue lendo...</a> -->
+      <main>
+        {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
+        {{ range $paginator.Pages }}
+        <article class="post">
+          <div class="row">
+
+            <!-- Banner image -->
+            <div class="banner col-md-4">
+              <div class="image">
+                <a href="{{ .Permalink }}">
+                  {{ if .Params.banner }}
+                    <img src="{{ .Site.BaseURL}}images/blog/{{ .Params.banner }}" class="img-responsive img-thumbnail" alt="{{ .Description }}" title="{{ .Description }}">
+                  {{ else }}
+                    <img src="{{ .Site.BaseURL}}images/blog/placeholder.png" class="img-responsive img-thumbnail" alt="{{ .Description }}" title="{{ .Description }}">
+                  {{ end }}
+                </a>
+              </div>
             </div>
-            {{ end }}
-          <!-- </div> -->
 
-        </div>
+            <!-- Title / author / date -->
+            <div class="content col-md-8">
+              <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+              <div class="clearfix">
+                <p class="author-category">
+                  {{ if isset .Params "author" }}
+                    {{/* Por <a href="#">{{ .Params.author }}</a> */}}
+                    Por {{ .Params.author }}
+                  {{ end }}
+                  {{ with .Params.categories }}
+                    em
+                    {{ $sort := sort . }}
+                    {{ $links := apply $sort "partial" "categories-link" "." }}
+                    {{ delimit $links ", " }}
+                  {{ end }}
+                </p>
+                <p class="date-comments">
+                  <!-- <a href="{{ .Permalink }}"><i class="icon-calendar"></i> {{ .Date.Format .Site.Params.date_format }}</a> -->
+                  <a href="{{ .Permalink }}"><i class="icon-calendar"></i>
+                    {{/* 
+                      {{ .Date.Day }} · {{ index $.Site.Data.meses (printf "%d" .Date.Month) }} · {{ .Date.Year }}
+                      {{ $data := index .Site.Data .Site.Language.Lang }}
+                      {{ .Date.Day }} · {{ index $data.months (printf "%d" .Date.Month) }} · {{ .Date.Year }}
+                    */}}
+                    {{ .Date.Format "02/01/2006" }}
+                  </a>
+                  <!-- <a href="{{.Permalink}}">{{.Date.Format "02/01/2006"}} | {{.Title}}</a> -->
+                </p>
+              </div>
+              <!-- Summary -->
+              <!-- <div class="summary"> -->
+                <p class="intro">{{ .Summary }}</p>
+                {{ if or ( .Truncated ) (.Params.readmore) }}
+                <div class="read-more">
+                  <a href="{{ .Permalink }}" class="btn btn-default btn-sm">Continue lendo...</a>
+                  <!-- <a href="{{ .RelPermalink }}" class="btn btn-default btn-sm">Continue lendo...</a> -->
+                </div>
+                {{ end }}
+              <!-- </div> -->
 
-      </div>
-    </article>
-    {{ end }}
+            </div>
 
-    <!-- Pager -->
-    <ul class="pager">
-      {{ if .Paginator.HasPrev }}
-      <li class="previous"><a class="btn btn-default" href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}">&larr; Anterior</a></li>
-      {{/* 
-        {{ else }}
-        <li class="previous disabled"><a class="btn btn-default" href="#">&larr; Anterior</a></li>
-      */}}
-      {{ end }}
+          </div>
+        </article>
+        {{ end }}
 
-      {{ if .Paginator.HasNext }}
-      <li class="next"><a class="btn btn-default" href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}">Próxima &rarr;</a></li>
-      {{/* 
-        {{ else }}
-        <li class="next disabled"><a class="btn btn-default" href="#">Próxima &rarr;</a></li>
-      */}}
-      {{ end }}
-    </ul>
+        <!-- Pager -->
+        <ul class="pager">
+          {{ if .Paginator.HasPrev }}
+          <li class="previous"><a class="btn btn-default" href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}">&larr; Anterior</a></li>
+          {{/* 
+            {{ else }}
+            <li class="previous disabled"><a class="btn btn-default" href="#">&larr; Anterior</a></li>
+          */}}
+          {{ end }}
 
-  </main>
+          {{ if .Paginator.HasNext }}
+          <li class="next"><a class="btn btn-default" href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}">Próxima &rarr;</a></li>
+          {{/* 
+            {{ else }}
+            <li class="next disabled"><a class="btn btn-default" href="#">Próxima &rarr;</a></li>
+          */}}
+          {{ end }}
+        </ul>
 
+      </main>
+
+    </section>
+  </div>
+
+  <!-- Sidebar -->
+  <div class="col-md-3 sidebar">
+    {{ partial "sidebar.html" . }}
+  </div>
+  
 {{ end }}

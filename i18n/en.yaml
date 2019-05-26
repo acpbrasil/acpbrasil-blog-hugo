@@ -13,6 +13,12 @@ pageNotFound:
   other: Oops, that page couldn't be found.
 navHome:
   other: Go to homepage
+searchTitle:
+  other: Search
+categoriesTitle:
+  other: Categories
+tagsTitle:
+  other: Tags
 
 # Hero section
 heroTitle:

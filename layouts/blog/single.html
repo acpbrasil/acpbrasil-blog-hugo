@@ -1,64 +1,78 @@
 {{ define "main" }}
 
-<p class="font-smaller text-muted text-uppercase mb-small">
-    <!-- Author / Date -->
-    {{ if not .Date.IsZero }}
-      {{ if .Params.author }}
-        <i class="icon-user"></i> Autor: <a href="#">{{ .Params.author }}</a> | 
+  <div class="col-md-9">
+    {{ partial "content-header.html" . }}
+
+    <section class="main">
+
+      <!-- Page Content -->
+      <p class="font-smaller text-muted text-uppercase mb-small">
+        <!-- Author / Date -->
+        {{ if not .Date.IsZero }}
+          {{ if .Params.author }}
+            <i class="icon-user"></i> Autor: <a href="#">{{ .Params.author }}</a> | 
+          {{ end }}
+          {{ $data := index .Site.Data .Site.Language.Lang }}
+          <i class="icon-calendar"></i> {{ .Date.Day }} · {{ index $data.months (printf "%d" .Date.Month) }} · {{ .Date.Year }}
+        {{ end }}
+        <!-- Categories -->
+        {{ with .Params.categories }}
+          <span class="font-small">
+            &nbsp;&nbsp;|&nbsp;&nbsp;em
+            {{ $sort := sort . }}
+            {{ $links := apply $sort "partial" "categories-link" "." }}
+            {{ delimit $links ", " }}
+          </span>
+        {{ end }}
+      </p>
+      
+      <!-- Article image -->
+      {{ with .Params.banner }}
+      <div class="article-header-image" style="background-image: url('/images/blog/{{ . }}')" title="{{ $.Title }}"></div>
       {{ end }}
-      {{ $data := index .Site.Data .Site.Language.Lang }}
-      <i class="icon-calendar"></i> {{ .Date.Day }} · {{ index $data.months (printf "%d" .Date.Month) }} · {{ .Date.Year }}
-    {{ end }}
-    <!-- Categories -->
-    {{ with .Params.categories }}
-      <span class="font-small">
-        &nbsp;&nbsp;|&nbsp;&nbsp;em
-        {{ $sort := sort . }}
-        {{ $links := apply $sort "partial" "categories-link" "." }}
-        {{ delimit $links ", " }}
-      </span>
-    {{ end }}
-  </p>
-
-  <!-- Article image -->
-  {{ with .Params.banner }}
-  <div class="article-header-image" style="background-image: url('/images/blog/{{ . }}')" title="{{ $.Title }}"></div>
-  {{ end }}
-
-  <!-- Article content -->
-  <article class="page-content">
-    {{ .Content }}
-    {{ with .Params.source }}
-    <div class="source text-muted">Fonte: <a href="{{ . }}" target="_blank">{{ . }}</a></div>
-    {{ end }}
-  </article>
-
-  {{/*  
-  <!-- Ebook -->
-  {{ partial "download-ebook.html" }}
-  */}}
-
-  <!-- Buttons -->
-  <div class="buttons bottom-buttons">
-    <a class="btn btn-primary btn-sm" rel="nofollow" href="{{ .Site.BaseURL }}blog/">Voltar</a>
+    
+      <!-- Article content -->
+      <article class="page-content">
+        {{ .Content }}
+        {{ with .Params.source }}
+        <div class="source text-muted">Fonte: <a href="{{ . }}" target="_blank">{{ . }}</a></div>
+        {{ end }}
+      </article>
+    
+      {{/*  
+      <!-- Ebook -->
+      {{ partial "download-ebook.html" }}
+      */}}
+    
+      <!-- Buttons -->
+      <div class="buttons bottom-buttons">
+        <a class="btn btn-primary btn-sm" rel="nofollow" href="{{ .Site.BaseURL }}blog/">Voltar</a>
+      </div>
+    
+      <!-- Social sharing -->
+      {{ if .Site.Params.socialSharing }}
+        {{ partial "social-sharing.html" . }}
+      {{ end }}
+    
+      <!-- Comments -->
+      {{ if not .Site.IsServer }}
+        {{ if .Site.DisqusShortname }}
+        <hr class="acp-hr variation-3">
+        <div class="disqus-comments">
+          {{ template "_internal/disqus.html" . }}
+        </div>
+        {{ end }}
+      {{ else }}
+        <hr class="acp-hr variation-3">
+        <div class="alert alert-warning">Disqus desabilitado em <code>localhost</code>.</div>
+      {{ end }}
+      
+    </section>
   </div>
 
-  <!-- Social sharing -->
-  {{ if .Site.Params.socialSharing }}
-    {{ partial "social-sharing.html" . }}
-  {{ end }}
-
-  <!-- Comments -->
-  {{ if not .Site.IsServer }}
-    {{ if .Site.DisqusShortname }}
-    <hr class="acp-hr variation-3">
-    <div class="disqus-comments">
-      {{ template "_internal/disqus.html" . }}
-    </div>
-    {{ end }}
-  {{ else }}
-    <hr class="acp-hr variation-3">
-    <div class="alert alert-warning">Disqus desabilitado em <code>localhost</code>.</div>
-  {{ end }}
+  <!-- Sidebar -->
+  <div class="col-md-3 sidebar">
+    {{ partial "sidebar.html" . }}
+  </div>
 
 {{ end }}

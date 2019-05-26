@@ -1,8 +1,19 @@
 {{ define "main" }}
 
-  <!-- Page Content -->
-  <div class="page-content {{ .File }}">
-    {{ .Content }}
+  <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
+    {{ partial "content-header.html" . }}
+
+    {{/*  <pre>MAIN</pre>  */}}
+    <section class="main">
+
+      <!-- Page Content -->
+      <div class="page-content {{ .File }}">
+        {{ .Content }}
+      </div>
+      <!-- // Page Content -->
+    
+    </section>
+    {{/*  <pre>// MAIN</pre>  */}}
   </div>
 
 {{ end }}

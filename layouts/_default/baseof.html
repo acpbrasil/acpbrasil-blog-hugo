@@ -16,18 +16,10 @@
     <div id="content">
       <div class="container">
         <div class="row">
-          <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
 
-            {{ partial "content-header.html" . }}
+          {{ block "main" . }}
+          {{ end }}
 
-            <!-- <pre>MAIN</pre> -->
-            <section class="main">
-              {{ block "main" . }}
-              {{ end }}
-            </section>
-            <!-- <pre>// MAIN</pre> -->
-
-          </div>
         </div>
       </div>
     </div>

@@ -13,6 +13,12 @@ pageNotFound:
   other: Oops, esta página no está disponible.
 navHome:
   other: "Ir a inicio"
+searchTitle:
+  other: Buscar
+categoriesTitle:
+  other: Categorias
+tagsTitle:
+  other: Palabras clave
 
 # Hero section
 heroTitle:
