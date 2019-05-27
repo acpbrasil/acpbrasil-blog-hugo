@@ -17,7 +17,7 @@ Nós da **Advanced Care Partners (ACP)**, por exemplo, somos uma empresa que [
 
 Oferecemos uma ampla variedade de benefícios e um pacote de remuneração competitiva para nossos enfermeiros. Mas nosso maior benefício está no fato de que todos os funcionários da ACP têm um novo lugar para chamar de lar.
 
-## Quais são as vantagens da ACP para quem busca vagas para enfermeiro nos Estados Unidos?
+### Quais são as vantagens da ACP para quem busca vagas para enfermeiro nos Estados Unidos?
 
 Os benefícios oferecidos pela ACP em suas **vagas para enfermeiros nos Estados Unidos**, são extremamente atraentes:
 
@@ -32,7 +32,7 @@ Os benefícios oferecidos pela ACP em suas **vagas para enfermeiros nos Estados 
 
 Gostou dos benefícios? Se você atende aos requisitos, [se candidate já a uma vaga para enfermeiros nos Estados Unidos]({{< ref "/formulario.md" >}}).
 
-## Quais são os requisitos para se candidatar a vagas para enfermeiro nos Estados Unidos?
+### Quais são os requisitos para se candidatar a vagas para enfermeiro nos Estados Unidos?
 
 Se você já se formou como enfermeiro no Brasil, tem um nível de inglês entre o avançado e o fluente, além de experiência mínima de 500hrs na área já pode se candidatar a uma vaga para ser enfermeiro nos Estados Unidos!
 
@@ -40,22 +40,22 @@ E se você conhece algum enfermeiro que busca uma vaga nos Estados Unidos, indiq
 
 E isso vale para você que está lendo esse artigo e não é enfermeiro, para você que já trabalha conosco e sua indicação nos diz que estamos fazendo um ótimo trabalho, bem como para você que deseja encontrar **vagas para enfermeiro nos Estados Unidos**, e tem amigos de profissão que compartilham do mesmo sonho. Se você adora trabalhar aqui, vai querer que todos os seus amigos se juntem à nossa família. Indique-os hoje!
 
-## Qual é a proposta da ACP para enfermeiros brasileiros nos EUA?
+### Qual é a proposta da ACP para enfermeiros brasileiros nos EUA?
 
 A ACP é um Home Care que, há mais de oito anos, se dedica aos pacientes com condições médicas delicadas e às suas famílias, em todo Estado da Georgia e quer dar oportunidade aos enfermeiros do Brasil. Ainda existe a possibilidade de se beneficiar da nossa consultoria em português com uma equipe no Brasil.
 
-## Qual é o diferencial da ACP para os enfermeiros que querem atuar nos EUA?
+### Qual é o diferencial da ACP para os enfermeiros que querem atuar nos EUA?
 
 Sensação de pertencer a uma família
 Ao se unir à nossa equipe, você, enfermeiro, se sentirá, instantaneamente, um membro da nossa grande e unida [família de funcionários e enfermeiros da ACP](https://www.advancedcarepartners.com/caregivers/).
 
 Nós incentivamos de várias maneiras que nossos enfermeiros tenham uma boa qualidade de vida.
 
-### Padrões Altos
+#### Padrões Altos
 
 Temos grandes expectativas para os nossos enfermeiros, o que os mantém muito responsáveis e comprometidos.
 
-### Treinamento Contínuo
+#### Treinamento Contínuo
 
 Todo enfermeiro recebe treinamento contínuo, o que os ajuda a trabalhar de maneira mais inteligente e mais eficaz.
 

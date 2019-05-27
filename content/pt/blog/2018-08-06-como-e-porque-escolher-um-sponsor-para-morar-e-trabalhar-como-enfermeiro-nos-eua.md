@@ -15,7 +15,7 @@ Ter uma carreira de sucesso e ser bem sucedido no exterior é um desejo de muito
 
 Para esclarecer essas dúvidas, criamos este post, cujo objetivo é mostrar como e por que escolher um Sponsor para morar nos Estados Unidos e trabalhar como enfermeiro. Acompanhe as respostas, nos tópicos a seguir.
 
-## O que é um Sponsor?
+### O que é um Sponsor?
 
 Quando um enfermeiro pretende se mudar para os Estados Unidos e exercer as suas atividades no território americano, é preciso desenvolver uma série de atividades burocráticas, como atingir notas em testes de proficiência do inglês, conseguir comprovar junto a instituições reconhecidas a equivalência da sua formação universitária, atingir requisitos do Board (conselho) de enfermagem do Estado que pretende trabalhar, onde destaca-se a necessidade de passar na prova [NCLEX]({{< relref "2018-05-01-nclex" >}}), para que finalmente se consiga obter sua licença.
 
@@ -31,13 +31,13 @@ E são poucos que você conseguirá o contato direto com seu empregador, o qual 
 
 Somente assim, você saberá exatamente onde trabalhará, quanto receberá de salário, [qual será o seu plano de carreira]({{< relref "2018-06-23-plano-de-carreira-para-enfermeiros" >}}), entre outras questões que são relevantes nesse momento até antes de iniciar todo este processo. E se tudo isto todo este contato inicial for em português? Melhor ainda, certo!
 
-## Quais são as empresas americanas que contratam enfermeiros brasileiros?
+### Quais são as empresas americanas que contratam enfermeiros brasileiros?
 
 A Advanced Care Partners (em transição para Advanced Care Partners) - ACP, é a única empresa dos Estados Unidos que recruta enfermeiros no Brasil e garante emprego na própria empresa. Assim, os profissionais interessados podem procurar a instituição e ter um suporte completo, em todas as etapas necessárias para trabalhar nos EUA.
 
 [Greice Murphy, CEO, brasileira e fundadora da ACP,](https://www.linkedin.com/in/greice-murphy-0673077a/) tem muita expertise e experiência na área. Ela conhece o esforço que os profissionais estrangeiros precisam ter para se adaptar a uma nova cultura,pois já vivenciou esta transição quando chegou aos Estados Unidos. Assim, a empresa garante um suporte total aos enfermeiros que migram de país, com atendimento 24 horas por dia, 7 dias por semana, em português e em inglês.
 
-## Como funciona o trabalho desenvolvido pelo ACP Brasil?
+### Como funciona o trabalho desenvolvido pelo ACP Brasil?
 
 A ACP Brasil desenvolve um trabalho em que auxilia com toda a parte burocrática para a migração de um enfermeiro brasileiro para os Estados Unidos. De tal modo, a empresa tem um serviço de consultoria sobre validação do diploma para atuar no país, sendo o principal objetivo auxiliá-lo na obtenção do visto para ter um emprego sólido com excelente remuneração e benefícios, além de um plano de carreira.
 
@@ -51,6 +51,6 @@ Isso quer dizer que, se trabalhar 40 horas semanais, você terá um salário bru
 
 Para mais informações sobre o processo e esclarecimento de dúvidas pontuais que ainda tenham ficado, não deixe de [**entrar em contato conosco**]({{< ref "/formulario" >}}). Nossa equipe está sempre pronta e à disposição para lhe dar todas as orientações e responder a qualquer tipo de questionamento que você tiver.
 
-## [**Faça parte!**]({{< ref "/formulario" >}})
+### [**Faça parte!**]({{< ref "/formulario" >}})
 
 {{< download-ebook >}}

@@ -15,7 +15,7 @@ Se você é enfermeiro e tem interesse em migrar para os Estados Unidos exercend
 
 Neste post, vamos esclarecer as principais dúvidas que os enfermeiros que desejam atuar nos Estados Unidos têm sobre  os boards. Continue conosco e saiba mais sobre a importância de contatar essas instituições antes de migrar para o país americano.
 
-## O que é State Board of Nursing?
+### O que é State Board of Nursing?
 
 Em tradução literal para a língua portuguesa, State Board of Nursing significa “Conselho Estadual de Enfermagem”. Tratam-se, portanto, de órgãos que regulamentam a profissão de enfermeiro nos estados americanos.
 
@@ -25,27 +25,27 @@ Mas também, diferente do Coren no Brasil, cada Board of Nursing estabelece seus
 
 De maneira geral, portanto, podemos dizer que os States Board of Nursing são organizações sem fins lucrativos que atuam em questões de interesse e preocupação comuns que afetam a saúde pública, a segurança e o bem-estar, incluindo também a classificação da atividade de enfermagem em diversos tipos, bem como a emissão e renovação da licença dos profissionais da enfermagem.
 
-## Quais são os tipos de enfermeiros existentes nos EUA?
+### Quais são os tipos de enfermeiros existentes nos EUA?
 
 Assim como no Brasil existem diferenças para as atividades e funções exercidas pelo enfermeiro e pelo técnico e auxiliar de enfermagem, o mesmo ocorre nos EUA. Desse modo, os States Board of Nursing também fazem a regulamentação dos diferentes níveis da profissão.
 
 Abaixo mencionamos as principais classes dos profissionais que atuam na enfermagem nos Estados Unidos:
 
-### CNA (Certified Nurse Assistant)
+#### CNA (Certified Nurse Assistant)
 
 Esse profissional atua como assistente de enfermagem e auxilia os médicos e enfermeiros com tarefas básicas em um hospital, como limpar e desinfetar as ferramentas de trabalho, ajudar os pacientes com sua alimentação e higiene pessoal etc. Trata-se de uma atividade que, no Brasil, poderia se equivaler ao auxiliar de enfermagem.
 
-### LPN (Licenced Practice Nurse)
+#### LPN (Licenced Practice Nurse)
 
 Os LPNs são profissionais que podem realizar atividades um pouco mais complexas como prestar primeiros socorros, administrar medicamentos, fazer análises de laboratórios etc. É uma função que, em nosso país, poderia ser considerada do técnico em enfermagem.
 
-### RN (Registered Nurse)
+#### RN (Registered Nurse)
 
 Os RN, por sua vez, são os enfermeiros propriamente ditos, que precisam ter [diploma]({{< relref "2018-08-02-processo-de-validacao-do-diploma-de-enfermeiro-nos-estados-unidos" >}}) com o título de bacharel em enfermagem e obter uma série de certificações para desenvolver atividades como administração de equipes de enfermagem, cuidados com pacientes em uniade de terapia intensiva (UTI), auxílio aos médicos em cirurgias, entre outras funções.
 
 Vale ressaltar que fizemos uma comparação superficial das categorias dos profissionais da enfermagem, mas que mudanças importantes de atividades realizadas por tais categorias tanto no Brasil quanto nos Estados Unidos podem ser muito significativas exigindo uma leitura mais ampla.
 
-## Como fazer para atuar como enfermeiro nos EUA?
+### Como fazer para atuar como enfermeiro nos EUA?
 
 Se você é enfermeiro formado em uma instituição de ensino superior  brasileira e já exerceu essa atividade em nosso país, pode migrar para os EUA e atuar como um RN. Para isso, no entanto, é preciso atingir  uma série de requisitos.
 

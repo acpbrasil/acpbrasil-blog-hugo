@@ -23,7 +23,7 @@ Enquanto que, no Brasil, esse é um serviço relativamente recente, comparado ao
 
 Para entender a importância desse tipo de serviço nos Estados Unidos, precisamos compreender um pouco sobre como tudo começou.
 
-## Fatos marcantes do home care nos Estados Unidos
+### Fatos marcantes do home care nos Estados Unidos
 
 Em 1914 uma empresa norte-americana começou a disponibilizar serviços domiciliares de enfermeiras pertencentes à Cruz Vermelha.
 
@@ -39,7 +39,7 @@ O ressurgimento do home care nos EUA só aconteceu em 1955 com base na afirmaç�
 
 Depois da criação de serviços de saúde pública como o Medicare e o Medicaid (para população de baixa renda), mais pessoas tiveram acesso ao home care e visitas de enfermeiros.
 
-## Qual é o papel do enfermeiro no home care?
+### Qual é o papel do enfermeiro no home care?
 
 Esse é, sem dúvida, um papel essencial. O enfermeiro não é apenas um profissional, ele passa a ser uma presença constante no seio familiar e participa do dia a dia de todos os que estão por perto.
 
@@ -55,7 +55,7 @@ Portanto, o papel do enfermeiro é crucial tanto no processo de tratamento e con
 
 Além disso, a presença do enfermeiro costuma ser vista com uma sensação de alívio dentro da família já que ele, naquele momento, é a pessoa mais capacitada e que consegue oferecer ao paciente os melhores cuidados.
 
-## Quanto ganha um enfermeiro home care?
+### Quanto ganha um enfermeiro home care?
 
 A média de salário para um enfermeiro que atua no home care nos EUA é de US$ 16,62 por hora, ou seja, R$ 54,05 (valor no dia 16 de outubro de 2018).
 

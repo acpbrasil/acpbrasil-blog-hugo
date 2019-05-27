@@ -15,13 +15,13 @@ Enfermagem é a carreira dos profissionais que se dedicam ao cuidado visando res
 
 E podemos ajudá-lo a construir uma carreira sólida como **enfermeiro nos Estados Unidos**. Para isso, continue lendo e confira tudo o que você precisa saber sobre o plano de carreira para enfermeiros. Acompanhe!
 
-## O que é necessário para montar um bom plano de carreira para enfermeiros?
+### O que é necessário para montar um bom plano de carreira para enfermeiros?
 
 Logo no início do seu plano de carreira para enfermeiros é necessário definir metas para atingir o emprego dos seus sonhos — como **trabalhar como enfermeiro nos estados unidos**. Seu plano precisa conter objetivos claros, desejáveis, realistas e realizáveis. Comece olhando para si mesmo e se pergunte quais são seus pontos fortes, competências, valores e qual forma de é melhor para você.
 
 Nesta lista também devem constar os conhecimentos que você já possui e quais precisa adquirir para atingir seus objetivos, como por exemplo o estudo do idioma inglês. Para pôr tudo isso em prática, as informações abaixo o ajudarão em seu plano de carreira para enfermeiros.
 
-## Algumas áreas de atuação dos enfermeiros
+### Algumas áreas de atuação dos enfermeiros
 
 + **Enfermagem geral**: coordena equipes de auxiliares e técnicos de enfermagem.
 
@@ -45,11 +45,11 @@ Nesta lista também devem constar os conhecimentos que você já possui e quais 
 + **Gestão de projetos**: controla e administra atividades atribuídas a projetos multidisciplinares, como implementar protocolos em clínicas ou hospitais e criar alas hospitalares.
 + **Pesquisa clínica**: planeja e coordena planos de pesquisas clínicas.
 
-## Situação do mercado de trabalho para o enfermeiro no Brasil
+### Situação do mercado de trabalho para o enfermeiro no Brasil
 
 Segundo o [Blog da Catho](https://www.catho.com.br/educacao/blog/plano-de-carreira-enfermeiro/) e o [Portal PraValer](http://www.portalpravaler.com.br/curso/graduacao/auxiliar-de-enfermagem), a quantidade de enfermeiros que se formam no País aumenta, anualmente, no mercado de trabalho, principalmente nas regiões Sudeste e Sul, onde há mais empregadores. Uma alternativa é apostar nas regiões Norte e Nordeste, em que a concentração de enfermeiros é menor, especialmente no interior. Essa situação faz muitos profissionais desejarem buscar um **trabalho de enfermeiro nos Estados Unidos**.
 
-## Qualificações dos enfermeiros brasileiros
+### Qualificações dos enfermeiros brasileiros
 
 **Enfermeiro (enfermeiro-chefe)**: possui graduação em enfermagem. Responsável por suas atividades privativas e mais complexas, e ainda pode desempenhar as atividades dos técnicos e auxiliares. Gerencia, administra e coordena equipes de enfermagem, como chefiar uma ala de hospital.
 
@@ -57,7 +57,7 @@ Segundo o [Blog da Catho](https://www.catho.com.br/educacao/blog/plano-de-carrei
 
 **Auxiliar de enfermagem**: possui um curso de menor duração e presta cuidados básicos ao paciente (higiene, alimentação, mobilidade). Sempre é supervisionado por enfermeiros.
 
-## Situação do mercado de trabalho para o enfermeiro nos Estados Unidos
+### Situação do mercado de trabalho para o enfermeiro nos Estados Unidos
 
 Há grande demanda por enfermeiros nos EUA por várias razões, como:
 
@@ -69,7 +69,7 @@ Há grande demanda por enfermeiros nos EUA por várias razões, como:
 
 Dessa forma, quem tiver um plano de carreira para enfermeiros eficiente tem grandes chances de trabalhar como enfermeiro nos Estados Unidos.
 
-## Qualificação dos enfermeiros norte-americanos
+### Qualificação dos enfermeiros norte-americanos
 
 Assim como na enfermagem brasileira, na norte-americana há alguns tipos de certificações. Mencionaremos as que são similares ao Brasil:
 
@@ -96,7 +96,7 @@ Assim como na enfermagem brasileira, na norte-americana há alguns tipos de cert
 + Interagir com as equipes de saúde para manter relacionamentos harmoniosos;
 + Participar de oficinas educativas para aprimorar o conhecimento profissional e técnico.
 
-## O plano de carreira para enfermeiros inclui expectativas e preferências
+### O plano de carreira para enfermeiros inclui expectativas e preferências
 
 Além das questões práticas anteriores, essa estratégia baseia-se em fortes alicerces, afinal, este é o profissional que lida com pessoas fragilizadas pela doença. Por isso, sua um bom plano de carreira para enfermeiros dependerá do tipo de pessoa que você é.
 
