@@ -436,25 +436,30 @@ section#fh5co-intro .fh5co-text > p {
 }
 #heading-breadcrumbs h1 {
   color: #fff;
-  text-transform: uppercase;
-  font-size: 30px;
+  font-size: 32px;
   font-weight: 700;
-  letter-spacing: 0.08em;
+  /* letter-spacing: 0.08em; */
+  /* text-transform: uppercase; */
 }
-#heading-breadcrumbs h4 {
+#heading-breadcrumbs h2 {
   color: rgba(255, 255, 255, 0.8);
   font-family: 'Varela Round', Arial, sans-serif;
+  /* font-size: 3.6vw; */
+  font-size: 1em;
 }
 @media (max-width: 991px) { /* small devices (sm) */
   #heading-breadcrumbs {
     margin-bottom: 20px;
   }
+  #heading-breadcrumbs h1 {
+    font-size: 28px;
+  }  
   #heading-breadcrumbs h1,
-  #heading-breadcrumbs h4 {
+  #heading-breadcrumbs h2 {
     margin-bottom: 20px;
     text-align: center;
   }
-  #heading-breadcrumbs h4 {
+  #heading-breadcrumbs h2 {
     margin-bottom: 10px;
   }
 }

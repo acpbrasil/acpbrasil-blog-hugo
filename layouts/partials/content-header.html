@@ -3,10 +3,12 @@
 */}}
 
 {{ if and (eq .Type "blog") (eq .Kind "page") }}
+{{/* Remove o título do blog post da página e deixa na barra azul (breadcrumb) 
 <section class="content-header">
   <h1 class="section_heading">{{ .Params.Title | safeHTML }}</h1>
   <hr class="acp-hr variation-3">
 </section>
+*/}}
 {{ else if isset .Params "header" }}
   <section class="content-header">
   <h1 class="section_heading">{{ .Params.Header | markdownify }}</h1>

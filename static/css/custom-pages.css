@@ -22,6 +22,25 @@ div.buttons.bottom-buttons {
 }
 
 /* ########################################################################### */
+article.page-content h4 {
+  font-size: 20px;
+}
+article.page-content h5 {
+  font-size: 18px;
+}
+@media (max-width: 991px) { /* small devices (sm) */
+  article.page-content ol {
+    padding-left: 30px;
+  }
+  article.page-content p {
+    margin-bottom: 1em;
+  }
+  article.page-content p + h3,
+  article.page-content p + h4,
+  article.page-content p + h5 {
+    margin: 1.2em 0 1em;
+  }
+}
 
 .page-content ul > li,
 .page-content ol > li {
@@ -71,12 +90,13 @@ div.buttons.bottom-buttons {
   min-height: 150px;
   height: 200px;
   max-height: 300px;
-  margin-bottom: 1.75em;
+  margin-bottom: 1em;
   /* border-radius: 10px; */
 }
 @media (min-width: 768px) {
   .article-header-image {
     height: 300px;
+    margin-bottom: 1.75em;
   }
 }
 
