@@ -21,11 +21,11 @@
     <meta name="keywords" content="{{ delimit .Site.Params.defaultKeywords ", " }}">	
     {{ end }}
 
+    {{ $description := .Site.Params.description }}
     {{ if .Description }}
-    <meta name="description" content="{{ .Description }}">
-    {{ else if .Site.Params.description }}
-    <meta name="description" content="{{ .Site.Params.description }}">	
+      {{ $description = .Description }}
     {{ end }}
+    <meta name="description" content="{{ $description }}">
   
     <meta name="google-site-verification" content="ZVTnLi5Fu4QZ5j0JucXygyaMTr6mFAoAGsdaUBMwQ-g" />
 
@@ -49,13 +49,14 @@
 
     <!-- Facebook and Twitter integration -->
     {{ if not .Site.Params.OpenGraph.hide }}
-    <meta name="og:site_name" content="{{ .Site.Title }}">
-    <meta name="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
-    <meta name="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:description" content="{{ $description }}"/>
     {{ if not .IsHome }}
-    <meta name="og:image" content="{{ .Site.BaseURL }}images/blog/{{ .Params.banner }}">
+    <meta property="og:image" content="{{ .Site.BaseURL }}images/blog/{{ .Params.banner }}">
     {{ else }}
-    <meta name="og:image" content="{{ .Site.BaseURL }}images/logo-192x192.png">
+    <meta property="og:image" content="{{ .Site.BaseURL }}images/logo-192x192.png">
     {{ end }}
     <meta property="og:type" content="website" />
     
@@ -68,17 +69,7 @@
     <meta name="twitter:image" content="{{ .Site.BaseURL }}images/logo-192x192.png">
     {{ end }}
     {{ end }}
-<!--     
-    <meta property="og:title" content=""/>
-    <meta property="og:image" content=""/>
-    <meta property="og:url" content=""/>
-    <meta property="og:site_name" content=""/>
-    <meta property="og:description" content=""/>
-    <meta name="twitter:title" content="" />
-    <meta name="twitter:image" content="" />
-    <meta name="twitter:url" content="" />
-    <meta name="twitter:card" content="" />
- -->    
+    
     <!-- canonical link tag -->
     <link rel="canonical" href="{{ .Permalink }}"/>
 
@@ -94,8 +85,6 @@
     {{ partial "favicon.html" }}
 
     <!-- Fonts -->
-    <!-- <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,400italic,700' rel='stylesheet' type='text/css'> -->
-    <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.com/css?family=Ruluko|Varela+Round" rel="stylesheet">
 
     <!-- Animate.css -->
