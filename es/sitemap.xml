@@ -3,29 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.acpbrasil.com/es/tags/</loc>
-    <lastmod>2019-03-19T01:04:39-03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://www.acpbrasil.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.acpbrasil.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.acpbrasil.com/es/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.acpbrasil.com/es/</loc>
-    <lastmod>2019-05-06T21:45:36-03:00</lastmod>
+    <lastmod>2019-05-25T00:58:24-03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -41,22 +20,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://www.acpbrasil.com/es/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.acpbrasil.com/es/tags/beneficios/</loc>
-    <lastmod>2019-03-20T21:41:04-03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://www.acpbrasil.com/tags/beneficios/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.acpbrasil.com/es/tags/beneficios/"
                 />
   </url>
   
@@ -101,45 +64,6 @@
   </url>
   
   <url>
-    <loc>https://www.acpbrasil.com/es/tags/enfermagem-en-ee-uu/</loc>
-    <lastmod>2019-03-20T21:41:04-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.acpbrasil.com/es/tags/enfermeria/</loc>
-    <lastmod>2019-03-20T21:41:04-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.acpbrasil.com/es/tags/home-care/</loc>
-    <lastmod>2019-03-20T21:41:04-03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://www.acpbrasil.com/tags/home-care/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.acpbrasil.com/en/tags/home-care/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.acpbrasil.com/es/tags/home-care/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.acpbrasil.com/es/tags/politica-de-privacidad/</loc>
-    <lastmod>2019-03-19T01:04:39-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.acpbrasil.com/es/politica-privacidad/</loc>
     <lastmod>2019-03-19T01:04:39-03:00</lastmod>
     <xhtml:link
@@ -160,18 +84,6 @@
   </url>
   
   <url>
-    <loc>https://www.acpbrasil.com/es/tags/quien-es-acp/</loc>
-    <lastmod>2019-03-20T21:41:04-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.acpbrasil.com/es/tags/quienes-somos/</loc>
-    <lastmod>2019-03-20T21:41:04-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.acpbrasil.com/es/sobre/</loc>
     <lastmod>2019-03-20T21:41:04-03:00</lastmod>
     <xhtml:link
@@ -188,22 +100,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://www.acpbrasil.com/es/sobre/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.acpbrasil.com/es/tags/salario/</loc>
-    <lastmod>2019-03-20T21:41:04-03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://www.acpbrasil.com/tags/salario/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.acpbrasil.com/es/tags/salario/"
                 />
   </url>
   
@@ -228,35 +124,8 @@
   </url>
   
   <url>
-    <loc>https://www.acpbrasil.com/es/tags/</loc>
-    <lastmod>2019-03-20T21:41:04-03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://www.acpbrasil.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.acpbrasil.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.acpbrasil.com/es/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.acpbrasil.com/es/tags/trabajo-en-el-extranjero/</loc>
-    <lastmod>2019-03-20T21:41:04-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.acpbrasil.com/es/gracias/</loc>
-    <lastmod>2019-03-19T01:04:39-03:00</lastmod>
+    <lastmod>2019-05-25T00:58:24-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Salario on ACP Brasil</title>
+    <title>Salário on ACP Brasil</title>
     <link>https://www.acpbrasil.com/categories/salario/</link>
-    <description>Recent content in Salario on ACP Brasil</description>
+    <description>Recent content in Salário on ACP Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 06 Aug 2018 15:08:00 -0300</lastBuildDate>
     
 	<atom:link href="https://www.acpbrasil.com/categories/salario/index.xml" rel="self" type="application/rss+xml" />
     

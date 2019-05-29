@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eua on ACP Brasil</title>
+    <title>EUA on ACP Brasil</title>
     <link>https://www.acpbrasil.com/categories/eua/</link>
-    <description>Recent content in Eua on ACP Brasil</description>
+    <description>Recent content in EUA on ACP Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 03 Dec 2018 09:00:00 -0300</lastBuildDate>
     
 	<atom:link href="https://www.acpbrasil.com/categories/eua/index.xml" rel="self" type="application/rss+xml" />
     
