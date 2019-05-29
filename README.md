@@ -11,7 +11,7 @@ git clone --recursive git@github.com:acpbrasil/acpbrasil-blog-hugo.git
 ### Create a new blog post
 
 ```bash
-hugo new blog/title-of-the-post.md
+./create_post.sh title-of-the-post
 ```
 
 ### Start the project from the scratch

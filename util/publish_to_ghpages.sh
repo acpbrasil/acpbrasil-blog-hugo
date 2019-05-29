@@ -24,7 +24,8 @@ echo "Removing existing files"
 rm -rf public/*
 
 echo "Generating site"
-hugo
+# hugo
+hugo --gc
 
 echo "Creating CNAME file for gh-pages"
 echo "www.acpbrasil.com" >> public/CNAME

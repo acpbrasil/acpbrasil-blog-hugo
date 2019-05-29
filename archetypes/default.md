@@ -1,10 +1,11 @@
 ---
+# title: "{{ replace (substr .Name 11) "-" " " | title }}"
 title: "{{ replace .Name "-" " " | title }}"
-description: ""
+description: "TODO"
 date: {{ .Date }}
 
 tags: ["enfermeiros eua", "enfermeiros usa", "nurse usa", "foreign nurses", "home care"]
-categories: [ "Categoria#1", "Categoria#2" ]
+categories: [ "TODO Categoria#1", "TODO Categoria#2" ]
 
 banner: "placeholder.jpg"
 # source: "URL"
@@ -13,6 +14,6 @@ banner: "placeholder.jpg"
 draft: true
 ---
 
-<!-- <Apague esta linha e escreva aqui o blog post> -->
+<!-- <TODO Apague esta linha e escreva aqui o blog post> -->
 
 {{< download-ebook >}}
