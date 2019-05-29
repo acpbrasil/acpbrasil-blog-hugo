@@ -1,1 +1,3 @@
 public
+# Remove resources from .gitignore if using CI
+resources
