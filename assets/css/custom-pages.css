@@ -227,6 +227,9 @@ article.post .read-more > a.btn {
   background-color: #ffffff;
   border-color: #F39B3B;
 }
+article.post .read-more > a.btn:hover {
+  color: #fff;
+}
 
 hr + .disqus-comments {
   padding-top: 20px;

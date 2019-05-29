@@ -160,7 +160,6 @@ defaultContentLanguage = "pt"
   date_format = "2 January, 2006"  # Format dates with Go's time formatting
   
   custom_css = ["css/custom.css"] # Custom CSS files for Home page
-  custom_pages_css = ["css/custom-pages.css"] # Custom CSS files for all other pages
 
   # Meta
   author = "ACP Brasil, Denis C de Azevedo <denis.azevedo@gmail.com>"

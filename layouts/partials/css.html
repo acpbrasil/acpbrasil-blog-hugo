@@ -1,0 +1,38 @@
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/icomoon.css">
+    <!-- Simple Line Icons -->
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/simple-line-icons.css">
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/magnific-popup.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.css">
+    {{/*  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">  */}}
+
+    <!--
+      custom css files can be configured in config.toml:
+      [params]
+        custom_css = ["css/foo.css", "css/bar.css"]
+     -->
+    {{ $scratch := newScratch }}
+    {{ range .Site.Params.custom_css }}
+      {{ $scratch.Add "customResources" (slice (resources.Get .)) }}
+    {{ end }}
+
+    {{/*  {{ $cssOpts := (dict "targetPath" "static/css/style.css") }}  */}}
+
+    {{ $base := resources.Get "css/style.css" }}
+    {{ $custom := $scratch.Get "customResources" }}
+    {{ $style := (slice $base | append $custom) | resources.Concat "bundle.css" | minify | fingerprint }}
+    <link rel="stylesheet"
+          href="{{ $style.Permalink }}"
+          integrity="{{ $style.Data.Integrity }}">
+
+    {{ $customPages := resources.Get "css/custom-pages.css" }}
+    {{ $stylePages := $customPages | minify | fingerprint }}
+    {{ if not .IsHome }} <!-- Do not include custom CSS files for custom pages (!= Home) -->
+      <link rel="stylesheet"
+            href="{{ $stylePages.Permalink }}"
+            integrity="{{ $stylePages.Data.Integrity }}">
+    {{ end }}
