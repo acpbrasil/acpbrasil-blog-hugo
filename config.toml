@@ -31,6 +31,10 @@ defaultContentLanguage = "pt"
 [blackfriday]
   fractions = false
 
+[taxonomies]
+  category = "categories"
+  # category = "categorias"
+
 
 # Languages (i18n)
 
@@ -278,4 +282,3 @@ defaultContentLanguage = "pt"
     search = true
     categories = true
     tags = false
-

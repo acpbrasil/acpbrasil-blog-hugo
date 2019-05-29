@@ -447,6 +447,9 @@ section#fh5co-intro .fh5co-text > p {
   /* font-size: 3.6vw; */
   font-size: 1em;
 }
+#heading-breadcrumbs a {
+  color: rgba(255, 255, 255, 0.8);
+}
 @media (max-width: 991px) { /* small devices (sm) */
   #heading-breadcrumbs {
     margin-bottom: 20px;

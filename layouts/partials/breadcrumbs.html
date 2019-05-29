@@ -4,7 +4,7 @@
       <div class="col-md-12">
         {{/*  <h1>{{ with .Section }} {{ . }} > {{ end }} {{ .Title }}</h1>  */}}
         <h1>{{ .Title }}</h1>
-        <h2>{{ .Description }}</h2>
+        <h2>{{ .Description | markdownify }}</h2>
         {{/*
         {{ if eq .Type "blog" }}
         <h1>Blog</h1>
@@ -13,6 +13,7 @@
         {{ end }}
         <h4>{{ .Description }}</h4>
         */}}
+        {{/*  TODO @Denis: Adicionar link no titulo no blog com {{.Permalink}}?  */}}
       </div>
     </div>
   </div>
