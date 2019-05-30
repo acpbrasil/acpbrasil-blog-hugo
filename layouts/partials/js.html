@@ -12,7 +12,7 @@
 	<!-- Counter -->
 	<script async src="https://cdnjs.cloudflare.com/ajax/libs/jquery-countto/1.2.0/jquery.countTo.min.js"></script>
 	<!-- Magnific Popup -->
-	<script async src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.min.js"></script>
+	<script async defer src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.min.js"></script>
 	{{/*  <script async src="{{ .Site.BaseURL }}js/magnific-popup-options.js"></script>  */}}
 
 
@@ -20,18 +20,15 @@
 	{{ if not .Site.IsServer }}
 		{{ if and (.Site.Params.contact.map) (.IsHome) }}
 			{{ if .Site.Params.googleMapsApiKey }}
-				<script defer src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Params.googleMapsApiKey }}"></script>
-				{{/*  <script defer src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Params.googleMapsApiKey }}&sensor=false"></script>  */}}
+				{{/*  <script src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Params.googleMapsApiKey }}"></script>  */}}
+				<script async defer src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Params.googleMapsApiKey }}&callback=initGoogleMaps"></script>
 			{{ else }}
-				<script defer src="https://maps.googleapis.com/maps/api/js"></script>
+				<script async defer src="https://maps.googleapis.com/maps/api/js"></script>
 			{{ end }}
-			{{/*  <script defer src="{{ .Site.BaseURL }}js/google_map.js"></script>  */}}
 			
 			{{ $maps := resources.Get "js/google_map.js" }}
-			{{ $globalMapJS := $maps }}
-			{{/*  <script defer src="{{ $globalMapJS.Permalink }}"></script>  */}}
+			{{ $globalMapJS := $maps | resources.Minify | resources.Fingerprint }}
 			<script async defer src="{{ $globalMapJS.Permalink }}"></script>
-
 		{{ end }}
 	{{ end }}
 
@@ -45,7 +42,8 @@
 	{{ $globalJS := $scripts | resources.Minify | resources.Fingerprint }}
 	{{/*  {{ $globalJS := $scripts }}  */}}
 	<!-- Main JavaScript -->
-	<script src="{{ $globalJS.Permalink }}"></script>
+	{{/*  <script src="{{ $globalJS.Permalink }}"></script>  */}}
+	<script async defer src="{{ $globalJS.Permalink }}"></script>
 
 	<!-- Main JavaScript -->
 	{{/*  <script src="{{ .Site.BaseURL }}js/main.js"></script> Overrided by elate-main.js  */}}

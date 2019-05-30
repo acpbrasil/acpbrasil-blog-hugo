@@ -1,9 +1,11 @@
-(function () {
-'use strict';
+// (function () {
+// 'use strict';
 
 var google;
 
-function init() {
+function initGoogleMaps() {
+  console.log('Initializing Google Maps...');
+
   // Basic options for a simple Google Map
   // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
   var myLatlng = new google.maps.LatLng(29.6864011,-82.3899576); // Gainesville (half-way Georgia x Florida)
@@ -74,8 +76,6 @@ function placeMarkersFromGeolocationSearch(map) {
 }
 */
 
-// $(window).load(function() {
-  google.maps.event.addDomListener(window, 'load', init);
-// });
+// google.maps.event.addDomListener(window, 'load', initGoogleMaps);
 
-}());
+// }());
