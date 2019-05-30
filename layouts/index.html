@@ -8,7 +8,9 @@
         {{ partial "head.html" .}}
     </head>
     <body>
-        {{ partial "nav.html" .}}
+	    {{ partial "no-script.html" . }}
+	
+		{{ partial "nav.html" .}}
 
 		{{ partial "hero.html" .}}
 		

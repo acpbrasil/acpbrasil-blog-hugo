@@ -165,6 +165,13 @@ defaultContentLanguage = "pt"
   author = "ACP Brasil, Denis C de Azevedo <denis.azevedo@gmail.com>"
   email = "contato@acpediatrics.com"
 
+  # Enable Google Tag Manager by entering your id
+  googleTagManager = "GTM-WDLFDV2"
+  # Enable Facebook Pixel Code by entering your id
+  facebookPixel = "250954482129336"
+  # Enable LinkedIn Insight by entering your partner id
+  linkedinInsight = "430226"
+
   # Google Maps Javascript API Key (if not set will default to not passing a key)
   # FIXME i18n: Precisa liberar urls /en e /es ???
   googleMapsApiKey = "AIzaSyAjfJiRAe8ct6XKSaHSEXp49sXZBLdmy0Q"
