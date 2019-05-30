@@ -4,7 +4,7 @@ description: "Leia o nosso artigo e veja como fazer o processo de validação de
 date: 2018-08-02T15:08:00-03:00
 # TODO Definir tags
 tags: ["Validação de diploma de enfermeiro nos Estados Unidos", "trabalhar como enfermeiro nos Estados Unidos", "como validar o diploma de enfermeiro nos Estados Unidos", "validar diploma enfermeiro EUA", "diploma de enfermeiro nos estados unidos", "validação diploma enfermeiro EUA"]
-categories: ["Enfermagem", "EUA"]
+categories: ["CGFNS", "Enfermagem", "EUA"]
 banner: "validacao-do-diploma-de-enfermeiro-nos-eua.png"
 # author: "F. Morales"
 source: ""
