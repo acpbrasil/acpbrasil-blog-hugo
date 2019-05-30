@@ -12,8 +12,9 @@
 	<!-- Counter -->
 	<script async src="https://cdnjs.cloudflare.com/ajax/libs/jquery-countto/1.2.0/jquery.countTo.min.js"></script>
 	<!-- Magnific Popup -->
-	<script async src="{{ .Site.BaseURL }}js/jquery.magnific-popup.min.js"></script>
-	<script async src="{{ .Site.BaseURL }}js/magnific-popup-options.js"></script>
+	<script async src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.min.js"></script>
+	{{/*  <script async src="{{ .Site.BaseURL }}js/magnific-popup-options.js"></script>  */}}
+
 
 	<!-- Google Map (load only in the Home page) -->
 	{{ if not .Site.IsServer }}
@@ -24,14 +25,35 @@
 			{{ else }}
 				<script defer src="https://maps.googleapis.com/maps/api/js"></script>
 			{{ end }}
-			<script defer src="{{ .Site.BaseURL }}js/google_map.js"></script>
+			{{/*  <script defer src="{{ .Site.BaseURL }}js/google_map.js"></script>  */}}
+			
+			{{ $maps := resources.Get "js/google_map.js" }}
+			{{ $globalMapJS := $maps }}
+			{{/*  <script defer src="{{ $globalMapJS.Permalink }}"></script>  */}}
+			<script async defer src="{{ $globalMapJS.Permalink }}"></script>
+
 		{{ end }}
 	{{ end }}
 
+
+	{{/*  Hugo Pipes bundling  */}}
+	{{ $theme := resources.Get "js/elate-main.js" }}
+	{{ $custom := resources.Get "js/custom.js" }}
+	{{ $plugins := resources.Get "js/magnific-popup-options.js" }}
+	{{ $scripts := slice $theme $custom $plugins | resources.Concat "js/bundle.js" }}
+
+	{{ $globalJS := $scripts | resources.Minify | resources.Fingerprint }}
+	{{/*  {{ $globalJS := $scripts }}  */}}
+	<!-- Main JavaScript -->
+	<script src="{{ $globalJS.Permalink }}"></script>
+
 	<!-- Main JavaScript -->
 	{{/*  <script src="{{ .Site.BaseURL }}js/main.js"></script> Overrided by elate-main.js  */}}
+	{{/* 
 	<script src="{{ .Site.BaseURL }}js/elate-main.js"></script>
 	<script src="{{ .Site.BaseURL }}js/custom.js"></script>
+	<script async src="{{ .Site.BaseURL }}js/magnific-popup-options.js"></script>
+	*/}}
 
 	
 	{{/* Não carrega os seguintes scripts quando estiver rodando no servidor de desenvolvimento */}}
