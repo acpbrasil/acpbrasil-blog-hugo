@@ -77,7 +77,7 @@ Assim como na enfermagem brasileira, na norte-americana há alguns tipos de cert
 
 + **LPN (licenced practice nurse)**: fazem tarefas como primeiros socorros, análises básicas de laboratório, aplicação de soro e administração de medicamentos, dão pequenos diagnósticos, organizam e supervisionam o serviço dos CNAs, etc. Seriam os técnicos de enfermagem.
 
-+ **RN (registered nurse)**:  são os enfermeiros graduados e que precisam passar no [NCLEX-RN]({{< ref "/blog/2018-05-01-nclex.md" >}}) para atuarem na profissão. Um RN realiza uma gama bastante ampla de tarefas, da pediatria à geriatria. Abaixo, algumas das suas principais atribuições:
++ **RN (registered nurse)**:  são os enfermeiros graduados e que precisam passar no [NCLEX-RN]({{< relref "2018-05-01-nclex" >}}) para atuarem na profissão. Um RN realiza uma gama bastante ampla de tarefas, da pediatria à geriatria. Abaixo, algumas das suas principais atribuições:
 + Observar e registrar o comportamento dos pacientes;
 + Coordenar, com médicos e outros profissionais de saúde, a criação e avaliação de planos de cuidados personalizados para cada paciente;
 + Fornecer apoio emocional e psicológico aos pacientes e suas famílias;

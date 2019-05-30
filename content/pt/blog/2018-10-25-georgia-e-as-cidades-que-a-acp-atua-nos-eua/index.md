@@ -23,9 +23,9 @@ Esse estado conta com belezas naturais espetaculares e nele você encontrará de
 
 Falando agora especificamente de Atlanta, região metropolitana do estado no qual se localiza a sede da ACP, é uma cidade na qual é possível ver claramente o retorno dos impostos pagos pelos seus habitantes. O sistema de metrô é incrível e te leva para qualquer lugar, as ruas estão sempre limpas e também possui um dos maiores aquários do mundo.
 
-<!-- TODO Denis: criar um shortcode pra essas imagens -->
+<!-- FIXME Denis: criar um shortcode pra essas imagens usando pipes pra processar -->
 <div class="img-responsive" title="Aquário Atlanta">
-    <img alt="Um dos maiores aquários do mundo" src="/images/blog/georgia_aquarium.jpg" style="height: 100%; width: 100%; padding-bottom: 25px;">
+    <img alt="Um dos maiores aquários do mundo" src="georgia_aquarium.jpg" style="height: 100%; width: 100%; padding-bottom: 25px;">
 </div>
 
 O estado segue o sistema de educação americano. Antes de chegar ao ensino superior, os alunos cursam 12 anos de estudos, passando pela escola primária e secundária. Se você tem filhos pequenos, poderá fazer uso de um ensino de qualidade e gratuito.
@@ -35,7 +35,7 @@ O estado segue o sistema de educação americano. Antes de chegar ao ensino supe
 #### Powder Springs
 
 <div class="img-responsive" title="Powder Springs GA">
-    <img alt="Powder Springs nos EUA" src="/images/blog/powder_spring.jpeg" style="height: 100%; width: 100%; padding-bottom: 25px;">
+    <img alt="Powder Springs nos EUA" src="powder_spring.jpg" style="height: 100%; width: 100%; padding-bottom: 25px;">
 </div>
 
 Fica localizada no Condado de Cobb e conta com uma população de mais de 15 mil habitantes. O clima da cidade costuma ser quente e abafado no verão e, durante o inverno, que é curto, é bastante fresco e com chuvas. A temperatura média anual varia de 2º a 31º, assim, ficará fácil se adaptar.
@@ -43,7 +43,7 @@ Fica localizada no Condado de Cobb e conta com uma população de mais de 15 mil
 #### Lawrenceville
 
 <div class="img-responsive" title="Lawrenceville GA">
-    <img alt="Lawrenceville nos EUA" src="/images/blog/lawrenceville.jpg" style="height: 100%; width: 100%; padding-bottom: 25px;">
+    <img alt="Lawrenceville nos EUA" src="lawrenceville.jpg" style="height: 100%; width: 100%; padding-bottom: 25px;">
 </div>
 
 Outra cidade no estado da Geórgia na qual a ACP atua com o home care. A população local é 100% urbana, contando em 2014, com mais de 30 mil habitantes. A renda familiar anual do local de acordo com um levantamento em 2016 é de US$ 45.133 ou de R$ 167.154,55. Lá você também encontra casas para comprar com valores compatíveis aos ganhos anuais.
@@ -51,7 +51,7 @@ Outra cidade no estado da Geórgia na qual a ACP atua com o home care. A popula�
 #### Cartersville
 
 <div class="img-responsive" title="Cartersville GA">
-    <img alt="Cartersville nos EUA" src="/images/blog/cartersville.png" style="height: 100%; width: 100%; padding-bottom: 25px;">
+    <img alt="Cartersville nos EUA" src="cartersville.png" style="height: 100%; width: 100%; padding-bottom: 25px;">
 </div>
 
 Uma cidade pequena, com pouco quase 30 mil habitantes, Cartersville é o local ideal para quem gosta de qualidade de vida, segurança e tranquilidade. É uma cidade perfeita para a família, possuindo diversas opções de lazer para todas as idades.

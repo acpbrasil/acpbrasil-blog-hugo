@@ -28,7 +28,7 @@
       
       <!-- Article image -->
       {{ with .Params.banner }}
-      <div class="article-header-image" style="background-image: url('/images/blog/{{ . }}')" title="{{ $.Title }}"></div>
+      <div class="article-header-image" style="background-image: url('{{ . }}')" title="{{ $.Title }}"></div>
       {{ end }}
     
       <!-- Article content -->
