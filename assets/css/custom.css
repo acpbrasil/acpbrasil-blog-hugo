@@ -566,6 +566,9 @@ section#fh5co-intro .fh5co-text > p {
   text-decoration: none;
   border-color: #157cba;
 } 
+.panel.sidebar-menu form .btn {
+  padding: 6px 18px;
+}
 
 .nav-pills > li {
   float: left;
