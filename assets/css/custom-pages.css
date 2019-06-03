@@ -236,8 +236,14 @@ hr + .disqus-comments {
 }
 
 @media (max-width: 767px) {
+  article.post .image {
+    text-align: center;
+  }
   article.post p.intro {
     font-size: 16px;
+  }
+  article.post h3 {
+    text-align: center;
   }
   article.post .baner > .image img.img-responsive {
     min-width: 100%;

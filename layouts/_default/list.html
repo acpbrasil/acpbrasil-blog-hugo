@@ -15,20 +15,26 @@
           <div class="row">
 
             <!-- Banner image -->
-            <div class="banner col-md-4">
+            <div class="banner col-sm-4">
               <div class="image">
                 <a href="{{ .Permalink }}">
-                  {{ if .Params.banner }}
-                    <img src="{{ .Permalink }}/{{ .Params.banner }}" class="img-responsive img-thumbnail" alt="{{ .Description }}" title="{{ .Description }}">
-                  {{ else }}
-                    <img src="{{ .Site.BaseURL}}images/blog/placeholder.png" class="img-responsive img-thumbnail" alt="{{ .Description }}" title="{{ .Description }}">
+                {{ if .Params.banner }}
+                  {{ $imgTitle := .Title }}</pre>
+                  {{ $imgAlt := .Description }}</pre>
+                  {{ with .Resources.GetMatch (.Params.banner) }}
+                    {{ $algorithm := "350x Lanczos"}}
+                    {{ $thumb := .Resize $algorithm }}
+                    <img src="{{ $thumb.Permalink }}" class="img-responsive img-thumbnail" alt="{{ $imgAlt }}" title="{{ $imgTitle }}">
                   {{ end }}
+                {{ else }}
+                  <img src="{{ .Site.BaseURL}}images/blog/placeholder.png" class="img-responsive img-thumbnail" alt="{{ .Description }}" title="{{ .Description }}">
+                {{ end }}
                 </a>
               </div>
             </div>
 
             <!-- Title / author / date -->
-            <div class="content col-md-8">
+            <div class="content col-sm-8">
               <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
               <div class="clearfix">
                 <p class="author-category">

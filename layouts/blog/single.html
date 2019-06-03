@@ -27,10 +27,26 @@
       </p>
       
       <!-- Article image -->
+      {{/*  No optimization
       {{ with .Params.banner }}
-      <div class="article-header-image" style="background-image: url('{{ . }}')" title="{{ $.Title }}"></div>
+        <div class="article-header-image" style="background-image: url('{{ . }}')" title="{{ $.Title }}"></div>
       {{ end }}
-    
+      */}}
+      {{ if .Params.banner }}
+        {{ $imgTitle := .Title }}</pre>
+        {{ $imgAlt := .Description }}</pre>
+        {{ with .Resources.GetMatch (.Params.banner) }}
+          {{/*  https://github.com/disintegration/imaging 
+            Other algoriths:
+            - CatmullRom
+            - MitchellNetravali
+          */}}
+          {{ $algorithm := "x300 Lanczos"}}
+
+          {{ $thumb := .Resize $algorithm }}
+          <div class="article-header-image" style="background-image: url('{{ $thumb.Permalink }}')" title="{{ $imgTitle }}" alt="{{ $imgAlt }}"></div>
+        {{ end }}
+      {{ end }}
       <!-- Article content -->
       <article class="page-content">
         {{ .Content }}
