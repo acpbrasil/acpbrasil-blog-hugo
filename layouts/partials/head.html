@@ -54,7 +54,7 @@
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:description" content="{{ $description }}"/>
     {{ if not .IsHome }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}images/blog/{{ .Params.banner }}">
+    <meta property="og:image" content="{{ .Permalink }}{{ .Params.banner }}">
     {{ else }}
     <meta property="og:image" content="{{ .Site.BaseURL }}images/logo-192x192.png">
     {{ end }}
@@ -64,7 +64,7 @@
     <meta name="twitter:url" content="{{ .Permalink }}" />
     <meta name="twitter:card" content="" />
     {{ if not .IsHome }}
-    <meta name="twitter:image" content="{{ .Site.BaseURL }}images/blog/{{ .Params.banner }}">
+    <meta name="twitter:image" content="{{ .Permalink }}{{ .Params.banner }}">
     {{ else }}
     <meta name="twitter:image" content="{{ .Site.BaseURL }}images/logo-192x192.png">
     {{ end }}
