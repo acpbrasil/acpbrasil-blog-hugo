@@ -5,7 +5,7 @@ date: 2018-08-06T15:08:00-03:00
 # TODO Definir tags
 tags: ["enfermeiro nos eua", "trabalhar como enfermeiro nos estados unidos", "enfermeiro brasileiro nos estados unidos", "ir para os estados unidos"]
 categories: ["Enfermagem", "Mercado", "ACP", "Salário"]
-banner: "sponsor-para-morar-e-trabalhar-como-enfermeiro-nos-eua.jpg"
+banner: "sponsor-para-enfermeiro-eua.jpg"
 # author: "F. Morales"
 source: ""  
 draft: false
