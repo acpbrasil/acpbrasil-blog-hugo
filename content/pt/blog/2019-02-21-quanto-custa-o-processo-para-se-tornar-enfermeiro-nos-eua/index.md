@@ -5,7 +5,7 @@ date: 2019-02-21T09:00:00-02:00
 # TODO Definir tags
 tags: ["enfermeiros brasileiros nos eua", "trabalhar como enfermeiro nos eua"]
 categories: ["Enfermagem", "Mercado"]
-banner: "quanto_custa_o_processo_para_se_tornar_enfermeiro_nos_eua.png"
+banner: "quanto_custa_processo_para_se_tornar_enfermeiro_nos_eua.png"
 # author: "F. Morales"
 source: ""
 draft: false
@@ -49,7 +49,7 @@ Com o CGFNS você terá que arcar com um custo aproximado de US$ 350. Esse é o 
 
 Além desses documentos e custos, ainda há um outro que é a da Tradução Juramentada. Esse valor dependerá de acordo com o tradutor que for escolhido, podendo variar bastante de $ 70 - $250.
 
-### Submissão da documentação para o Board da Georgia e autorização para o NCLEx
+### Submissão da documentação para o Board da Georgia e autorização para o NCLEX
 
 A próxima etapa consiste da aplicação para licença de enfermeiro no Board da [Georgia]({{< relref "2018-10-25-georgia-e-as-cidades-que-a-acp-atua-nos-eua" >}}).
 
@@ -62,7 +62,7 @@ Para isso, você deverá enviar os documentos requeridos pelo órgão regulador 
 
 ### Exame NCLEX
 
-O [NCLEx]({{< relref "2018-05-01-nclex" >}}) tem como objeto avaliar se o profissional tem os conhecimentos necessários para atuar como enfermeiro no país.
+O [NCLEX]({{< relref "2018-05-01-nclex" >}}) tem como objeto avaliar se o profissional tem os conhecimentos necessários para atuar como enfermeiro no país.
 
 A taxa deste exame gira em torno de $ 200, e dos cursos preparatórios entre $ 50 e $ 150. Atualmente é possível fazer o exame no Brasil.
 
