@@ -39,7 +39,7 @@ Veja, a seguir, um passo a passo para que você saiba como se preparar para pres
 
 #### Faça a inscrição
 
-A inscrição para o TOEFL pode ser feita via correio, telefone, pessoalmente ou pelo [site oficial do exame](https://www.ets.org/toefl). O valor pago para prestar o exame é de cerca de U$ 250,00. A prova é realizada mais de 50 vezes por ano no Brasil, nas principais cidades do Brasil.
+A inscrição para o TOEFL pode ser feita via correio, telefone, pessoalmente ou pelo [site oficial do exame](https://www.ets.org/toefl). O valor pago para prestar o exame é de cerca de US$ 250,00. A prova é realizada mais de 50 vezes por ano no Brasil, nas principais cidades do Brasil.
 
 #### Conheça o conteúdo que será abordado
 

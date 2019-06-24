@@ -34,7 +34,7 @@ As provas de proficiência no inglês são requeridas no processo de validação
 
 O Toefl por exemplo, avalia a compreensão de texto e compreensão oral, além das habilidades de conversação e redação.
 
-A taxa que você terá que pagar para realizar o TOEFL é de $ 215. Além dessa taxa, você pode precisar pagar outras em caso, por exemplo, de reagendamento e outros procedimentos necessários.
+A taxa que você terá que pagar para realizar o TOEFL é de US$ 215. Além dessa taxa, você pode precisar pagar outras em caso, por exemplo, de reagendamento e outros procedimentos necessários.
 
 ### Validação do diploma e licença profissional
 
@@ -47,7 +47,7 @@ Essa validação é necessária para que o órgão dos EUA tenha a certeza de qu
 
 Com o CGFNS você terá que arcar com um custo aproximado de US$ 350. Esse é o valor cobrado pela instituição e a validação feita por ela é aceita no [Board da Georgia]({{< relref "2018-09-04-o-que-sao-state-boards-of-nursing" >}}) por exemplo onde a ACP tem as vagas para enfermeiros.
 
-Além desses documentos e custos, ainda há um outro que é a da Tradução Juramentada. Esse valor dependerá de acordo com o tradutor que for escolhido, podendo variar bastante de $ 70 - $250.
+Além desses documentos e custos, ainda há um outro que é a da Tradução Juramentada. Esse valor dependerá de acordo com o tradutor que for escolhido, podendo variar bastante de US$ 70 - 250.
 
 ### Submissão da documentação para o Board da Georgia e autorização para o NCLEX
 
@@ -64,7 +64,7 @@ Para isso, você deverá enviar os documentos requeridos pelo órgão regulador 
 
 O [NCLEX]({{< relref "2018-05-01-nclex" >}}) tem como objeto avaliar se o profissional tem os conhecimentos necessários para atuar como enfermeiro no país.
 
-A taxa deste exame gira em torno de $ 200, e dos cursos preparatórios entre $ 50 e $ 150. Atualmente é possível fazer o exame no Brasil.
+A taxa deste exame gira em torno de US$ 200, e dos cursos preparatórios entre US$ 50 e US$ 150. Atualmente é possível fazer o exame no Brasil.
 
 ### Processo imigratório e Sponsor
 

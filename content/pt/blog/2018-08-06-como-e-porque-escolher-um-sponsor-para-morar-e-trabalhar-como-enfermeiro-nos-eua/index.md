@@ -43,9 +43,9 @@ A ACP Brasil desenvolve um trabalho em que auxilia com toda a parte burocrática
 
 Outro benefício é a possibilidade de inclusão dos familiares, como filhos e marido ou esposa, do profissional no processo imigratório, assim, os familiares diretos podem acompanhar o enfermeiro para o novo país.
 
-No que se refere a valores, a ACP cobra U$ 1000,00 pela consultoria do enfermeiro para que ele consiga sua licença junto ao Board, sendo que o valor pode ser parcelado em até 10 vezes. Já sobre o [salário que você receberá]({{< relref "2018-07-10-qual-o-salario-de-um-enfermeiro-nos-eua" >}}) para atuar como enfermeiro nos EUA é inicial de U$ 21,00 por hora pelos primeiros 6 meses, com plano de aumento ao longo do contrato com a empresa.
+No que se refere a valores, a ACP cobra US$ 1000,00 pela consultoria do enfermeiro para que ele consiga sua licença junto ao Board, sendo que o valor pode ser parcelado em até 10 vezes. Já sobre o [salário que você receberá]({{< relref "2018-07-10-qual-o-salario-de-um-enfermeiro-nos-eua" >}}) para atuar como enfermeiro nos EUA é inicial de US$ 21,00 por hora pelos primeiros 6 meses, com plano de aumento ao longo do contrato com a empresa.
 
-Isso quer dizer que, se trabalhar 40 horas semanais, você terá um salário bruto de aproximadamente U$ 3640,00. Assim, logo no primeiro semestre já será possível pagar pelo serviço contratado e as despesas extras da migração, já obtendo um retorno sobre o investimento realizado.
+Isso quer dizer que, se trabalhar 40 horas semanais, você terá um salário bruto de aproximadamente US$ 3640,00. Assim, logo no primeiro semestre já será possível pagar pelo serviço contratado e as despesas extras da migração, já obtendo um retorno sobre o investimento realizado.
 
 **E então, conseguimos esclarecer as suas dúvidas sobre como escolher um Sponsor e quais são as empresas americanas que contratam enfermeiros brasileiros? Esperamos que nosso conteúdo tenha sido útil e que você possa ter compreendido sobre como começar o processo migratório para trabalhar no país americano e realizar os seus sonhos pessoais e profissionais.**
 

@@ -145,7 +145,7 @@ Se você tiver motivos para acreditar que recebemos acidentalmente informações
 
 ### ACESSO A INFORMAÇÃO
 
-Você tem o direito, sob o Ato de Proteção de Dados, de acessar as informações que mantemos sobre você. Se você deseja exercer este direito, por favor envie sua solicitação para nós através da nossa página de Suporte. Para atender nossos custos de resposta, cobraremos uma taxa de R $ 100,00.
+Você tem o direito, sob o Ato de Proteção de Dados, de acessar as informações que mantemos sobre você. Se você deseja exercer este direito, por favor envie sua solicitação para nós através da nossa página de Suporte. Para atender nossos custos de resposta, cobraremos uma taxa de R$ 100,00.
 
 ### SOBRE A POLÍTICA DE PRIVACIDADE
 
