@@ -5,7 +5,8 @@ date: 2019-02-21T09:00:00-02:00
 # TODO Definir tags
 tags: ["enfermeiros brasileiros nos eua", "trabalhar como enfermeiro nos eua"]
 categories: ["Enfermagem", "Mercado"]
-banner: "quanto_custa_processo_para_se_tornar_enfermeiro_nos_eua.png"
+# banner: "quanto_custa_processo_enfermeiro_nos_eua.jpg"
+banner: "custo_processo.jpg"
 # author: "F. Morales"
 source: ""
 draft: false
