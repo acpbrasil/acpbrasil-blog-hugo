@@ -1,6 +1,6 @@
 ---
-# title: "{{ replace (substr .Name 11) "-" " " | title }}"
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace (substr .Name 11) "-" " " | title }}"
+# title: "{{ replace .Name "-" " " | title }}"
 description: "TODO"
 date: {{ .Date }}
 
@@ -15,5 +15,6 @@ draft: true
 ---
 
 <!-- <TODO Apague esta linha e escreva aqui o blog post> -->
+<!-- ### Subtítulos começam com 3 # -->
 
 {{< download-ebook >}}

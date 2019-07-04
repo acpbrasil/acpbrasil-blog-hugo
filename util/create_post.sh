@@ -1,7 +1,10 @@
 #!/bin/sh
 
 DATE=`date +%Y-%m-%d`
-NAME=${1:-"title-of-the-post"}
+NAME=${@:-"title-of-the-post"}
+NAME=$(sed -e 's/\(.*\)/\L\1/' -e 's/ /-/g' <<< $NAME) # convert to lowercase and replace spaces by dash
+
+# TODO warn when name exceeds n characters
 
 DIR=$DATE-$NAME
 # echo $DIR
