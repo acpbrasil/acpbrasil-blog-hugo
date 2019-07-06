@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.acpbrasil.com/</loc>
-    <lastmod>2019-06-24T20:22:50-03:00</lastmod>
+    <lastmod>2019-07-06T15:11:54-03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -25,7 +25,7 @@
   
   <url>
     <loc>https://www.acpbrasil.com/categories/</loc>
-    <lastmod>2019-06-24T20:22:50-03:00</lastmod>
+    <lastmod>2019-07-06T15:11:54-03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -42,6 +42,11 @@
                 hreflang="pt"
                 href="https://www.acpbrasil.com/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.acpbrasil.com/blog/2019-07-04-novidades-do-toefl/</loc>
+    <lastmod>2019-07-06T15:11:54-03:00</lastmod>
   </url>
   
   <url>
