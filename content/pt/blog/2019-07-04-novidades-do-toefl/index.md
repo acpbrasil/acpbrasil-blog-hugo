@@ -1,7 +1,7 @@
 ---
 title: "Novidades do TOEFL"
 description: "Confira o que mudou no exame"
-date: 2019-07-06T15:10:55-03:00
+date: 2019-07-04T15:10:55-03:00
 
 tags: ["novidades toefl", "boa pontuação no toefl"]
 categories: [ "ingles" ]

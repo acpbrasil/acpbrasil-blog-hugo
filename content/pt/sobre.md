@@ -23,7 +23,7 @@ Parte do sucesso da ACP fundamenta-se em sua cultura única de ir além do traba
   > Na ACP, cuidamos uns dos outros como em uma família, alinhados pelo respeito mútuo e compartilhando os mesmos valores.”
 {{% /blockquote-image-bg %}}
 
-Nos últimos anos a carência de profissionais de enfermagem vem alertando o sistema de saúde americano. Estima-se que até 2022 haverão mais de 700 mil vagas de emprego disponíveis na área de enfermagem. Entendendo este cenário, e considerando a qualidade dos enfermeiros formados no Brasil, a ACP junto com seus parceiros Brasileiros está buscando profissionais qualificados e comprometidos que tenham o sonho de construir uma carreira de sucesso nos Estados Unidos. Estamos aqui para transformar esse sonho em realidade.
+Nos últimos anos a carência de profissionais de enfermagem vem alertando o sistema de saúde americano. Estima-se que até 2022 haverão mais de 700 mil vagas de emprego disponíveis na área de enfermagem. Entendendo este cenário, e considerando a qualidade dos enfermeiros formados no Brasil, a ACP junto com seus parceiros brasileiros está buscando profissionais qualificados e comprometidos que tenham o sonho de construir uma carreira de sucesso nos Estados Unidos. Estamos aqui para transformar esse sonho em realidade.
 
 {{% blockquote-image-bg bg-class="bg-03" %}}
   > Estima-se que até 2022 haverão mais de 700 mil vagas de emprego disponíveis na área de enfermagem.”
