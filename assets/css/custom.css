@@ -534,6 +534,7 @@ section#fh5co-intro .fh5co-text > p {
 }
 .panel.sidebar-menu .panel-body {
   padding: 0;
+  padding-right: 35px;
 }
 .panel.sidebar-menu ul.nav ul {
   list-style: none;
