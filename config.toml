@@ -176,6 +176,9 @@ defaultContentLanguage = "pt"
   # FIXME i18n: Precisa liberar urls /en e /es ???
   googleMapsApiKey = "AIzaSyAjfJiRAe8ct6XKSaHSEXp49sXZBLdmy0Q"
 
+  # URL para a Landing Page para download do ebook (configurado no RD Station)
+  ebookLandingPageUrl = "https://conteudos.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"
+
   defaultKeywords = [ "acp", "blog", "advanced care", "advanced care pediatrics", "acp brasil" ]
 
   # Forms configuration
