@@ -162,7 +162,7 @@ defaultContentLanguage = "pt"
   custom_css = ["css/custom.css"] # Custom CSS files for Home page
 
   # Meta
-  author = "ACP Brasil, Denis C de Azevedo <denis.azevedo@gmail.com>"
+  author = "ACP Brasil, Denis C de Azevedo <denis.azevedo at gmail.com>"
   email = "contato@acpediatrics.com"
 
   # Enable Google Tag Manager by entering your id

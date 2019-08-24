@@ -2,7 +2,10 @@
 
 DATE=`date +%Y-%m-%d`
 NAME=${@:-"title-of-the-post"}
-NAME=$(sed -e 's/\(.*\)/\L\1/' -e 's/ /-/g' <<< $NAME) # convert to lowercase and replace spaces by dash
+
+# convert to lowercase and replace spaces by dash
+# NAME=$(sed -e 's/\(.*\)/\L\1/' -e 's/ /-/g' <<< $NAME)
+NAME=`echo $NAME | tr "[:upper:]" "[:lower:]" | tr " " "-"`
 
 # TODO warn when name exceeds n characters
 

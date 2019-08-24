@@ -14,6 +14,14 @@ git clone --recursive git@github.com:acpbrasil/acpbrasil-blog-hugo.git
 ./create_post.sh title-of-the-post
 ```
 
+Example:
+
+```bash
+./create_post.sh Visto EB3 Como Funciona
+Creating blog post in: 2019-08-24-visto-eb3-como-funciona/index.md
+/Users/denisazevedo/Dev/Projects/acpBrasil/acpbrasil-blog-hugo/content/pt/blog/2019-08-24-visto-eb3-como-funciona/index.md created
+```
+
 ### Start the project from the scratch
 
 ```bash
@@ -39,7 +47,6 @@ git checkout master
 ### For themes
 
 ```bash
-git submodule add https://github.com/devcows/hugo-universal-theme.git themes/universal
 git submodule add https://github.com/saey55/hugo-elate-theme.git themes/elate
 
 # Elate
@@ -47,14 +54,9 @@ cp -R ../source/. ./
 cp -r themes/elate/exampleSite/content/ ./content/
 cp -r themes/elate/exampleSite/static/ ./static/
 
-# Universal
-cp themes/universal/exampleSite/config.toml .
-cp -r themes/universal/exampleSite/content/ ./content/
-cp -r themes/universal/exampleSite/data/ ./data/
-cp -r themes/universal/exampleSite/static/ ./static/
-
 hugo server -D
 
-git ac "add theme and basic info"
+git add .
+git commit -m "add theme and basic info"
 git push
 ```
