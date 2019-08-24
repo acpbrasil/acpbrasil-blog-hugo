@@ -173,8 +173,8 @@ defaultContentLanguage = "pt"
   linkedinInsight = "430226"
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
-  # FIXME i18n: Precisa liberar urls /en e /es ???
-  googleMapsApiKey = "AIzaSyAjfJiRAe8ct6XKSaHSEXp49sXZBLdmy0Q"
+  # TODO i18n: Precisa liberar urls /en e /es ???
+  # googleMapsApiKey = ""
 
   # URL para a Landing Page para download do ebook (configurado no RD Station)
   ebookLandingPageUrl = "https://conteudos.acpbrasil.com/ebook-enfermeiro-nos-eua?utm_source=display&utm_medium=banner_blog_posts"
@@ -257,7 +257,7 @@ defaultContentLanguage = "pt"
   # Contact section
   [params.contact]
     enable = true
-    map = true
+    map = false
     form = false
     subject = "Nova mensagem do site!"  # Home page contact form
     emailTo = "contato@acpediatrics.com"
