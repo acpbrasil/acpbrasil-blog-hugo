@@ -13,7 +13,7 @@ Este site pertence e é operado pela Advanced Care Partners Brasil. Os seguintes
 
 Para os fins deste acordo e para facilidade de uso, qualquer referência a "nós", "nós" ou a "Empresa" será uma referência à Advanced Care Partners Brasil e qualquer referência ao "Site" será uma referência a qualquer e todos os sites de propriedade da Empresa, seus respectivos produtos e seus funcionários e agentes.
 
-Os sites incluem, mas não estão limitados a: acpbrasil.com
+Os sites incluem, mas não estão limitados a: acpbrasil.com e advancedcarepartners.com
 
 Ao acessar este site e qualquer uma das propriedades da empresa, você está reconhecendo e aceitando as condições desta política de privacidade para todas as propriedades da empresa.
 
@@ -51,7 +51,7 @@ Nós coletamos tais informações apenas na medida em que for necessário ou apr
 
 Divulgamos informações potencialmente identificáveis ​​pessoalmente e de identificação pessoal apenas para nossos funcionários, contratados e organizações afiliadas que (i) precisam saber essas informações para processá-las em nosso nome ou fornecer serviços disponíveis em nosso site.
 
-Suas informações de identificação pessoal serão armazenadas em nosso provedor de serviços de e-mail, o Ville Target, por meio da empresa Ville Target Automação de Marketing. Localizada no Brasil e em conformidade com o GDPR. Você pode exercer seus direitos de acesso, retificação, limitação e excluir suas informações pessoais entrando em contato via info (@) acpbrasil (.) com.
+Suas informações de identificação pessoal serão armazenadas em nosso provedor de serviços de e-mail, o Ville Target, por meio da empresa Ville Target Automação de Marketing. Localizada no Brasil e em conformidade com o GDPR. Você pode exercer seus direitos de acesso, retificação, limitação e excluir suas informações pessoais entrando em contato via contato (@) acpediatrics (.) com.
 
 Alguns desses funcionários, contratados e organizações afiliadas podem estar localizados fora do seu país de origem; Ao usar nossos sites, você concorda com a transferência de tais informações para eles.
 
@@ -83,19 +83,16 @@ A empresa usa cookies para ajudar a empresa a identificar e rastrear visitantes,
 
 Aqui estão alguns exemplos e informações sobre como remover seus cookies, dependendo do navegador que você está usando:
 
-- [Google Chrome.](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
-​
+- [Google Chrome.](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)​
 - [Mozilla Firefox.](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
-​
-- [Internet Explorer.](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
-​
+- [Internet Explorer.](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)​
 - [Safari.](https://support.apple.com/kb/ph21411?locale=en_US)
 
 ### PUBLICIDADES
-​
-Se algum anúncio aparecer em qualquer um dos nossos sites, eles podem ser entregues aos usuários por parceiros de publicidade, que podem definir cookies. Esses cookies permitem que o servidor de anúncios reconheça seu computador cada vez que eles enviam um anúncio on-line para compilar informações sobre você ou outras pessoas que usam seu computador. 
 
-Essas informações permitem que as redes de anúncios forneçam, entre outras coisas, anúncios direcionados que acreditam ser de maior interesse para você. 
+Se algum anúncio aparecer em qualquer um dos nossos sites, eles podem ser entregues aos usuários por parceiros de publicidade, que podem definir cookies. Esses cookies permitem que o servidor de anúncios reconheça seu computador cada vez que eles enviam um anúncio on-line para compilar informações sobre você ou outras pessoas que usam seu computador.
+
+Essas informações permitem que as redes de anúncios forneçam, entre outras coisas, anúncios direcionados que acreditam ser de maior interesse para você.
 
 Esta Política de Privacidade cobre o uso de cookies pela Companhia e não cobre o uso de cookies por nenhum anunciante.
 
@@ -107,7 +104,7 @@ Não usamos dados de publicidade do Facebook, incluindo os critérios de segment
 
 Também usamos os recursos para anunciantes do Google Analytics para otimizar nossos negócios. Os recursos do anunciante incluem o remarketing com o Google Analytics, o Relatório de impressões da Rede de Display do Google, as integrações da Plataforma DoubleClick e os Relatórios demográficos e de interesse do Google Analytics.
 
-Ao ativar esses recursos de exibição do Google Analytics, precisamos notificar nossos visitantes divulgando o uso desses recursos e que nós e fornecedores terceirizados utilizamos cookies primários (como o cookie do Google Analytics) ou outros identificadores próprios, e cookies de terceiros (como o cookie da DoubleClick) ou outros identificadores de terceiros juntos para coletar dados sobre suas atividades em nosso site. 
+Ao ativar esses recursos de exibição do Google Analytics, precisamos notificar nossos visitantes divulgando o uso desses recursos e que nós e fornecedores terceirizados utilizamos cookies primários (como o cookie do Google Analytics) ou outros identificadores próprios, e cookies de terceiros (como o cookie da DoubleClick) ou outros identificadores de terceiros juntos para coletar dados sobre suas atividades em nosso site.
 
 Entre outros usos, isso nos permite entrar em contato com você se você começar a preencher um formulário, mas abandoná-lo antes da conclusão com um e-mail lembrando você de concluir o cadastro. O recurso "Remarketing" nos permite alcançar pessoas que já visitaram nosso site e corresponder ao público certo com a mensagem de publicidade correta.
 
@@ -121,7 +118,7 @@ Ao usar qualquer um dos sites da empresa, você concorda com nossa coleta e uso 
 
 ### ESCOLHA / OPT-OUT
 
-Você pode optar por deixar de receber nossos boletins informativos ou e-mails de marketing a qualquer momento, seguindo as instruções de cancelamento de inscrição incluídas em nossos e-mails, atualizando suas preferências de comunicação por meio do nosso provedor de serviços de e-mail ou através do e-mail info@acpbrasil.com
+Você pode optar por deixar de receber nossos boletins informativos ou e-mails de marketing a qualquer momento, seguindo as instruções de cancelamento de inscrição incluídas em nossos e-mails, atualizando suas preferências de comunicação por meio do nosso provedor de serviços de e-mail ou através do e-mail contato@acpediatrics.com.
 
 ### DEPOIMENTOS
 
@@ -133,7 +130,7 @@ Os comentários e outros conteúdos enviados aos nossos sites não são salvos e
 
 ### TERMINAÇÃO
 
-Podemos cancelar ou rescindir o seu direito de usar alguns ou qualquer um dos nossos sites ou qualquer parte desses sites a qualquer momento, sem aviso prévio e a nosso critério. Em caso de cancelamento ou rescisão, você não está mais autorizado a acessar a parte ou partes dos sites afetados por tal cancelamento ou rescisão. 
+Podemos cancelar ou rescindir o seu direito de usar alguns ou qualquer um dos nossos sites ou qualquer parte desses sites a qualquer momento, sem aviso prévio e a nosso critério. Em caso de cancelamento ou rescisão, você não está mais autorizado a acessar a parte ou partes dos sites afetados por tal cancelamento ou rescisão.
 
 As restrições impostas a você em relação ao material baixado de qualquer um de nossos sites, e as isenções de responsabilidade e limitações de responsabilidades estabelecidas nestes Termos de Serviço, devem sobreviver.
 
@@ -141,7 +138,7 @@ As restrições impostas a você em relação ao material baixado de qualquer um
 
 O site não se destina a crianças menores de 13 anos. Nós não coletamos intencionalmente informações pessoais deles. Se descobrirmos que uma criança nos forneceu informações pessoais, usaremos esforços razoáveis ​​para excluir essas informações.
 
-Se você tiver motivos para acreditar que recebemos acidentalmente informações pessoais de uma criança com menos de 13 anos, envie imediatamente os detalhes por meio de info@acpbrasil.com.
+Se você tiver motivos para acreditar que recebemos acidentalmente informações pessoais de uma criança com menos de 13 anos, envie imediatamente os detalhes por meio de contato@acpediatrics.com.
 
 ### ACESSO A INFORMAÇÃO
 
@@ -151,8 +148,8 @@ Você tem o direito, sob o Ato de Proteção de Dados, de acessar as informaçõ
 
 Todo o conteúdo desta Política de Privacidade deve ser lido em conjunto com nossos Termos de Serviço e Isenção de Responsabilidade.
 
-Se você não entende qualquer conteúdo desta Política de Privacidade, ou se você tiver alguma pergunta ou comentário, nós o convidamos a entrar em contato conosco através do info (@) acpbrasil (.) Com.
+Se você não entende qualquer conteúdo desta Política de Privacidade, ou se você tiver alguma pergunta ou comentário, nós o convidamos a entrar em contato conosco através do contato (@) acpediatrics (.) com.
+
 Estamos comprometidos em conduzir nossos negócios de acordo com esses princípios, a fim de garantir que a confidencialidade das informações pessoais seja protegida e mantida.
 
 Esta Política de Privacidade foi atualizada em Junho de 2018.
-

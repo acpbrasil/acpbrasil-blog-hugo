@@ -1,161 +1,156 @@
 ---
-# TODO i18n: Translate!
 title: "Privacy Policy ACP Brasil"
-# TODO i18n: Bruno: Habilitar o slug
 slug: "privacy-policy"
-description: "Sua privacidade é importante para nós, por favor leia atentamente as informações nessa página"
+description: "Your privacy is important to us, please read carefully the information on this page"
 header: ""
 tags: ["privacy policy", "terms"]
 ---
 
-Por favor, leia atentamente as seguintes declarações, pois elas abordam as regras de engajamento entre nós.
+Please, read the following statements carefully as they address the rules of engagement between us.
 
-Queremos garantir que você respeite seus direitos de proteção de dados em conformidade com os mais recentes requisitos do Regulamento Geral de Proteção de Dados da UE [(GDPR)](https://www.gdpr.org/) a partir de 25 de maio de 2018.
+We want to ensure that you respect your data protection rights in accordance with the latest requirements of the EU General Data Protection Regulation [(GDPR)](https://www.gdpr.org/) as of May 25, 2018.
 
-Este site pertence e é operado pela Advanced Care Partners Brasil. Os seguintes termos e condições regem o uso deste site e de todos os outros sites e produtos da Advanced Care Partners Brasil, alguns dos quais (mas não todos) estão listados aqui.
+This site is owned and operated by Advanced Care Partners Brazil. The following terms and conditions govern the use of this site and all other Advanced Care Partners Brazil sites and products, some of which (but not all) are listed here.
 
-Para os fins deste acordo e para facilidade de uso, qualquer referência a "nós", "nós" ou a "Empresa" será uma referência à Advanced Care Partners Brasil e qualquer referência ao "Site" será uma referência a qualquer e todos os sites de propriedade da Empresa, seus respectivos produtos e seus funcionários e agentes.
+For the purposes of this agreement and for ease of use, any reference to “us” and the “company” shall be a reference to Advanced Care Partners Brazil and any reference to the “site” shall be a reference to any and all sites owned by the Company, its respective products, employees, and agents.
 
-Os sites incluem, mas não estão limitados a: acpbrasil.com
+The sites include, but are not limited to: acpbrasil.com and advancedcarepartners.com
 
-Ao acessar este site e qualquer uma das propriedades da empresa, você está reconhecendo e aceitando as condições desta política de privacidade para todas as propriedades da empresa.
+By accessing this site and any of the company’s properties, you are acknowledging and accepting the terms of privacy and policy for all company properties.
 
-Seu uso de qualquer um dos sites da empresa após a implementação de quaisquer alterações constitui sua aceitação das alterações. Como resultado, incentivamos você a consultar os termos e condições aqui frequentemente.
+Your use of any of the company’s websites after the implementation of any changes constitutes your acceptance of the changes. As a result, we encourage you to review the terms and conditions often.
 
-Nós temos alguns princípios fundamentais:
+We have some fundamental principles:
 
-Não coletamos ativamente informações confidenciais sobre você, incluindo informações sobre sua saúde, origem racial ou étnica, opiniões políticas, crenças religiosas, orientação sexual ou antecedentes criminais. Tomaremos medidas para proteger adequadamente qualquer informação sensível que recebamos.
+We do not actively collect confidential information about you, including information about your health, racial or ethnic origin, political opinions, religious beliefs, sexual orientation, or criminal records. We will take steps to adequately protect any sensitive information we receive.
 
-Não compartilhamos suas informações pessoais com ninguém, exceto para cumprir a lei, desenvolver nossos produtos ou proteger nossos direitos.
+We do not share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
 
-Não armazenamos informações pessoais em nossos servidores, a menos que seja necessário para a operação e a entrega contínuas de nossos serviços para você.
+We do not store personal information on our servers unless it is necessary for the continued operation and delivery of our services to you.
 
-Armazenamos informações pessoais apenas enquanto tivermos um motivo para mantê-las.
+We store personal information only as long as we have reason to keep it.
 
-Nos nossos produtos de blog, pretendemos simplificar ao máximo o controle do que é visível para o público, visto pelos mecanismos de pesquisa, mantido como privado e excluído permanentemente.
+In our blog products, we aim to simplify them as much as possible to control what is visible to the public such as viewed by search engines,  are kept private and permanently deleted.
 
-Em nossas comunicações por e-mail, oferecemos opções explícitas para não receber mensagens individuais nas quais você não está interessado. Também oferecemos a opção de cancelar a inscrição de comunicações por e-mail conosco a partir do link de cancelamento na parte inferior de nossos e-mails.
+In our email communications, we offer explicit choices not to receive individual messages that you are not interested in. We also offer the option to unsubscribe from e-mail communications with us from the cancellation link at the bottom of our e-mails.
 
-### TIPO DE IDENTIFICAÇÃO PESSOAL DA INFORMAÇÃO QUE COLETAMOS
+### TYPE OF PERSONAL IDENTIFICATION OF THE INFORMATION WE COLLECT
 
-Como a maioria dos operadores de sites, coletamos (através de seus sites) informações não pessoais do tipo que os navegadores e servidores normalmente disponibilizam, como o tipo de navegador, preferência de idioma, site de referência e a data e hora de cada visitante.
+Like most site operators, we collect (through their sites) the type of non-personal information that browsers and servers that typically provide, such as browser type, language preference, referral site, and date and time of each visitor.
 
-Nosso objetivo ao coletar informações de identificação não pessoal é entender melhor como nossos visitantes usam nosso site.
+Our goal in collecting non-personally identifiable information is to better understand how our visitors use our site.
 
-Também coletamos informações de identificação pessoal, como endereços IP (Internet Protocol). Não usamos essas informações para identificar nossos visitantes e não divulgamos tais informações, exceto nas mesmas circunstâncias em que usamos e divulgamos informações de identificação pessoal, conforme descrito acima.
+We also collect personally identifiable information, such as Internet Protocol (IP) addresses. We do not use this information to identify our visitors and we do not disclose such identity information about our visitors and we do not disclose such information, except in the same circumstances as we use and disclose personally identifiable information as described above.
 
-Certos visitantes de nossos sites escolhem interagir conosco de maneiras que nos obrigam a coletar informações de identificação pessoal, como endereço de e-mail, número de telefone, nome, sobrenome (para citar alguns). A quantidade e o tipo de informação que coletamos dependem da natureza da interação.
+Certain visitors to our sites choose to interact with us in ways that require us to collect personally identifiable information, such as an e-mail address, telephone number, first name, last name (to name a few). The amount and type of information we collect depends on the nature of interaction.
 
-Nós coletamos tais informações apenas na medida em que for necessário ou apropriado para cumprir o propósito da interação do visitante conosco. Nós não divulgamos informações de identificação pessoal além das descritas abaixo. E os visitantes podem sempre se recusar a fornecer informações de identificação pessoal, com a ressalva de que isso pode impedi-los de participar de certas atividades relacionadas ao site.
+We collect such information only to the extent necessary or appropriate to meet the purpose of visitor interaction with us. We do not disclose personally identifiable information other than as described below and visitors can always refuse to provide personally identifiable information, with the proviso that this may prevent them from participating in certain activities related to the site.
 
-É nossa política respeitar sua privacidade em relação a qualquer informação que possamos coletar durante a operação de nossos sites.
+It is our policy to respect your privacy regarding any information we may collect during the operation of our sites.
 
-### PROTEÇÃO DE DETERMINADAS INFORMAÇÕES DE IDENTIFICAÇÃO PESSOAL
+### PROTECTION OF CERTAIN PERSONAL IDENTIFICATION INFORMATION
 
-Divulgamos informações potencialmente identificáveis ​​pessoalmente e de identificação pessoal apenas para nossos funcionários, contratados e organizações afiliadas que (i) precisam saber essas informações para processá-las em nosso nome ou fornecer serviços disponíveis em nosso site.
+We potentially disclose personally identifiable information and personally identifiable information to our employees, contractors, and affiliated organizations that need to know this information to process it on our behalf or provide services available on our site.
 
-Suas informações de identificação pessoal serão armazenadas em nosso provedor de serviços de e-mail, o Ville Target, por meio da empresa Ville Target Automação de Marketing. Localizada no Brasil e em conformidade com o GDPR. Você pode exercer seus direitos de acesso, retificação, limitação e excluir suas informações pessoais entrando em contato via info (@) acpbrasil (.) com.
+Your personally identifiable information will be stored in our e-mail service provider, Ville Target, through Ville Target Automation Marketing. Ville Target is located in Brazil and in compliance with the GDPR. You can exercise your rights of access, rectification, limitation, and delete your personal information by contacting us via contato (@) acpediatrics (.) com.
 
-Alguns desses funcionários, contratados e organizações afiliadas podem estar localizados fora do seu país de origem; Ao usar nossos sites, você concorda com a transferência de tais informações para eles.
+Some of these employees, contractors, and affiliated organizations may be located outside your home country. By using our sites, you agree to the transfer of such information to them.
 
-Não alugamos nem vendemos informações de identificação pessoal e de identificação pessoal a ninguém. Além de nossos funcionários, contratados e organizações afiliadas, conforme descrito acima, divulgamos informações de identificação pessoal e de identificação pessoal somente quando exigido por lei, ou quando acreditamos de boa fé que a divulgação é razoavelmente necessária para proteger a propriedade ou os direitos da Companhia, de terceiros ou do público em geral.
+We do not rent or sell personally identifiable information and personally identifiable information to anyone. In addition to our employees, contractors, and affiliated organizations, as described above, we disclose personally identifiable information and personally identifiable information only when required by law, or when we have a good faith belief that disclosure is reasonably necessary to protect the Company's property or rights, third parties, or the general public.
 
-### COMO USAMOS SUAS INFORMAÇÕES IDENTIFICANDO PESSOALMENTE
+### HOW WE USE YOUR INFORMATION IDENTIFYING PERSONALLY
 
-Se você é um usuário registrado de qualquer um de nossos sites e forneceu seu endereço de e-mail, ocasionalmente lhe enviaremos um e-mail para informá-lo sobre nossos produtos ou atualizações que você pode acessar, solicitar seus comentários ou apenas mantê-lo atualizado o que está acontecendo conosco e na indústria.
+If you are a registered user of any of our sites and provided your email address, we will occasionally send you an email to advise you of our products or updates that you can access, request your comments, or just keep updated what is happening to us and in the industry.
 
-Estamos comprometidos em fornecer apenas informações e treinamento que consideramos relevantes e benéficos para você. Esperamos manter esse tipo de email no mínimo.
+We are committed to providing only information and training that we believe is relevant and beneficial to you. We hope to keep this type of email to a minimum.
 
-Tomamos todas as medidas razoavelmente necessárias para proteger contra o acesso não autorizado, uso, alteração ou destruição de informações de identificação pessoal e de identificação pessoal.
+We take all reasonable steps to protect against unauthorized access, use, alteration, or destruction of personally identifiable information and personally identifiable information.
 
-### ESTATÍSTICAS AGREGADAS
+### ADDED STATISTICS
 
-Podemos coletar estatísticas sobre o comportamento dos visitantes de nossos sites. Não divulgaremos informações de identificação pessoal além das descritas acima.
+We may collect statistics about the behavior of visitors to our sites. We will not disclose personally identifiable information other than as described above.
 
-### COOKIES E OUTRAS TECNOLOGIAS DE RASTREAMENTO
+### COOKIES AND OTHER TRACEABLE TECHNOLOGIES
 
-Cookies são pequenos arquivos de texto de informações armazenadas pelo seu navegador de internet no disco rígido do seu computador. Podemos usar cookies para coletar dados de navegação, por exemplo, para rastrear suas preferências e informações de perfil e coletar informações estatísticas gerais de uso e volume. Nossos cookies não coletam informações pessoais e confidenciais e não são spyware.
+Cookies are small text files of information stored by your internet browser on your computer's hard drive. We may use cookies to collect browsing data, for example, to track your preferences and profile information, and collect general usage statistics and volume information. Our cookies do not collect personal and confidential information and are not spyware.
 
-Você pode configurar seu navegador da Internet para recusar cookies ou remover cookies de seu disco rígido.
+You can configure your Internet browser to refuse cookies or remove cookies from your hard disk.
 
-Um cookie é uma cadeia de informações que um website armazena no computador de um visitante e que o navegador do visitante fornece ao website sempre que o visitante retorna. Cookies são pequenos arquivos que o seu navegador coloca no seu disco rígido para fins de manutenção de registros.
+A cookie is a chain of information that a website stores on a visitor's computer and which the visitor's browser provides to the website whenever the visitor returns. Cookies are small files that your browser puts on your hard drive for record keeping purposes.
 
-Ao mostrar como e quando os visitantes usam o Site, os cookies nos ajudam a fornecer anúncios, identificar quantos usuários exclusivos nos visitam e rastrear tendências e padrões de usuários. Eles também impedem que você tenha que reinserir suas preferências em certas áreas do site onde você pode ter inserido informações de preferência antes.
+By showing how and when visitors use the Site, cookies help us deliver ads, identify how many unique users they visit, and track user trends and patterns. They also prevent you from having to reinsert your preferences in certain areas of the site where you may have entered information of preference before.
 
-A empresa usa cookies para ajudar a empresa a identificar e rastrear visitantes, o uso dos sites da empresa e suas preferências de acesso aos sites. Os visitantes da Empresa que não desejarem que os cookies sejam colocados em seus computadores devem configurar seus navegadores para recusarem cookies antes de usar os sites da empresa, com a desvantagem de que certos recursos dos sites da empresa podem não funcionar adequadamente sem o auxílio de cookies.
+The company uses cookies to help the company identify and track visitors, use of company websites, and their site access preferences. Company visitors who do not wish cookies to be placed on their computers should configure their browsers to refuse cookies before using their company websites, with the disadvantage that certain features of company websites may not function properly without the aid of cookies .
 
-Aqui estão alguns exemplos e informações sobre como remover seus cookies, dependendo do navegador que você está usando:
+Here are some examples and information on how to remove your cookies, depending on which browser you are using:
 
 - [Google Chrome.](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
-​
 - [Mozilla Firefox.](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
-​
-- [Internet Explorer.](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
-​
+- [Internet Explorer.](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)​
 - [Safari.](https://support.apple.com/kb/ph21411?locale=en_US)
 
-### PUBLICIDADES
-​
-Se algum anúncio aparecer em qualquer um dos nossos sites, eles podem ser entregues aos usuários por parceiros de publicidade, que podem definir cookies. Esses cookies permitem que o servidor de anúncios reconheça seu computador cada vez que eles enviam um anúncio on-line para compilar informações sobre você ou outras pessoas que usam seu computador. 
+### ADS
 
-Essas informações permitem que as redes de anúncios forneçam, entre outras coisas, anúncios direcionados que acreditam ser de maior interesse para você. 
+If any ads appear on any of our sites, they can be delivered to users by advertising partners who can set cookies. These cookies allow the ad server to recognize your computer each time they submit an online ad to compile information about you or others who use your computer.
 
-Esta Política de Privacidade cobre o uso de cookies pela Companhia e não cobre o uso de cookies por nenhum anunciante.
+This information allows ad networks to provide, among other things, targeted ads that they believe are of greatest interest to you.
 
-Como anunciantes no Facebook e em nossa página no Facebook, nós (e não o Facebook) podemos coletar conteúdo ou informações de um usuário do Facebook, e tais informações podem ser usadas da mesma maneira especificada nesta Política de Privacidade. Você concorda com a coleta de tais informações. Cumprimos as Restrições de Uso de Dados do Facebook.
+This Privacy Policy covers the use of cookies by the Company and does not cover the use of cookies by any advertisers.
 
-Não transferimos nenhum dado de publicidade do Facebook (incluindo dados anônimos, agregados ou derivados) a qualquer rede de publicidade, troca de anúncios, intermediário de dados ou outro serviço relacionado a publicidade ou monetização.
+As advertisers on Facebook and on our Facebook page, we (and not Facebook) may collect content or information from a Facebook user, and such information may be used in the same manner as specified in this Privacy Policy. You agree to the collection of such information. We comply with the Facebook Data Usage Restrictions.
 
-Não usamos dados de publicidade do Facebook, incluindo os critérios de segmentação para um anúncio do Facebook, para criar, anexar, editar, influenciar ou aumentar perfis de usuário, incluindo perfis associados a qualquer identificador de dispositivo móvel ou outro identificador exclusivo que identifique qualquer usuário específico navegador, computador ou dispositivo.
+We do not transfer any Facebook advertising data (including anonymous, aggregate, or derived data) to any ad network, ad exchange, data broker, or other service related to advertising or monetization.
 
-Também usamos os recursos para anunciantes do Google Analytics para otimizar nossos negócios. Os recursos do anunciante incluem o remarketing com o Google Analytics, o Relatório de impressões da Rede de Display do Google, as integrações da Plataforma DoubleClick e os Relatórios demográficos e de interesse do Google Analytics.
+We do not use Facebook advertising data, including targeting criteria for a Facebook ad, to create, attach, edit, influence, or increase user profiles, including profiles associated with any mobile device identifier or other unique identifiers that identifies any user specific browser, computer, or device.
 
-Ao ativar esses recursos de exibição do Google Analytics, precisamos notificar nossos visitantes divulgando o uso desses recursos e que nós e fornecedores terceirizados utilizamos cookies primários (como o cookie do Google Analytics) ou outros identificadores próprios, e cookies de terceiros (como o cookie da DoubleClick) ou outros identificadores de terceiros juntos para coletar dados sobre suas atividades em nosso site. 
+We also use Google Analytics advertiser resources to optimize our business. Advertiser features include Remarketing with Google Analytics, the Google Display Network Impressions Report, DoubleClick Platform integrations, and Google Analytics Demographics and Interest Reports.
 
-Entre outros usos, isso nos permite entrar em contato com você se você começar a preencher um formulário, mas abandoná-lo antes da conclusão com um e-mail lembrando você de concluir o cadastro. O recurso "Remarketing" nos permite alcançar pessoas que já visitaram nosso site e corresponder ao público certo com a mensagem de publicidade correta.
+By enabling these Google Analytics display features, we must notify our visitors of the use of these features and that we and third-party vendors use primary cookies (such as the Google Analytics cookie) or other proprietary identifiers, and third-party cookies (such as Cookie DoubleClick) or other third party identifiers together to collect data about your activities on our site.
 
-Você pode desativar o uso de cookies pelo Google acessando as configurações de anúncios do Google e / ou desativar o uso de cookies de um fornecedor terceirizado visitando a [página de desativação da Network Advertising Initiative.](http://optout.networkadvertising.org/)
+Among other uses, this allows us to contact you if you start filling out a form, but abandon it before completion with an email reminding you to complete the registration. The Remarketing feature allows us to reach people who have already visited our site and match the right audience with the right advertising message.
 
-Usamos os códigos de remarketing do Google Analytics para fazer login quando os usuários visualizam páginas específicas ou realizam ações específicas em um website. Isso nos permite fornecer publicidade direcionada no futuro. Se você não quiser receber esse tipo de publicidade conosco no futuro, poderá cancelar a inscrição usando a [página de desativação do DoubleClick](https://adssettings.google.com/authenticated?hl=en#display_optout) ou a [página de desativação da Network Advertising Initiative.](http://optout.networkadvertising.org/?c=1)
+You may disable Google's use of cookies by accessing Google's ad settings and/ or disabling the use of cookies from a third-party vendor by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
 
-### SUA PERMISSÃO
+We use Google Analytics remarketing codes to sign in when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not want to receive this type of advertising with us in the future, you can unsubscribe using the [DoubleClick opt-out page](https://adssettings.google.com/authenticated?hl=en#display_optout) or the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/?c=1).
 
-Ao usar qualquer um dos sites da empresa, você concorda com nossa coleta e uso de suas informações pessoais, conforme descrito nesta política de privacidade.
+### YOUR PERMISSION
 
-### ESCOLHA / OPT-OUT
+By using any of the company's websites, you consent to our collection and use of your personal information as described in this privacy policy.
 
-Você pode optar por deixar de receber nossos boletins informativos ou e-mails de marketing a qualquer momento, seguindo as instruções de cancelamento de inscrição incluídas em nossos e-mails, atualizando suas preferências de comunicação por meio do nosso provedor de serviços de e-mail ou através do e-mail info@acpbrasil.com
+### CHOICE / OPT-OUT
 
-### DEPOIMENTOS
+You may choose to stop receiving our marketing bulletins or emails at any time by following the unsubscribe instructions included in our emails by updating your communication preferences through our email service provider or through the e-mail contato@acpediatrics.com.
 
-Se você nos fornecer um depoimento, você nos dará seu consentimento para o uso de seu nome e do Serviço a ser exibido em qualquer um de nossos sites, ou em nossos outros materiais de marketing, juntamente com o conteúdo do depoimento que você fornecer.
+### DEPOSITIONS
 
-### COMENTÁRIOS
+If you provide us with a statement, you will give us your consent to use your name and the Service to be displayed on any of our sites, or in our other marketing materials, along with the content of the testimonial you provide.
 
-Os comentários e outros conteúdos enviados aos nossos sites não são salvos em nossos servidores, a menos que sejam marcados como falsos positivos. Nesse caso, os armazenamos por tempo suficiente para usá-los para melhorar o serviço, a fim de evitar futuros falsos positivos.
+### COMMENTS
 
-### TERMINAÇÃO
+Comments and other content submitted to our sites are not saved on our servers unless they are marked as false positives. In this case, we store them long enough to use them to improve the service in order to avoid future false positives.
 
-Podemos cancelar ou rescindir o seu direito de usar alguns ou qualquer um dos nossos sites ou qualquer parte desses sites a qualquer momento, sem aviso prévio e a nosso critério. Em caso de cancelamento ou rescisão, você não está mais autorizado a acessar a parte ou partes dos sites afetados por tal cancelamento ou rescisão. 
+### TERMINATION
 
-As restrições impostas a você em relação ao material baixado de qualquer um de nossos sites, e as isenções de responsabilidade e limitações de responsabilidades estabelecidas nestes Termos de Serviço, devem sobreviver.
+We may terminate or terminate your right to use any or any of our sites or any portion of such sites at any time without notice and at our discretion. In the event of cancellation or termination, you are no longer authorized to access the part or parts of the sites affected by such cancellation or termination.
 
-### PRIVACIDADE DAS CRIANÇAS
+Restrictions imposed on you in relation to material downloaded from any of our sites, including the disclaimers and limitations of liability set forth in these Terms of Service, must survive.
 
-O site não se destina a crianças menores de 13 anos. Nós não coletamos intencionalmente informações pessoais deles. Se descobrirmos que uma criança nos forneceu informações pessoais, usaremos esforços razoáveis ​​para excluir essas informações.
+### PRIVACY OF CHILDREN
 
-Se você tiver motivos para acreditar que recebemos acidentalmente informações pessoais de uma criança com menos de 13 anos, envie imediatamente os detalhes por meio de info@acpbrasil.com.
+The site is not intended for children under the age of 13. We do not knowingly collect personal information from them. If we find that a child has provided us with personal information, we will use reasonable efforts to exclude such information.
 
-### ACESSO A INFORMAÇÃO
+If you have reason to believe that we have accidentally received personal information from a child under the age of 13, please send the details immediately to contato@acpediatrics.com.
 
-Você tem o direito, sob o Ato de Proteção de Dados, de acessar as informações que mantemos sobre você. Se você deseja exercer este direito, por favor envie sua solicitação para nós através da nossa página de Suporte. Para atender nossos custos de resposta, cobraremos uma taxa de R$ 100,00.
+### ACCESS TO INFORMATION
 
-### SOBRE A POLÍTICA DE PRIVACIDADE
+You have the right, under the Data Protection Act, to access the information we hold about you. If you wish to exercise this right, please send your request to us through our Support page. To meet our response costs, we will charge a fee of $100.00.
 
-Todo o conteúdo desta Política de Privacidade deve ser lido em conjunto com nossos Termos de Serviço e Isenção de Responsabilidade.
+### ABOUT PRIVACY POLICY
 
-Se você não entende qualquer conteúdo desta Política de Privacidade, ou se você tiver alguma pergunta ou comentário, nós o convidamos a entrar em contato conosco através do info (@) acpbrasil (.) Com.
-Estamos comprometidos em conduzir nossos negócios de acordo com esses princípios, a fim de garantir que a confidencialidade das informações pessoais seja protegida e mantida.
+All content in this Privacy Policy must be read in conjunction with our Terms of Service and Disclaimer.
 
-Esta Política de Privacidade foi atualizada em Junho de 2018.
+If you do not understand any of the content of this Privacy Policy, or if you have any questions or comments, we invite you to contact us at contato (@) acpediatrics (.) com.
 
+We are committed to conducting our business in accordance with these to ensure that the confidentiality of personal information is protected and maintained.
+
+This Privacy Policy was updated in June 2018.

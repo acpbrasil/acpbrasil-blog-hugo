@@ -1,161 +1,156 @@
 ---
-# TODO i18n: Translate!
 title: "Política de Privacidad ACP Brasil"
-# TODO i18n: Bruno: Habilitar o slug
-slug: "politica-privacidad"
-description: "Sua privacidade é importante para nós, por favor leia atentamente as informações nessa página"
+slug: "politica-de-privacidad"
+description: "Su privacidad es importante para nosotros, por favor lea atentamente la información en esta página"
 header: ""
 tags: ["política de privacidad"]
 ---
 
-Por favor, leia atentamente as seguintes declarações, pois elas abordam as regras de engajamento entre nós.
+Por favor, lea atentamente las siguientes declaraciones, que abordan las reglas de compromiso entre nosotros.
 
-Queremos garantir que você respeite seus direitos de proteção de dados em conformidade com os mais recentes requisitos do Regulamento Geral de Proteção de Dados da UE [(GDPR)](https://www.gdpr.org/) a partir de 25 de maio de 2018.
+Queremos garantizar que usted respete sus derechos de protección de datos a conformidad con los últimos requisitos del Reglamento General de Protección de Datos de la UE [(GDPR)](https://www.gdpr.org/) a partir del 25 de Mayo del 2018.
 
-Este site pertence e é operado pela Advanced Care Partners Brasil. Os seguintes termos e condições regem o uso deste site e de todos os outros sites e produtos da Advanced Care Partners Brasil, alguns dos quais (mas não todos) estão listados aqui.
+Este sitio pertenece y es operado por Advanced Care Partners Brasil. Los siguientes términos y condiciones rigen al uso de este sitio y de todos los demás sitios y productos de Advanced Care Partners Brasil, algunos de los cuales (pero no todos) se mencionan aquí.
 
-Para os fins deste acordo e para facilidade de uso, qualquer referência a "nós", "nós" ou a "Empresa" será uma referência à Advanced Care Partners Brasil e qualquer referência ao "Site" será uma referência a qualquer e todos os sites de propriedade da Empresa, seus respectivos produtos e seus funcionários e agentes.
+Para el proposito de este acuerdo y para facilitar su uso, cualquier referencia a "nosotros", o la "Empresa" será una referencia al Advanced Care Partners Brasil y cualquier referencia al "Sitio" será una referencia a cualquiera y todos los sitios de propiedad de la Empresa, sus respectivos productos y sus empleados y agentes.
 
-Os sites incluem, mas não estão limitados a: acpbrasil.com
+Los sitios web incluyen, pero no están limitados a: acpbrasil.com y advancedcarepartners.com
 
-Ao acessar este site e qualquer uma das propriedades da empresa, você está reconhecendo e aceitando as condições desta política de privacidade para todas as propriedades da empresa.
+El uso de este sitio web y cualquiera de las propiedades de la empresa, es reconocimiento y aceptacion a las condiciones de esta política de privacidad.
 
-Seu uso de qualquer um dos sites da empresa após a implementação de quaisquer alterações constitui sua aceitação das alterações. Como resultado, incentivamos você a consultar os termos e condições aqui frequentemente.
+Su uso de cualquiera de los sitios de la empresa después de la implementación de cualquier cambio constituye su aceptación de los cambios. Como resultado, le animamos a consultar los términos y condiciones a menudo.
 
-Nós temos alguns princípios fundamentais:
+Tenemos algunos principios fundamentales:
 
-Não coletamos ativamente informações confidenciais sobre você, incluindo informações sobre sua saúde, origem racial ou étnica, opiniões políticas, crenças religiosas, orientação sexual ou antecedentes criminais. Tomaremos medidas para proteger adequadamente qualquer informação sensível que recebamos.
+No recogemos activamente información confidencial sobre usted, incluyendo información sobre su salud, origen racial o étnico, opiniones políticas, creencias religiosas, orientación sexual o antecedentes penales. Tomaremos medidas para proteger adecuadamente cualquier información sensible que recibamos.
 
-Não compartilhamos suas informações pessoais com ninguém, exceto para cumprir a lei, desenvolver nossos produtos ou proteger nossos direitos.
+No compartimos su información personal con nadie, excepto para cumplir con la ley, desarrollar nuestros productos o proteger nuestros derechos.
 
-Não armazenamos informações pessoais em nossos servidores, a menos que seja necessário para a operação e a entrega contínuas de nossos serviços para você.
+No almacenamos información personal en nuestros servidores, a menos que sea necesario para la operación y la entrega continuas de nuestros servicios para usted.
 
-Armazenamos informações pessoais apenas enquanto tivermos um motivo para mantê-las.
+Almacenamos información personal sólo mientras tengamos un motivo para mantenerlas.
 
-Nos nossos produtos de blog, pretendemos simplificar ao máximo o controle do que é visível para o público, visto pelos mecanismos de pesquisa, mantido como privado e excluído permanentemente.
+En nuestros productos de blog, pretendemos simplificar al máximo el control de lo que es visible para el público, visto por los mecanismos de investigación, mantenido como privado y excluido permanentemente.
 
-Em nossas comunicações por e-mail, oferecemos opções explícitas para não receber mensagens individuais nas quais você não está interessado. Também oferecemos a opção de cancelar a inscrição de comunicações por e-mail conosco a partir do link de cancelamento na parte inferior de nossos e-mails.
+En nuestras comunicaciones por e-mail, ofrecemos opciones explícitas para no recibir mensajes individuales en los que usted no está interesado. También ofrecemos la opción de cancelar la inscripción de comunicaciones por correo electrónico con nosotros desde el enlace de cancelación en la parte inferior de nuestros e-mails.
 
-### TIPO DE IDENTIFICAÇÃO PESSOAL DA INFORMAÇÃO QUE COLETAMOS
+### TIPOS DE IDENTIFICACIÓN PERSONAL DE INFORMACIÓN QUE COLECTAMOS
 
-Como a maioria dos operadores de sites, coletamos (através de seus sites) informações não pessoais do tipo que os navegadores e servidores normalmente disponibilizam, como o tipo de navegador, preferência de idioma, site de referência e a data e hora de cada visitante.
+Como la mayoría de los operadores de sitios, recopilamos (a través de sus motores de busceda) información que no personal, del tipo que los navegadores y servidores normalmente ofrecen, como el tipo de navegador, la preferencia de idioma, el sitio de referencia y la fecha y hora de cada visitante.
 
-Nosso objetivo ao coletar informações de identificação não pessoal é entender melhor como nossos visitantes usam nosso site.
+Nuestro objetivo al recoger información de identificación, no personal , es mejor entendido cómo nuestros visitantes usan nuestro sitio.
 
-Também coletamos informações de identificação pessoal, como endereços IP (Internet Protocol). Não usamos essas informações para identificar nossos visitantes e não divulgamos tais informações, exceto nas mesmas circunstâncias em que usamos e divulgamos informações de identificação pessoal, conforme descrito acima.
+También recopilamos información de identificación personal, como direcciones IP (Internet Protocol). No utilizamos esta información para identificar a nuestros visitantes y no divulgamos dicha información, excepto en las mismas circunstancias en que usamos y divulgamos información de identificación personal, como se ha descrito anteriormente.
 
-Certos visitantes de nossos sites escolhem interagir conosco de maneiras que nos obrigam a coletar informações de identificação pessoal, como endereço de e-mail, número de telefone, nome, sobrenome (para citar alguns). A quantidade e o tipo de informação que coletamos dependem da natureza da interação.
+Algunos visitantes de nuestros sitios eligen interactuar con nosotros de maneras que nos obligan a recoger información de identificación personal, como dirección de correo electrónico, número de teléfono, nombre, apellido (por citar algunos). La cantidad y el tipo de información que recolectamos dependen de la naturaleza de la interacción.
 
-Nós coletamos tais informações apenas na medida em que for necessário ou apropriado para cumprir o propósito da interação do visitante conosco. Nós não divulgamos informações de identificação pessoal além das descritas abaixo. E os visitantes podem sempre se recusar a fornecer informações de identificação pessoal, com a ressalva de que isso pode impedi-los de participar de certas atividades relacionadas ao site.
+Nosotros recogemos esta información sólo en la medida en que sea necesario o apropiado para cumplir el propósito de la interacción del visitante. No divulgamos información de identificación personal más allá de lo que se a dicho anteriormente. Y los visitantes siempre pueden niegar a dar información de personal con el conocimiento de que esto puede impedirles participar en ciertas actividades relacionadas con el sitio.
 
-É nossa política respeitar sua privacidade em relação a qualquer informação que possamos coletar durante a operação de nossos sites.
+Es nuestra política respetar su privacidad en relación a cualquier información que podamos recoger durante la operación de nuestros sitios.
 
-### PROTEÇÃO DE DETERMINADAS INFORMAÇÕES DE IDENTIFICAÇÃO PESSOAL
+### PROTECCIÓN DE CIERTA INFORMACIÓN DE IDENTIFICACIÓN PERSONAL
 
-Divulgamos informações potencialmente identificáveis ​​pessoalmente e de identificação pessoal apenas para nossos funcionários, contratados e organizações afiliadas que (i) precisam saber essas informações para processá-las em nosso nome ou fornecer serviços disponíveis em nosso site.
+Divulgamos información potencialmente identificable y personal sólo para nuestros empleados, contratados y organizaciones afiliadas que (i) necesitan saber esta información para procesarlas en nuestro nombre o proporcionar servicios disponibles en nuestro sitio.
 
-Suas informações de identificação pessoal serão armazenadas em nosso provedor de serviços de e-mail, o Ville Target, por meio da empresa Ville Target Automação de Marketing. Localizada no Brasil e em conformidade com o GDPR. Você pode exercer seus direitos de acesso, retificação, limitação e excluir suas informações pessoais entrando em contato via info (@) acpbrasil (.) com.
+Su información de identificación personal será almacenada en nuestro proveedor de servicios de correo electrónico, Ville Target, a través de la empresa Ville Target Automation de Marketing. Localizada en Brasil y a conformidad con el GDPR. Usted puede ejercer sus derechos de acceso, rectificación, limitación y excluir su información personal entrando en contacto vía contato (@) acpediatrics (.) com.
 
-Alguns desses funcionários, contratados e organizações afiliadas podem estar localizados fora do seu país de origem; Ao usar nossos sites, você concorda com a transferência de tais informações para eles.
+Algunos de estos empleados, contratados y organizaciones afiliadas pueden estar situados fuera de su país de origen; Al usar nuestros sitios, usted acepta la transferencia de dicha información a ellos.
 
-Não alugamos nem vendemos informações de identificação pessoal e de identificação pessoal a ninguém. Além de nossos funcionários, contratados e organizações afiliadas, conforme descrito acima, divulgamos informações de identificação pessoal e de identificação pessoal somente quando exigido por lei, ou quando acreditamos de boa fé que a divulgação é razoavelmente necessária para proteger a propriedade ou os direitos da Companhia, de terceiros ou do público em geral.
+No alquilamos ni vendemos información de identificación personal a nadie. Además de nuestros empleados, contratistas y organizaciones afiliadas, como se ha descrito anteriormente, divulgamos información de identificación personal sólo cuando es requerido por la ley, o cuando creemos de buena fe que la divulgación es razonablemente necesaria para proteger la propiedad o los derechos de la Compañía de terceros o del público en general.
 
-### COMO USAMOS SUAS INFORMAÇÕES IDENTIFICANDO PESSOALMENTE
+### CÓMO USAMOS SU INFORMACIÓN IDENTIFICANDO PERSONALMENTE
 
-Se você é um usuário registrado de qualquer um de nossos sites e forneceu seu endereço de e-mail, ocasionalmente lhe enviaremos um e-mail para informá-lo sobre nossos produtos ou atualizações que você pode acessar, solicitar seus comentários ou apenas mantê-lo atualizado o que está acontecendo conosco e na indústria.
+Si usted es un usuario registrado de cualquiera de nuestros sitios y ha proporcionado su dirección de correo electrónico, le enviaremos un correo electrónico para informarle sobre nuestros productos o actualizaciones que usted puede acceder, solicitar sus comentarios o simplemente mantenerlo actualizado de lo que está sucediendo con nosotros y en la industria.
 
-Estamos comprometidos em fornecer apenas informações e treinamento que consideramos relevantes e benéficos para você. Esperamos manter esse tipo de email no mínimo.
+Estamos comprometidos a proporcionar sólo información y capacitación que consideramos relevantes y beneficiosos para usted. Esperamos mantener este tipo de correo como mínimo.
 
-Tomamos todas as medidas razoavelmente necessárias para proteger contra o acesso não autorizado, uso, alteração ou destruição de informações de identificação pessoal e de identificação pessoal.
+Tomamos todas las medidas razonablemente necesarias para proteger contra el acceso no autorizado, uso, alteración o destrucción de información de identificación personal.
 
-### ESTATÍSTICAS AGREGADAS
+### ESTADÍSTICAS AGREGADAS
 
-Podemos coletar estatísticas sobre o comportamento dos visitantes de nossos sites. Não divulgaremos informações de identificação pessoal além das descritas acima.
+Podemos recopilar estadísticas sobre el comportamiento de los visitantes de nuestros sitios. No divulgaremos información de identificación personal más allá de las descritas arriba.
 
-### COOKIES E OUTRAS TECNOLOGIAS DE RASTREAMENTO
+### COOKIES Y OTRAS TECNOLOGÍAS DE RASTREO
 
-Cookies são pequenos arquivos de texto de informações armazenadas pelo seu navegador de internet no disco rígido do seu computador. Podemos usar cookies para coletar dados de navegação, por exemplo, para rastrear suas preferências e informações de perfil e coletar informações estatísticas gerais de uso e volume. Nossos cookies não coletam informações pessoais e confidenciais e não são spyware.
+Cookies son pequeños archivos de texto de información almacenados por su navegador de Internet en el disco duro de su ordenador. Podemos utilizar cookies para recopilar datos de navegación, por ejemplo, para rastrear sus preferencias e información de perfil y recopilar información estadística general de uso y volumen. Nuestros cookies no recopilan información personal o confidencial y no son spyware.
 
-Você pode configurar seu navegador da Internet para recusar cookies ou remover cookies de seu disco rígido.
+Puede configurar su navegador de Internet para rechazar cookies o eliminar cookies de su disco duro.
 
-Um cookie é uma cadeia de informações que um website armazena no computador de um visitante e que o navegador do visitante fornece ao website sempre que o visitante retorna. Cookies são pequenos arquivos que o seu navegador coloca no seu disco rígido para fins de manutenção de registros.
+Una cookie es una cadena de información que un sitio web almacena en el equipo de un visitante y que el navegador del visitante proporciona al sitio web cada vez que regresa el visitante. Cookies son pequeños archivos que su navegador coloca en su disco duro para el mantenimiento de registros.
 
-Ao mostrar como e quando os visitantes usam o Site, os cookies nos ajudam a fornecer anúncios, identificar quantos usuários exclusivos nos visitam e rastrear tendências e padrões de usuários. Eles também impedem que você tenha que reinserir suas preferências em certas áreas do site onde você pode ter inserido informações de preferência antes.
+Al mostrar cómo y cuándo los visitantes usan el sitio, las cookies nos ayudan a proporcionar anuncios, identificar cuántos usuarios únicos nos visitan y rastrear tendencias y patrones de usuario. También impiden que usted tenga que volver a insertar sus preferencias en ciertas áreas del sitio donde puede haber introducido información de preferencia antes.
 
-A empresa usa cookies para ajudar a empresa a identificar e rastrear visitantes, o uso dos sites da empresa e suas preferências de acesso aos sites. Os visitantes da Empresa que não desejarem que os cookies sejam colocados em seus computadores devem configurar seus navegadores para recusarem cookies antes de usar os sites da empresa, com a desvantagem de que certos recursos dos sites da empresa podem não funcionar adequadamente sem o auxílio de cookies.
+La empresa utiliza cookies para ayudar a la empresa a identificar y rastrear visitantes, el uso de los sitios de la empresa y sus preferencias de acceso a los sitios. Los visitantes de la Empresa que no desean que las cookies se colocen en sus ordenadores deben configurar sus navegadores para rechazar las cookies antes de usar los sitios de la empresa, con la desventaja de que ciertos recursos de los sitios de la empresa pueden no funcionar adecuadamente sin la ayuda de cookies.
 
-Aqui estão alguns exemplos e informações sobre como remover seus cookies, dependendo do navegador que você está usando:
+Aquí hay algunos ejemplos e información sobre cómo quitar sus cookies, dependiendo del navegador que está utilizando:
 
 - [Google Chrome.](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
-​
 - [Mozilla Firefox.](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
-​
 - [Internet Explorer.](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
-​
 - [Safari.](https://support.apple.com/kb/ph21411?locale=en_US)
 
-### PUBLICIDADES
-​
-Se algum anúncio aparecer em qualquer um dos nossos sites, eles podem ser entregues aos usuários por parceiros de publicidade, que podem definir cookies. Esses cookies permitem que o servidor de anúncios reconheça seu computador cada vez que eles enviam um anúncio on-line para compilar informações sobre você ou outras pessoas que usam seu computador. 
+### ANUNCIOS
 
-Essas informações permitem que as redes de anúncios forneçam, entre outras coisas, anúncios direcionados que acreditam ser de maior interesse para você. 
+Si algún anuncio aparece en cualquiera de nuestros sitios, pueden ser entregados a los usuarios por socios de publicidad, que pueden definir cookies. Estas cookies permiten que el servidor de anuncios reconozca su equipo cada vez que envíen un anuncio en línea para compilar información sobre usted u otras personas que utilizan su equipo.
 
-Esta Política de Privacidade cobre o uso de cookies pela Companhia e não cobre o uso de cookies por nenhum anunciante.
+Esta información permite a las redes de anuncios proporcionar, entre otras cosas, anuncios dirigidos que creen que son de mayor interés para usted.
 
-Como anunciantes no Facebook e em nossa página no Facebook, nós (e não o Facebook) podemos coletar conteúdo ou informações de um usuário do Facebook, e tais informações podem ser usadas da mesma maneira especificada nesta Política de Privacidade. Você concorda com a coleta de tais informações. Cumprimos as Restrições de Uso de Dados do Facebook.
+Esta Política de Privacidad cubre el uso de cookies por parte de la Compañía y no cubre el uso de cookies por ningún anunciante.
 
-Não transferimos nenhum dado de publicidade do Facebook (incluindo dados anônimos, agregados ou derivados) a qualquer rede de publicidade, troca de anúncios, intermediário de dados ou outro serviço relacionado a publicidade ou monetização.
+Como anunciantes en Facebook y en nuestra página en Facebook, nosotros (y no Facebook) podemos recopilar contenido o información de un usuario de Facebook, y esta información se puede usar de la misma manera especificada en esta Política de privacidad. Usted concuerda con la recolección de dicha información. Cumplimos las restricciones de uso de datos de Facebook.
 
-Não usamos dados de publicidade do Facebook, incluindo os critérios de segmentação para um anúncio do Facebook, para criar, anexar, editar, influenciar ou aumentar perfis de usuário, incluindo perfis associados a qualquer identificador de dispositivo móvel ou outro identificador exclusivo que identifique qualquer usuário específico navegador, computador ou dispositivo.
+No transferimos ningún dato de publicidad de Facebook (incluyendo datos anónimos, agregados o derivados) a cualquier red de publicidad, intercambio de anuncios, intermediario de datos u otro servicio relacionado con la publicidad o monetización.
 
-Também usamos os recursos para anunciantes do Google Analytics para otimizar nossos negócios. Os recursos do anunciante incluem o remarketing com o Google Analytics, o Relatório de impressões da Rede de Display do Google, as integrações da Plataforma DoubleClick e os Relatórios demográficos e de interesse do Google Analytics.
+No utilizamos datos de publicidad de Facebook, incluidos los criterios de orientación para un anuncio de Facebook, para crear, adjuntar, editar, influenciar o aumentar perfiles de usuario, incluidos los perfiles asociados a cualquier identificador de dispositivo móvil u otro identificador único que identifique a cualquier usuario específico navegador, equipo o dispositivo.
 
-Ao ativar esses recursos de exibição do Google Analytics, precisamos notificar nossos visitantes divulgando o uso desses recursos e que nós e fornecedores terceirizados utilizamos cookies primários (como o cookie do Google Analytics) ou outros identificadores próprios, e cookies de terceiros (como o cookie da DoubleClick) ou outros identificadores de terceiros juntos para coletar dados sobre suas atividades em nosso site. 
+También utilizamos los recursos para anunciantes de Google Analytics para optimizar nuestros negocios. Los recursos del anunciante incluyen el remarketing con Google Analytics, el Informe de impresiones de la Red de Display de Google, las integraciones de la plataforma DoubleClick y los informes demográficos y de interés de Google Analytics.
 
-Entre outros usos, isso nos permite entrar em contato com você se você começar a preencher um formulário, mas abandoná-lo antes da conclusão com um e-mail lembrando você de concluir o cadastro. O recurso "Remarketing" nos permite alcançar pessoas que já visitaram nosso site e corresponder ao público certo com a mensagem de publicidade correta.
+Al habilitar estas características de visualización de Google Analytics, necesitamos notificar a nuestros visitantes divulgando el uso de estos recursos y que nosotros y proveedores tercerizados utilizamos cookies primarias (como la cookie de Google Analytics) u otros identificadores propios, y cookies de terceros (como la cookie de Google DoubleClick) u otros identificadores de terceros juntos para recopilar datos sobre sus actividades en nuestro sitio.
 
-Você pode desativar o uso de cookies pelo Google acessando as configurações de anúncios do Google e / ou desativar o uso de cookies de um fornecedor terceirizado visitando a [página de desativação da Network Advertising Initiative.](http://optout.networkadvertising.org/)
+Entre otros usos, esto nos permite entrar en contacto con usted si usted comienza a llenar un formulario, pero abandonarlo antes de finalizar con un mensaje de correo electrónico que le recuerde completar el registro. La función "Remarketing" nos permite llegar a personas que ya han visitado nuestro sitio y corresponder al público correcto con el mensaje de publicidad correcta.
 
-Usamos os códigos de remarketing do Google Analytics para fazer login quando os usuários visualizam páginas específicas ou realizam ações específicas em um website. Isso nos permite fornecer publicidade direcionada no futuro. Se você não quiser receber esse tipo de publicidade conosco no futuro, poderá cancelar a inscrição usando a [página de desativação do DoubleClick](https://adssettings.google.com/authenticated?hl=en#display_optout) ou a [página de desativação da Network Advertising Initiative.](http://optout.networkadvertising.org/?c=1)
+Puede deshabilitar el uso de cookies de Google accediendo a la configuración de los anuncios de Google y / o desactivando el uso de cookies de un proveedor tercerizado visitando la [página de deshabilitación de Network Advertising Initiative](http://optout.networkadvertising.org/).
 
-### SUA PERMISSÃO
+Utilizamos los códigos de remarketing de Google Analytics para iniciar sesión cuando los usuarios ve páginas específicas o realizan acciones específicas en un sitio web. Esto nos permite proporcionar publicidad en el futuro. Si no desea recibir este tipo de publicidad con nosotros en el futuro, puede cancelar la inscripción usando la [página de desactivación de DoubleClick](https://adssettings.google.com/authenticated?hl=en#display_optout) o la [página de desactivación de la Red de publicidad](http://optout.networkadvertising.org/?c=1) de la empresa.
 
-Ao usar qualquer um dos sites da empresa, você concorda com nossa coleta e uso de suas informações pessoais, conforme descrito nesta política de privacidade.
+### SU PERMISO
 
-### ESCOLHA / OPT-OUT
+Al usar cualquiera de los sitios de la empresa, usted acepta la recogida y el uso de su información personal, tal como se describe en esta política de privacidad.
 
-Você pode optar por deixar de receber nossos boletins informativos ou e-mails de marketing a qualquer momento, seguindo as instruções de cancelamento de inscrição incluídas em nossos e-mails, atualizando suas preferências de comunicação por meio do nosso provedor de serviços de e-mail ou através do e-mail info@acpbrasil.com
+### ELECCIÓN / OPTAR POR NO
 
-### DEPOIMENTOS
+Usted puede optar por dejar de recibir nuestros boletines informativos o correos electrónicos de marketing en cualquier momento, siguiendo las instrucciones de cancelación de inscripción incluidas en nuestros e-mails, actualizando sus preferencias de comunicación a través de nuestro proveedor de servicios de correo electrónico oa través del e-mail contato@acpediatrics.com.
 
-Se você nos fornecer um depoimento, você nos dará seu consentimento para o uso de seu nome e do Serviço a ser exibido em qualquer um de nossos sites, ou em nossos outros materiais de marketing, juntamente com o conteúdo do depoimento que você fornecer.
+### DECLARACIONES
 
-### COMENTÁRIOS
+Si usted nos proporciona un testimonio, usted nos dará su consentimiento para el uso de su nombre y del Servicio a ser exhibido en cualquiera de nuestros sitios, o en nuestros otros materiales de marketing, junto con el contenido del testimonio que usted proporcione.
 
-Os comentários e outros conteúdos enviados aos nossos sites não são salvos em nossos servidores, a menos que sejam marcados como falsos positivos. Nesse caso, os armazenamos por tempo suficiente para usá-los para melhorar o serviço, a fim de evitar futuros falsos positivos.
+### COMENTARIOS
 
-### TERMINAÇÃO
+Los comentarios y otros contenidos enviados a nuestros sitios no se guardan en nuestros servidores, a menos que estén marcados como falsos positivos. En ese caso, los almacenamos por tiempo suficiente para usarlos para mejorar el servicio, a fin de evitar falsos positivos.
 
-Podemos cancelar ou rescindir o seu direito de usar alguns ou qualquer um dos nossos sites ou qualquer parte desses sites a qualquer momento, sem aviso prévio e a nosso critério. Em caso de cancelamento ou rescisão, você não está mais autorizado a acessar a parte ou partes dos sites afetados por tal cancelamento ou rescisão. 
+### TERMINACIÓN
 
-As restrições impostas a você em relação ao material baixado de qualquer um de nossos sites, e as isenções de responsabilidade e limitações de responsabilidades estabelecidas nestes Termos de Serviço, devem sobreviver.
+Podemos cancelar o rescindir su derecho a usar algunos o cualquiera de nuestros sitios o cualquier parte de estos sitios en cualquier momento, sin previo aviso a nuestra discreción. En caso de cancelación o rescisión, ya no está autorizado a acceder a la parte o partes de los sitios afectados por dicha cancelación o terminación.
 
-### PRIVACIDADE DAS CRIANÇAS
+Las restricciones impuestas asia usted en relación con el material descargado de cualquiera de nuestros sitios, incluyendo las exenciones de responsabilidad y limitaciones de responsabilidades establecidas en estos Términos de Servicio, deben sobrevivir.
 
-O site não se destina a crianças menores de 13 anos. Nós não coletamos intencionalmente informações pessoais deles. Se descobrirmos que uma criança nos forneceu informações pessoais, usaremos esforços razoáveis ​​para excluir essas informações.
+### PRIVACIDAD DE LOS NIÑOS
 
-Se você tiver motivos para acreditar que recebemos acidentalmente informações pessoais de uma criança com menos de 13 anos, envie imediatamente os detalhes por meio de info@acpbrasil.com.
+El sitio no está destinado a niños menores de 13 años. No recopilamos intencionalmente información personal de ellos. Si descubrimos que un niño nos proporcionó información personal, utilizaremos esfuerzos razonables para excluir esa información.
 
-### ACESSO A INFORMAÇÃO
+Si tiene motivos para creer que recibimos accidentalmente información personal de un niño menor de 13 años, envíe inmediatamente los detalles a través de contato@acpediatrics.com.
 
-Você tem o direito, sob o Ato de Proteção de Dados, de acessar as informações que mantemos sobre você. Se você deseja exercer este direito, por favor envie sua solicitação para nós através da nossa página de Suporte. Para atender nossos custos de resposta, cobraremos uma taxa de R$ 100,00.
+### ACCESO A LA INFORMACIÓN
 
-### SOBRE A POLÍTICA DE PRIVACIDADE
+Usted tiene el derecho, bajo el Acta de Protección de Datos, de acceder a la información que mantenemos sobre usted. Si desea ejercer este derecho, por favor envíe su solicitud a nosotros a través de nuestra página de soporte. Para atender nuestros costos de respuesta, cobraremos una tarifa de R $ 100,00.
 
-Todo o conteúdo desta Política de Privacidade deve ser lido em conjunto com nossos Termos de Serviço e Isenção de Responsabilidade.
+### SOBRE LA POLÍTICA DE PRIVACIDAD
 
-Se você não entende qualquer conteúdo desta Política de Privacidade, ou se você tiver alguma pergunta ou comentário, nós o convidamos a entrar em contato conosco através do info (@) acpbrasil (.) Com.
-Estamos comprometidos em conduzir nossos negócios de acordo com esses princípios, a fim de garantir que a confidencialidade das informações pessoais seja protegida e mantida.
+Todo el contenido de esta Política de Privacidad debe ser leído en conjunto con nuestros Términos de Servicio y Exención de Responsabilidad.
 
-Esta Política de Privacidade foi atualizada em Junho de 2018.
+Si usted no entiende cualquier contenido de esta Política de Privacidad, o si tiene alguna pregunta o comentario, le invitamos a ponerse en contacto con nosotros a través del contato (@) acpediatrics (.) com.
 
+Estamos comprometidos en conducir nuestros negocios de acuerdo con estos con el fin de garantizar que la confidencialidad de la información personal se protege y se mantenga.
+
+Esta Política de Privacidad se actualizó en junio de 2018.
