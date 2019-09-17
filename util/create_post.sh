@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# Usage: ./create_post.sh Titulo do post
+
 DATE=`date +%Y-%m-%d`
 NAME=${@:-"title-of-the-post"}
 
