@@ -35,27 +35,19 @@ Vamos falar por um pouco mais sobre esta etapa no CGFNS:
 
 Um dos primeiros requisitos para validar o seu diploma e realizar todas as etapas para trabalhar como enfermeiro nos Estados Unidos é a comprovação da proficiência em inglês. Na maioria dos estados, é preciso fazer o teste e alcançar uma pontuação mínima exigida no [TOEFL]({{< relref "2019-07-04-novidades-do-toefl" >}}) ou no [IELTS]({{< relref "2018-04-26-requisitos-para-trabalhar-nos-eua-ingles" >}}), que é determinada por cada *Board* de Enfermagem.
 
-Por isso, o estudo e a preparação para esses exames é essencial e precisa ser realizado antecipadamente. A fluência no inglês pode ser exigida durante a etapa do CGFNS, ou pelos Conselhos de Enfermagem do Estado. Um conselho que a ACP sempre comenta: não acredite que você possa ir trabalhar nos EUA sem a fluência no inglês, o estudo no idioma é essencial e mesmo que você encontre um *Board* que não exija a proficiência dos testes, o seu empregador e seus pacientes irão exigir. Invista no inglês.
+Por isso, o estudo e a preparação para esses exames é essencial e precisa ser realizado antecipadamente. A fluência no inglês pode ser exigida durante a etapa do CGFNS, ou pelos Conselhos de Enfermagem do Estado. **Nós da ACP sempre orientamos: invista no inglês!** _Não acredite que você possa trabalhar nos EUA sem a fluência no inglês_, o estudo do idioma é essencial e mesmo que você encontre um *Board* que não exija a proficiência dos testes, o seu empregador e seus pacientes irão exigir.
 
-#### Certificação pelo CGFNS
+#### Escolha do Board e Documentos
 
-Ao fazer o cadastro no site, o CGFNS solicitará diversos documentos e formulários. Dentre esses dados, será preciso preencher informações sobre o seu segundo grau, formação acadêmica, experiência profissional e registro no COREN.
+Primeiramente será preciso fazer o seu cadastro na plataforma do CGFNS. Para isso, basta [acessar o site](https://www.cgfns.org), ir até o espaço de login, clicar em *CGFNS connect* e se cadastrar como novo usuário.
 
-Além disso, também será preciso escolher entre os serviços disponíveis. Para quem deseja trabalhar nos EUA como enfermeiro, muitos *Boards* irão exigir a *CES profissional*. Lembrar sempre que cada estado possui suas leis e particularidades para certificação.
+Será preciso escolher entre os serviços disponíveis. Para quem deseja trabalhar nos EUA como enfermeiro, muitos *Boards* irão exigir a *CES profissional*. Lembrar sempre que cada estado possui suas leis e particularidades para certificação.
 
 Para atuar como enfermeiro em Nova Iorque, por exemplo, existe um formulário específico e separado. Por isso, é preciso conferir esses detalhes do Conselho de Enfermagem do Estado primeiramente.
 
-#### Cadastro no CGFNS
+Sobre os documentos, além das informações pessoais, será preciso incluir os dados sobre sua escolaridade (educação primária, segundo grau, e universidade), experiência profissional e registro no COREN. Além disso, será preciso traduzir e juramentar cada uma das páginas antes do envio ao CGFNS.
 
-Como citamos acima, primeiramente será preciso fazer o seu cadastro na plataforma do CGFNS. Para isso, basta [acessar o site](https://www.cgfns.org), ir até o espaço de login, clicar em *CGFNS connect* e se cadastrar como novo usuário.
-
-#### Documentos e formulários
-
-Entre os documentos necessários, será preciso enviar diversas informações pessoais. Além disso, dados sobre as escolas em que você estudou no segundo grau, endereço e histórico também serão necessários.
-
-A quantidade de documentos necessários é grande e todos precisam ser enviados com atenção. Além disso, será preciso traduzir e juramentar cada uma das páginas.
-
-O site separa os documentos e formulários que o solicitante – no caso você – deverá preencher, e também os que devem ser preenchidos por sua instituição de ensino e pelo seu conselho de enfermagem.
+O site separa os documentos e formulários que o solicitante – no caso você – deverá preencher, e também os que devem ser encaminhados e preenchidos pela sua instituição de ensino superior e pelo seu conselho de enfermagem.
 
 #### Prazos e taxas
 
