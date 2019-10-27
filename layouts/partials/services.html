@@ -12,6 +12,7 @@
 					</div>
 				</div>
 			</div>
+
 			<div class="row">
 			{{ $data := index .Site.Data .Site.Language.Lang }}
 			{{ range $data.services }}
@@ -19,9 +20,11 @@
 					<i class="icon to-animate-2 {{ .icon | markdownify }}"></i>
 					<h3>{{ .title | markdownify }}</h3>
 					<p>{{ .description | markdownify }}</p>
+					<p>{{ .button | markdownify }}</p>
 				</div>
 				<div class="clearfix visible-sm-block"></div>
 			{{ end }}
 			</div>
+
 		</div>
 	</section>

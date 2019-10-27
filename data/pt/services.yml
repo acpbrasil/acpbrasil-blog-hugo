@@ -1,5 +1,6 @@
 - title: "Enfermeiros"
   description: "Cuidaremos do seu processo de forma personalizada, traçando uma meta realista de acordo com as suas necessidades e experiência profissional."
+  button: <a class='btn btn-primary' href='consultoria'>Conheça nossa consultoria</a>
   icon: "icon-people"
   
 - title: "Universidades &amp; Instituições de Ensino"

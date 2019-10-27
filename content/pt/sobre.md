@@ -29,7 +29,7 @@ Nos últimos anos a carência de profissionais de enfermagem vem alertando o sis
   > Estima-se que até 2022 haverão mais de 700 mil vagas de emprego disponíveis na área de enfermagem.”
 {{% /blockquote-image-bg %}}
 
-A ACP é a única empresa com os serviços de recrutamento, consultoria e certeza do emprego nos Estados Unidos pois somos os recrutadores e os empregadores. Procuramos enfermeiros apaixonados pelo que fazem e que desejam fazer a diferença na vida de nossos pacientes e de todos que os rodeiam. A ACP busca uma relação profissional duradoura com cada enfermeiro, pois isso contribui com vínculos de lealdade e sucesso. 
+A ACP é a única empresa com os serviços de recrutamento, consultoria e certeza do emprego nos Estados Unidos pois somos os recrutadores e os empregadores. Procuramos enfermeiros apaixonados pelo que fazem e que desejam fazer a diferença na vida de nossos pacientes e de todos que os rodeiam. A ACP busca uma relação profissional duradoura com cada enfermeiro, pois isso contribui com vínculos de lealdade e sucesso.
 
 A equipe brasileira oferece o passo a passo de como se tornar um enfermeiro nos EUA, auxiliando com informações e apoio institucional em todas as etapas do processo. Proporcionamos apoio e treinamento para os exames TOEFL e NCLEX incluindo treinamento on-line, simulados e workshops ao vivo. Nosso objetivo é preparar o enfermeiro de forma personalizada, traçando uma meta realista de acordo com as necessidades e experiência específica de cada profissional.
 
