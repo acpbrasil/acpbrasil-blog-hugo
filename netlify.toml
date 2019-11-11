@@ -1,6 +1,7 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify"
+#command = "hugo --gc --minify"
+command = "hugo --gc --minify --baseURL=https://acpbrasil.netlify.com/"
 
 [context.production.environment]
 HUGO_VERSION = "0.59.1"
@@ -8,7 +9,8 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
-command = "hugo --gc --minify --enableGitInfo"
+#command = "hugo --gc --minify --enableGitInfo"
+command = "hugo --gc --minify --enableGitInfo --baseURL=https://acpbrasil.netlify.com/"
 
 [context.split1.environment]
 HUGO_VERSION = "0.59.1"
