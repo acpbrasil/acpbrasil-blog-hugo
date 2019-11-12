@@ -28,9 +28,10 @@
 							<!-- Box -->
 							<a href="#work-small-dialog-{{$index}}" class="fh5co-project-item dialog-popup to-animate">
 								{{/* <img src='{{ printf "images/%s" .img | relLangURL}}' alt="{{ .alt }}" title="{{ .alt }}" class="img-responsive" style="width: 100%;"> */}}
+								{{/* <img data-src="/images/{{ .img }}" alt="{{ .alt }}" title="{{ .alt }}" class="img-responsive lazyload" style="width: 100%;"> */}}
 								<img src="/images/{{ .img }}" alt="{{ .alt }}" title="{{ .alt }}" class="img-responsive" style="width: 100%;">
 								<div class="fh5co-text">
-									<h2>{{ .title }}</h2>
+									<h2>.{{ .title }}</h2>
 									{{/* <span>{{ .subtitle | markdownify }}</span> */}}
 								</div>
 							</a>
