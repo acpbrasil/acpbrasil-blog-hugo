@@ -28,7 +28,8 @@ HUGO_VERSION = "0.59.1"
 
 # Specific branch context
 [context.develop]
-command = "hugo --gc --minify -b https://develop--acpbrasil.netlify.com/"
+# command = "hugo --gc --minify -b https://develop--acpbrasil.netlify.com/"
+command = "hugo --gc --minify -b https://dev.acpbrasil.com/"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
