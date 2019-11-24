@@ -15,9 +15,7 @@ Plano total inclui os seguintes temas abaixo:
 4. CONSULTORIA PARA A REALIZAÇÃO DO NATIONAL COUNCIL LICENSURE EXAMINATION (NCLEX);
 5. INDICAÇÃO DE PROFISSIONAIS PARA O AUXÍLIO NA A OBTENÇÃO DO VISTO DE TRABALHO;
 
-O valor cobrado pela consultoria da ACP é de **$1500,00 dólares**, sendo que este valor pode ser **parcelado em até 15 vezes com taxa fixa do dólar**.
-
-O valor cobrado pela consultoria da ACP é de $1500,00 dólares, sendo que este valor pode ser parcelado em até 15 vezes com taxa fixa do dólar e inclui um pacote[^pacote] pra se preparar para o TOEFL.
+O valor cobrado pela consultoria da ACP é de **$1500,00 dólares**, sendo que este valor pode ser **parcelado em até 15 vezes com taxa fixa do dólar** e inclui um pacote[^pacote] pra se preparar para o TOEFL.
 
 Caso você já conheça o processo total ou parcial, converse conosco. Podemos avaliar sua proposta com um orçamento parcial, e/ou traçar um plano para ser seu sponsor no processo imigratório.
 
