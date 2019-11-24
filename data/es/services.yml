@@ -1,5 +1,6 @@
 - title: "Enfermeros"
   description: "Nos encargamos de su proceso de forma personalizada, estableciendo un objetivo realista de acuerdo a sus necesidades y experiencia profesional."
+  # TODO @Flavi: translate!
   # button: <a class='btn btn-primary' href='consulting'>Conheça nossa consultoria</a>
   icon: "icon-people"
   
