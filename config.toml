@@ -193,7 +193,7 @@ defaultContentLanguage = "pt"
   [params.intro]
     [params.intro.video]
       enable = true
-      icon = "icon-play2"
+      icon = "glyphicon glyphicon-play"
       # url = "https://www.youtube.com/watch?v=QWJAwVH1ULY"
       # url = "https://vimeo.com/267397018/0b8ed33c67"
       url = "https://vimeo.com/267397018"
@@ -278,12 +278,12 @@ defaultContentLanguage = "pt"
     enable = true
     privacyPolicy = true
     links = [
-        ["icon-instagram", "https://www.instagram.com/acpbrasil_enfermeiroseua/"],
+        ["icon-social-instagram", "https://www.instagram.com/acpbrasil_enfermeiroseua/"],
         # TODO Mudar o link do Facebook pra acpbrasil
-        ["icon-facebook", "https://www.facebook.com/enfermeiroseua"],
-        ["icon-twitter", "https://twitter.com/acpartnersbr"],
-        ["icon-linkedin", "https://www.linkedin.com/company/acp-brasil-enfermeiros-eua"],
-        ["icon-youtube", "https://www.youtube.com/c/ACPBrasil"],
+        ["icon-social-facebook", "https://www.facebook.com/enfermeiroseua"],
+        ["icon-social-twitter", "https://twitter.com/acpartnersbr"],
+        ["icon-social-linkedin", "https://www.linkedin.com/company/acp-brasil-enfermeiros-eua"],
+        ["icon-social-youtube", "https://www.youtube.com/c/ACPBrasil"],
       ]
 
   # Enable and disable widgets for the right sidebar

@@ -584,7 +584,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 120px;
   width: 120px;
   margin: 0 auto;
-  border: 2px solid #157CBA;
+  border: 4px solid #157CBA;
   line-height: 0px;
   display: table;
   text-align: center;
@@ -602,7 +602,8 @@ h1, h2, h3, h4, h5, h6 {
   vertical-align: middle;
   margin: 0;
   padding: 0;
-  right: -9px;
+  top: -2px;
+  right: -5px;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -1235,7 +1236,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 8;
   width: 80px;
   height: 80px;
-  font-size: 30px;
+  font-size: 35px;
   padding-top: 5px;
   text-align: center;
   vertical-align: middle;
