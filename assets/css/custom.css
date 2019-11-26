@@ -649,8 +649,10 @@ section#fh5co-intro .fh5co-text > p {
 section#fh5co-home > * {
   z-index: 2;
 }
+section#fh5co-home > .gradient {
+  opacity: 0.8;
+}
 section#fh5co-home .hero-video-container {
-  background-image:url( ../images/bg/masthead_Mobile_Homepage.jpg);
   background-position: 50%;
   background-size: cover;
   height: 100%;
@@ -659,6 +661,12 @@ section#fh5co-home .hero-video-container {
   position: absolute;
   top: 0;
   width: 100%;
+}
+.no-webp section#fh5co-home .hero-video-container {
+  background-image:url( ../images/bg/masthead_Mobile_Homepage.jpg);
+}
+.webp section#fh5co-home .hero-video-container {
+  background-image:url( ../images/bg/masthead_Mobile_Homepage.webp);
 }
 section#fh5co-home .hero-video-container video {
   background-size: cover;
@@ -712,8 +720,8 @@ section#fh5co-home .text-inner h1 {
 
 
 @media screen and (max-device-width: 800px) {
-  /* section#fh5co-home .hero-video-container video { */
-  section#fh5co-home .hero-video-container {
+  section#fh5co-home .hero-video-container video {
+  /* section#fh5co-home .hero-video-container { */
     display: none;
   }
 }

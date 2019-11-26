@@ -1,11 +1,11 @@
       <div class="hero-video-container">
-        <video autoplay loop class="background-video" poster="{{ .Site.BaseURL }}images/{{ .Site.Params.hero.videoImage }}.jpg">
+        <video autoplay loop class="background-video hidden-xs" poster="{{ .Site.BaseURL }}images/{{ .Site.Params.hero.videoImage }}.jpg">
           <source src="{{ .Site.Params.hero.videoUrl }}" type="video/mp4">
           {{/* <img src="{{ .Site.BaseURL }}images/{{ .Site.Params.hero.videoImage }}" title="Your browser does not support the &lt;video&gt; tag" alt="Your browser does not support the &lt;video&gt; tag" /> */}}
           <picture>
-            <source type="image/webp" srcset="{{ .Site.BaseURL }}images/{{ .Site.Params.hero.videoImage }}.webp">
-            <source type="image/jpeg" srcset="{{ .Site.BaseURL }}images/{{ .Site.Params.hero.videoImage }}.jpg">
-            <img src="{{ .Site.BaseURL }}images/{{ .Site.Params.hero.videoImage }}.jpg">
+            <source type="image/webp" srcset="{{ .Site.BaseURL }}images/{{ .Site.Params.hero.videoImage }}.webp" class="lazyload">
+            <source type="image/jpeg" srcset="{{ .Site.BaseURL }}images/{{ .Site.Params.hero.videoImage }}.jpg" class="lazyload">
+            <img data-src="{{ .Site.BaseURL }}images/{{ .Site.Params.hero.videoImage }}.jpg" class="lazyload">
           </picture>
         </video>
       </div>
