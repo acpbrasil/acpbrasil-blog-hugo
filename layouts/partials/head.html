@@ -92,9 +92,8 @@
 
     {{ partial "tracking.html" . }}
 
-    {{/*  TODO @Denis: pode mover o modernizr para o js.html???  */}}
-    <!-- Modernizr JS -->
-    <script async src="{{ .Site.BaseURL }}js/modernizr-2.6.2.min.js"></script>
+    <!-- Modernizr JS - moved to bundle.js -->
+    <!-- <script async src="{{ .Site.BaseURL }}js/modernizr-2.6.2.min.js"></script> -->
     <!-- FOR IE9 below -->
     <!--[if lt IE 9]>
     <script src="{{ .Site.BaseURL }}js/respond.min.js"></script>

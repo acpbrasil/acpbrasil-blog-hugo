@@ -757,20 +757,37 @@ section#fh5co-contact > .section-photo-bg {
   position: relative;
 }
 section#fh5co-about.section-photo-bg {
-  background: 
-    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../images/bg-section-about.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position-x: center;
 }
-section#fh5co-contact > .section-photo-bg {
+/* https://css-tricks.com/using-webp-images/
+ * https://web.dev/uses-webp-images/?utm_source=lighthouse */
+.no-webp section#fh5co-about.section-photo-bg {
   background: 
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../images/bg-section-contact.jpg");
+    url("../images/bg-section-about.jpg");
+}
+.webp section#fh5co-about.section-photo-bg {
+  background: 
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/bg-section-about.webp");
+}
+
+section#fh5co-contact > .section-photo-bg {
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
+}
+.no-webp section#fh5co-contact > .section-photo-bg {
+  background: 
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/bg-section-contact.jpg");
+}
+.webp section#fh5co-contact > .section-photo-bg {
+  background: 
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/bg-section-contact.webp");
 }
 #fh5co-about:before, #fh5co-about:after,
 #fh5co-contact > .section-photo-bg:before {
