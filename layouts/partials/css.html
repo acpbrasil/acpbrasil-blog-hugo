@@ -1,17 +1,21 @@
     <!-- Animate.css -->
-    <link rel="stylesheet" href='{{ "css/animate.css" | absURL }}'>
+    <!-- <link rel="stylesheet" href='{{ "css/animate.css" | absURL }}'> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css">
     {{/*
     <!-- Icomoon Icon Fonts-->
     <!-- <link rel="stylesheet" href='{{ "css/icomoon.css" | absURL }}'> -->
     */}}
     <!-- Simple Line Icons -->
     {{/*  <link rel="stylesheet" href='{{ "css/simple-line-icons.css" | absURL }}'>  */}}
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css" />
     <!-- Magnific Popup -->
-    <link rel="stylesheet" href='{{ "css/magnific-popup.css" | absURL }}'>
+    {{/* <link rel="stylesheet" href='{{ "css/magnific-popup.css" | absURL }}'> */}}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
     <!-- Bootstrap  -->
-    <link rel="stylesheet" href='{{ "css/bootstrap.css" | absURL }}'>
-    {{/*  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">  */}}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    {{/*
+      <link rel="stylesheet" href='{{ "css/bootstrap.css" | absURL }}'>
+    */}}
 
     <!--
       custom css files can be configured in config.toml:
@@ -26,8 +30,10 @@
     {{/*  {{ $cssOpts := (dict "targetPath" "static/css/style.css") }}  */}}
 
     {{ $base := resources.Get "css/style.css" }}
+    {{/* $animate := resources.Get "css/animate.css" */}}
     {{ $custom := $scratch.Get "customResources" }}
     {{ $style := (slice $base | append $custom) | resources.Concat "bundle.css" | minify | fingerprint }}
+    {{/* $style := (slice $base | append $custom | append $animate) | resources.Concat "bundle.css" | minify | fingerprint */}}
     <link rel="stylesheet"
           href="{{ $style.Permalink }}"
           integrity="{{ $style.Data.Integrity }}">
