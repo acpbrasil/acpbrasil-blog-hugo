@@ -1,6 +1,5 @@
 	<footer id="footer" role="contentinfo">
-		<a href="#" class="gotop js-gotop"><i class="icon-arrow-up-circle"></i></a>
-		<!-- <a href="#" class="gotop js-gotop"><i class="glyphicon glyphicon-arrow-up"></i></a> -->
+		<a href="#" class="gotop js-gotop" aria-label="Ir ao topo da página"><i class="icon-arrow-up-circle"></i></a>
 		<div class="container">
 			<div class="">
 				<div class="col-md-12 text-center">
@@ -17,7 +16,8 @@
 				<div class="col-md-12 text-center">
 					<ul class="social social-circle">
 					{{ range .Site.Params.footer.links }}
-						<li><a href="{{ with index . 1}}{{ . }}{{ end }}" target="_blank"><i class="{{ with index . 0}}{{ . }}{{ end }}"></i></a></li>
+						{{ $link_label := substr (index . 0) 12 }}
+						<li><a href="{{ with index . 1}}{{ . }}{{ end }}" target="_blank" aria-label="{{ $link_label }}"><i class="{{ with index . 0}}{{ . }}{{ end }}"></i></a></li>
 					{{ end }}
 					</ul>
 				</div>
