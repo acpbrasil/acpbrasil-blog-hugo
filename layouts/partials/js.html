@@ -37,15 +37,17 @@
 	{{/*  Hugo Pipes bundling  */}}
 	{{ $theme := resources.Get "js/elate-main.js" }}
 	{{ $custom := resources.Get "js/custom.js" }}
+	{{ $scripts_app := slice $theme $custom | resources.Concat "js/bundle-app.js" }}
+
 	{{ $plugins := resources.Get "js/magnific-popup-options.js" }}
 	{{ $modernizr := resources.Get "js/modernizr-custom.js" }}
-	{{ $scripts := slice $theme $custom $plugins $modernizr | resources.Concat "js/bundle.js" }}
+	{{ $scripts_vendor := slice $plugins $modernizr | resources.Concat "js/bundle-vendor.js" }}
 
-	{{ $globalJS := $scripts | resources.Minify | resources.Fingerprint }}
-	{{/*  {{ $globalJS := $scripts }}  */}}
+	{{ $global_js_app := $scripts_app | resources.Minify | resources.Fingerprint }}
+	{{ $global_js_vendor := $scripts_vendor | resources.Minify | resources.Fingerprint }}
 	<!-- Main JavaScript -->
-	{{/*  <script src="{{ $globalJS.Permalink }}"></script>  */}}
-	<script async defer src="{{ $globalJS.Permalink }}"></script>
+	<script async defer src="{{ $global_js_app.Permalink }}"></script>
+	<script async defer src="{{ $global_js_vendor.Permalink }}"></script>
 
 	<!-- Main JavaScript -->
 	{{/*  <script src="{{ .Site.BaseURL }}js/main.js"></script> Overrided by elate-main.js  */}}
