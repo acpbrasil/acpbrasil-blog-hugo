@@ -25,6 +25,7 @@
     HUGO_VERSION = "0.59.1"
 
 # Specific branch context
+# https://community.netlify.com/t/common-issue-how-to-use-netlify-s-branch-deploy-feature-without-netlify-dns/128
 [context.develop]
   command = "hugo --gc --minify -b https://develop--acpbrasil.netlify.com/"
   # command = "hugo --gc --minify -b https://dev.acpbrasil.com/"

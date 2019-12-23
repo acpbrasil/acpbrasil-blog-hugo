@@ -17,7 +17,11 @@
 					<ul class="social social-circle">
 					{{ range .Site.Params.footer.links }}
 						{{ $link_label := substr (index . 0) 12 }}
-						<li><a href="{{ with index . 1}}{{ . }}{{ end }}" target="_blank" aria-label="{{ $link_label }}"><i class="{{ with index . 0}}{{ . }}{{ end }}"></i></a></li>
+						<li>
+							<a href="{{ with index . 1}}{{ . }}{{ end }}" target="_blank" rel="noopener" aria-label="{{ $link_label }}">
+								<i class="{{ with index . 0}}{{ . }}{{ end }}"></i>
+							</a>
+						</li>
 					{{ end }}
 					</ul>
 				</div>

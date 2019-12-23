@@ -1,5 +1,7 @@
 # ACP Brasil
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5c1b4e71-c57f-4838-8122-a4af5ebb2bcc/deploy-status)](https://app.netlify.com/sites/acpbrasil/deploys)
+
 ## Cloning this repo
 
 ```bash

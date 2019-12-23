@@ -269,7 +269,7 @@ defaultContentLanguage = "pt"
       ["icon-home", "Florianópolis / SC"],
       ["icon-phone", "+55 (48) 99176-0676<br>+55 (48) 99176-3535"],
       ["icon-envelope", "<a href='mailto:contato@acpediatrics.com?subject=Contato'>contato@acpediatrics.com</a>"],
-      ["icon-globe", '<a href="https://www.advancedcarepartners.com/" target="_blank">ACP Home care</a><br><a href="https://www.acpbrasil.com/" target="_blank">ACP Brasil</a>']
+      ["icon-globe", '<a href="https://www.advancedcarepartners.com/" target="_blank" rel="noopener">ACP Home care</a><br><a href="https://www.acpbrasil.com/" target="_blank">ACP Brasil</a>']
     ]
 
 
