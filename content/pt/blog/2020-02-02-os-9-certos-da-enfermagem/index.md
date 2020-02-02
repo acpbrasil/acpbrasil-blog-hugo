@@ -3,7 +3,7 @@ title: "Os 9 Certos da Enfermagem"
 description: "Princípios para uma administração de medicamentos segura"
 date: 2020-02-02T19:55:33-03:00
 
-tags: ["enfermeiros eua", "enfermeiros usa", "nurse usa", "foreign nurses", "home care"]
+tags: ["9 certos da enfermagem", "9 certos", "enfermeiros eua", "enfermeiros usa", "nurse usa", "foreign nurses", "home care"]
 categories: [ "enfermagem", "conhecimento" ]
 
 banner: "os_9_certos_da_enfermagem.png"

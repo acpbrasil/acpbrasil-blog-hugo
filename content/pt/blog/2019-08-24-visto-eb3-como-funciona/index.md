@@ -51,11 +51,11 @@ Para ser aprovado como profissional, é preciso ter um grau de bacharelado ou eq
 
 #### Trabalhador não qualificado ou “outros”
 
-Essa alternativa de petição dentro do visto EB-3 engloba os trabalhos que podem ser realizados sem uma experiência de 2 anos. Porém, não inclui trabalhos que são temporários ou sazonais. 
+Essa alternativa de petição dentro do visto EB-3 engloba os trabalhos que podem ser realizados sem uma experiência de 2 anos. Porém, não inclui trabalhos que são temporários ou sazonais.
 
 ### PERM – Processo de Certificação de Trabalho
 
-Como citamos acima, o PERM servirá para demonstrar, no caso de uma contratação prévia para a entrada da petição, que não há profissionais qualificados para o cargo disponíveis nos EUA. 
+Como citamos acima, o PERM servirá para demonstrar, no caso de uma contratação prévia para a entrada da petição, que não há profissionais qualificados para o cargo disponíveis nos EUA.
 
 Para isso, a empresa solicitante deverá cumprir uma série de requisitos. Dentre eles, alguns como determinação de salário, anúncio da vaga e realizar processos de recrutamento.
 

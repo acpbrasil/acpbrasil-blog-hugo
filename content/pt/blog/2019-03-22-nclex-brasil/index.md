@@ -32,11 +32,11 @@ o em sua maioria por questões de múltipla escolha e envolve conteúdos sobre i
 
 As questões ainda são agrupadas em três níveis, com diferentes graus de dificuldade sendo eles:
 
-#### Nível 1: tratam-se de questões mais básicas, que envolvem conhecimentos mais gerais sobre a área de enfermagem;
+#### Nível 1: tratam-se de questões mais básicas, que envolvem conhecimentos mais gerais sobre a área de enfermagem
 
-#### Nível 2: as questões desse nível são um pouco mais interpretativas e exigem alto nível de raciocínio;
+#### Nível 2: as questões desse nível são um pouco mais interpretativas e exigem alto nível de raciocínio
 
-#### Nível 3: o último nível exige que o profissional testado aplique regras e conhecimentos de enfermagem para solucionar situações descritas, propondo o melhor procedimento a ser aplicado em um paciente.
+#### Nível 3: o último nível exige que o profissional testado aplique regras e conhecimentos de enfermagem para solucionar situações descritas, propondo o melhor procedimento a ser aplicado em um paciente
 
 É possível que mais de uma resposta seja correta nessas questões, o que dificulta ainda mais no momento da escolha.
 
