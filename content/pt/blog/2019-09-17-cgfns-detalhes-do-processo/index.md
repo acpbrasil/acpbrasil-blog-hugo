@@ -8,7 +8,7 @@ categories: [ "cgfns" ]
 
 banner: "banner-cgfns.png"
 # source: "URL"
-# author: ""
+# author: "Amanda Campos"
 
 draft: false
 ---
