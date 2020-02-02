@@ -20,3 +20,13 @@ fields:
 - type: file
   name: banner
   label: banner
+- name: source
+  type: text
+  config:
+    required: false
+  label: source
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
