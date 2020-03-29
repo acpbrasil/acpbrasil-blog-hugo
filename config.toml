@@ -30,6 +30,7 @@ defaultContentLanguage = "pt"
 
 [blackfriday]
   fractions = false
+  hrefTargetBlank = true # XXX Does not work in Hugo v0.62.0
 
 [taxonomies]
   category = "categories"

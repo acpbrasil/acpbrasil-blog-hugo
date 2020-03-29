@@ -43,7 +43,6 @@ Unindo todos esses pontos, os profissionais preparados estão saindo do mercado 
 
 ### Estados que mais precisam de enfermeiros
 
-<!-- FIXME abrir links em outra aba -->
 Alguns dos estados dos EUA estão em situação mais crítica em relação a demanda de enfermeiros. Segundo relatório da [Moody's Investors Services](https://www.moodys.com/research/Moodys-Nursing-shortage-will-persist-until-2025-weakening-US-NFP--PR_380467), as regiões sul e oeste são as mais afetadas por esse problema.
 
 Os destaques são para os estados da Geórgia, Flórida, Texas e Califórnia. Juntos, eles representam quase 40% da demanda de enfermeiros em todo o país.
