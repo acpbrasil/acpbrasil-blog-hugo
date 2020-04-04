@@ -712,7 +712,6 @@ section#fh5co-home .text-inner h1 {
 
 
 @media screen and (max-device-width: 800px) {
-  /* section#fh5co-home .hero-video-container video { */
   section#fh5co-home .hero-video-container {
     display: none;
   }

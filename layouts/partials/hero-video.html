@@ -1,6 +1,7 @@
       <div class="hero-video-container">
-        <video autoplay loop class="background-video" poster="{{ .Site.BaseURL }}images/{{ .Site.Params.hero.videoImage }}">
-          <source src="{{ .Site.BaseURL }}{{ .Site.Params.hero.videoUrl }}" type="video/mp4">
+        <video autoplay muted loop playsinline preload="none" poster="{{ .Site.BaseURL }}images/{{ .Site.Params.hero.videoImage }}">
+          <source src="{{ .Site.BaseURL }}{{ .Site.Params.hero.videoUrl }}.webm" type="video/webm">
+          <source src="{{ .Site.BaseURL }}{{ .Site.Params.hero.videoUrl }}.mp4" type="video/mp4">
           <img src="{{ .Site.BaseURL }}images/{{ .Site.Params.hero.videoImage }}" title="Your browser does not support the &lt;video&gt; tag" alt="Your browser does not support the &lt;video&gt; tag" />
         </video>
       </div>

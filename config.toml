@@ -188,7 +188,8 @@ defaultContentLanguage = "pt"
   # Hero section
   [params.hero]
     # videoUrl = "https://www.advancedcarepartners.com/wp-content/uploads/2017/03/homepage-header.mp4"
-    videoUrl = "videos/homepage-header.mp4"
+    videoUrl = "videos/homepage-header"
+    # videoUrl = "https://www.youtube.com/embed/lMKGCOLt3Ng?autoplay=1"
     videoImage = "bg/homepage-header-still.jpg"
  
   # Intro section
