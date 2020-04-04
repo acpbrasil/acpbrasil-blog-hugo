@@ -108,9 +108,9 @@ Ao ativar esses recursos de exibição do Google Analytics, precisamos notificar
 
 Entre outros usos, isso nos permite entrar em contato com você se você começar a preencher um formulário, mas abandoná-lo antes da conclusão com um e-mail lembrando você de concluir o cadastro. O recurso "Remarketing" nos permite alcançar pessoas que já visitaram nosso site e corresponder ao público certo com a mensagem de publicidade correta.
 
-Você pode desativar o uso de cookies pelo Google acessando as configurações de anúncios do Google e / ou desativar o uso de cookies de um fornecedor terceirizado visitando a [página de desativação da Network Advertising Initiative.](http://optout.networkadvertising.org/)
+Você pode desativar o uso de cookies pelo Google acessando as configurações de anúncios do Google e / ou desativar o uso de cookies de um fornecedor terceirizado visitando a [página de desativação da Network Advertising Initiative.](https://optout.networkadvertising.org/)
 
-Usamos os códigos de remarketing do Google Analytics para fazer login quando os usuários visualizam páginas específicas ou realizam ações específicas em um website. Isso nos permite fornecer publicidade direcionada no futuro. Se você não quiser receber esse tipo de publicidade conosco no futuro, poderá cancelar a inscrição usando a [página de desativação do DoubleClick](https://adssettings.google.com/authenticated?hl=en#display_optout) ou a [página de desativação da Network Advertising Initiative.](http://optout.networkadvertising.org/?c=1)
+Usamos os códigos de remarketing do Google Analytics para fazer login quando os usuários visualizam páginas específicas ou realizam ações específicas em um website. Isso nos permite fornecer publicidade direcionada no futuro. Se você não quiser receber esse tipo de publicidade conosco no futuro, poderá cancelar a inscrição usando a [página de desativação do DoubleClick](https://adssettings.google.com/authenticated?hl=en#display_optout) ou a [página de desativação da Network Advertising Initiative.](https://optout.networkadvertising.org/?c=1)
 
 ### SUA PERMISSÃO
 

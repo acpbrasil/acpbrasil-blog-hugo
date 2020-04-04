@@ -109,9 +109,9 @@ Al habilitar estas características de visualización de Google Analytics, neces
 
 Entre otros usos, esto nos permite entrar en contacto con usted si usted comienza a llenar un formulario, pero abandonarlo antes de finalizar con un mensaje de correo electrónico que le recuerde completar el registro. La función "Remarketing" nos permite llegar a personas que ya han visitado nuestro sitio y corresponder al público correcto con el mensaje de publicidad correcta.
 
-Puede deshabilitar el uso de cookies de Google accediendo a la configuración de los anuncios de Google y / o desactivando el uso de cookies de un proveedor tercerizado visitando la [página de deshabilitación de Network Advertising Initiative](http://optout.networkadvertising.org/).
+Puede deshabilitar el uso de cookies de Google accediendo a la configuración de los anuncios de Google y / o desactivando el uso de cookies de un proveedor tercerizado visitando la [página de deshabilitación de Network Advertising Initiative](https://optout.networkadvertising.org/).
 
-Utilizamos los códigos de remarketing de Google Analytics para iniciar sesión cuando los usuarios ve páginas específicas o realizan acciones específicas en un sitio web. Esto nos permite proporcionar publicidad en el futuro. Si no desea recibir este tipo de publicidad con nosotros en el futuro, puede cancelar la inscripción usando la [página de desactivación de DoubleClick](https://adssettings.google.com/authenticated?hl=en#display_optout) o la [página de desactivación de la Red de publicidad](http://optout.networkadvertising.org/?c=1) de la empresa.
+Utilizamos los códigos de remarketing de Google Analytics para iniciar sesión cuando los usuarios ve páginas específicas o realizan acciones específicas en un sitio web. Esto nos permite proporcionar publicidad en el futuro. Si no desea recibir este tipo de publicidad con nosotros en el futuro, puede cancelar la inscripción usando la [página de desactivación de DoubleClick](https://adssettings.google.com/authenticated?hl=en#display_optout) o la [página de desactivación de la Red de publicidad](https://optout.networkadvertising.org/?c=1) de la empresa.
 
 ### SU PERMISO
 

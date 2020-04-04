@@ -18,6 +18,6 @@ Ao longo do estado encontram-se mais de 40 parques florestais, oferecendo divers
 
 Leia mais em:  
 <https://www.visiteosusa.com.br/state/georgia>  
-<http://www.exploregeorgia.org/>
+<https://www.exploregeorgia.org/>
 
 {{< download-ebook >}}

@@ -109,9 +109,9 @@ By enabling these Google Analytics display features, we must notify our visitors
 
 Among other uses, this allows us to contact you if you start filling out a form, but abandon it before completion with an email reminding you to complete the registration. The Remarketing feature allows us to reach people who have already visited our site and match the right audience with the right advertising message.
 
-You may disable Google's use of cookies by accessing Google's ad settings and/ or disabling the use of cookies from a third-party vendor by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
+You may disable Google's use of cookies by accessing Google's ad settings and/ or disabling the use of cookies from a third-party vendor by visiting the [Network Advertising Initiative opt-out page](https://optout.networkadvertising.org/).
 
-We use Google Analytics remarketing codes to sign in when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not want to receive this type of advertising with us in the future, you can unsubscribe using the [DoubleClick opt-out page](https://adssettings.google.com/authenticated?hl=en#display_optout) or the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/?c=1).
+We use Google Analytics remarketing codes to sign in when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not want to receive this type of advertising with us in the future, you can unsubscribe using the [DoubleClick opt-out page](https://adssettings.google.com/authenticated?hl=en#display_optout) or the [Network Advertising Initiative opt-out page](https://optout.networkadvertising.org/?c=1).
 
 ### YOUR PERMISSION
 

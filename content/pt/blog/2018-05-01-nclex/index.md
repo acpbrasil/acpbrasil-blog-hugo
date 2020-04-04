@@ -39,6 +39,6 @@ Com um plano de estudos, um curso preparatório adequado e sua vontade de supera
 
 Saiba mais:  
 <https://www.ncsbn.org/>  
-<http://www.pearsonvue.com/nclex/>
+<https://www.pearsonvue.com/nclex/>
 
 {{< download-ebook >}}

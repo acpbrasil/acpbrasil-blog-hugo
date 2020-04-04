@@ -21,7 +21,7 @@ A partir dessa constatação, desenvolvemos este post, que tem o objetivo de esc
 
 Sigla para *Test of English as a Foreign Language*, ou *Teste de Inglês como Língua Estrangeira*, em português, o TOEFL é uma prova que serve para comprovar que uma pessoa tem o conhecimento pleno da língua inglesa. Ao passar nesse exame, o candidato poderá trabalhar ou estudar nos Estados Unidos, pois terá demonstrado que tem domínio do idioma americano.
 
-De acordo com a [escola de inglês Wizard](http://www.wizard.com.br/blog/aprender-ingles/como-o-toefl-funciona/), o TOEFL é reconhecido mundialmente, por todas as empresas ou universidades dos países que falam a língua inglesa. Por isso, esse é o teste mais indicado para enfermeiros que desejam [trabalhar nos Estados Unidos]({{< relref "2018-04-26-requisitos-para-trabalhar-nos-eua-ingles" >}}).
+De acordo com a [escola de inglês Wizard](https://www.wizard.com.br/idiomas/como-o-toefl-funciona/), o TOEFL é reconhecido mundialmente, por todas as empresas ou universidades dos países que falam a língua inglesa. Por isso, esse é o teste mais indicado para enfermeiros que desejam [trabalhar nos Estados Unidos]({{< relref "2018-04-26-requisitos-para-trabalhar-nos-eua-ingles" >}}).
 
 ### Quais são os tipos de prova do TOEFL?
 

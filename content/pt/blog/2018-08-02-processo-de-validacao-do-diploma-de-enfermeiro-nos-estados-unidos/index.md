@@ -21,9 +21,9 @@ Ficou interessado no assunto? Então siga conosco e confira agora mesmo como faz
 
 #### 1. Solicite uma avaliação de diploma da CGFNS
 
-A [CGFNS International](http://www.cgfns.org/) (conhecido como Commission on Graduates of Foreign Nursing Schools) é uma organização sem fins lucrativos que ajuda os profissionais de saúde com formação estrangeira a trabalhar nos Estados Unidos, avaliando e validando suas credenciais profissionais e acadêmicas. Trata-se de uma renomada instituição, cujo trabalho realizado é válido em todos os estados dos Estados Unidos.
+A [CGFNS International](https://www.cgfns.org/) (conhecido como Commission on Graduates of Foreign Nursing Schools) é uma organização sem fins lucrativos que ajuda os profissionais de saúde com formação estrangeira a trabalhar nos Estados Unidos, avaliando e validando suas credenciais profissionais e acadêmicas. Trata-se de uma renomada instituição, cujo trabalho realizado é válido em todos os estados dos Estados Unidos.
 
-Assim, é preciso entrar [no site](http://www.cgfns.org/) dessa instituição para iniciar o processo de validação de diploma de enfermeiro nos Estados Unidos. A CGFNS fica na Filadélfia, mas todos os processos podem ser feitos online, sem sair do Brasil para isso. Isso é muito benéfico, uma vez que você pode organizar toda essa parte burocrática antes de fazer a sua mudança para o país americano.
+Assim, é preciso entrar [no site](https://www.cgfns.org/) dessa instituição para iniciar o processo de validação de diploma de enfermeiro nos Estados Unidos. A CGFNS fica na Filadélfia, mas todos os processos podem ser feitos online, sem sair do Brasil para isso. Isso é muito benéfico, uma vez que você pode organizar toda essa parte burocrática antes de fazer a sua mudança para o país americano.
 
 Paga-se uma taxa e a organização lhe enviará uma lista de documentos que você precisará enviar. Assim, a própria CGFNS entrará em contato com a universidade ou faculdade em que você se formou e solicitará uma cópia do seu diploma e um histórico detalhado de disciplinas.
 

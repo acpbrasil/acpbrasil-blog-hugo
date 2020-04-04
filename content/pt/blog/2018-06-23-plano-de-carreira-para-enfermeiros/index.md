@@ -47,7 +47,7 @@ Nesta lista também devem constar os conhecimentos que você já possui e quais 
 
 ### Situação do mercado de trabalho para o enfermeiro no Brasil
 
-Segundo o [Blog da Catho](https://www.catho.com.br/educacao/blog/plano-de-carreira-enfermeiro/) e o [Portal PraValer](http://www.portalpravaler.com.br/curso/graduacao/auxiliar-de-enfermagem), a quantidade de enfermeiros que se formam no País aumenta, anualmente, no mercado de trabalho, principalmente nas regiões Sudeste e Sul, onde há mais empregadores. Uma alternativa é apostar nas regiões Norte e Nordeste, em que a concentração de enfermeiros é menor, especialmente no interior. Essa situação faz muitos profissionais desejarem buscar um **trabalho de enfermeiro nos Estados Unidos**.
+Segundo o [Blog da Catho](https://www.catho.com.br/educacao/blog/plano-de-carreira-enfermeiro/) e o [Portal PraValer](https://www.portalpravaler.com.br/curso/graduacao/auxiliar-de-enfermagem), a quantidade de enfermeiros que se formam no País aumenta, anualmente, no mercado de trabalho, principalmente nas regiões Sudeste e Sul, onde há mais empregadores. Uma alternativa é apostar nas regiões Norte e Nordeste, em que a concentração de enfermeiros é menor, especialmente no interior. Essa situação faz muitos profissionais desejarem buscar um **trabalho de enfermeiro nos Estados Unidos**.
 
 ### Qualificações dos enfermeiros brasileiros
 

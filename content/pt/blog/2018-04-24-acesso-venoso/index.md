@@ -6,7 +6,7 @@ tags: ["acesso venoso", "infusion therapy", "terapia infusional", "equipe de enf
 categories: ["Enfermagem"]
 banner: "acesso_venoso.jpg"
 # author: "F. Morales"
-source: "http://source.yiboshi.com/20170417/1492425631944540325.pdf"
+source: "https://source.yiboshi.com/20170417/1492425631944540325.pdf"
 draft: false
 ---
 

@@ -13,7 +13,7 @@ draft: false
 
 Se você é enfermeiro e tem interesse em migrar para os Estados Unidos exercendo a sua profissão, já deve saber que precisa passar por uma série de etapas, como prestar o exame NCLEX e ter um [sponsor]({{< relref "2018-08-06-como-e-porque-escolher-um-sponsor-para-morar-e-trabalhar-como-enfermeiro-nos-eua" >}}) adequado. Antes disso, no entanto, é preciso saber um pouco mais sobre o State Board of Nursing. Mas afinal o que são State Board of Nursing?
 
-Neste post, vamos esclarecer as principais dúvidas que os enfermeiros que desejam atuar nos Estados Unidos têm sobre  os boards. Continue conosco e saiba mais sobre a importância de contatar essas instituições antes de migrar para o país americano.
+Neste post, vamos esclarecer as principais dúvidas que os enfermeiros que desejam atuar nos Estados Unidos têm sobre os boards. Continue conosco e saiba mais sobre a importância de contatar essas instituições antes de migrar para o país americano.
 
 ### O que é State Board of Nursing?
 
@@ -47,9 +47,9 @@ Vale ressaltar que fizemos uma comparação superficial das categorias dos profi
 
 ### Como fazer para atuar como enfermeiro nos EUA?
 
-Se você é enfermeiro formado em uma instituição de ensino superior  brasileira e já exerceu essa atividade em nosso país, pode migrar para os EUA e atuar como um RN. Para isso, no entanto, é preciso atingir  uma série de requisitos.
+Se você é enfermeiro formado em uma instituição de ensino superior brasileira e já exerceu essa atividade em nosso país, pode migrar para os EUA e atuar como um RN. Para isso, no entanto, é preciso atingir uma série de requisitos.
 
-O primeiro passo quanto ao State Board of Nursing  é conhecer as exigências do Board do Estado em que você deseja trabalhar faz quanto ao enfermeiro estrangeiro. No caso do [board do estado da Georgia](http://sos.ga.gov/index.php/licensing/plb/45/licensure_as_a_registered_nurse), por exemplo, algumas das exigências são comprovar proficiência do idioma inglês através do exame TOEFL e fazer o licenciamento por exame internacional NCLEX, entre outras.
+O primeiro passo quanto ao State Board of Nursing é conhecer as exigências do Board do Estado em que você deseja trabalhar faz quanto ao enfermeiro estrangeiro. No caso do [board do estado da Georgia](https://sos.ga.gov/index.php/licensing/plb/45/licensure_as_a_registered_nurse), por exemplo, algumas das exigências são comprovar proficiência do idioma inglês através do exame TOEFL e fazer o licenciamento por exame internacional NCLEX, entre outras.
   
 O NCLEX é uma prova que tem como objetivo avaliar o conhecimento, as habilidades e capacidades essenciais necessárias para o **Registered Nurse** na promoção, manutenção e restauração da saúde do paciente/cliente. Para saber mais sobre o NCLEX [confira esse outro post]({{< relref "2018-05-01-nclex" >}}).
 
