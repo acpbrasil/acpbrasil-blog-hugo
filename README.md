@@ -11,13 +11,13 @@ git clone --recursive git@github.com:acpbrasil/acpbrasil-blog-hugo.git
 ### Create a new blog post
 
 ```bash
-./create_post.sh title-of-the-post
+./util/create_post.sh title-of-the-post
 ```
 
 Example:
 
 ```bash
-./create_post.sh Visto EB3 Como Funciona
+./util/create_post.sh Visto EB3 Como Funciona
 Creating blog post in: 2019-08-24-visto-eb3-como-funciona/index.md
 /Users/denisazevedo/Dev/Projects/acpBrasil/acpbrasil-blog-hugo/content/pt/blog/2019-08-24-visto-eb3-como-funciona/index.md created
 ```
