@@ -6,7 +6,7 @@ date: 2020-12-08T08:28:54-03:00
 tags: ["enfermeiros eua", "enfermeiros usa", "enfermeiros e covid-19", "enfermeiros e covid"]
 categories: [ "Enfermagem" ]
 
-banner: "placeholder.jpg"
+banner: "a-importancia-dos-enfermeiros-na-atuacao-contra-a-covid-19.jpg"
 # author: "Amanda Campos"
 
 draft: false
