@@ -877,6 +877,8 @@ section#fh5co-contact > .section-photo-bg {
 /* LGPD */
 .cookie-banner {
   display: none;
+  flex-wrap: wrap;
+  flex-direction: row;
   width: 100%;
   background-color: rgba(79, 79, 79, 0.8);
   background-color: #3b4045;
@@ -890,9 +892,7 @@ section#fh5co-contact > .section-photo-bg {
   height: 85px;
   font-size: 13px;
   overflow: hidden;
-
-  flex-wrap: wrap;
-  flex-direction: row;
+  padding-bottom: 10px;
 }
 .cookie-banner > div {
   flex: 1 1 auto;
@@ -909,6 +909,7 @@ section#fh5co-contact > .section-photo-bg {
   .cookie-banner {
     font-size: 16px;
     justify-content: space-evenly;
+    padding-bottom: 0;
     height: 55px;
   }
 }
