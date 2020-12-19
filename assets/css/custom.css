@@ -49,6 +49,9 @@ h3, h4, h5, h6 {
 .center {
   text-align: center !important;
 }
+.underline {
+  text-decoration: underline;
+}
 .font-smaller {
   font-size: smaller;
 }
@@ -868,5 +871,44 @@ section#fh5co-contact > .section-photo-bg {
   }
   header .collapse.in {
     display: block !important;
+  }
+}
+
+/* LGPD */
+.cookie-banner {
+  display: none;
+  width: 100%;
+  background-color: rgba(79, 79, 79, 0.8);
+  background-color: #3b4045;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 99;
+  height: 85px;
+  font-size: 13px;
+  overflow: hidden;
+
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.cookie-banner > div {
+  flex: 1 1 auto;
+  margin: -15px 0;
+}
+
+@media screen and (max-width: 374px) {
+  .cookie-banner {
+    font-size: 12px;
+    height: 110px;
+  }
+}
+@media screen and (min-width: 769px) {
+  .cookie-banner {
+    font-size: 16px;
+    justify-content: space-evenly;
+    height: 55px;
   }
 }

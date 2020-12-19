@@ -76,6 +76,19 @@ defaultContentLanguage = "pt"
       # testimonials = "Testemunhos"
       about = "Sobre"
       contact = "Contato"
+    # Footer
+    [languages.pt.params.footer]
+      enable = true
+      privacyPolicy = true
+      cookieDisclaimer = true
+      links = [
+          ["icon-instagram", "https://www.instagram.com/acpbrasil_enfermeiroseua/"],
+          # TODO Mudar o link do Facebook pra acpbrasil
+          ["icon-facebook", "https://www.facebook.com/enfermeiroseua"],
+          ["icon-twitter", "https://twitter.com/acpartnersbr"],
+          ["icon-linkedin", "https://www.linkedin.com/company/acp-brasil-enfermeiros-eua"],
+          ["icon-youtube", "https://www.youtube.com/c/ACPBrasil"],
+        ]
 
 
 # English ###############
@@ -115,7 +128,18 @@ defaultContentLanguage = "pt"
       services = "Services"
       about = "About"
       contact = "Contact"
-
+    # Footer
+    [languages.en.params.footer]
+      enable = true
+      privacyPolicy = true
+      cookieDisclaimer = true
+      links = [
+          ["icon-instagram", "https://www.instagram.com/acpbrasil_enfermeiroseua/"],
+          ["icon-facebook", "https://www.facebook.com/enfermeiroseua"],
+          ["icon-twitter", "https://twitter.com/acpartnersbr"],
+          ["icon-linkedin", "https://www.linkedin.com/company/acp-brasil-enfermeiros-eua"],
+          ["icon-youtube", "https://www.youtube.com/c/ACPBrasil"],
+        ]
 
 # Spanish ###############
 [languages.es]
@@ -154,6 +178,18 @@ defaultContentLanguage = "pt"
       services = "Servicios"
       about = "Acerca de"
       contact = "Contacto"
+    # Footer
+    [languages.es.params.footer]
+      enable = true
+      privacyPolicy = true
+      cookieDisclaimer = true
+      links = [
+          ["icon-instagram", "https://www.instagram.com/acpbrasil_enfermeiroseua/"],
+          ["icon-facebook", "https://www.facebook.com/enfermeiroseua"],
+          ["icon-twitter", "https://twitter.com/acpartnersbr"],
+          ["icon-linkedin", "https://www.linkedin.com/company/acp-brasil-enfermeiros-eua"],
+          ["icon-youtube", "https://www.youtube.com/c/ACPBrasil"],
+        ]
 
 
 [params]
@@ -277,17 +313,17 @@ defaultContentLanguage = "pt"
 
 
   # Footer section
-  [params.footer]
-    enable = true
-    privacyPolicy = true
-    links = [
-        ["icon-instagram", "https://www.instagram.com/acpbrasil_enfermeiroseua/"],
-        # TODO Mudar o link do Facebook pra acpbrasil
-        ["icon-facebook", "https://www.facebook.com/enfermeiroseua"],
-        ["icon-twitter", "https://twitter.com/acpartnersbr"],
-        ["icon-linkedin", "https://www.linkedin.com/company/acp-brasil-enfermeiros-eua"],
-        ["icon-youtube", "https://www.youtube.com/c/ACPBrasil"],
-      ]
+  # [params.footer]
+  #   enable = true
+  #   privacyPolicy = true
+  #   links = [
+  #       ["icon-instagram", "https://www.instagram.com/acpbrasil_enfermeiroseua/"],
+  #       # TODO Mudar o link do Facebook pra acpbrasil
+  #       ["icon-facebook", "https://www.facebook.com/enfermeiroseua"],
+  #       ["icon-twitter", "https://twitter.com/acpartnersbr"],
+  #       ["icon-linkedin", "https://www.linkedin.com/company/acp-brasil-enfermeiros-eua"],
+  #       ["icon-youtube", "https://www.youtube.com/c/ACPBrasil"],
+  #     ]
 
   # Enable and disable widgets for the right sidebar
   [params.widgets]

@@ -9,6 +9,12 @@ privacyPolicy:
   other: "Privacy Policy"
 privacyPolicyUrl:
   other: "/privacy-policy/"
+cookieBannerContent:
+  other: "By using our site, you acknowledge that you have read and understand our Privacy Policy."
+cookieBannerMoreInfo:
+  other: "More information."
+cookieBannerButton:
+  other: "I agree"
 pageNotFound:
   other: Oops, that page couldn't be found.
 navHome:
