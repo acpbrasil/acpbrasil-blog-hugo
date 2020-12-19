@@ -1,0 +1,21 @@
+	<div class="cookie-banner" role="banner" aria-hidden="false">
+		<div>
+			{{ T "cookieBannerContent" }}&nbsp;<a href='{{ T "privacyPolicyUrl" | relLangURL }}' class="text-muted underline">{{ T "cookieBannerMoreInfo" }}</a>
+		</div>
+		<div>
+			<a class="btn btn-default btn-xs" rel="nofollow" href="javascript:cookieConsent()">{{ T "cookieBannerButton" }}</a>
+		</div>
+	</div>
+
+	<script>
+		window.onload = function() {
+			var consent = Cookies.get('cookie-consent');
+			if (consent !== true && consent !== 'true') {
+				$('.cookie-banner').css({ opacity: 0, display: 'flex' }).animate({opacity: 1}, 1000);
+			}
+		}
+		function cookieConsent() {
+			Cookies.set('cookie-consent', 'true', { expires: 365 });
+			$('.cookie-banner').hide(100);
+		}
+	</script>

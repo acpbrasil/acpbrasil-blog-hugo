@@ -23,6 +23,11 @@
 			</div>
 		</div>
 
+		<!-- LGPD -->
+		{{ if .Site.Params.footer.cookieDisclaimer }}
+			{{ partial "cookie-disclaimer-banner.html" . }}
+		{{ end }}
+		
 		<!-- Debug info -->
 		{{ partial "debug-version.html" . }}
 

@@ -9,6 +9,12 @@ privacyPolicy:
   other: "Política de Privacidad"
 privacyPolicyUrl:
   other: "/politica-de-privacidad/"
+cookieBannerContent:
+  other: "Al usar este sitio, reconoces haber leido y entendido nuestra Política de Privacidad."
+cookieBannerMoreInfo:
+  other: "Más información."
+cookieBannerButton:
+  other: "Entendido"
 pageNotFound:
   other: Oops, esta página no está disponible.
 navHome:
